@@ -1,0 +1,1055 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>竞品情报库</title>
+<style>
+  :root{
+    --ink:#20302C;
+    --ink-soft:#4B584F;
+    --paper:#EFEDE2;
+    --card:#FFFFFF;
+    --plinth:#F5F3EA;
+    --line:#DDD8C6;
+    --honey:#BE8F35;
+    --honey-soft:#EFDFB2;
+    --sage:#5B6B4F;
+    --sage-soft:#DCE3D1;
+    --plum:#8B5A6B;
+    --plum-soft:#E7D6DC;
+    --grey:#8B8A7D;
+    --grey-soft:#E7E5DA;
+    --shadow: 0 1px 3px rgba(32,48,44,0.05), 0 12px 28px rgba(32,48,44,0.08);
+    --serif: "Noto Serif SC","Songti SC","STSong",serif;
+    --sans: "Noto Sans SC","PingFang SC","Microsoft YaHei",sans-serif;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:var(--sans);
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:1220px;margin:0 auto;padding:44px 30px 110px;}
+
+  header.hero{
+    display:flex;justify-content:space-between;align-items:flex-end;gap:24px;
+    border-bottom:1px solid var(--line);padding-bottom:24px;margin-bottom:20px;flex-wrap:wrap;
+  }
+  .hero-left .eyebrow{font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--honey);font-weight:700;margin-bottom:10px;}
+  .hero-left h1{font-family:var(--serif);font-size:38px;margin:0 0 8px;font-weight:700;letter-spacing:.01em;}
+  .hero-left p{margin:0;color:var(--ink-soft);font-size:13.5px;max-width:540px;line-height:1.7;}
+  .hero-right{display:flex;gap:0;flex-wrap:wrap;align-items:center;}
+  .stat{font-family:var(--serif);text-align:center;padding:6px 18px;border-left:1px solid var(--line);}
+  .stat b{display:block;font-size:24px;line-height:1;}
+  .stat span{font-size:10px;color:var(--grey);letter-spacing:.1em;text-transform:uppercase;}
+
+  .notice{
+    background:var(--honey-soft);color:#5C4514;border:1px solid var(--honey);
+    border-radius:4px;padding:10px 14px;font-size:12px;margin-bottom:22px;display:none;line-height:1.6;
+  }
+  .notice.show{display:block;}
+
+  .toolbar{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:26px;align-items:center;justify-content:space-between;}
+  .toolbar-group{display:flex;gap:8px;flex-wrap:wrap;align-items:center;}
+  input.search{
+    font-family:var(--sans);border:1px solid var(--line);background:var(--card);border-radius:3px;
+    padding:9px 12px;font-size:13px;min-width:220px;color:var(--ink);
+  }
+  input.search:focus{outline:2px solid var(--honey);outline-offset:1px;}
+  select.filter{
+    font-family:var(--sans);border:1px solid var(--line);background:var(--card);border-radius:3px;
+    padding:9px 10px;font-size:13px;color:var(--ink);
+  }
+  button{
+    font-family:var(--sans);cursor:pointer;border-radius:3px;font-size:12.5px;padding:9px 14px;
+    border:1px solid var(--line);background:var(--card);color:var(--ink);
+    transition:transform .12s ease, box-shadow .12s ease;
+  }
+  button:hover{box-shadow:var(--shadow);}
+  button:active{transform:translateY(1px);}
+  button:focus-visible{outline:2px solid var(--honey);outline-offset:2px;}
+  .btn-primary{background:var(--ink);color:var(--paper);border-color:var(--ink);font-weight:600;}
+  .btn-honey{background:var(--honey);color:#2A2109;border-color:var(--honey);font-weight:600;}
+  .btn-ghost{background:transparent;}
+  .btn-lang{font-weight:700;border-color:var(--ink);min-width:44px;}
+
+  .workspace{display:flex;gap:22px;align-items:flex-start;}
+  .sidebar{flex:0 0 132px;display:flex;flex-direction:column;gap:10px;}
+  .side-item{
+    border:1px solid var(--line);border-radius:4px;background:var(--card);padding:8px 8px 9px;
+    cursor:pointer;position:relative;text-align:center;transition:box-shadow .12s, border-color .12s;
+  }
+  .side-item:hover{box-shadow:var(--shadow);}
+  .side-item.active{border-color:var(--honey);box-shadow:0 0 0 2px var(--honey-soft) inset;}
+  .side-num{
+    position:absolute;top:5px;left:5px;width:16px;height:16px;border-radius:50%;background:var(--ink);
+    color:#fff;font-size:9px;display:flex;align-items:center;justify-content:center;font-family:var(--serif);z-index:1;
+  }
+  .side-thumb{width:100%;height:64px;object-fit:contain;background:var(--plinth);border-radius:3px;display:block;}
+  .side-thumb-empty{width:100%;height:64px;background:var(--plinth);border-radius:3px;display:flex;align-items:center;justify-content:center;color:var(--grey);font-size:18px;}
+  .side-name{font-size:10.5px;line-height:1.35;margin-top:6px;color:var(--ink-soft);max-height:2.7em;overflow:hidden;}
+  .side-cat-dot{width:6px;height:6px;border-radius:50%;display:inline-block;margin-top:5px;}
+  .side-cat-dot[data-catdot="japan"]{background:var(--honey);}
+  .side-cat-dot[data-catdot="korea"]{background:var(--plum);}
+  .side-cat-dot[data-catdot="usa"]{background:var(--sage);}
+
+  .empty{text-align:center;padding:80px 20px;color:var(--grey);border:1px dashed var(--line);border-radius:6px;}
+  .empty .big{font-family:var(--serif);font-size:20px;color:var(--ink);margin-bottom:6px;}
+
+  .card, .detail{
+    background:var(--card);border:1px solid var(--line);border-radius:4px;position:relative;
+    box-shadow:var(--shadow);overflow:hidden;display:flex;flex-wrap:wrap;flex:1;min-width:0;
+  }
+  .card .stripe, .detail .stripe{position:absolute;left:0;top:0;bottom:0;width:5px;z-index:2;background:var(--grey-soft);pointer-events:none;}
+  [data-cat="japan"] .stripe{background:var(--honey);}
+  [data-cat="korea"] .stripe{background:var(--plum);}
+  [data-cat="usa"] .stripe{background:var(--sage);}
+
+  .media{flex:1 1 260px;min-width:240px;display:flex;flex-direction:column;background:var(--plinth);border-right:1px solid var(--line);}
+  .media-hero{position:relative;flex:1;min-height:300px;display:flex;align-items:center;justify-content:center;padding:26px 22px;}
+  .media-hero img{max-width:100%;max-height:100%;object-fit:contain;filter:drop-shadow(0 14px 18px rgba(32,48,44,.14));}
+  .media-hero .placeholder{
+    color:var(--grey);font-size:12.5px;text-align:center;line-height:1.7;
+    display:flex;flex-direction:column;align-items:center;gap:6px;background:none;border:none;cursor:pointer;font-family:var(--sans);
+  }
+  .media-hero .placeholder:hover{color:var(--honey);}
+  .media-hero .placeholder .icon{font-size:26px;}
+  .media-thumbs{display:flex;gap:6px;padding:10px 14px 14px;flex-wrap:wrap;}
+  .thumb{
+    width:42px;height:42px;border-radius:3px;overflow:hidden;border:1.5px solid transparent;background:#fff;
+    display:flex;align-items:center;justify-content:center;cursor:pointer;padding:0;position:relative;
+  }
+  .thumb img{max-width:100%;max-height:100%;object-fit:contain;}
+  .thumb.active{border-color:var(--honey);}
+  .thumb .thumb-remove{
+    position:absolute;top:-4px;right:-4px;width:14px;height:14px;line-height:12px;
+    background:var(--ink);color:#fff;border-radius:50%;font-size:9px;text-align:center;
+    border:none;cursor:pointer;padding:0;opacity:0;transition:opacity .12s;
+  }
+  .thumb:hover .thumb-remove{opacity:1;}
+  .thumb-add{
+    width:42px;height:42px;border-radius:3px;border:1.5px dashed var(--line);background:none;color:var(--grey);
+    font-size:16px;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0;
+  }
+  .thumb-add:hover{color:var(--honey);border-color:var(--honey);}
+
+  .content{flex:2 1 320px;min-width:300px;padding:26px 28px 20px;display:flex;flex-direction:column;}
+  .content-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;}
+  .idx{font-family:var(--serif);font-size:11px;color:var(--grey);letter-spacing:.08em;}
+  select.cat-pill{
+    font-size:10.5px;letter-spacing:.04em;padding:3px 10px;border-radius:20px;font-weight:700;
+    border:none;cursor:pointer;background:var(--grey-soft);color:var(--ink-soft);font-family:var(--sans);
+  }
+  [data-cat="japan"] select.cat-pill{background:var(--honey-soft);color:#7A5A18;}
+  [data-cat="korea"] select.cat-pill{background:var(--plum-soft);color:var(--plum);}
+  [data-cat="usa"] select.cat-pill{background:var(--sage-soft);color:var(--sage);}
+
+  .pname{font-family:var(--serif);font-size:23px;font-weight:700;line-height:1.28;outline:none;margin:0 0 6px;cursor:text;}
+  .pname:hover, .editable-inline:hover, .chip-val:hover, .section-body:hover, .note-body:hover{background:rgba(190,143,53,.08);border-radius:2px;}
+  .byline{font-size:12.5px;color:var(--ink-soft);margin-bottom:16px;display:flex;align-items:center;gap:7px;flex-wrap:wrap;}
+  .byline .editable-inline{outline:none;font-weight:600;cursor:text;}
+  .byline .sep{color:var(--line);}
+  .byline .origin{color:var(--grey);font-weight:400;}
+  [contenteditable]:empty::before{content:attr(data-ph);color:var(--grey);font-weight:400;}
+
+  .chips{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0 18px;}
+  .chip{background:var(--grey-soft);border-radius:4px;padding:7px 11px;min-width:76px;}
+  .chip-label{font-size:9px;text-transform:uppercase;letter-spacing:.08em;color:var(--grey);font-weight:700;margin-bottom:3px;}
+  .chip-val{color:var(--ink);font-size:12px;outline:none;cursor:text;line-height:1.4;}
+  .chip-val:focus{background:var(--honey-soft);border-radius:2px;}
+
+  .section-box{border:1px solid var(--line);border-radius:4px;margin-bottom:14px;overflow:hidden;}
+  .section-head{padding:7px 12px;font-size:10.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;background:var(--grey-soft);color:var(--ink-soft);}
+  [data-cat="japan"] .section-head{background:var(--honey-soft);color:#7A5A18;}
+  [data-cat="korea"] .section-head{background:var(--plum-soft);color:var(--plum);}
+  [data-cat="usa"] .section-head{background:var(--sage-soft);color:var(--sage);}
+  .section-body{padding:12px 14px;font-size:12.5px;line-height:1.7;color:var(--ink);outline:none;cursor:text;}
+  .section-body.concept-body{font-family:var(--serif);font-style:italic;font-size:14.5px;}
+  .section-body:focus{background:rgba(190,143,53,.08);}
+
+  .note-box{background:#FBEFC4;border:1px solid #E6D28B;border-radius:4px;padding:11px 14px;margin-top:2px;color:#5C4514;}
+  .note-label{font-size:9.5px;text-transform:uppercase;letter-spacing:.1em;font-weight:700;color:#8A6A1E;margin-bottom:6px;display:block;}
+  .note-body{outline:none;cursor:text;min-height:16px;font-size:12px;line-height:1.6;}
+  .note-body:focus{background:rgba(255,255,255,.5);border-radius:2px;}
+
+  .content-foot{
+    margin-top:auto;padding-top:12px;border-top:1px dashed var(--line);display:flex;justify-content:space-between;
+    align-items:center;font-size:11px;color:var(--grey);flex-wrap:wrap;gap:8px;
+  }
+  .src-link{color:var(--ink-soft);text-decoration:none;border-bottom:1px solid var(--line);}
+  .src-link:hover{color:var(--honey);border-color:var(--honey);}
+  .icon-btn{background:none;border:none;padding:2px 4px;font-size:11px;color:var(--grey);}
+  .icon-btn:hover{color:#8B3A4A;box-shadow:none;text-decoration:underline;}
+
+  .overlay{position:fixed;inset:0;background:rgba(32,48,44,.45);display:none;align-items:center;justify-content:center;z-index:50;padding:20px;}
+  .overlay.show{display:flex;}
+  .modal{background:var(--card);border-radius:6px;max-width:460px;width:100%;padding:26px;box-shadow:0 20px 60px rgba(0,0,0,.25);max-height:90vh;overflow-y:auto;}
+  .modal h2{font-family:var(--serif);margin:0 0 4px;font-size:20px;}
+  .modal p.sub{margin:0 0 18px;font-size:12.5px;color:var(--grey);}
+  .modal label{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--ink-soft);margin:14px 0 5px;font-weight:600;}
+  .modal input, .modal select, .modal textarea{
+    width:100%;padding:9px 10px;border:1px solid var(--line);border-radius:3px;
+    font-family:var(--sans);font-size:13px;background:#fff;color:var(--ink);
+  }
+  .modal textarea{resize:vertical;min-height:90px;line-height:1.5;}
+  .modal-row{display:flex;gap:12px;}
+  .modal-row > div{flex:1;}
+  .modal-actions{display:flex;justify-content:flex-end;gap:8px;margin-top:22px;}
+
+  .toast{
+    position:fixed;bottom:24px;left:50%;transform:translateX(-50%) translateY(20px);
+    background:var(--ink);color:var(--paper);padding:11px 20px;border-radius:4px;font-size:12.5px;
+    opacity:0;pointer-events:none;transition:all .25s ease;z-index:80;max-width:80vw;text-align:center;
+  }
+  .toast.show{opacity:1;transform:translateX(-50%) translateY(0);}
+
+  footer.hint{text-align:center;color:var(--grey);font-size:11.5px;margin-top:44px;}
+
+  @media print{
+    body{background:#fff;}
+    .toolbar, .overlay, .icon-btn, footer.hint, .thumb-add, .thumb-remove, .notice, .workspace{display:none !important;}
+    header.hero{border-bottom:1px solid #999;}
+    #printArea{display:block !important;}
+    .card{break-inside:avoid;box-shadow:none;border:1px solid #999;margin-bottom:18px;}
+    .media-hero{min-height:220px;}
+  }
+  @media (max-width:900px){
+    .workspace{flex-direction:column;}
+    .sidebar{flex-direction:row;flex-wrap:wrap;width:100%;}
+    .side-item{flex:0 0 96px;}
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header class="hero">
+    <div class="hero-left">
+      <div class="eyebrow" id="txt-eyebrow">Competitive Intelligence</div>
+      <h1 id="txt-title">竞品情报库</h1>
+      <p id="txt-subtitle"></p>
+    </div>
+    <div class="hero-right">
+      <div class="stat"><b id="statTotal">0</b><span id="txt-statTotal"></span></div>
+      <div class="stat"><b id="statJapan">0</b><span>Japan</span></div>
+      <div class="stat"><b id="statKorea">0</b><span>Korea</span></div>
+      <div class="stat"><b id="statUsa">0</b><span>USA</span></div>
+      <div class="stat" style="padding-left:16px;"><button class="btn-lang" id="langBtn">EN</button></div>
+    </div>
+  </header>
+
+  <div class="notice" id="storageNotice"></div>
+
+  <div class="toolbar">
+    <div class="toolbar-group">
+      <input class="search" id="searchInput">
+      <select class="filter" id="filterCat"></select>
+    </div>
+    <div class="toolbar-group">
+      <button class="btn-honey" id="addBtn"></button>
+      <button id="pdfBtn"></button>
+      <button id="pptxBtn"></button>
+      <button id="shareBtn"></button>
+    </div>
+  </div>
+
+  <div class="workspace" id="workspace">
+    <aside class="sidebar" id="sidebar"></aside>
+    <div class="detail" id="detail"></div>
+  </div>
+  <div class="empty" id="emptyState" style="display:none;">
+    <div class="big" id="emptyBig"></div>
+    <div id="emptyDesc"></div>
+  </div>
+  <div id="printArea" style="display:none;"></div>
+
+  <footer class="hint" id="footerHint"></footer>
+</div>
+
+<!-- Add Modal -->
+<div class="overlay" id="addOverlay">
+  <div class="modal">
+    <h2 id="addTitle"></h2>
+    <p class="sub" id="addSub"></p>
+    <label id="lblName"></label>
+    <input id="inName">
+    <div class="modal-row">
+      <div><label id="lblBrand"></label><input id="inBrand"></div>
+      <div><label id="lblOrigin"></label><input id="inOrigin"></div>
+    </div>
+    <label id="lblUrl"></label>
+    <input id="inUrl" placeholder="https://...">
+    <label id="lblImg"></label>
+    <input id="inImg">
+    <label id="lblCat"></label>
+    <select id="inCat"></select>
+    <div class="modal-actions">
+      <button class="btn-ghost" id="cancelAdd"></button>
+      <button class="btn-primary" id="confirmAdd"></button>
+    </div>
+  </div>
+</div>
+
+<!-- Share Modal -->
+<div class="overlay" id="shareOverlay">
+  <div class="modal">
+    <h2 id="shareTitle"></h2>
+    <p class="sub" id="shareDesc"></p>
+    <textarea id="shareText" readonly rows="10"></textarea>
+    <div class="modal-actions">
+      <button class="btn-ghost" id="closeShare"></button>
+      <button class="btn-primary" id="copyShare"></button>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+(function(){
+  const STORAGE_KEY = 'competitors-library';
+  const hasStorage = (typeof window.storage !== 'undefined' && window.storage && typeof window.storage.get === 'function');
+  let competitors = [];
+  let filterText = '';
+  let filterCat = 'all';
+  let lang = 'zh';
+
+  const emptyState = document.getElementById('emptyState');
+  let selectedId = null;
+
+  const CAT_LABELS = {
+    zh:{japan:'日本品牌', korea:'韩国品牌', usa:'美国品牌'},
+    en:{japan:'Japan', korea:'Korea', usa:'USA'}
+  };
+
+  const T = {
+    zh: {
+      title:'竞品情报库', subtitle:'持续收集竞品信息，供团队随时查阅与更新。点击文字即可直接编辑，内容自动保存。',
+      statTotal:'总数',
+      searchPh:'搜索产品名 / 品牌 / 国家…',
+      filterAll:'全部分类',
+      addBtn:'＋ 添加竞品', pdfBtn:'导出 PDF', pptxBtn:'下载幻灯片', shareBtn:'转发给同事',
+      emptyBig:'情报库还是空的', emptyDesc:'还没有添加任何竞品，点击右上角「＋ 添加竞品」开始收集',
+      footerHint:'内容保存在本页面中，随时可继续添加与编辑 · 建议定期导出PDF备份分享给同事',
+      addTitle:'添加竞品', addSub:'先填基础信息，其余维度添加后可直接在卡片上编辑',
+      lblName:'产品名 *', phName:'例如：Curlsmith Curl Quenching Gel',
+      lblBrand:'品牌名称', phBrand:'例如：Curlsmith',
+      lblOrigin:'来源国家', phOrigin:'例如：美国 / 日本 / 韩国',
+      lblUrl:'产品页面链接',
+      lblImg:'产品图片链接（可先填一张，之后再补充）', phImg:'https://...jpg',
+      lblCat:'定位分类',
+      cancel:'取消', confirm:'添加',
+      specCapacity:'容量', specPrice:'价格与渠道', lblIngredients:'核心成分和技术',
+      phCapacity:'净含量 / 规格…', phPrice:'零售价 / 渠道…',
+      phConcept:'品牌理念 / 核心主张 / 情感定位…', phIngredients:'关键成分 / 专利技术 / 宣称支撑等级…',
+      phBrandInline:'品牌名称…', phOriginInline:'来源国家…',
+      lblNotes:'备注', phNotes:'点击添加备注…',
+      productPage:'产品页面 ↗', updatedOn:'更新于', deleteBtn:'删除',
+      toastAdded:'已添加，点击卡片文字可继续编辑', toastDeleted:'已删除', toastNameRequired:'请填写产品名',
+      toastGenSlides:'正在生成幻灯片…', toastSlidesDone:'幻灯片已生成，请查看下载',
+      toastCopyDone:'摘要已复制到剪贴板', toastCopyFail:'自动复制被浏览器拦截，已为你打开可手动复制的文本框',
+      shareTitle:'转发给同事', shareDesc:'点击下方文本框，全选（Ctrl/Cmd+A）并复制（Ctrl/Cmd+C），粘贴到微信、邮件或Slack即可转发',
+      copyBtn:'复制文本', closeBtn:'关闭',
+      confirmDelete:(name)=>`确定删除「${name}」吗？`,
+      noStorage:'提示：当前页面未连接自动保存（例如在浏览器中单独打开此文件时），编辑内容会在本次浏览中保留，但刷新页面后会重置。建议在完成编辑后点击「导出 PDF」保存一份存档。',
+      slideOverview:'产品概览', slideDetail:'关键数据', slideCount:(n)=>`共收录 ${n} 个竞品`,
+      langSelf:'EN'
+    },
+    en: {
+      title:'Competitor Library', subtitle:'Keep collecting competitor info for the team to browse anytime. Click any text to edit — changes save automatically.',
+      statTotal:'Total',
+      searchPh:'Search product / brand / country…',
+      filterAll:'All categories',
+      addBtn:'＋ Add Competitor', pdfBtn:'Export PDF', pptxBtn:'Download Slides', shareBtn:'Share',
+      emptyBig:'Library is empty', emptyDesc:'No competitors yet — click "+ Add Competitor" above to start collecting',
+      footerHint:'Content is saved on this page · Export PDF regularly to back up and share with your team',
+      addTitle:'Add Competitor', addSub:'Fill in the basics first — other fields can be edited directly on the card',
+      lblName:'Product Name *', phName:'e.g. Curlsmith Curl Quenching Gel',
+      lblBrand:'Brand Name', phBrand:'e.g. Curlsmith',
+      lblOrigin:'Country of Origin', phOrigin:'e.g. USA / Japan / Korea',
+      lblUrl:'Product Page URL',
+      lblImg:'Product Image URL (add more later)', phImg:'https://...jpg',
+      lblCat:'Category',
+      cancel:'Cancel', confirm:'Add',
+      specCapacity:'Capacity', specPrice:'Price & Channel', lblIngredients:'Core Ingredients & Tech',
+      phCapacity:'Net content / size…', phPrice:'Retail price / channel…',
+      phConcept:'Brand philosophy / core claim / emotional positioning…', phIngredients:'Key ingredients / patented tech / claim substantiation…',
+      phBrandInline:'Brand name…', phOriginInline:'Country of origin…',
+      lblNotes:'Notes', phNotes:'Click to add a note…',
+      productPage:'Product Page ↗', updatedOn:'Updated', deleteBtn:'Delete',
+      toastAdded:'Added — click any text on the card to keep editing', toastDeleted:'Deleted', toastNameRequired:'Please enter a product name',
+      toastGenSlides:'Generating slides…', toastSlidesDone:'Slides ready, check your downloads',
+      toastCopyDone:'Summary copied to clipboard', toastCopyFail:'Auto-copy was blocked by the browser — a copyable text box has been opened for you',
+      shareTitle:'Share with Team', shareDesc:'Click the text box below, select all (Ctrl/Cmd+A) and copy (Ctrl/Cmd+C), then paste into WeChat, email or Slack',
+      copyBtn:'Copy Text', closeBtn:'Close',
+      confirmDelete:(name)=>`Delete "${name}"?`,
+      noStorage:'Note: auto-save isn\'t connected on this page (e.g. when this file is opened directly in a browser). Edits stay while you keep browsing but reset on refresh — click "Export PDF" once you\'re done to keep a copy.',
+      slideOverview:'Overview', slideDetail:'Key Data', slideCount:(n)=>`${n} competitors included`,
+      langSelf:'中文'
+    }
+  };
+
+  const FIELD_KEYS = ['brandName','originCountry','capacity','priceChannel','brandConcept','ingredients','notes'];
+
+  function tr(){ return T[lang]; }
+  function bi(v){
+    // v is {zh,en} bilingual object -> returns current-lang string, falling back to zh
+    if(!v) return '';
+    return v[lang] || v.zh || v.en || '';
+  }
+
+  function toast(msg){
+    const t = document.getElementById('toast');
+    t.textContent = msg;
+    t.classList.add('show');
+    clearTimeout(t._timer);
+    t._timer = setTimeout(()=>t.classList.remove('show'), 2600);
+  }
+
+  function uid(){ return 'c' + Date.now().toString(36) + Math.random().toString(36).slice(2,6); }
+
+  function biField(zhVal, enVal){ return { zh: zhVal || '', en: enVal || '' }; }
+
+  function normalize(c){
+    c.fields = c.fields || {};
+    if(typeof c.name === 'string') c.name = biField(c.name, '');
+    if(c.brand && !c.fields.brandName) c.fields.brandName = biField(c.brand, '');
+    delete c.brand;
+    if(c.imageUrl && !(Array.isArray(c.imageUrls) && c.imageUrls.length)){ c.imageUrls = [c.imageUrl]; }
+    delete c.imageUrl;
+    if(!Array.isArray(c.imageUrls)) c.imageUrls = [];
+    FIELD_KEYS.forEach(k=>{
+      if(typeof c.fields[k] === 'string') c.fields[k] = biField(c.fields[k], '');
+      if(!c.fields[k] || typeof c.fields[k] !== 'object') c.fields[k] = biField('', '');
+    });
+    return c;
+  }
+
+  async function loadAll(){
+    const notice = document.getElementById('storageNotice');
+    if(!hasStorage){
+      notice.textContent = tr().noStorage;
+      notice.classList.add('show');
+    }
+    if(hasStorage){
+      try{
+        const res = await window.storage.get(STORAGE_KEY, false);
+        competitors = res && res.value ? JSON.parse(res.value) : [];
+      }catch(e){
+        competitors = [];
+      }
+    }else{
+      competitors = [];
+    }
+    competitors = competitors.map(normalize);
+    let added = false;
+    defaultItems().forEach(item=>{
+      if(!competitors.some(c=>c.name.zh === item.name.zh)){
+        competitors.push(item);
+        added = true;
+      }
+    });
+    if(added) saveAll();
+    renderChrome();
+    render();
+  }
+
+  function defaultItems(){
+    return [
+      {
+        id: uid(), url: 'https://japanesetaste.com/products/vicrea-honey-organic-deep-moisture-shampoo-1-0-japanese-honey-shampoo-440ml',
+        name: biField('&honey Deep Moist Shampoo 1.0', '&honey Deep Moist Shampoo 1.0'),
+        imageUrls: [
+          'https://japanesetaste.com/cdn/shop/files/andhoney-Deep-Moist-Shampoo-1-0--Japanese-Honey-Shampoo--440ml-1-2024-06-14T01_48_01.020Z.jpg?v=1743424199&width=600',
+          'https://japanesetaste.com/cdn/shop/files/andhoney-Deep-Moist-Shampoo-1-0--Japanese-Honey-Shampoo--440ml-2-2024-06-14T01_48_01.020Z.jpg?v=1743424199&width=600',
+          'https://japanesetaste.com/cdn/shop/files/andhoney-Deep-Moist-Shampoo-1-0--Japanese-Honey-Shampoo--440ml-3-2024-06-14T01_48_01.020Z.jpg?v=1743424199&width=600'
+        ],
+        category: 'japan', updatedAt: new Date().toISOString(),
+        fields: {
+          brandName: biField('&honey（ViCREA）', '&honey (ViCREA)'),
+          originCountry: biField('日本', 'Japan'),
+          capacity: biField('440ml（另有450g搭配装、100ml精油等规格）', '440ml (also as 450g duo set, 100ml oil, etc.)'),
+          priceChannel: biField('美国电商在售，参考价 US$24.95（440ml，Japanese Taste官网价）', 'Sold on US e-commerce, ~US$24.95 (440ml, Japanese Taste site price)'),
+          brandConcept: biField('"Moisturizing Organic Beauty Care" — 聚焦头发"含水量"，以有机蜂蜜与摩洛哥坚果油为核心，主打深层保湿与丝滑触感', '"Moisturizing Organic Beauty Care" — centers on hair\'s water content, built around organic honey and Moroccan argan oil for deep hydration and silky texture'),
+          ingredients: biField('有机蜂蜜（50%麦卢卡+30%洋槐+20%日本生蜂蜜）、100%摩洛哥坚果油、乳木果油、蜂王浆提取物、羊毛角蛋白、精氨酸、透明质酸；无硫酸盐、矿物油、Paraben', 'Organic honey (50% Manuka + 30% Acacia + 20% raw Japanese honey), 100% Moroccan argan oil, shea butter, royal jelly extract, hydrolyzed wool keratin, arginine, hyaluronic acid; sulfate-, mineral oil- and paraben-free')
+        }
+      },
+      {
+        id: uid(), url: 'https://taosbeauty.com/products/eight-the-thalasso-moist-shampoo',
+        name: biField('8 THE THALASSO Moist Shampoo', '8 THE THALASSO Moist Shampoo'),
+        imageUrls: [
+          'https://taosbeauty.com/cdn/shop/files/72664f3e1aa7b236c00fc90563382201_a3885a1b-7e2a-42bd-8220-7212e70b320e.jpg?v=1753689513&width=1000',
+          'https://taosbeauty.com/cdn/shop/files/c559df78-8834-48c0-b293-45944896881c.jpg?v=1753689513&width=1000',
+          'https://taosbeauty.com/cdn/shop/files/1eb5fa63-b2b9-4e4b-b5f7-de6727f1b6f8.jpg?v=1753689513&width=1000'
+        ],
+        category: 'japan', updatedAt: new Date().toISOString(),
+        fields: {
+          brandName: biField('8 THE THALASSO（Stella Seed）', '8 THE THALASSO (Stella Seed)'),
+          originCountry: biField('日本', 'Japan'),
+          capacity: biField('475ml', '475ml'),
+          priceChannel: biField('欧美电商在售，参考价 US$24.99-25（475ml，Taos Beauty / Stylevana等平台）', 'Sold on US/EU e-commerce, ~US$24.99-25 (475ml, via Taos Beauty / Stylevana etc.)'),
+          brandConcept: biField('"Thalasso Stem Cell" 海洋美容概念 — 以3种干细胞提取物+海藻/深海水成分，把头皮当皮肤一样做抗老与深层保湿', '"Thalasso Stem Cell" marine-beauty concept — 3 types of stem cell extracts plus seaweed/deep-sea-water actives, treating the scalp with skincare-level anti-aging and deep hydration'),
+          ingredients: biField('3种干细胞提取物（苹果干细胞、海洋植物干细胞、Saponaria pumila干细胞）、海藻/深海水提取物、水溶性胶原蛋白、三重神经酰胺（NG/NP/AP）、水解丝、氨基酸；无硫酸盐、Paraben', '3 stem cell extracts (apple, marine plant, Saponaria pumila), seaweed/deep-sea water extract, water-soluble collagen, triple ceramide complex (NG/NP/AP), hydrolyzed silk, amino acids; sulfate- and paraben-free')
+        }
+      },
+      {
+        id: uid(), url: 'https://honeyque.jp/',
+        name: biField('HONEYQUE Rich Gloss Treatment', 'HONEYQUE Rich Gloss Treatment'),
+        imageUrls: [
+          'https://us.lamourlife.com/cdn/shop/files/HONEYQUERichGlossHoneyCollagenTreatment450ml1.png?v=1745527002&width=1024',
+          'https://us.lamourlife.com/cdn/shop/files/HONEYQUERichGlossHoneyCollagenTreatment450ml2.png?v=1745527002&width=1024',
+          'https://us.lamourlife.com/cdn/shop/files/HONEYQUERichGlossHoneyCollagenTreatment450ml3.png?v=1745527002&width=1024'
+        ],
+        category: 'japan', updatedAt: new Date().toISOString(),
+        fields: {
+          brandName: biField('HONEYQUE', 'HONEYQUE'),
+          originCountry: biField('日本', 'Japan'),
+          capacity: biField('450mL（另有400mL补充装）', '450mL (also as 400mL refill)'),
+          priceChannel: biField('日本官网 ¥1,650（含税，450mL）；美国电商参考价 US$21.99-29.88（LAMOUR / TODOKU Japan等平台）', '¥1,650 (tax incl., 450mL) on Japan official site; ~US$21.99-29.88 on US e-commerce (LAMOUR / TODOKU Japan, etc.)'),
+          brandConcept: biField('"Honey Collagen" 蜂蜜胶原蛋白配方 — 有机麦卢卡蜂蜜锁住发内水分，叠加三种胶原蛋白修护中空受损，主打光泽感与"蜜感秀发"', '"Honey Collagen" formula — organic Manuka honey locks in internal moisture, layered with three types of collagen to repair hollowed-out damage, positioned around glossy, honey-touched hair'),
+          ingredients: biField('有机麦卢卡蜂蜜、三种胶原蛋白（水解胶原、异硬脂酰水解胶原、水溶性胶原）、透明质酸衍生物、三重神经酰胺（NG/NP/AP）、水解丝、水解角蛋白（羊毛）；Aqua Blossom Honey香调', 'Organic Manuka honey, three types of collagen (hydrolyzed, isostearoyl hydrolyzed, water-soluble), hyaluronic acid derivative, triple ceramide complex (NG/NP/AP), hydrolyzed silk, hydrolyzed keratin (wool); Aqua Blossom Honey scent')
+        }
+      }
+    ].map(normalize);
+  }
+
+  async function saveAll(){
+    if(!hasStorage) return;
+    try{
+      await window.storage.set(STORAGE_KEY, JSON.stringify(competitors), false);
+    }catch(e){ /* silent: edits remain in-memory for this session */ }
+  }
+
+  function fmtDate(iso){
+    const d = new Date(iso);
+    return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
+  }
+
+  function updateStats(){
+    document.getElementById('statTotal').textContent = competitors.length;
+    document.getElementById('statJapan').textContent = competitors.filter(c=>c.category==='japan').length;
+    document.getElementById('statKorea').textContent = competitors.filter(c=>c.category==='korea').length;
+    document.getElementById('statUsa').textContent = competitors.filter(c=>c.category==='usa').length;
+  }
+
+  function matchesFilter(c){
+    if(filterCat !== 'all' && c.category !== filterCat) return false;
+    if(!filterText) return true;
+    const hay = (bi(c.name)+' '+bi(c.fields.brandName)+' '+bi(c.fields.originCountry)+' '+CAT_LABELS[lang][c.category]).toLowerCase();
+    return hay.includes(filterText.toLowerCase());
+  }
+
+  function touch(c){ c.updatedAt = new Date().toISOString(); saveAll(); }
+  function escapeHtml(s){ const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
+
+  // ---------------- Chrome (static UI text) ----------------
+  function renderChrome(){
+    const t = tr();
+    document.title = t.title;
+    document.getElementById('txt-title').textContent = t.title;
+    document.getElementById('txt-subtitle').textContent = t.subtitle;
+    document.getElementById('txt-statTotal').textContent = t.statTotal;
+    document.getElementById('langBtn').textContent = t.langSelf;
+    document.getElementById('searchInput').placeholder = t.searchPh;
+
+    const filterSel = document.getElementById('filterCat');
+    filterSel.innerHTML = '';
+    const optAll = document.createElement('option'); optAll.value='all'; optAll.textContent=t.filterAll;
+    filterSel.appendChild(optAll);
+    Object.entries(CAT_LABELS[lang]).forEach(([val,label])=>{
+      const o = document.createElement('option'); o.value=val; o.textContent=label;
+      if(val===filterCat) o.selected = true;
+      filterSel.appendChild(o);
+    });
+    filterSel.value = filterCat;
+
+    document.getElementById('addBtn').textContent = t.addBtn;
+    document.getElementById('pdfBtn').textContent = t.pdfBtn;
+    document.getElementById('pptxBtn').textContent = t.pptxBtn;
+    document.getElementById('shareBtn').textContent = t.shareBtn;
+    document.getElementById('emptyBig').textContent = t.emptyBig;
+    document.getElementById('emptyDesc').textContent = t.emptyDesc;
+    document.getElementById('footerHint').textContent = t.footerHint;
+
+    document.getElementById('addTitle').textContent = t.addTitle;
+    document.getElementById('addSub').textContent = t.addSub;
+    document.getElementById('lblName').textContent = t.lblName;
+    document.getElementById('inName').placeholder = t.phName;
+    document.getElementById('lblBrand').textContent = t.lblBrand;
+    document.getElementById('inBrand').placeholder = t.phBrand;
+    document.getElementById('lblOrigin').textContent = t.lblOrigin;
+    document.getElementById('inOrigin').placeholder = t.phOrigin;
+    document.getElementById('lblUrl').textContent = t.lblUrl;
+    document.getElementById('lblImg').textContent = t.lblImg;
+    document.getElementById('inImg').placeholder = t.phImg;
+    document.getElementById('lblCat').textContent = t.lblCat;
+    const inCat = document.getElementById('inCat');
+    const prevVal = inCat.value || 'japan';
+    inCat.innerHTML = '';
+    Object.entries(CAT_LABELS[lang]).forEach(([val,label])=>{
+      const o = document.createElement('option'); o.value=val; o.textContent=label;
+      inCat.appendChild(o);
+    });
+    inCat.value = prevVal;
+    document.getElementById('cancelAdd').textContent = t.cancel;
+    document.getElementById('confirmAdd').textContent = t.confirm;
+
+    document.getElementById('shareTitle').textContent = t.shareTitle;
+    document.getElementById('shareDesc').textContent = t.shareDesc;
+    document.getElementById('closeShare').textContent = t.closeBtn;
+    document.getElementById('copyShare').textContent = t.copyBtn;
+
+    if(!hasStorage) document.getElementById('storageNotice').textContent = t.noStorage;
+  }
+
+  // ---------------- Sidebar + Detail (master-detail layout) ----------------
+  function visibleList(){ return competitors.filter(matchesFilter); }
+
+  function render(){
+    updateStats();
+    const visible = visibleList();
+    const hasAny = competitors.length > 0;
+    emptyState.style.display = hasAny ? 'none' : 'block';
+    document.getElementById('workspace').style.display = hasAny ? 'flex' : 'none';
+    if(!visible.some(c=>c.id===selectedId)){
+      selectedId = visible.length ? visible[0].id : null;
+    }
+    renderSidebar(visible);
+    renderDetail(visible);
+  }
+
+  function renderSidebar(visible){
+    const sidebar = document.getElementById('sidebar');
+    sidebar.innerHTML = '';
+    visible.forEach((c, i)=>{
+      const item = document.createElement('div');
+      item.className = 'side-item' + (c.id === selectedId ? ' active' : '');
+      item.addEventListener('click', ()=>{ selectedId = c.id; render(); });
+      const num = document.createElement('div'); num.className = 'side-num'; num.textContent = i+1;
+      item.appendChild(num);
+      if(c.imageUrls && c.imageUrls[0]){
+        const img = document.createElement('img');
+        img.className = 'side-thumb'; img.src = c.imageUrls[0]; img.alt = '';
+        img.onerror = ()=>{ img.outerHTML = '<div class="side-thumb-empty">🖼</div>'; };
+        item.appendChild(img);
+      }else{
+        const ph = document.createElement('div'); ph.className = 'side-thumb-empty'; ph.textContent = '🖼';
+        item.appendChild(ph);
+      }
+      const nm = document.createElement('div'); nm.className = 'side-name'; nm.textContent = bi(c.name);
+      item.appendChild(nm);
+      const dot = document.createElement('span'); dot.className = 'side-cat-dot'; dot.dataset.catdot = c.category;
+      item.appendChild(dot);
+      sidebar.appendChild(item);
+    });
+  }
+
+  function renderDetail(visible){
+    const detail = document.getElementById('detail');
+    detail.innerHTML = '';
+    const c = competitors.find(x=>x.id===selectedId);
+    if(!c) return;
+    detail.dataset.cat = c.category;
+    const stripe = document.createElement('div'); stripe.className = 'stripe';
+    detail.appendChild(stripe);
+    detail.appendChild(buildMedia(c));
+    const idx = visible.findIndex(x=>x.id===c.id);
+    detail.appendChild(buildContent(c, idx >= 0 ? idx : 0));
+  }
+
+  function buildMedia(c){
+    const media = document.createElement('div');
+    media.className = 'media';
+    const heroBox = document.createElement('div');
+    heroBox.className = 'media-hero';
+
+    function addImageUrl(){
+      const url = prompt(lang==='zh' ? '粘贴产品图片链接（URL）' : 'Paste product image URL');
+      if(url && url.trim()){
+        if(!Array.isArray(c.imageUrls)) c.imageUrls = [];
+        c.imageUrls.push(url.trim());
+        touch(c); render();
+      }
+    }
+    function renderHero(activeIdx){
+      heroBox.innerHTML = '';
+      if(!c.imageUrls.length){
+        const ph = document.createElement('button');
+        ph.className = 'placeholder';
+        ph.innerHTML = '<span class="icon">🖼</span>' + (lang==='zh' ? '点击添加产品图片' : 'Click to add product image');
+        ph.addEventListener('click', addImageUrl);
+        heroBox.appendChild(ph);
+        return;
+      }
+      const img = document.createElement('img');
+      img.src = c.imageUrls[activeIdx] || c.imageUrls[0];
+      img.alt = bi(c.name);
+      img.onerror = ()=>{ heroBox.innerHTML = '<div class="placeholder"><span class="icon">✕</span>' + (lang==='zh' ? '图片链接无法加载' : 'Image failed to load') + '</div>'; };
+      heroBox.appendChild(img);
+    }
+    renderHero(0);
+    media.appendChild(heroBox);
+
+    const thumbs = document.createElement('div');
+    thumbs.className = 'media-thumbs';
+    c.imageUrls.forEach((url, i)=>{
+      const tEl = document.createElement('button');
+      tEl.className = 'thumb' + (i===0 ? ' active' : '');
+      const timg = document.createElement('img'); timg.src = url; timg.alt = '';
+      tEl.appendChild(timg);
+      const rm = document.createElement('button');
+      rm.className = 'thumb-remove'; rm.textContent = '✕';
+      rm.addEventListener('click', (e)=>{ e.stopPropagation(); c.imageUrls.splice(i,1); touch(c); render(); });
+      tEl.appendChild(rm);
+      tEl.addEventListener('click', ()=>{
+        thumbs.querySelectorAll('.thumb').forEach(x=>x.classList.remove('active'));
+        tEl.classList.add('active');
+        renderHero(i);
+      });
+      thumbs.appendChild(tEl);
+    });
+    const addTile = document.createElement('button');
+    addTile.className = 'thumb-add'; addTile.textContent = '＋';
+    addTile.addEventListener('click', addImageUrl);
+    thumbs.appendChild(addTile);
+    media.appendChild(thumbs);
+    return media;
+  }
+
+  function buildContent(c, idx){
+    const t = tr();
+    const content = document.createElement('div');
+    content.className = 'content';
+
+    const head = document.createElement('div');
+    head.className = 'content-head';
+    const idxEl = document.createElement('span');
+    idxEl.className = 'idx';
+    idxEl.textContent = 'No. ' + String(idx+1).padStart(3,'0');
+    head.appendChild(idxEl);
+    const headRight = document.createElement('div');
+    headRight.style.display = 'flex'; headRight.style.gap = '8px'; headRight.style.alignItems = 'center';
+    const catSel = document.createElement('select');
+    catSel.className = 'cat-pill';
+    Object.entries(CAT_LABELS[lang]).forEach(([val,label])=>{
+      const opt = document.createElement('option');
+      opt.value = val; opt.textContent = label;
+      if(val === c.category) opt.selected = true;
+      catSel.appendChild(opt);
+    });
+    catSel.addEventListener('change', ()=>{ c.category = catSel.value; touch(c); render(); });
+    headRight.appendChild(catSel);
+    const delBtn = document.createElement('button');
+    delBtn.className = 'icon-btn';
+    delBtn.textContent = t.deleteBtn;
+    delBtn.addEventListener('click', ()=>{
+      if(confirm(t.confirmDelete(bi(c.name)))){
+        competitors = competitors.filter(x=>x.id!==c.id);
+        if(selectedId === c.id) selectedId = null;
+        saveAll(); render();
+        toast(t.toastDeleted);
+      }
+    });
+    headRight.appendChild(delBtn);
+    head.appendChild(headRight);
+    content.appendChild(head);
+
+    const pname = document.createElement('h2');
+    pname.className = 'pname';
+    pname.contentEditable = 'true';
+    pname.spellcheck = false;
+    pname.textContent = bi(c.name);
+    pname.addEventListener('blur', ()=>{ c.name[lang] = pname.textContent.trim() || (lang==='zh'?'未命名竞品':'Untitled'); touch(c); });
+    content.appendChild(pname);
+
+    const chips = document.createElement('div');
+    chips.className = 'chips';
+    [['brandName', t.lblBrand, t.phBrandInline], ['originCountry', t.lblOrigin, t.phOriginInline], ['capacity', t.specCapacity, t.phCapacity]].forEach(([key,label,ph])=>{
+      const chip = document.createElement('div'); chip.className = 'chip';
+      const lab = document.createElement('div'); lab.className = 'chip-label'; lab.textContent = label;
+      chip.appendChild(lab);
+      const val = document.createElement('div'); val.className = 'chip-val';
+      val.contentEditable = 'true'; val.dataset.ph = ph;
+      val.textContent = bi(c.fields[key]);
+      val.addEventListener('blur', ()=>{ c.fields[key][lang] = val.textContent.trim(); touch(c); });
+      chip.appendChild(val);
+      chips.appendChild(chip);
+    });
+    content.appendChild(chips);
+
+    function section(labelText, key, ph, italic){
+      const box = document.createElement('div'); box.className = 'section-box';
+      const headEl = document.createElement('div'); headEl.className = 'section-head'; headEl.textContent = labelText;
+      box.appendChild(headEl);
+      const body = document.createElement('div');
+      body.className = 'section-body' + (italic ? ' concept-body' : '');
+      body.contentEditable = 'true'; body.dataset.ph = ph || '';
+      body.textContent = bi(c.fields[key]);
+      body.addEventListener('blur', ()=>{ c.fields[key][lang] = body.textContent.trim(); touch(c); });
+      box.appendChild(body);
+      return box;
+    }
+    content.appendChild(section(t.specPrice, 'priceChannel', t.phPrice));
+    content.appendChild(section('BRAND CONCEPT', 'brandConcept', t.phConcept, true));
+    content.appendChild(section(t.lblIngredients, 'ingredients', t.phIngredients));
+
+    const noteBox = document.createElement('div');
+    noteBox.className = 'note-box';
+    const noteLabel = document.createElement('div'); noteLabel.className = 'note-label'; noteLabel.textContent = t.lblNotes;
+    noteBox.appendChild(noteLabel);
+    const noteBody = document.createElement('div');
+    noteBody.className = 'note-body'; noteBody.contentEditable = 'true';
+    noteBody.dataset.ph = t.phNotes;
+    noteBody.textContent = bi(c.fields.notes);
+    noteBody.addEventListener('blur', ()=>{ c.fields.notes[lang] = noteBody.textContent.trim(); touch(c); });
+    noteBox.appendChild(noteBody);
+    content.appendChild(noteBox);
+
+    const foot = document.createElement('div');
+    foot.className = 'content-foot';
+    if(c.url){
+      const link = document.createElement('a');
+      link.href = c.url; link.target = '_blank'; link.rel = 'noopener noreferrer';
+      link.className = 'src-link';
+      link.textContent = t.productPage;
+      foot.appendChild(link);
+    }else{
+      foot.appendChild(document.createElement('span'));
+    }
+    const upd = document.createElement('span');
+    upd.textContent = t.updatedOn + ' ' + fmtDate(c.updatedAt);
+    foot.appendChild(upd);
+    content.appendChild(foot);
+
+    return content;
+  }
+
+  function buildPrintArea(){
+    const area = document.getElementById('printArea');
+    area.innerHTML = '';
+    competitors.forEach((c, i)=>{
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.dataset.cat = c.category;
+      const stripe = document.createElement('div'); stripe.className = 'stripe';
+      card.appendChild(stripe);
+      card.appendChild(buildMedia(c));
+      card.appendChild(buildContent(c, i));
+      area.appendChild(card);
+    });
+  }
+
+  // ---------------- Language toggle ----------------
+  document.getElementById('langBtn').addEventListener('click', ()=>{
+    lang = lang === 'zh' ? 'en' : 'zh';
+    document.documentElement.lang = lang === 'zh' ? 'zh-CN' : 'en';
+    renderChrome();
+    render();
+  });
+
+  // ---------------- Add modal ----------------
+  const overlay = document.getElementById('addOverlay');
+  document.getElementById('addBtn').addEventListener('click', ()=>{
+    document.getElementById('inName').value='';
+    document.getElementById('inBrand').value='';
+    document.getElementById('inOrigin').value='';
+    document.getElementById('inUrl').value='';
+    document.getElementById('inImg').value='';
+    document.getElementById('inCat').value='japan';
+    overlay.classList.add('show');
+    setTimeout(()=>document.getElementById('inName').focus(), 50);
+  });
+  document.getElementById('cancelAdd').addEventListener('click', ()=> overlay.classList.remove('show'));
+  overlay.addEventListener('click', (e)=>{ if(e.target === overlay) overlay.classList.remove('show'); });
+
+  document.getElementById('confirmAdd').addEventListener('click', ()=>{
+    const name = document.getElementById('inName').value.trim();
+    if(!name){ toast(tr().toastNameRequired); return; }
+    const c = normalize({
+      id: uid(),
+      url: document.getElementById('inUrl').value.trim(),
+      imageUrls: (document.getElementById('inImg').value.trim() ? [document.getElementById('inImg').value.trim()] : []),
+      category: document.getElementById('inCat').value,
+      updatedAt: new Date().toISOString(),
+      name: biField(lang==='zh'?name:'', lang==='en'?name:''),
+      fields: {
+        brandName: biField(lang==='zh'?document.getElementById('inBrand').value.trim():'', lang==='en'?document.getElementById('inBrand').value.trim():''),
+        originCountry: biField(lang==='zh'?document.getElementById('inOrigin').value.trim():'', lang==='en'?document.getElementById('inOrigin').value.trim():''),
+      }
+    });
+    // ensure name set under current lang regardless of biField helper defaults
+    c.name[lang] = name;
+    c.fields.brandName[lang] = document.getElementById('inBrand').value.trim();
+    c.fields.originCountry[lang] = document.getElementById('inOrigin').value.trim();
+    competitors.unshift(c);
+    selectedId = c.id;
+    saveAll();
+    render();
+    overlay.classList.remove('show');
+    toast(tr().toastAdded);
+  });
+
+  // ---------------- Search / filter ----------------
+  document.getElementById('searchInput').addEventListener('input', (e)=>{ filterText = e.target.value; render(); });
+  document.getElementById('filterCat').addEventListener('change', (e)=>{ filterCat = e.target.value; render(); });
+
+  // ---------------- Export PDF (print) ----------------
+  document.getElementById('pdfBtn').addEventListener('click', ()=>{
+    buildPrintArea();
+    requestAnimationFrame(()=>window.print());
+  });
+
+  // ---------------- Export Slides (self-contained HTML deck, no external deps) ----------------
+  document.getElementById('pptxBtn').addEventListener('click', ()=>{
+    const t = tr();
+    toast(t.toastGenSlides);
+    const catColor = c => c==='japan' ? '#BE8F35' : c==='korea' ? '#8B5A6B' : c==='usa' ? '#5B6B4F' : '#8B8A7D';
+    let slidesHtml = '';
+    let n = 0;
+    competitors.forEach(c=>{
+      const imgs = Array.isArray(c.imageUrls) ? c.imageUrls : [];
+      const bl = [bi(c.fields.brandName), bi(c.fields.originCountry), CAT_LABELS[lang][c.category]].filter(Boolean).join('  ·  ');
+      n++;
+      slidesHtml += `
+      <section class="slide" style="border-left-color:${catColor(c.category)}">
+        <div class="slide-eyebrow">${escapeHtml(t.slideOverview)}</div>
+        <h1>${escapeHtml(bi(c.name))}</h1>
+        <div class="slide-byline">${escapeHtml(bl)}</div>
+        <div class="slide-body">
+          <div class="slide-text">
+            <div class="slide-label" style="color:${catColor(c.category)}">BRAND CONCEPT</div>
+            <blockquote>${escapeHtml(bi(c.fields.brandConcept) || '—')}</blockquote>
+            ${c.url ? `<div class="slide-src">${lang==='zh'?'来源':'Source'}: ${escapeHtml(c.url)}</div>` : ''}
+          </div>
+          ${imgs[0] ? `<div class="slide-img"><img src="${escapeHtml(imgs[0])}" alt=""></div>` : ''}
+        </div>
+      </section>`;
+      n++;
+      slidesHtml += `
+      <section class="slide" style="border-left-color:${catColor(c.category)}">
+        <div class="slide-eyebrow">${escapeHtml(t.slideDetail)}</div>
+        <h1>${escapeHtml(bi(c.name))}</h1>
+        <div class="slide-body">
+          <div class="slide-text">
+            <div class="spec-block"><div class="slide-label" style="color:${catColor(c.category)}">${escapeHtml(t.specCapacity)}</div><p>${escapeHtml(bi(c.fields.capacity) || '—')}</p></div>
+            <div class="spec-block"><div class="slide-label" style="color:${catColor(c.category)}">${escapeHtml(t.specPrice)}</div><p>${escapeHtml(bi(c.fields.priceChannel) || '—')}</p></div>
+            <div class="spec-block"><div class="slide-label" style="color:${catColor(c.category)}">${escapeHtml(t.lblIngredients)}</div><p>${escapeHtml(bi(c.fields.ingredients) || '—')}</p></div>
+          </div>
+          ${imgs.length>1 ? `<div class="slide-thumbs">${imgs.slice(1,5).map(u=>`<img src="${escapeHtml(u)}" alt="">`).join('')}</div>` : ''}
+        </div>
+      </section>`;
+    });
+
+    const doc = `<!DOCTYPE html><html lang="${lang==='zh'?'zh-CN':'en'}"><head><meta charset="UTF-8">
+<title>${escapeHtml(tr().title)}</title>
+<style>
+  :root{ --ink:#20302C; --paper:#EFEDE2; --grey:#8B8A7D; --line:#DDD8C6; }
+  *{box-sizing:border-box;}
+  body{margin:0;background:#2A2A24;font-family:"Noto Sans SC","PingFang SC","Microsoft YaHei",sans-serif;color:var(--ink);}
+  .deck{max-width:960px;margin:0 auto;padding:40px 0 80px;}
+  .slide{
+    background:#fff;width:960px;height:540px;margin:0 auto 28px;border-left:10px solid #999;
+    padding:48px 56px;position:relative;box-shadow:0 10px 30px rgba(0,0,0,.35);
+    display:flex;flex-direction:column;
+  }
+  .slide-eyebrow{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--grey);font-weight:700;margin-bottom:10px;}
+  .slide h1{font-family:"Noto Serif SC","Songti SC",serif;font-size:30px;margin:0 0 6px;}
+  .slide-byline{font-size:13px;color:var(--grey);margin-bottom:18px;}
+  .slide-body{display:flex;gap:30px;flex:1;min-height:0;}
+  .slide-text{flex:1;min-width:0;overflow:auto;}
+  .slide-label{font-size:11px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;margin-bottom:6px;}
+  blockquote{font-family:"Noto Serif SC",serif;font-style:italic;font-size:17px;line-height:1.6;margin:0;padding-left:16px;border-left:3px solid #ddd;}
+  .slide-src{margin-top:16px;font-size:11px;color:var(--grey);}
+  .spec-block{margin-bottom:18px;}
+  .spec-block p{margin:0;font-size:13.5px;line-height:1.6;}
+  .slide-img{flex:0 0 260px;display:flex;align-items:center;justify-content:center;}
+  .slide-img img{max-width:100%;max-height:420px;object-fit:contain;}
+  .slide-thumbs{flex:0 0 200px;display:grid;grid-template-columns:1fr 1fr;gap:8px;align-content:start;}
+  .slide-thumbs img{width:100%;height:90px;object-fit:contain;background:#F5F3EA;}
+  .deck-title{color:#fff;text-align:center;padding:60px 0 20px;font-family:"Noto Serif SC",serif;}
+  .deck-title h1{font-size:34px;margin:0 0 8px;}
+  .deck-title p{color:#bbb;font-size:13px;}
+  @media print{
+    body{background:#fff;}
+    .deck-title{display:none;}
+    .slide{box-shadow:none;page-break-after:always;margin:0 auto;}
+  }
+</style></head>
+<body>
+  <div class="deck-title">
+    <h1>${escapeHtml(tr().title)}</h1>
+    <p>${escapeHtml(tr().slideCount(competitors.length))} · ${fmtDate(new Date().toISOString())}</p>
+  </div>
+  <div class="deck">${slidesHtml}</div>
+</body></html>`;
+
+    try{
+      const blob = new Blob([doc], {type:'text/html'});
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = (lang==='zh' ? '竞品情报库-幻灯片' : 'competitor-library-slides') + '.html';
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      setTimeout(()=>URL.revokeObjectURL(url), 4000);
+      toast(t.toastSlidesDone);
+    }catch(e){
+      toast(lang==='zh' ? '生成失败，请重试' : 'Failed to generate, please try again');
+    }
+  });
+
+  // ---------------- Share ----------------
+  function buildSummary(){
+    const t = tr();
+    return '【' + t.title + '】' + tr().slideCount(competitors.length) + '\n\n' +
+      competitors.map((c,i)=>{
+        const blLine = [bi(c.fields.brandName), bi(c.fields.originCountry)].filter(Boolean).join(' · ');
+        return `${i+1}. ${bi(c.name)}${blLine ? '（'+blLine+'）' : ''} — ${CAT_LABELS[lang][c.category]}${c.url ? '\n   '+(lang==='zh'?'链接':'Link')+'：'+c.url : ''}${bi(c.fields.brandConcept) ? '\n   Concept：'+bi(c.fields.brandConcept) : ''}`;
+      }).join('\n\n');
+  }
+
+  const shareOverlay = document.getElementById('shareOverlay');
+  document.getElementById('shareBtn').addEventListener('click', async ()=>{
+    const summary = buildSummary();
+    if(navigator.share){
+      try{ await navigator.share({ title: tr().title, text: summary }); return; }catch(e){ /* fall through */ }
+    }
+    if(navigator.clipboard && navigator.clipboard.writeText){
+      try{
+        await navigator.clipboard.writeText(summary);
+        toast(tr().toastCopyDone);
+        return;
+      }catch(e){ /* fall through to manual modal */ }
+    }
+    openShareModal(summary);
+  });
+
+  function openShareModal(summary){
+    document.getElementById('shareText').value = summary;
+    shareOverlay.classList.add('show');
+    setTimeout(()=>{
+      const ta = document.getElementById('shareText');
+      ta.focus(); ta.select();
+    }, 50);
+  }
+  document.getElementById('closeShare').addEventListener('click', ()=> shareOverlay.classList.remove('show'));
+  shareOverlay.addEventListener('click', (e)=>{ if(e.target === shareOverlay) shareOverlay.classList.remove('show'); });
+  document.getElementById('copyShare').addEventListener('click', async ()=>{
+    const ta = document.getElementById('shareText');
+    ta.focus(); ta.select();
+    let ok = false;
+    try{ ok = document.execCommand('copy'); }catch(e){ ok = false; }
+    if(!ok && navigator.clipboard && navigator.clipboard.writeText){
+      try{ await navigator.clipboard.writeText(ta.value); ok = true; }catch(e){}
+    }
+    toast(ok ? tr().toastCopyDone : tr().toastCopyFail);
+  });
+
+  loadAll();
+})();
+</script>
+</body>
+</html>
