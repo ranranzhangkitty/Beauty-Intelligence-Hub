@@ -9600,24 +9600,6 @@
       "zh": "资料采集日 2026-07-31。成分表以INCIDecoder与官网为准，价格取自The Ordinary美国官网（US$24.00）。",
       "en": "Researched 2026-07-31. Ingredients per INCIDecoder and the official site; price from The Ordinary US site (US$24.00).",
       "ja": ""
-    },
-    "whyPick": {
-      "zh": {
-        "tag": "成本结构参照",
-        "points": [
-          "同样的多肽，Cécred卖US$56、Nécessaire卖US$48，它只卖US$24——头皮精华的活性成本被公开了。"
-        ]
-      },
-      "en": {
-        "tag": "Cost-structure reference",
-        "points": [
-          "The same peptides sell for US$56 at Cécred and US$48 at Nécessaire; at US$24 this product exposes the real active cost of a scalp serum."
-        ]
-      },
-      "ja": {
-        "tag": "",
-        "points": []
-      }
     }
   },
   {
@@ -10019,24 +10001,6 @@
       "zh": "资料采集日 2026-07-31。成分表以INCIDecoder（17项）与官网为准；价格取自Nécessaire官网30 mL US$48.00（早期媒体报道为US$45，现价已上调）。",
       "en": "Researched 2026-07-31. Ingredients per INCIDecoder (17 items) and the official site; price from Nécessaire's own site, 30 mL at US$48.00 (earlier press reported US$45; the price has since risen).",
       "ja": ""
-    },
-    "whyPick": {
-      "zh": {
-        "tag": "表达方式范本",
-        "points": [
-          "「5% Capixyl」不自造技术名，直接借供应商商标＋自报浓度，核查成本和合规风险都更低。"
-        ]
-      },
-      "en": {
-        "tag": "Model for how to phrase claims",
-        "points": [
-          "“5% Capixyl” coins no technology name — it borrows the supplier's trademark and states a percentage, keeping verification cost and compliance risk low."
-        ]
-      },
-      "ja": {
-        "tag": "",
-        "points": []
-      }
     }
   },
   {
@@ -10438,24 +10402,6 @@
       "zh": "资料采集日 2026-07-31。成分表以INCIDecoder（25项）为准，临床数字取自Aveda官方与Boots、MECCA产品页的一致表述（32名女性）。价格取自LOOKFANTASTIC英国。",
       "en": "Researched 2026-07-31. Ingredients per INCIDecoder (25 items); clinical figures from Aveda's official page and consistent wording at Boots and MECCA (32 women). Prices from LOOKFANTASTIC UK.",
       "ja": ""
-    },
-    "whyPick": {
-      "zh": {
-        "tag": "Scalp Hydration 标杆",
-        "points": [
-          "把测量对象从头发换成头皮，就拿到一个没有竞争者、也没有对照值的数字位置。"
-        ]
-      },
-      "en": {
-        "tag": "Scalp hydration benchmark",
-        "points": [
-          "By moving the measurement from hair to scalp, it takes a numeric position with no competitor and no reference value."
-        ]
-      },
-      "ja": {
-        "tag": "",
-        "points": []
-      }
     }
   },
   {
@@ -10859,24 +10805,6 @@
       "zh": "资料采集日 2026-07-31。成分表以INCIDecoder为准；价格与规格取自Sephora（1 oz US$32.00，订阅US$30.40）。「2X」与「142%」两种表述分别见于品牌官网/Sephora与Boots/Target。",
       "en": "Researched 2026-07-31. Ingredients per INCIDecoder; price and size from Sephora (1 oz at US$32.00, US$30.40 on auto-replenish). The \"2X\" and \"142%\" phrasings appear on the brand site/Sephora and Boots/Target respectively.",
       "ja": ""
-    },
-    "whyPick": {
-      "zh": {
-        "tag": "矛盾诉求的解法",
-        "points": [
-          "清洁与保湿在配方上互斥，它把两者交给不同成分并在时间上错开：即刻清爽靠金缕梅与精油，长效水分靠Saccharide Isomerate。"
-        ]
-      },
-      "en": {
-        "tag": "How to resolve conflicting claims",
-        "points": [
-          "Cleansing and hydration conflict in formulation, so it splits them across ingredients and time: witch hazel and oils give the immediate fresh feel, Saccharide Isomerate carries the lasting moisture."
-        ]
-      },
-      "ja": {
-        "tag": "",
-        "points": []
-      }
     }
   },
   {
@@ -11278,24 +11206,6 @@
       "zh": "资料采集日 2026-07-31。发布日期与系列构成取自Kenvue官方新闻稿与Chain Drug Review（2025年11月13日）。价格取自Walmart（13 fl oz规格US$9.97，洗护套装US$19.94）；Neutrogena官网标注13.5 fl oz。「依托Rogaine近35年头皮研究积累」为Kenvue集团资产背景，Rogaine同属Kenvue。",
       "en": "Researched 2026-07-31. Launch date and range composition from Kenvue's press release and Chain Drug Review (13 November 2025). Price from Walmart (13 fl oz at US$9.97; shampoo and conditioner set US$19.94); Neutrogena's own site lists 13.5 fl oz. The reference to nearly 35 years of Rogaine scalp research reflects group assets — Rogaine is also owned by Kenvue.",
       "ja": ""
-    },
-    "whyPick": {
-      "zh": {
-        "tag": "Skinification 下沉标杆",
-        "points": [
-          "skinification从高端下沉到大众渠道的代表案例：头皮酸类去角质＋正面标浓度＋皮肤科医生背书，压到US$9.97。"
-        ]
-      },
-      "en": {
-        "tag": "Skinification going mass",
-        "points": [
-          "The defining case of skinification descending from prestige into mass: scalp acid exfoliation, the percentage on front of pack and dermatologist backing, at US$9.97."
-        ]
-      },
-      "ja": {
-        "tag": "",
-        "points": []
-      }
     }
   },
   {
@@ -11705,24 +11615,6 @@
       "zh": "资料采集日 2026-07-31。成分表与宣称取自Target产品页；发布信息取自Kenvue官方新闻稿与Chain Drug Review（2025年11月13日）。价格取自Walmart（US$6.97）与Kroger（US$6.49）。「最高3倍丰盈感」原注为「Instrumental results with full routine vs. untreated hair」。",
       "en": "Researched 2026-07-31. Ingredients and claims from the Target product page; launch details from Kenvue's press release and Chain Drug Review (13 November 2025). Prices from Walmart (US$6.97) and Kroger (US$6.49). The \"up to 3x fuller-looking hair\" claim is footnoted \"Instrumental results with full routine vs. untreated hair\".",
       "ja": ""
-    },
-    "whyPick": {
-      "zh": {
-        "tag": "Skinification 下沉标杆",
-        "points": [
-          "US$6.97的洗发水正面标1.5%苦杏仁酸并含烟酰胺与肽，是本库中最便宜却最「护肤化」的配方。"
-        ]
-      },
-      "en": {
-        "tag": "Skinification going mass",
-        "points": [
-          "A US$6.97 shampoo stating 1.5% mandelic acid with niacinamide and peptides — the cheapest yet most skincare-like formula in this library."
-        ]
-      },
-      "ja": {
-        "tag": "",
-        "points": []
-      }
     }
   },
   {
@@ -12128,24 +12020,6 @@
       "zh": "资料采集日 2026-07-31。成分表以INCIDecoder（23项）为准；价格与规格取自Sephora（8 oz US$42.00、2 oz迷你US$15.00）与品牌官网（946 mL专业装）。「减少最高82%干性头皮脱屑（一次使用后）」为品牌官方临床宣称。",
       "en": "Researched 2026-07-31. Ingredients per INCIDecoder (23 items); prices and sizes from Sephora (8 oz at US$42.00, 2 oz mini at US$15.00) and the brand site (946 mL professional). The claim of up to 82% less dry scalp flaking after one use is the brand's own clinical claim.",
       "ja": ""
-    },
-    "whyPick": {
-      "zh": {
-        "tag": "头皮仪式感样本",
-        "points": [
-          "沙龙渠道销量第一的头皮护理品牌，用磨砂＋精华把「给头皮做脸」做成产品，直接对应head spa趋势。"
-        ]
-      },
-      "en": {
-        "tag": "A model for scalp ritual",
-        "points": [
-          "The number one scalp care brand in salon distribution turns “a facial for the scalp” into products, matching the head spa trend directly."
-        ]
-      },
-      "ja": {
-        "tag": "",
-        "points": []
-      }
     }
   },
   {
@@ -12563,24 +12437,6 @@
       "zh": "价格与规格核对日期：2026-07-31。日本价格取自Aveda日本官网与@cosme，美国价格取自Aveda官网。",
       "en": "Prices and sizes verified 2026-07-31. Japanese prices from Aveda Japan and @cosme; US prices from Aveda's official site.",
       "ja": ""
-    },
-    "whyPick": {
-      "zh": {
-        "tag": "系列宣称结构",
-        "points": [
-          "+92%/+128%这组数字同时挂在洗发水和护发素上，说明一次系列联合测试可以拆成两支单品的宣称。"
-        ]
-      },
-      "en": {
-        "tag": "Range claim structure",
-        "points": [
-          "The same +92%/+128% figures sit on both the shampoo and the conditioner, showing that one range-level study can be split into claims for two separate products."
-        ]
-      },
-      "ja": {
-        "tag": "",
-        "points": []
-      }
     }
   },
   {
