@@ -202,7 +202,7 @@ try{
   document.body.innerHTML='<p style=\'padding:40px;font-family:sans-serif;line-height:1.6\'>数据加载失败，请确认 products.zh-en.json 与 index.html 放在同一目录下，然后刷新页面重试。<br><br>Failed to load product data. Make sure products.zh-en.json is in the same folder as index.html, then refresh the page.</p>';
   return;
 }
- const KEY='competitor-library-v55';
+ const KEY='competitor-library-v56';
 const SB_URL='https://aevvtswznvogtkoomvge.supabase.co';
 const SB_KEY='sb_publishable_euGSL8LNh-xZ9e3iPiK7Yg_b560gbSM';
 const SB_TABLE='user_comments';
@@ -286,7 +286,7 @@ const SFIELDS=[
   ['targetUsers',{zh:'目标人群',en:'Target Users'},20],
   ['evidence',{zh:'证据',en:'Evidence'},20],['evidenceStats',{zh:'证据',en:'Evidence'},20],
   ['experience',{zh:'使用体验',en:'Experience'},20],['experienceItems',{zh:'使用体验',en:'Experience'},20],
-  ['packaging',{zh:'包装',en:'Packaging'},20],['packagingItems',{zh:'包装',en:'Packaging'},20],
+  ['packaging',{zh:'包装',en:'Packaging'},20],
   ['market',{zh:'市场',en:'Market'},20],['insight',{zh:'洞察',en:'Insight'},20],
   ['launch',{zh:'上市',en:'Launch'},20],['brandConcept',{zh:'品牌概念',en:'Brand Concept'},20],
   ['sources',{zh:'来源',en:'Sources'},10],['productType',{zh:'类型',en:'Type'},10],['category',{zh:'分类',en:'Category'},10]
@@ -323,7 +323,7 @@ function snip(text,raw){
   return (a>0?'…':'')+text.slice(a,b)+(b<text.length?'…':'');
 }
 let SQ={terms:[],excl:[]}, SHITS=new Map();
-const RICHOF={ingredients:'heroIngredients',evidence:'evidenceStats',experience:'experienceItems',packaging:'packagingItems',brandConcept:'brandConceptRich',target:'targetUsers',market:'marketChannel'};
+const RICHOF={ingredients:'heroIngredients',evidence:'evidenceStats',experience:'experienceItems',brandConcept:'brandConceptRich',target:'targetUsers',market:'marketChannel'};
 function fieldState(p,key){
   const rich=RICHOF[key];
   if(!rich)return '';
@@ -504,12 +504,7 @@ function richDetail(p){
   }else{
     marketBox=section(t.market,'market',p);
   }
-  let packagingBox;
-  if(biList(p.packagingItems).length){
-    packagingBox=iconBox('\ud83d\udce6',t.packaging,`<ul class="ul-dot">${biList(p.packagingItems).map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`);
-  }else{
-    packagingBox=section(t.packaging,'packaging',p);
-  }
+  const packagingBox=section(t.packaging,'packaging',p);
   out+=`<div class="row2">${marketBox}${packagingBox}</div>`;
   const adv=biList(p.competitiveAdvantage);
   if(adv.length){
