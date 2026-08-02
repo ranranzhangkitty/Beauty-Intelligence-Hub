@@ -276,18 +276,9 @@
       ]
     },
     "packagingItems": {
-      "zh": [
-        "视觉：琥珀色透明液体+几何切面瓶+金色泵头",
-        "联想：强化“蜂蜜高级感”",
-        "步骤编号：1.0/1.5/2.0体系强化仪式感",
-        "优势：包装是最难被低成本复制的品牌资产之一"
-      ],
-      "en": [
-        "Visual: amber transparent liquid + geometric faceted bottle + gold pump",
-        "Association: reinforces a “premium honey” feel",
-        "Step numbering: 1.0/1.5/2.0 system reinforces ritual routine",
-        "Strength: packaging is one of the hardest brand assets to copy cheaply"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "productType": "shampoo",
     "keyTechnology": {
@@ -587,18 +578,9 @@
       ]
     },
     "packagingItems": {
-      "zh": [
-        "视觉：极简透明瓶+垂直排版+银白配色",
-        "联想：海洋、水感、实验室美容液",
-        "优势：货架辨识度高",
-        "风险：系列扩张后不同功效款外观相近"
-      ],
-      "en": [
-        "Visual: minimalist transparent bottle + vertical typography + silver-white palette",
-        "Association: marine, water, laboratory skincare",
-        "Strength: high shelf recognition",
-        "Risk: variants across the range can look similar as the line expands"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "productType": "shampoo",
     "keyTechnology": {
@@ -892,18 +874,9 @@
       ]
     },
     "packagingItems": {
-      "zh": [
-        "视觉：简洁瓶身+成分icon化标签",
-        "联想：科学、临床、平价可信",
-        "规格：12oz家用装，也有2瓶装",
-        "优势：价格透明，货架辨识度高"
-      ],
-      "en": [
-        "Visual: simple bottle with icon-based ingredient labeling",
-        "Association: scientific, clinical, accessible and trustworthy",
-        "Size: 12oz household size, also sold as a 2-pack",
-        "Strength: transparent pricing, strong shelf recognition"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "productType": "mask",
     "keyTechnology": {
@@ -1191,18 +1164,9 @@
       ]
     },
     "packagingItems": {
-      "zh": [
-        "视觉：含PCR回收塑料瓶身，薄荷绿配色",
-        "联想：可持续、专业、清新科技感",
-        "认证：B Corp、气候中和认证",
-        "规格：60mL小样/275mL正装/1L沙龙装"
-      ],
-      "en": [
-        "Visual: PCR recycled-plastic bottle in a mint-green palette",
-        "Association: sustainable, professional, fresh and tech-forward",
-        "Certifications: B Corp, Climate Neutral",
-        "Sizes: 60mL sample / 275mL full size / 1L salon size"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "productType": "shampoo",
     "keyTechnology": {
@@ -1502,18 +1466,9 @@
       ]
     },
     "packagingItems": {
-      "zh": [
-        "视觉：塑料按压瓶+可可豆插画标签",
-        "联想：亲和、美食感、平价大众",
-        "规格：8 fl oz家用装",
-        "优势：货架辨识度高，价格透明"
-      ],
-      "en": [
-        "Visual: plastic squeeze bottle with cocoa-bean illustration label",
-        "Association: approachable, gourmet, mass-market friendly",
-        "Size: 8 fl oz household size",
-        "Strength: strong shelf recognition, transparent pricing"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "productType": "serum",
     "keyTechnology": {
@@ -1805,18 +1760,9 @@
       ]
     },
     "packagingItems": {
-      "zh": [
-        "视觉：玻璃滴管瓶，米白+金色配色",
-        "联想：呼应品牌仪式感美学定位",
-        "限购：热门期每单限购5瓶",
-        "弱点：滴管瓶携带/差旅不如泵头瓶便利"
-      ],
-      "en": [
-        "Visual: glass dropper bottle in cream and gold",
-        "Association: reinforces the brand's ritual aesthetic",
-        "Limit: capped at 5 per order during high demand",
-        "Weakness: dropper format less travel-convenient than a pump bottle"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "productType": "serum",
     "keyTechnology": {
@@ -2106,18 +2052,9 @@
       ]
     },
     "packagingItems": {
-      "zh": [
-        "视觉：小巧翻盖瓶，米白+金色配色",
-        "联想：与正装视觉一致，强化系列感",
-        "规格：0.7oz travel / 1.7oz正装两种",
-        "优势：TSA友好，随身携带方便"
-      ],
-      "en": [
-        "Visual: compact flip-cap bottle in cream and gold",
-        "Association: consistent with full size, reinforces range cohesion",
-        "Sizes: 0.7oz travel / 1.7oz full size",
-        "Strength: TSA-friendly, easy to carry"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "productType": "oil",
     "keyTechnology": {
@@ -2393,18 +2330,9 @@
       ]
     },
     "packagingItems": {
-      "zh": [
-        "视觉：小巧喷雾瓶，定向喷头设计",
-        "规格：TSA友好旅行装",
-        "联想：便携、精准、日常护理",
-        "弱点：具体成分表未公开，透明度略低"
-      ],
-      "en": [
-        "Visual: compact spray bottle with a targeted nozzle",
-        "Size: TSA-friendly travel format",
-        "Association: portable, precise, everyday care",
-        "Weakness: full ingredient list not disclosed, slightly lower transparency"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "productType": "mist",
     "keyTechnology": {
@@ -2726,18 +2654,9 @@
       ]
     },
     "packagingItems": {
-      "zh": [
-        "视觉：5 fl oz 泵头瓶，米白＋金色，延续品牌仪式感体系",
-        "组合：造型系列7个SKU，主打可叠加不堆积",
-        "限购：单笔订单限购5件",
-        "弱点：泵头瓶体积较大，不适合随身补涂；且本品并非补妆型产品，使用场景集中在洗后造型当次"
-      ],
-      "en": [
-        "Visual: 5 fl oz pump bottle in cream and gold, consistent with the brand's ritual system",
-        "System: part of a 7-SKU styling collection built to layer without buildup",
-        "Limit: capped at 5 units per order",
-        "Weakness: a bulky pump bottle unsuited to on-the-go touch-ups — and by design it is a wash-day styling product, not a refresher"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "productType": "gel",
     "keyTechnology": {
@@ -3055,18 +2974,9 @@
       ]
     },
     "packagingItems": {
-      "zh": [
-        "视觉：柔和浅色瓶身+蜂蜜色液滴+圆润泵头",
-        "定位：比&honey更简洁成熟，比沙龙品牌更亲和",
-        "规格：本体450 mL+替换装400 mL",
-        "优势：替换装降低复购门槛"
-      ],
-      "en": [
-        "Visual: soft-colored bottle + honey-toned droplet motif + rounded pump",
-        "Positioning: simpler/more mature than &honey, friendlier than salon brands",
-        "Sizes: 450 mL bottle + 400 mL refill",
-        "Strength: refill pack lowers the repeat-purchase barrier"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "productType": "conditioner",
     "keyTechnology": {
@@ -3360,18 +3270,9 @@
       ]
     },
     "packagingItems": {
-      "zh": [
-        "视觉：简约瓶身+粉色系配色+手写体logo",
-        "联想：亲和、怀旧的天然发社群美学",
-        "规格：8oz家用装为主",
-        "优势：识别度高，长期在售形成信任资产"
-      ],
-      "en": [
-        "Visual: simple bottle, pink color scheme, handwritten-style logo",
-        "Association: approachable, nostalgic natural-hair community aesthetic",
-        "Size: mainly 8oz household size",
-        "Strength: high recognition, long tenure builds trust as a brand asset"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "productType": "conditioner",
     "keyTechnology": {
@@ -3687,18 +3588,9 @@
       ]
     },
     "packagingItems": {
-      "zh": [
-        "视觉：大面积留白 + 黑色品牌标识 + 浅蓝绿功能标签",
-        "联想：强化“临床、洁净、专业”印象",
-        "规格：300 mL / 500 mL，区分家用与沙龙场景",
-        "弱点：系列内单品外观接近，需仔细看标签区分"
-      ],
-      "en": [
-        "Visual: large white space, black logo, pale blue-green functional labels",
-        "Association: reinforces a “clinical, clean, professional” impression",
-        "Sizes: 300 mL / 500 mL for home vs. salon use",
-        "Weakness: products within the range look similar, requiring close label reading"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "productType": "shampoo",
     "keyTechnology": {
@@ -3992,18 +3884,9 @@
       ]
     },
     "packagingItems": {
-      "zh": [
-        "视觉：黑白撞色瓶身，品牌名突出",
-        "联想：年轻、街头文化、技术感",
-        "规格：7oz正装/3.4oz旅行装",
-        "优势：黑人及退伍军人创立故事强化品牌认同"
-      ],
-      "en": [
-        "Visual: black-and-white bottle with bold branding",
-        "Association: youthful, street-culture, tech-forward",
-        "Sizes: 7oz full size / 3.4oz travel size",
-        "Strength: Black- and Veteran-owned story reinforces brand identity"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "productType": "gel",
     "keyTechnology": {
@@ -4297,18 +4180,9 @@
       ]
     },
     "packagingItems": {
-      "zh": [
-        "视觉：塑料泵头瓶，简洁功能性标签",
-        "联想：天然发社群熟悉的日常平价感",
-        "规格：12oz/18oz/32oz多种家用装",
-        "优势：长期在售形成强社群信任资产"
-      ],
-      "en": [
-        "Visual: plastic pump bottle, simple functional label",
-        "Association: familiar everyday, affordable feel for the natural-hair community",
-        "Sizes: 12oz/18oz/32oz household sizes",
-        "Strength: long tenure has built strong community trust as a brand asset"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "productType": "gel",
     "keyTechnology": {
@@ -4628,18 +4502,9 @@
       ]
     },
     "packagingItems": {
-      "zh": [
-        "视觉：绿色半透明瓶＋极简无衬线字体，货架辨识度高",
-        "规格：3 / 10 / 16 / 32 oz 四档，覆盖试用到家庭补充",
-        "可持续：标注完全可回收，32 oz补充装承担环保宣称",
-        "弱点：为维持瓶内液体色彩使用三种合成色素"
-      ],
-      "en": [
-        "Visual: green translucent bottle with minimal sans-serif type, highly shelf-visible",
-        "Sizes: 3 / 10 / 16 / 32 oz, from trial to household refill",
-        "Sustainability: labeled fully recyclable, with the 32 oz refill carrying the eco claim",
-        "Weakness: three synthetic colorants used purely to keep the liquid on-brand"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "productType": "shampoo",
     "keyTechnology": {
@@ -4967,18 +4832,9 @@
       ]
     },
     "packagingItems": {
-      "zh": [
-        "视觉：高饱和色块＋街头风字体，与主流天然发品牌区隔明显",
-        "命名体系：全线以90年代嘻哈经典命名，构成社群识别码",
-        "规格：单一12 oz，SKU管理简单",
-        "弱点：仅一个规格，缺少旅行装与大容量补充装的价格阶梯"
-      ],
-      "en": [
-        "Visual: high-saturation color blocking and street-style type, clearly set apart from mainstream natural-hair brands",
-        "Naming system: the whole line references 90s hip-hop classics, functioning as an in-group signal",
-        "Sizes: a single 12 oz SKU, simple to manage",
-        "Weakness: one size only — no travel or jumbo refill to build a price ladder"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "productType": "shampoo",
     "keyTechnology": {
@@ -5312,18 +5168,9 @@
       ]
     },
     "packagingItems": {
-      "zh": [
-        "视觉：极简白瓶＋超大编号，货架识别度极高",
-        "架构：编号体系本身承担产品线教育与交叉销售功能",
-        "规格：100 / 250 / 1000 / 2000 mL，覆盖试用到沙龙后台",
-        "弱点：白瓶设计被大量平价品牌模仿，视觉差异化正在被稀释"
-      ],
-      "en": [
-        "Visual: minimal white bottle with an oversized number, extremely shelf-legible",
-        "Architecture: the numbering system itself carries range education and cross-sell",
-        "Sizes: 100 / 250 / 1000 / 2000 mL, from trial to salon backbar",
-        "Weakness: the white-bottle look is now widely imitated by value brands, diluting its visual distinctiveness"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "productType": "shampoo",
     "keyTechnology": {
@@ -5665,18 +5512,9 @@
       ]
     },
     "packagingItems": {
-      "zh": [
-        "视觉：与Nº.4完全一致的白瓶＋编号，形成货架配对",
-        "架构：编号相邻使成套购买成为默认选项",
-        "规格：100 / 250 / 1000 / 2000 mL",
-        "弱点：与Nº.4难以视觉区分，淋浴间内易拿错"
-      ],
-      "en": [
-        "Visual: identical white bottle and numbering to Nº.4, reading as a shelf pair",
-        "Architecture: adjacent numbers make buying the set the default option",
-        "Sizes: 100 / 250 / 1000 / 2000 mL",
-        "Weakness: hard to tell apart from Nº.4 at a glance — easy to grab the wrong bottle in the shower"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "productType": "conditioner",
     "keyTechnology": {
@@ -6010,18 +5848,9 @@
       ]
     },
     "packagingItems": {
-      "zh": [
-        "视觉：透明玻璃瓶展示金黄色油体，全线中最具珍贵感",
-        "功能：定量滴取瓶口控制用量并强化高浓缩认知",
-        "规格：30 mL / 60 mL 两档",
-        "弱点：玻璃瓶易碎，旅行携带需注意；定量滴取上手需要适应"
-      ],
-      "en": [
-        "Visual: clear glass showing the golden oil — the most precious-looking product in the line",
-        "Function: the metered-drop neck controls dosage and reinforces the concentration story",
-        "Sizes: 30 mL and 60 mL",
-        "Weakness: glass is fragile for travel, and the metered-drop method takes a moment to learn"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "productType": "oil",
     "keyTechnology": {
@@ -6284,18 +6113,9 @@
       "en": "The slim bottle's color shifts with the fragrance variant, reading as classic Korean personal-care 'scent equals colorway' at first glance, leaning into a value-size impression."
     },
     "packagingItems": {
-      "zh": [
-        "瓶型：细长按压瓶，500 mL主推",
-        "配色：随香型变化，货架上以色块区分SKU",
-        "信息：韩英双语，跨境销售不额外本地化",
-        "定位表达：视觉强调大容量与性价比，而非高端感"
-      ],
-      "en": [
-        "Format: slim pump bottle, 500 mL leading",
-        "Colour: keyed to fragrance, SKUs distinguished by colour block on shelf",
-        "Copy: Korean/English, no extra localisation for cross-border",
-        "Message: the visual emphasis is volume-for-money, not premium"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "distribution": {
       "zh": "韩国本土线上为主，日本Qoo10、东南亚跨境电商，欧美通过Stylevana、YesStyle、Amazon等转售渠道",
@@ -6650,18 +6470,9 @@
       "en": "The deep-gold bottle with a black cap is Chronologiste's fixed colorway, reading as substantial and clearly separated from Kérastase's other lines at first glance."
     },
     "packagingItems": {
-      "zh": [
-        "配色：深金＋黑，Chronologiste线专属，货架上与其他Kérastase线区分",
-        "瓶型：方肩圆柱，握持有重量感",
-        "规格：80 / 250 / 500 mL 三档，覆盖试用到家庭装",
-        "渠道适配：三档结构是沙龙推荐＋零售复购的标准配置"
-      ],
-      "en": [
-        "Colour: deep gold and black, exclusive to Chronologiste and distinct from other Kérastase lines on shelf",
-        "Format: square-shouldered cylinder with a weighty feel",
-        "Sizes: 80 / 250 / 500 mL, from trial to household",
-        "Channel fit: the three-size structure is standard for salon recommendation plus retail repeat"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "distribution": {
       "zh": "全球沙龙专业渠道、Sephora、Ulta、高端百货、品牌官网DTC",
@@ -7015,18 +6826,9 @@
       "en": "The front of pack leads with '30,000 ppm' as the primary visual, reading as data-driven rather than ingredient-name-driven at first glance, understood instantly regardless of language."
     },
     "packagingItems": {
-      "zh": [
-        "形态：软管与罐装随规格变化",
-        "主视觉：正面直接放「30,000 ppm」数字，而非成分名",
-        "配色：随香型分支变化，货架上以色块区分",
-        "跨语言考量：数字比成分名更易跨市场传达，利于出海"
-      ],
-      "en": [
-        "Format: tube or jar depending on size",
-        "Front-of-pack: the number “30,000 ppm” rather than an ingredient name",
-        "Colour: keyed to fragrance variant, SKUs read as colour blocks on shelf",
-        "Cross-language design: a number carries across markets more easily than an ingredient name, which helps export"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "distribution": {
       "zh": "Olive Young（韩国核心）、Sephora美国、Amazon日本官方店、Watsons东南亚、跨境电商",
@@ -7376,18 +7178,9 @@
       "en": "The white bottle with blue type is visually identical to the CeraVe skincare line, transplanting dermatologist-level trust onto a haircare product at first glance, with no visual concession to the category at all."
     },
     "packagingItems": {
-      "zh": [
-        "视觉：白瓶蓝字，与护肤线完全一致，零额外识别成本",
-        "信息：正面直接列出三种神经酰胺＋烟酰胺＋透明质酸",
-        "规格：12 fl oz / 355 mL，美国药妆渠道标准规格",
-        "设计意图：不做护发专属视觉区分，让新品类直接继承护肤线信任"
-      ],
-      "en": [
-        "Visual: white bottle, blue type, identical to skincare — zero extra recognition cost",
-        "Information: three ceramides plus niacinamide and hyaluronic acid listed on the front",
-        "Size: 12 fl oz / 355 mL, the standard US drugstore format",
-        "Design intent: no haircare-specific visual break, so the new category inherits the skincare line's trust directly"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "distribution": {
       "zh": "Target、Walmart、Ulta Beauty、Amazon、CVS等美国药妆与商超渠道，另有澳新市场",
@@ -7732,18 +7525,9 @@
       "en": "Same bottle and color as the shampoo in the range, distinguished only by text, reading as a matched set at first glance — at the cost of being easy to mix up in the shower."
     },
     "packagingItems": {
-      "zh": [
-        "瓶型：与洗发水同型同色，仅文字区分",
-        "设计意图：货架上形成视觉组合，强化套装认知",
-        "取舍：浴室内两支难以快速区分",
-        "规格：500 mL主推，视觉强调容量与性价比"
-      ],
-      "en": [
-        "Format: identical bottle and colour to the shampoo, separated only by wording",
-        "Intent: the pair reads as a set on shelf and reinforces set purchase",
-        "Trade-off: hard to tell apart quickly in the shower",
-        "Size: 500 mL leads, with the visual emphasis on volume for money"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "distribution": {
       "zh": "韩国本土线上为主，日本Amazon与Qoo10，欧美通过Stylevana、YesStyle等K-beauty跨境平台",
@@ -8095,18 +7879,9 @@
       "en": "Labeled STEP 1 and carrying the range's '30' numeric visual, the bottle signals at first glance that a second step exists — packaging doing conversion work directly."
     },
     "packagingItems": {
-      "zh": [
-        "视觉：与同系列发膜统一，配色随香型变化",
-        "STEP标注：瓶身标STEP 1，直接指示还有第二步，包装参与转化设计",
-        "主视觉：沿用系列的数字表达，突出「30种」",
-        "规格：52 / 290 / 500 mL，小规格承担试用与旅行"
-      ],
-      "en": [
-        "Visual: unified with the matching mask, colour keyed to fragrance",
-        "STEP marking: labelled STEP 1, signalling a second step — packaging built into conversion design",
-        "Front-of-pack: reuses the range's numeric style, leading with “30”",
-        "Sizes: 52 / 290 / 500 mL, with the small size covering trial and travel"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "distribution": {
       "zh": "Olive Young（韩国核心）、Sephora美国、Amazon日本官方店、Watsons东南亚、跨境电商",
@@ -8446,18 +8221,9 @@
       "en": "The same amber dropper bottle as the skincare line deliberately doesn't read as haircare at first glance — more like a serum that happens to go on the scalp, the category boundary erased on purpose."
     },
     "packagingItems": {
-      "zh": [
-        "瓶型：琥珀色玻璃滴管瓶，与护肤线完全同款",
-        "标签：白底无衬线，只有产品名与容量",
-        "主张：不做护发品类的视觉调整，品类边界被抹掉",
-        "弱点：与同品牌其他滴管产品难以快速区分"
-      ],
-      "en": [
-        "Format: amber glass dropper bottle, identical to the skincare line",
-        "Label: white ground, sans-serif, product name and volume only",
-        "Argument: no visual concession to haircare; the category boundary is erased",
-        "Weakness: hard to tell apart quickly from the brand's other dropper products"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "distribution": {
       "zh": "品牌官网DTC、Sephora、Boots、Watsons、Amazon，以及韩国Olive Young Global等跨境平台",
@@ -8809,18 +8575,9 @@
       "en": "The matte off-white dropper bottle reads as skincare rather than haircare at first glance, with dual sustainability certifications printed on the bottle itself rather than tucked into a footnote."
     },
     "packagingItems": {
-      "zh": [
-        "瓶型：哑光米白滴管瓶，与身体护理线统一",
-        "认证：Climate Neutral、Plastic Neutral，印在瓶身",
-        "气质：接近护肤品，摆放场景为洗手台而非淋浴间",
-        "命名：「30-Day Supply」把容量翻译成使用周期"
-      ],
-      "en": [
-        "Format: matte off-white dropper bottle, unified with the body care line",
-        "Certifications: Climate Neutral and Plastic Neutral, printed on the bottle",
-        "Feel: reads as skincare; it lives on the counter, not in the shower",
-        "Naming: \"30-Day Supply\" translates volume into a usage cycle"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "distribution": {
       "zh": "品牌官网DTC为核心，Sephora美国、Cult Beauty、Amazon",
@@ -9168,18 +8925,9 @@
       "en": "The dark recycled bottle with restrained light-colored text reads as salon-professional at first glance, clearly distinct from mass brands competing on color and graphics."
     },
     "packagingItems": {
-      "zh": [
-        "瓶型：Aveda标志性深色可回收塑料瓶",
-        "可持续：长期使用消费后回收材料，行业内起步最早的品牌之一",
-        "视觉：克制、专业沙龙调性，非货架吸睛型",
-        "规格信号：1000 mL沙龙装体现渠道属性"
-      ],
-      "en": [
-        "Format: Aveda's signature dark recyclable bottle",
-        "Sustainability: a long-standing user of post-consumer recycled material, among the earliest in the industry",
-        "Visual: restrained, salon-professional rather than shelf-grabbing",
-        "Size signal: the 1000 mL salon format states the channel"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "distribution": {
       "zh": "Aveda沙龙与直营店为核心，Sephora、Boots、LOOKFANTASTIC等零售与电商补充，日本有官方渠道",
@@ -9531,18 +9279,9 @@
       "en": "Charcoal black paired with mint green translates 'charcoal plus tea tree' straight into color, so the benefit is guessable at first glance, with the same color logic distinguishing every item in the range."
     },
     "packagingItems": {
-      "zh": [
-        "瓶型：深色滴管瓶＋白色标签，炭黑与薄荷绿配色",
-        "设计意图：把「炭＋茶树」直接翻译成颜色",
-        "滴管：分区涂抹必要，但用量控制与携带便利性受限",
-        "系列：同一套色彩逻辑区分单品，货架识别度高"
-      ],
-      "en": [
-        "Format: dark dropper bottle with a white label, in charcoal black and mint green",
-        "Intent: translating \"charcoal plus tea tree\" directly into colour",
-        "Dropper: necessary for parting application, but limits dose control and portability",
-        "Range: one colour logic differentiates each item, giving strong shelf recognition"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "distribution": {
       "zh": "Sephora、Ulta、Target（Ulta Beauty专区）、Boots、品牌官网DTC",
@@ -9896,18 +9635,9 @@
       "en": "Printing '1.5% MANDELIC ACID' on the front is a skincare habit transplanted onto a shampoo, setting it apart at first glance from Walmart shelf neighbors that say only 'moisturizing' and 'smooth.'"
     },
     "packagingItems": {
-      "zh": [
-        "视觉：白底＋Neutrogena深色字体，护肤线视觉语言",
-        "正面标注：1.5% MANDELIC ACID / SULFATE-FREE，把浓度前置",
-        "货架效果：与只写「滋润」「顺滑」的大众竞品形成对比",
-        "系列：五件套统一视觉与编号，整组陈列"
-      ],
-      "en": [
-        "Visual: white ground with Neutrogena's dark type, borrowed from the skincare line",
-        "Front of pack: 1.5% MANDELIC ACID / SULFATE-FREE, leading with the concentration",
-        "Shelf effect: a clear contrast with mass rivals that say only \"moisturising\" or \"smoothing\"",
-        "Range: five items share visuals and numbering, blocking as a set"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "distribution": {
       "zh": "2025年11月起Walmart独家，2026年初扩展至其他零售商并实现全美铺货",
@@ -10259,18 +9989,9 @@
       "en": "The tall slim bottle fronts '1.5% Mandelic Acid' at first glance, transplanting active-skincare language onto a US$6.97 product — the Click Pen format extends that skinification down to the packaging itself."
     },
     "packagingItems": {
-      "zh": [
-        "瓶型：OGX标志性高瘦瓶，系列专属配色",
-        "正面标注：1.5% Mandelic Acid，浓度前置",
-        "系列：洗发水、护发素、精华喷雾、Serum Click Pen统一视觉",
-        "Click Pen：精准点涂笔型源自护肤精华，是包装形态的skinification"
-      ],
-      "en": [
-        "Format: OGX's signature tall slim bottle in a range-specific colourway",
-        "Front of pack: 1.5% Mandelic Acid, leading with the concentration",
-        "Range: shampoo, conditioner, serum mist and Serum Click Pen share one visual system",
-        "Click Pen: a precision applicator borrowed from skincare serums — skinification at the packaging level"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "distribution": {
       "zh": "Walmart、Target、Kroger、Amazon等美国大众渠道；英国Boots、澳洲Chemist Warehouse等国际市场同步",
@@ -10626,18 +10347,9 @@
       "en": "The white tube with a black label complements rather than repeats the range serum's dark dropper bottle, letting the format alone signal at first glance that this is a scrub, not a serum."
     },
     "packagingItems": {
-      "zh": [
-        "形态：白色管型＋黑色标签，与系列精华的滴管瓶互补",
-        "选择理由：含颗粒膏体不能用泵头，管型是必要选择",
-        "规格：2 oz迷你（US$15）／8 oz正装（US$42）／946 mL专业装",
-        "专业装：泵头大瓶，直接面向沙龙操作台"
-      ],
-      "en": [
-        "Format: white tube with a black label, complementing the range serum's dropper bottle",
-        "Rationale: a grainy paste cannot use a pump, so a tube is the necessary format",
-        "Sizes: 2 oz mini (US$15) / 8 oz full (US$42) / 946 mL professional",
-        "Professional size: a large pump bottle aimed at the salon station"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "distribution": {
       "zh": "Sephora、Ulta、Cult Beauty、品牌官网；沙龙渠道（946 mL专业装）",
@@ -11001,18 +10713,9 @@
       "en": "The bottle makes no special visual statement of its own; the sustainability facts — 90% recycled content, wind-powered production — are what it's designed to communicate first, credentials before aesthetics."
     },
     "packagingItems": {
-      "zh": [
-        "回收成分：瓶身与瓶盖最低90% recycled content，数字写在产品页上",
-        "能源：宣称为首家以100%风电生产的美妆公司，现场太阳能阵列＋风电",
-        "规格阶梯：50 mL旅行装 / 200 mL家用 / 1000 mL沙龙装",
-        "视觉：Aveda标志性深色瓶，克制、专业沙龙调性"
-      ],
-      "en": [
-        "Recycled content: a minimum of 90% in bottle and cap, with the figure printed on the product page",
-        "Energy: claims to be the first beauty company manufacturing with 100% wind power, plus an onsite solar array",
-        "Size ladder: 50 mL travel / 200 mL home / 1000 mL salon",
-        "Visual: Aveda's signature dark bottle, restrained and salon-professional"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "distribution": {
       "zh": "沙龙为核心，辅以Sephora与英系电商",
@@ -11404,18 +11107,9 @@
       ]
     },
     "packagingItems": {
-      "zh": [
-        "视觉：透明喷雾瓶，瓶身印有水珠滚落图案强化防水概念",
-        "规格：正装/旅行装/超大装三档覆盖不同使用频率",
-        "联想：科技感、专业沙龙背书",
-        "弱点：透明瓶体在光照/高温环境下的成分稳定性需留意"
-      ],
-      "en": [
-        "Visual: clear spray bottle with a water-beading graphic reinforcing the waterproof concept",
-        "Sizes: full/travel/super size spans different usage frequencies",
-        "Association: tech-forward, professional-salon credibility",
-        "Weakness: clear bottle may raise questions about formula stability under light/heat exposure"
-      ]
+      "zh": [],
+      "en": [],
+      "ja": []
     },
     "productType": "mist",
     "keyTechnology": {
@@ -11780,18 +11474,8 @@
       "ja": []
     },
     "packagingItems": {
-      "zh": [
-        "规格：450 mL 泵头瓶为主装",
-        "延续HONEYQUE家族蜂蜜色系视觉语言",
-        "补充：400 mL替换装、10mL+10mL体验装",
-        "弱点：具体配色差异公开资料未详细描述"
-      ],
-      "en": [
-        "Size: 450 mL pump bottle as the main format",
-        "Continues HONEYQUE's honey-toned family visual language",
-        "Also available: 400 mL refill, 10 mL+10 mL trial set",
-        "Limitation: exact colorway details not specified in public materials"
-      ],
+      "zh": [],
+      "en": [],
       "ja": []
     },
     "keyTechnology": {
@@ -12157,18 +11841,8 @@
       "ja": []
     },
     "packagingItems": {
-      "zh": [
-        "瓶型：深色玻璃滴管瓶",
-        "标识：\"100+\"数字命名，延续品牌统一视觉体系",
-        "系列：与面膜贴、喷雾、面霜等PDRN系列产品共享同一视觉家族",
-        "规格：单一30 mL规格"
-      ],
-      "en": [
-        "Format: dark glass dropper bottle",
-        "Label: \"100+\" numeric naming, consistent with the brand's unified visual system",
-        "Range: shares visual identity with the rest of the PDRN family (pads, mist, cream)",
-        "Size: single 30 mL format"
-      ],
+      "zh": [],
+      "en": [],
       "ja": []
     },
     "keyTechnology": {
