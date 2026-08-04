@@ -17337,58 +17337,41 @@
     "competitiveAdvantage": {
       "zh": [
         {
-          "name": "Nativa SPA Madagascar's Vanilla Body Oil（同库已加入）",
+          "name": "Nativa SPA Madagascar's Vanilla Body Oil（同为巴西品牌，不同集团）",
           "points": [
-            "Nativa SPA走\"SPA仪式感+天然原料\"叙事，Paixão走\"性感香氛\"叙事",
-            "Nativa SPA国际化程度更高，Paixão更聚焦巴西本土市场",
-            "价格带Paixão略低，走更大众的渠道"
+            "Nativa SPA已进入美国市场，本品完全聚焦巴西本土，国际化程度差距明显",
+            "本品走\"性感香氛\"叙事，Nativa SPA走\"天然原料+SPA仪式感\"叙事",
+            "两者都是巴西身体油代表品牌，但分属Coty与O Boticário两个完全不同的公司"
           ]
         },
         {
-          "name": "Sol de Janeiro GlowMotions（同库已加入）",
+          "name": "Johnson's身体油（強生）",
           "points": [
-            "Sol de Janeiro走国际化网红品牌+提亮塑形路线，Paixão走本土日常香氛路线",
-            "Sol de Janeiro渠道以北美专业美妆零售为主，Paixão以巴西本土药妆为主",
-            "两者都源自巴西身体护理文化，但国际化程度差异巨大"
+            "强生是巴西及拉美身体油品类的国际大众品牌代表，渠道铺货比本品更广",
+            "本品走香水级复合香调差异化，强生走\"婴儿油衍生\"的信任背书与温和配方叙事",
+            "价格带接近，都属巴西大众市场的入门价位身体油"
           ]
         }
       ],
       "en": [
         {
-          "name": "Nativa SPA Madagascar's Vanilla Body Oil (already in this library)",
+          "name": "Nativa SPA Madagascar's Vanilla Body Oil (another Brazilian brand, different corporate group)",
           "points": [
-            "Nativa SPA leans on a spa-ritual, natural-ingredient narrative; Paixão leans on a sensual-fragrance narrative",
-            "Nativa SPA has a higher degree of internationalization; Paixão stays more focused on the domestic Brazilian market",
-            "Paixão is priced slightly lower, distributed through more mass-market channels"
+            "Nativa SPA has already entered the US market; this product stays fully focused on the domestic Brazilian market, a clear internationalization gap",
+            "This product leans on a sensual-fragrance narrative; Nativa SPA leans on a natural-ingredient, spa-ritual narrative",
+            "Both are representative Brazilian body-oil brands, but belong to entirely different companies — Coty and O Boticário"
           ]
         },
         {
-          "name": "Sol de Janeiro GlowMotions (already in this library)",
+          "name": "Johnson's Body Oil",
           "points": [
-            "Sol de Janeiro takes an internationalized influencer-brand, illuminating/shaping approach; Paixão takes a domestic everyday-fragrance approach",
-            "Sol de Janeiro's channels are mainly North American specialty beauty retail; Paixão's are mainly Brazilian domestic drugstores",
-            "Both trace back to Brazilian body-care culture, but their degree of internationalization differs enormously"
+            "Johnson's is the international mass-brand representative in the Brazilian and Latin American body-oil category, with broader distribution than this product",
+            "This product differentiates through a perfume-grade layered scent; Johnson's leans on trust inherited from its baby-oil heritage and a gentle-formula narrative",
+            "Similar price bands, both entry-level mass-market Brazilian body oils"
           ]
         }
       ],
-      "ja": [
-        {
-          "name": "ナティバSPA マダガスカルバニラボディオイル（本ライブラリ収録済み）",
-          "points": [
-            "ナティバSPAは「スパの儀式感＋天然原料」を訴求、パイションは「セクシーな香り」を訴求",
-            "ナティバSPAの方が国際化度が高く、パイションはブラジル国内市場により集中",
-            "パイションの方がやや価格が低く、より大衆的なチャネルで展開"
-          ]
-        },
-        {
-          "name": "ソル・デ・ジャネイロ グローモーションズ（本ライブラリ収録済み）",
-          "points": [
-            "ソル・デ・ジャネイロは国際的なインフルエンサーブランド＋輝き・シェイピングの路線、パイションは国内の日常的な香り路線",
-            "ソル・デ・ジャネイロのチャネルは主に北米の専門美容小売、パイションは主にブラジル国内のドラッグストア",
-            "両者ともブラジルのボディケア文化に起源を持つが、国際化の度合いが大きく異なる"
-          ]
-        }
-      ]
+      "ja": []
     },
     "evidenceStats": {
       "zh": [],
@@ -17679,58 +17662,41 @@
     "competitiveAdvantage": {
       "zh": [
         {
-          "name": "Sol de Janeiro GlowMotions（同库已加入）",
+          "name": "Sol de Janeiro（同为巴西灵感身体护理品牌）",
           "points": [
-            "Sol de Janeiro走\"提亮塑形+网红话题\"路线，Nativa SPA走\"天然原料+SPA仪式感\"路线",
-            "Sol de Janeiro渠道更依赖社媒种草，Nativa SPA依赖O Boticário本土门店网络的信任积累",
-            "价格带接近，都是巴西身体油出海的代表品牌"
+            "两者都源自巴西身体护理文化，但Sol de Janeiro已完全国际化、社媒话题度远超本品",
+            "本品走\"天然原料+SPA仪式感\"叙事，Sol de Janeiro走\"闪光提亮+网红效应\"叙事",
+            "价格带接近，但Sol de Janeiro的渠道铺货（Sephora、Ulta）比O Boticário在美国的渠道更成熟"
           ]
         },
         {
-          "name": "Paixão Óleo Corporal（同库已加入）",
+          "name": "Bath & Body Works 身体护理系列",
           "points": [
-            "Paixão走\"性感香氛\"叙事且完全聚焦巴西本土市场，Nativa SPA已进入美国市场",
-            "价格带Nativa SPA明显更高，走精品化路线",
-            "两者都体现了巴西身体护理文化，但国际化程度和品牌调性完全不同"
+            "Bath & Body Works是美国身体护理大众市场的绝对头部，价格约为本品一半",
+            "本品靠\"巴西本土仪式感\"这个异域故事差异化，Bath & Body Works靠高频季节限定香型轮换维持新鲜感",
+            "渠道上Bath & Body Works门店数量远超O Boticário在美国的布局，是典型的\"渠道规模差距悬殊\"型竞争关系"
           ]
         }
       ],
       "en": [
         {
-          "name": "Sol de Janeiro GlowMotions (already in this library)",
+          "name": "Sol de Janeiro (another Brazilian-inspired body-care brand)",
           "points": [
-            "Sol de Janeiro leans on an illuminating/shaping, influencer-driven approach; Nativa SPA leans on natural ingredients and spa ritual",
-            "Sol de Janeiro relies more on social-media discovery; Nativa SPA relies on trust built through O Boticário's domestic retail network",
-            "Similar price bands, both representative Brazilian body-oil brands going international"
+            "Both trace back to Brazilian body-care culture, but Sol de Janeiro has fully internationalized with far greater social buzz than this product",
+            "This product leans on a natural-ingredient, spa-ritual narrative; Sol de Janeiro leans on a shimmer/illuminating, influencer-driven narrative",
+            "Similar price bands, but Sol de Janeiro's channel maturity (Sephora, Ulta) exceeds O Boticário's US retail footprint"
           ]
         },
         {
-          "name": "Paixão Óleo Corporal (already in this library)",
+          "name": "Bath & Body Works Body Care",
           "points": [
-            "Paixão leans on a sensual-fragrance narrative and stays fully focused on the domestic Brazilian market; Nativa SPA has already entered the US market",
-            "Nativa SPA is priced notably higher, taking a more premium approach",
-            "Both embody Brazilian body-care culture, but differ enormously in internationalization and brand tone"
+            "Bath & Body Works is the absolute leader in the US mass body-care market, priced at roughly half of this product",
+            "This product differentiates through an exotic Brazilian-ritual story; Bath & Body Works maintains freshness through high-frequency seasonal scent rotation",
+            "Bath & Body Works' store count far exceeds O Boticário's US footprint, a classic case of a large channel-scale gap"
           ]
         }
       ],
-      "ja": [
-        {
-          "name": "ソル・デ・ジャネイロ グローモーションズ（本ライブラリ収録済み）",
-          "points": [
-            "ソル・デ・ジャネイロは「輝き・シェイピング＋インフルエンサー話題性」の路線、ナティバSPAは「天然原料＋スパの儀式感」の路線",
-            "ソル・デ・ジャネイロはSNSでの発見に依存する度合いが高く、ナティバSPAはオ・ボチカリオの国内小売網で築かれた信頼に依存",
-            "価格帯は近く、共にブラジルのボディオイルが海外進出する際の代表的なブランド"
-          ]
-        },
-        {
-          "name": "パイション ボディオイル（本ライブラリ収録済み）",
-          "points": [
-            "パイションは「セクシーな香り」を訴求しブラジル国内市場に完全に集中、ナティバSPAはすでに米国市場に参入",
-            "ナティバSPAの方が価格が明確に高く、より上質な路線",
-            "両者ともブラジルのボディケア文化を体現しているが、国際化の度合いとブランドトーンが全く異なる"
-          ]
-        }
-      ]
+      "ja": []
     },
     "evidenceStats": {
       "zh": [],
@@ -18026,58 +17992,41 @@
     "competitiveAdvantage": {
       "zh": [
         {
-          "name": "Nativa SPA Madagascar's Vanilla Body Oil（同库已加入）",
+          "name": "Boots Glow Illuminating Mist",
           "points": [
-            "Nativa SPA走\"天然原料+SPA仪式感\"叙事，本品走\"闪光提亮+身体彩妆\"叙事",
-            "本品渠道更依赖社媒话题与专业美妆零售，Nativa SPA依赖本土门店信任积累",
-            "本品单价明显更高，走美妆级定价而非日常护理定价"
+            "英国美妆媒体明确对比过两者：本品闪光持续6-8小时，Boots约3-4小时，本品持续力更强",
+            "Boots价格仅约£5，本品£35左右，价格差距悬殊，Boots走极致平价路线",
+            "质地上本品是油质地更顺滑服帖，Boots偏水感喷雾更轻薄"
           ]
         },
         {
-          "name": "Paixão Óleo Corporal（同库已加入）",
+          "name": "St. Tropez / Vita Liberata 身体提亮系列",
           "points": [
-            "Paixão走巴西本土\"性感香氛\"叙事，本品已完全国际化并加入闪光美妆功能",
-            "本品渠道以北美专业美妆零售为主，Paixão以巴西本土药妆为主",
-            "两者都源自巴西身体护理文化基因，但产品功能与国际化路径完全不同"
+            "St. Tropez等专业美黑品牌背景更专业，主打\"渐进式古铜色\"而非本品的\"即时闪光+洗掉\"逻辑",
+            "本品定位是彩妆级的临时闪光效果，St. Tropez系列更偏向自然晒黑效果的替代品",
+            "两者服务的诉求略有不同：本品满足\"今晚就要闪\"，St.Tropez系列满足\"持续几天的自然古铜色\""
           ]
         }
       ],
       "en": [
         {
-          "name": "Nativa SPA Madagascar's Vanilla Body Oil (already in this library)",
+          "name": "Boots Glow Illuminating Mist",
           "points": [
-            "Nativa SPA leans on a natural-ingredient, spa-ritual narrative; this product leans on a shimmer/glow, body-makeup narrative",
-            "This product relies more on social-media buzz and specialty beauty retail; Nativa SPA relies on trust built through domestic retail",
-            "This product is priced notably higher, following makeup-grade rather than daily-care pricing"
+            "UK beauty media have directly compared the two: this product's shimmer lasts 6-8 hours versus Boots' roughly 3-4 hours, giving this product stronger staying power",
+            "Boots is priced at only about £5 versus roughly £35 for this product, an enormous price gap, with Boots taking an extreme-value approach",
+            "Texturally this product is a smoother, better-clinging oil; Boots leans toward a lighter, more watery mist"
           ]
         },
         {
-          "name": "Paixão Óleo Corporal (already in this library)",
+          "name": "St. Tropez / Vita Liberata Illuminating Body Lines",
           "points": [
-            "Paixão leans on a domestic Brazilian sensual-fragrance narrative; this product has fully internationalized and added a shimmer/makeup function",
-            "This product's channels are mainly North American specialty beauty retail; Paixão's are mainly Brazilian domestic drugstores",
-            "Both trace back to Brazilian body-care culture, but diverge completely in product function and internationalization path"
+            "St. Tropez and similar self-tan brands have a more professional bronzing pedigree, leading with a gradual-tan effect rather than this product's instant-shimmer-and-wash-off logic",
+            "This product is positioned as a makeup-grade temporary shimmer effect; the St. Tropez line leans more toward a natural-tan alternative",
+            "The two serve slightly different needs: this product for \"glow tonight,\" the St. Tropez line for a natural bronze that lasts several days"
           ]
         }
       ],
-      "ja": [
-        {
-          "name": "ナティバSPA マダガスカルバニラボディオイル（本ライブラリ収録済み）",
-          "points": [
-            "ナティバSPAは「天然原料＋スパの儀式感」を訴求、本品は「輝き・グロー＋ボディメイク」を訴求",
-            "本品はSNSでの話題性と専門美容小売への依存度が高く、ナティバSPAは国内店舗で築かれた信頼に依存",
-            "本品の単価は明確に高く、日常ケアではなくメイクアップ級の価格設定"
-          ]
-        },
-        {
-          "name": "パイション ボディオイル（本ライブラリ収録済み）",
-          "points": [
-            "パイションはブラジル国内の「セクシーな香り」を訴求、本品は完全に国際化しシマーメイクアップ機能を追加",
-            "本品のチャネルは主に北米の専門美容小売、パイションは主にブラジル国内のドラッグストア",
-            "両者ともブラジルのボディケア文化を起源に持つが、製品機能と国際化の道筋が全く異なる"
-          ]
-        }
-      ]
+      "ja": []
     },
     "evidenceStats": {
       "zh": [
@@ -18368,34 +18317,41 @@
     "competitiveAdvantage": {
       "zh": [
         {
-          "name": "Paixão Óleo Corporal（同库已加入）",
+          "name": "Bath & Body Works Fine Fragrance Mist",
           "points": [
-            "Paixão走巴西本土香水级复合香调路线，本品走国际化\"美食系\"单一记忆点路线",
-            "本品的\"一香调贯穿全品类\"策略更系统化，Paixão各香型相对独立",
-            "渠道上本品完全国际化，Paixão聚焦巴西本土"
+            "B&BW是美国身体喷雾品类的传统霸主，2024年推出\"Everyday Luxuries\"系列专门对标网红香型，社媒上大量\"哪款闻起来像Cheirosa 62\"的平替攻略把两个品牌直接放在一起比较",
+            "B&BW单瓶价格明显更低（约US$16-17 vs 本品US$26-39），走渠道铺货广、门店促销频繁的大众打法",
+            "本品靠单一命名香调跨品类延伸建立忠诚度，B&BW靠季节限定香型的高频轮换维持新鲜感，是两种不同的香氛增长逻辑"
+          ]
+        },
+        {
+          "name": "Victoria's Secret Fragrance Mist",
+          "points": [
+            "同为美国身体喷雾大众市场的头部玩家，价格带与B&BW接近，同样低于本品",
+            "Victoria's Secret走性感内衣品牌延伸的调性，本品走\"巴西海滩文化\"的调性，目标人群有交叉但故事完全不同",
+            "本品在2024年跃升为Sephora年度销量第一品牌，反映的是从大众渠道向专业美妆零售渠道的差异化打法"
           ]
         }
       ],
       "en": [
         {
-          "name": "Paixão Óleo Corporal (already in this library)",
+          "name": "Bath & Body Works Fine Fragrance Mist",
           "points": [
-            "Paixão takes a domestic Brazilian perfume-grade layered-scent approach; this product takes an internationalized, single-memorable-note gourmand approach",
-            "This product's one-scent-across-every-category strategy is more systematic; Paixão's scent variants are relatively independent of each other",
-            "This product's channel is fully internationalized; Paixão stays focused on the domestic Brazilian market"
+            "Bath & Body Works is the long-standing leader in the US body-mist category, launching an \"Everyday Luxuries\" collection in 2024 specifically to compete with viral scents; countless \"dupe\" guides online directly pair the two brands",
+            "Bath & Body Works is priced notably lower (about US$16-17 vs. this product's US$26-39), leaning on broad retail distribution and frequent in-store promotions",
+            "This product builds loyalty through one named scent extended across categories; Bath & Body Works keeps freshness through frequent rotation of seasonal limited-edition scents — two different fragrance-growth logics"
+          ]
+        },
+        {
+          "name": "Victoria's Secret Fragrance Mist",
+          "points": [
+            "Another top US mass-market body-mist player, priced similarly to Bath & Body Works and below this product",
+            "Victoria's Secret extends from a lingerie-brand sensuality; this product extends from a Brazilian-beach-culture narrative — overlapping audiences, entirely different stories",
+            "This product became Sephora's top-selling brand in 2024, reflecting a differentiation strategy built around specialty beauty retail rather than mass channels"
           ]
         }
       ],
-      "ja": [
-        {
-          "name": "パイション ボディオイル（本ライブラリ収録済み）",
-          "points": [
-            "パイションはブラジル国内向けの香水級の層構造の香りを訴求、本品は国際的な「グルマン系」の単一の記憶点を訴求",
-            "本品の「一つの香りを全カテゴリーに展開する」戦略はより体系的、パイションの各香りは比較的独立している",
-            "チャネル面で本品は完全に国際化、パイションはブラジル国内市場に集中"
-          ]
-        }
-      ]
+      "ja": []
     },
     "evidenceStats": {
       "zh": [
@@ -18713,35 +18669,37 @@
     "competitiveAdvantage": {
       "zh": [
         {
-          "name": "Nativa SPA Madagascar's Vanilla Body Oil（同库已加入）",
+          "name": "NIVEA Q10 紧致身体乳",
           "points": [
-            "Nativa SPA走天然原料SPA仪式感，本品走临床验证紧致塑形+闪光美妆效果",
-            "本品定价体系更精细（4档规格），Nativa SPA规格相对单一",
-            "本品社媒话题度和品牌知名度明显更高"
+            "NIVEA走大众药妆渠道、全球广泛铺货，价格约为本品的1/3-1/2",
+            "NIVEA的Q10成分叙事偏\"抗老化学\"，本品的瓜拉纳咖啡因叙事偏\"巴西天然植物\"，是两种不同的成分故事路径",
+            "本品靠闪光云母提供即时可见效果，NIVEA更依赖持续使用后的渐进改善叙事"
           ]
         },
         {
-          "name": "Paixão Óleo Corporal（同库已加入）",
+          "name": "Clarins Body Fit 紧致精华",
           "points": [
-            "Paixão聚焦巴西本土市场且不含闪光/塑形功效成分，本品已完全国际化并加入功效诉求",
-            "两者都源自巴西身体护理文化基因，但本品的产品复杂度和国际化程度远超Paixão"
+            "Clarins走法系专业美容院背书路线，价格带明显高于本品，走真正的高端身体护理",
+            "两者都强调\"可见紧致\"的功效性宣称，但Clarins的临床测试历史更悠久、机构背书更专业",
+            "本品靠社媒话题度和亲民定价（US$12起）实现比Clarins更广泛的年轻消费群体渗透"
           ]
         }
       ],
       "en": [
         {
-          "name": "Nativa SPA Madagascar's Vanilla Body Oil (already in this library)",
+          "name": "NIVEA Q10 Firming Body Cream",
           "points": [
-            "Nativa SPA leans on natural ingredients and spa ritual; this product leans on clinically claimed firming plus makeup-grade shimmer",
-            "This product has a more finely graduated pricing structure (4 sizes); Nativa SPA's sizing is relatively singular",
-            "This product has notably higher social buzz and brand awareness"
+            "NIVEA is distributed broadly through mass drugstore channels globally, priced at roughly 1/3 to 1/2 of this product",
+            "NIVEA's Q10 story leans on anti-aging chemistry; this product's guaraná-caffeine story leans on Brazilian natural botanicals — two different ingredient narratives",
+            "This product uses mica shimmer for an instant visible effect, while NIVEA relies more on a gradual-improvement-with-continued-use narrative"
           ]
         },
         {
-          "name": "Paixão Óleo Corporal (already in this library)",
+          "name": "Clarins Body Fit Firming Concentrate",
           "points": [
-            "Paixão focuses on the domestic Brazilian market and lacks shimmer/firming functional ingredients; this product has fully internationalized and added functional claims",
-            "Both trace back to Brazilian body-care culture, but this product's complexity and internationalization far exceed Paixão's"
+            "Clarins leans on French professional-spa endorsement, priced notably higher than this product, in genuine high-end body care",
+            "Both emphasize a visible-firming functional claim, but Clarins has a longer clinical-testing history and more professional institutional backing",
+            "This product achieves broader penetration among younger consumers than Clarins through social buzz and accessible pricing (starting at US$12)"
           ]
         }
       ],
@@ -19057,19 +19015,37 @@
     "competitiveAdvantage": {
       "zh": [
         {
-          "name": "Brazilian Bum Bum Cream（同库已加入，同品牌）",
+          "name": "Dove 身体沐浴露",
           "points": [
-            "本品是清洁品类，Bum Bum Cream是紧致品类，两者是同一\"身体护理仪式\"里的不同步骤而非直接竞争",
-            "本品香调为Cheirosa 68，Bum Bum Cream为Cheirosa 62，代表品牌不同产品线各自的专属香调策略"
+            "Dove是全球身体清洁品类的认知度标杆，价格约为本品的1/3，渠道铺货远超本品",
+            "Dove走\"温和保湿\"的基础诉求，本品走\"焕活更新+兼作剃毛膏\"的功效叠加诉求，功能复杂度更高",
+            "本品的低泡沫奶油质地是差异化设计，Dove以经典丰富泡沫的Beauty Bar/沐浴露体验为主"
+          ]
+        },
+        {
+          "name": "Native 身体沐浴露",
+          "points": [
+            "Native走\"成分干净、无硫酸盐\"的新兴大众品牌定位，价格带比本品略低",
+            "两者都强调无硫酸盐配方，但本品额外叠加了咖芽果油焕活成分和专属香调故事",
+            "Native渠道更依赖Target等美国大众零售，本品更依赖Sephora等专业美妆零售"
           ]
         }
       ],
       "en": [
         {
-          "name": "Brazilian Bum Bum Cream (already in this library, same brand)",
+          "name": "Dove Body Wash",
           "points": [
-            "This product is a cleansing item, Bum Bum Cream is a firming item — the two are different steps in the same body-care ritual rather than direct competitors",
-            "This product uses the Cheirosa 68 scent while Bum Bum Cream uses Cheirosa 62, representing the brand's strategy of dedicated scents per product line"
+            "Dove is the global benchmark for brand awareness in the body-cleansing category, priced at roughly 1/3 of this product with far broader distribution",
+            "Dove leads with a basic gentle-moisture claim; this product layers a renewal claim plus a shaving-cream add-on, a higher functional complexity",
+            "This product's low-lather cream texture is a deliberate differentiator; Dove leans on the classic rich-lather Beauty Bar/wash experience"
+          ]
+        },
+        {
+          "name": "Native Body Wash",
+          "points": [
+            "Native positions itself as an emerging mass brand around clean, sulfate-free ingredients, priced slightly below this product",
+            "Both emphasize sulfate-free formulas, but this product layers on a cacay-oil renewal claim and a dedicated scent story",
+            "Native relies more on US mass retail like Target; this product relies more on specialty beauty retail like Sephora"
           ]
         }
       ],
@@ -19370,37 +19346,37 @@
     "competitiveAdvantage": {
       "zh": [
         {
-          "name": "Brazilian Bum Bum Cream（同库已加入，同品牌）",
+          "name": "Space NK Caribbean Shores Body Oil",
           "points": [
-            "本品是身体乳的\"精华级\"进阶配套，价格是Bum Bum Cream正装的约1.1倍但容量仅为其约42%",
-            "本品临床数据披露维度更多（5组vs Bum Bum Cream的2-3组）",
-            "两者共享同一Cheirosa 62香调，官方建议叠加使用"
+            "英国美妆媒体明确把这支产品列为本品的\"平替\"（dupe），价格远低于本品",
+            "两者质地与使用体验高度相似，主要差异是本品有更完整的临床数据披露支撑功效宣称",
+            "Space NK走自有品牌渠道专属打法，本品走多渠道铺货打法，覆盖面更广"
           ]
         },
         {
-          "name": "GlowMotions Body Glow Oil（同库已加入，同品牌）",
+          "name": "Clarins Tonic 身体调理油",
           "points": [
-            "GlowMotions主打闪光美妆效果，本品主打功效性紧致塑形，是品牌身体油品类里两种不同的差异化路径",
-            "价格本品略高（US$52 vs US$36），单毫升成本也更高",
-            "本品的临床数据披露远比GlowMotions详尽，走\"功效驱动\"而非\"视觉驱动\"路线"
+            "Clarins走法系专业美容院背书的紧致身体油路线，价格带与本品接近甚至更高",
+            "Clarins的历史更悠久、专业形象更强，本品的临床数据披露维度更细（5组不同维度数据）",
+            "本品靠瓜拉纳咖啡因+复合物这个专利命名成分建立差异化，Clarins靠品牌本身的法式美容院血统建立信任"
           ]
         }
       ],
       "en": [
         {
-          "name": "Brazilian Bum Bum Cream (already in this library, same brand)",
+          "name": "Space NK Caribbean Shores Body Oil",
           "points": [
-            "This product is the \"serum-grade\" advanced companion to the body cream, priced about 1.1x the full-size Bum Bum Cream but only about 42% of its volume",
-            "This product discloses more clinical data dimensions (5 vs. Bum Bum Cream's 2-3)",
-            "Both share the same Cheirosa 62 scent, with the brand recommending they be layered together"
+            "UK beauty media explicitly list this as a dupe for this product, priced far below it",
+            "The texture and use experience are highly similar; the main difference is this product's more complete disclosed clinical data backing its claims",
+            "Space NK relies on its own-brand exclusive retail channel; this product relies on broader multi-channel distribution"
           ]
         },
         {
-          "name": "GlowMotions Body Glow Oil (already in this library, same brand)",
+          "name": "Clarins Tonic Body Treatment Oil",
           "points": [
-            "GlowMotions leads with a shimmer/makeup effect; this product leads with functional firming — two different differentiation paths within the brand's body oil category",
-            "This product is priced slightly higher (US$52 vs. US$36), with a higher per-mL cost as well",
-            "This product's clinical data disclosure is far more extensive than GlowMotions', taking an efficacy-driven rather than visual-driven route"
+            "Clarins takes a French professional-spa-endorsed firming body oil approach, priced similarly to or above this product",
+            "Clarins has a longer history and stronger professional image; this product discloses clinical data across more dimensions (5 separate data sets)",
+            "This product differentiates through its named proprietary Guaraná Caffeine+ Complex; Clarins builds trust through the brand's own French-spa heritage"
           ]
         }
       ],
