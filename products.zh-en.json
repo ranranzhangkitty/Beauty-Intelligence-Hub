@@ -16398,9 +16398,9 @@
       "ja": "処方の核心は10種の精油複合体：ユーカリ、タイム、カユプテ（抗菌・浄化）、ラベンダー、ラバンジン、サイプレス（鎮静・バランス）、レモン、セージ、ローズマリー、ジュニパーベリー（頭皮の微小循環をサポート）。100%植物由来と表示されているが、参照した通販ページには完全な全成分（INCI）表は個別に公開されていなかった。"
     },
     "evidence": {
-      "zh": "官方展示的志愿者自评调查数据（具体人数未标注）：90%认为按摩后头皮得到清洁与刺激；90%表示使用后有清爽感；81%认为头皮状态得到改善（该项数值在部分零售页面被截断，未见完整原始表述）。这些均为消费者自评百分比，非独立第三方仪器测试。",
-      "en": "The brand shows volunteer self-assessment survey figures (sample size not disclosed): 90% felt the scalp was cleansed and stimulated after massage; 90% reported a feeling of freshness after use; 81% felt scalp condition improved (this figure appeared truncated on some retail pages, with the full original statement not found). These are all consumer self-assessment percentages, not independent third-party instrumental testing.",
-      "ja": "公式が示すボランティアの自己評価アンケート結果（具体的な人数は非公開）：90%がマッサージ後に頭皮が洗浄・刺激されたと回答、90%が使用後に爽快感を感じたと回答、81%が頭皮状態の改善を感じたと回答（この数値は一部の通販ページで途切れており、完全な元の記述は確認できなかった）。いずれも消費者による自己評価のパーセンテージであり、独立した第三者機器による測定ではない。"
+      "zh": "官方展示的志愿者自评调查数据（23名头皮正常/干性/油性的志愿者，使用28天后测评）：90%认为按摩后头皮得到清洁与刺激；90%表示使用后有清爽感；81%认为头皮得到净化、重新平衡与保护；81%认为发丝更美丽有光泽。这些均为消费者自评百分比，样本量较小（23人），非独立第三方仪器测试。",
+      "en": "Official volunteer self-assessment survey (23 volunteers with normal, dry, or oily scalps, assessed after 28 days of use): 90% felt the scalp was cleansed and stimulated after massage; 90% reported a feeling of freshness after use; 81% felt the scalp was purified, rebalanced, and protected; 81% felt hair was more beautiful and shinier. These are all consumer self-assessment percentages from a small sample (23 people), not independent third-party instrumental testing.",
+      "ja": "公式が示すボランティアの自己評価アンケート結果（頭皮が普通・乾燥・脂性の23名のボランティアが28日間使用後に評価）：90%がマッサージ後に頭皮が洗浄・刺激されたと回答、90%が使用後に爽快感を感じたと回答、81%が頭皮が浄化・再バランス・保護されたと回答、81%が髪がより美しく輝いていると回答。いずれも少人数（23名）のサンプルによる消費者の自己評価であり、独立した第三者機器による測定ではない。"
     },
     "experience": {
       "zh": "使用滴管取液，细软发质用2滴管、粗硬发质用4滴管，分区涂抹于干燥头皮，用滴管尖端按摩发根促进吸收，静置20分钟后彻底冲洗再正常洗发，官方建议每周使用一次；带舒缓性的植物精油香调，官方描述涂抹瞬间有清凉感。",
@@ -16422,7 +16422,10 @@
       "en": "Data collected 2026-08-02. Information taken from Phyto's Canadian official page (ca-en.phyto.com) and multiple third-party retail listings (Escentual, Planet Beauty, Care to Beauty, etc.). No complete INCI list was found publicly listed; the ingredients field here is based on the officially described essential-oil combination and has not been individually verified against a full INCI disclosure.",
       "ja": "情報収集日 2026年8月2日。フィトのカナダ公式サイト（ca-en.phyto.com）及び複数の第三者通販ページ（Escentual、Planet Beauty、Care to Beautyなど）の商品説明より収集。完全な全成分（INCI）表は公開されていなかったため、本項目のingredients欄は公式が説明する精油の組み合わせを基にしており、INCIの個別照合は行っていない。"
     },
-    "images": [],
+    "images": [
+      "https://admin-canada.phyto.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/o/polleine_1-phyto-1.jpg",
+      "https://admin-canada.phyto.com/media/catalog/product/p/o/poll_ine_derri_re.png"
+    ],
     "sources": [
       [
         "Official product page (Phyto Canada)",
@@ -16646,17 +16649,20 @@
       "zh": [
         "90%志愿者认为按摩后头皮得到清洁与刺激",
         "90%志愿者表示使用后有清爽感",
-        "81%志愿者认为头皮状态得到改善（数据来源标注不完整）"
+        "81%志愿者认为头皮得到净化、重新平衡与保护",
+        "81%志愿者认为发丝更美丽有光泽（样本23人，使用28天后测评）"
       ],
       "en": [
         "90% of volunteers felt the scalp was cleansed and stimulated after massage",
         "90% of volunteers reported a feeling of freshness after use",
-        "81% of volunteers felt scalp condition improved (source citation incomplete)"
+        "81% felt the scalp was purified, rebalanced, and protected",
+        "81% felt hair was more beautiful and shinier (sample of 23 volunteers, assessed after 28 days)"
       ],
       "ja": [
         "90%のボランティアがマッサージ後に頭皮の洗浄・刺激を実感",
         "90%のボランティアが使用後の爽快感を実感",
-        "81%のボランティアが頭皮状態の改善を実感（出典の記載は不完全）"
+        "81%が頭皮の浄化・再バランス・保護を実感",
+        "81%が髪がより美しく輝いていると実感（23名、28日間使用後の評価）"
       ]
     },
     "experienceItems": {
@@ -16766,9 +16772,9 @@
       "ja": "牛ゼラチン、ニンジン根油浸出物、増粘剤：グリセロール、アセロラ果実エキス（ビタミンC含有）、魚油、増粘剤：脂肪酸モノ・ジグリセリド、米ぬか油、DL-α-トコフェロール酢酸エステル（ビタミンE）、L-アスコルビン酸（ビタミンC）、不活性ビール酵母、パントテン酸カルシウム（ビタミンB5）、小麦胚芽油、増粘剤：菜種レシチン、ガンマオリザノール、着色料：酸化鉄、塩酸ピリドキシン（ビタミンB6）、穀物フレーバー、リボフラビン（ビタミンB2）、D-ビオチン（ビタミンB8）。核心ミネラルは亜鉛（ビスグリシン酸亜鉛キレート）。"
     },
     "evidence": {
-      "zh": "第三方零售页面（LovelySkin）引用官方临床测试称：95%的受试志愿者在使用3个月后获得积极效果，但未标注具体样本量、测试机构名称及\"积极效果\"的量化定义。产品成分层面的功能表述（如锌参与角蛋白合成、维生素B6/B8参与角蛋白生成）为营养学层面的已知机制，非本产品专属临床数据。",
-      "en": "A third-party retail page (LovelySkin) cites a brand clinical claim that 95% of volunteers experienced positive results after 3 months, but does not disclose sample size, the testing institution's name, or a quantified definition of \"positive results.\" The ingredient-level functional claims (e.g., zinc's role in keratin synthesis, B6/B8's role in keratin production) reflect established nutritional science mechanisms rather than product-specific clinical data.",
-      "ja": "第三者の通販ページ（LovelySkin）は、臨床試験で3ヶ月後に95%のボランティアが良好な結果を得たという公式の主張を引用しているが、サンプル数、試験機関名、「良好な結果」の定量的な定義は開示されていない。成分レベルの機能説明（亜鉛のケラチン合成への関与、ビタミンB6/B8のケラチン生成への関与など）は、栄養学的に確立されたメカニズムであり、本製品固有の臨床データではない。"
+      "zh": "官方展示的志愿者自评调查数据（78名志愿者，进行3个月疗程后测评）：100%对产品表示满意；100%愿意在未来重复疗程；88%认为头发生长更快；87%认为发量更蓬松；93%认为指甲更强韧；88%认为指甲生长更快。此前有第三方零售页面引用过\"95%积极效果\"的表述，与官方页面\"78名志愿者3个月研究\"的数据来源可能不完全一致，本条以品牌官网标注的具体数据为准。这些均为消费者自评百分比，非独立第三方临床测试数据。",
+      "en": "Official volunteer self-assessment survey (78 volunteers, assessed after a 3-month course): 100% were satisfied with the product; 100% said they'd repeat the course; 88% felt their hair grew faster; 87% felt hair had more volume; 93% felt nails were stronger; 88% felt nails grew faster. A third-party retail page previously cited a \"95% positive results\" figure, which may not fully align with the brand's own \"78-volunteer, 3-month study\" figures cited here; this entry defers to the specific numbers disclosed on the brand's own site. These are all consumer self-assessment percentages, not independent third-party clinical data.",
+      "ja": "公式が示すボランティアの自己評価アンケート結果（78名のボランティアが3ヶ月間のクール後に評価）：100%が製品に満足、100%が今後もクールを繰り返したいと回答、88%が髪の成長が早くなったと実感、87%が髪にボリュームが出たと実感、93%が爪が強くなったと実感、88%が爪の成長が早くなったと実感。以前、第三者の通販ページで「95%が良好な結果」という数値が引用されていたが、これは公式ページの「78名・3ヶ月研究」の数値と完全には一致しない可能性がある。本項目はブランド公式サイトに明記された具体的な数値を採用する。いずれも消費者による自己評価のパーセンテージであり、独立した第三者臨床データではない。"
     },
     "experience": {
       "zh": "官方建议每日2粒随餐服用，连续服用3个月为一疗程；官方特别提示这是营养补充剂而非药品替代品，也不能替代均衡饮食，孕妇及哺乳期女性需咨询医生后使用；软胶囊采用100%可生物降解外壳的\"软胶囊技术\"包裹活性成分复合物，官方称有助于提升吸收利用率。",
@@ -16790,7 +16796,10 @@
       "en": "Data collected 2026-08-02. Information taken from Phyto's US official site (us.phyto.com), the ingredients-explanation page on the English Phyto site (en.phyto.com), and third-party retail listings (LovelySkin, The French Pharmacy, etc.). As an oral dietary supplement, this entry is intended for competitive intelligence reference only and does not constitute medical or nutritional advice.",
       "ja": "情報収集日 2026年8月2日。フィト米国公式サイト（us.phyto.com）、フィト英語版公式サイトの成分説明ページ（en.phyto.com）及び第三者通販ページ（LovelySkin、The French Pharmacyなど）より収集。経口サプリメントであるため、本項目の内容は競合情報の参考目的に限定され、医学的・栄養学的アドバイスを構成するものではない。"
     },
-    "images": [],
+    "images": [
+      "https://admin-canada.phyto.com/media/catalog/product/p/h/phytophanere_2_.png",
+      "https://admin-canada.phyto.com/media/catalog/product/p/h/phanere_packshot_life-style.jpg"
+    ],
     "sources": [
       [
         "Official product page (Phyto USA)",
@@ -17009,13 +17018,22 @@
     },
     "evidenceStats": {
       "zh": [
-        "95%志愿者3个月后获得积极效果（样本量与测试机构未标注）"
+        "100%志愿者对产品表示满意",
+        "100%志愿者愿意重复疗程",
+        "88%认为头发生长更快、87%认为发量更蓬松",
+        "93%认为指甲更强韧、88%认为指甲生长更快（样本78人，3个月疗程后测评）"
       ],
       "en": [
-        "95% of volunteers experienced positive results after 3 months (sample size and testing institution not disclosed)"
+        "100% of volunteers were satisfied with the product",
+        "100% said they'd repeat the treatment course",
+        "88% felt hair grew faster, 87% felt hair had more volume",
+        "93% felt nails were stronger, 88% felt nails grew faster (sample of 78 volunteers, after a 3-month course)"
       ],
       "ja": [
-        "95%のボランティアが3ヶ月後に良好な結果を得た（サンプル数と試験機関は非公開）"
+        "100%のボランティアが製品に満足",
+        "100%がクールの繰り返しを希望",
+        "88%が髪の成長が早いと実感、87%が髪のボリュームアップを実感",
+        "93%が爪の強化を実感、88%が爪の成長が早いと実感（78名、3ヶ月クール後の評価）"
       ]
     },
     "experienceItems": {
