@@ -18133,5 +18133,1341 @@
         }
       ]
     }
+  },
+  {
+    "id": "soldejaneiro-cheirosa-62-perfume-mist",
+    "vertical": "skincare",
+    "category": "usa",
+    "productType": "mist",
+    "addedAt": 52,
+    "name": {
+      "zh": "Sol de Janeiro Cheirosa 62 香水身体喷雾",
+      "en": "Sol de Janeiro Cheirosa 62 Perfume Mist",
+      "ja": "ソル・デ・ジャネイロ シェイローザ62 パフュームミスト"
+    },
+    "brand": {
+      "zh": "Sol de Janeiro",
+      "en": "Sol de Janeiro",
+      "ja": "ソル・デ・ジャネイロ"
+    },
+    "company": {
+      "zh": "Sol de Janeiro USA, Inc.",
+      "en": "Sol de Janeiro USA, Inc.",
+      "ja": "ソル・デ・ジャネイロ USA, Inc."
+    },
+    "origin": {
+      "zh": "美国（品牌灵感与命名来自巴西里约热内卢）",
+      "en": "United States (brand inspiration and naming rooted in Rio de Janeiro, Brazil)",
+      "ja": "アメリカ（ブランドのインスピレーションと命名はブラジルのリオデジャネイロに由来）"
+    },
+    "launch": {
+      "zh": "品牌最初的招牌单品，2015年起持续在售，是Cheirosa 62这一核心香调的原点产品",
+      "en": "The brand's original hero item, in continuous production since 2015, the founding product of the core Cheirosa 62 scent",
+      "ja": "ブランド最初の看板商品で、2015年から継続販売中。中核となるCheirosa 62の香りの原点となる商品"
+    },
+    "market": {
+      "zh": "品牌官网soldejaneiro.com、Sephora、Ulta Beauty等北美专业美妆零售",
+      "en": "Brand DTC (soldejaneiro.com), Sephora, Ulta Beauty and other North American specialty beauty retail",
+      "ja": "ブランド公式サイトsoldejaneiro.com、セフォラ、Ulta Beautyなど北米の専門美容小売"
+    },
+    "capacity": {
+      "zh": "90 mL / 240 mL两种规格，另有替换装",
+      "en": "Available in 90 mL and 240 mL, plus a refill option",
+      "ja": "90mL／240mLの2サイズ展開、詰め替え用もあり"
+    },
+    "price": {
+      "zh": "US$26.00（90mL）／US$39.00（240mL）",
+      "en": "US$26.00 (90mL) / US$39.00 (240mL)",
+      "ja": "26.00米ドル（90mL）／39.00米ドル（240mL）"
+    },
+    "positioning": {
+      "zh": "品牌最初的招牌香氛喷雾，可用于头发、身体甚至衣物，是Sol de Janeiro\"一个香调贯穿多品类\"策略的起点产品。香调本身命名为向1962年经典歌曲《伊帕内玛女孩》致敬，围绕开心果、盐渍焦糖与香草打造温暖美食系（Gourmand）香型，是品牌后续Bum Bum Cream等身体护理产品共用香调的源头。",
+      "en": "The brand's original signature fragrance mist, usable on hair, body, and even clothing, the founding product in Sol de Janeiro's strategy of running one scent across multiple categories. The fragrance itself is named as a tribute to the 1962 classic song \"The Girl from Ipanema,\" built around pistachio, salted caramel, and vanilla for a warm gourmand profile — the source scent shared by later products like Brazilian Bum Bum Cream.",
+      "ja": "ブランド最初の看板フレグランスミストで、髪、体、さらには衣類にも使え、ソル・デ・ジャネイロの「一つの香りを複数のカテゴリーに展開する」戦略の原点となる商品。香りそのものは1962年の名曲「イパネマの娘」へのオマージュとして命名され、ピスタチオ、塩キャラメル、バニラを軸に温かいグルマン系の香調を構築している。後のBrazilian Bum Bum Creamなど身体ケア製品が共有する香りの源流。"
+    },
+    "target": {
+      "zh": "追求持久留香、喜欢甜美美食系香调的年轻消费者；愿意为一个香调购买多品类产品（喷雾+身体乳+身体油）叠加使用的用户。",
+      "en": "Younger consumers who want long-lasting fragrance and favor sweet gourmand scents; users willing to buy multiple product categories (mist, lotion, oil) in the same scent to layer for intensity.",
+      "ja": "香りの持続性を求め、甘いグルマン系の香りを好む若い消費者。同じ香りを複数のカテゴリー（ミスト、ローション、オイル）でまとめ買いし、重ね使いすることを厭わないユーザー。"
+    },
+    "distribution": {
+      "zh": "90mL/US$26，240mL/US$39，单毫升价格随规格增大而降低；240mL替换装可减少62%塑料用量，价格结构鼓励复购而非一次性尝鲜。",
+      "en": "US$26 for 90mL and US$39 for 240mL, with per-mL cost dropping at the larger size; a 240mL refill uses 62% less plastic, with the pricing structure encouraging repeat purchase over one-time trial.",
+      "ja": "90mL・26米ドル、240mL・39米ドルで、サイズが大きいほど1mLあたりの単価が下がる。240mLの詰め替え用はプラスチック使用量を62%削減でき、価格構造は一度きりのお試しよりリピート購入を促す設計になっている。"
+    },
+    "ingredients": {
+      "zh": "变性酒精、水、香精、苯甲醇、水杨酸苄酯、羟基香茅醛、香豆素、柠檬烯、芳樟醇、苯甲酸苄酯、柠檬醛、丁香酚。",
+      "en": "Alcohol Denat., Aqua (Water), Parfum (Fragrance), Benzyl Alcohol, Benzyl Salicylate, Hydroxycitronellal, Coumarin, Limonene, Linalool, Benzyl Benzoate, Citral, Eugenol.",
+      "ja": "変性アルコール、水、香料、ベンジルアルコール、サリチル酸ベンジル、ヒドロキシシトロネラール、クマリン、リモネン、リナロール、安息香酸ベンジル、シトラール、オイゲノール"
+    },
+    "evidence": {
+      "zh": "官方评价系统显示总体评分4.80/5（8070条评价）；AI生成评价摘要显示消费者主要称赞留香持久度与\"开心果甜香\"，但也有部分评价反馈在皮肤上留香时间不及预期，需要多次补喷或叠加身体乳增强持久度。这些均为电商平台消费者评价，非独立实验室嗅觉持久度测试。",
+      "en": "The brand's review system shows an overall rating of 4.80/5 (8,070 reviews); an AI-generated review summary shows consumers mainly praising the longevity and the pistachio-sweet scent, though some reviews note the scent fades faster than expected on skin, requiring reapplication or layering with body lotion to extend it. These are all e-commerce consumer reviews, not independent lab longevity testing.",
+      "ja": "公式のレビューシステムでは総合評価4.80/5（8,070件のレビュー）を示している。AIが生成したレビュー要約では、消費者が主に香りの持続性と「ピスタチオの甘い香り」を評価しているが、一部には肌の上での香りの持続が期待より短く、再スプレーやボディローションとの重ね使いが必要という意見もある。これらはすべてEコマースプラットフォーム上の消費者レビューであり、独立した実験室での香り持続テストではない。"
+    },
+    "experience": {
+      "zh": "官方建议全身、头发、衣物均可喷洒；官方特别提示叠加同香调身体乳（Bum Bum Cream）可以增强留香持久度，也可选购更浓缩的香水版本（Eau de Parfum）作为持久度升级选择。香调结构为前调开心果杏仁，中调洋玉兰茉莉花瓣，尾调香草盐渍焦糖檀香。",
+      "en": "The brand recommends spritzing all over the body, hair, and even clothing; it specifically suggests layering with the same-scent body cream (Bum Bum Cream) to extend longevity, or opting for a more concentrated Eau de Parfum version for longer wear. The scent structure is pistachio and almond top notes, heliotrope and jasmine petal heart notes, and vanilla, salted caramel, and sandalwood base notes.",
+      "ja": "公式は全身、髪、衣類にもスプレーできると案内している。同じ香りのボディクリーム（Bum Bum Cream）と重ねることで持続性を高められること、より濃縮されたオードパルファムを選ぶことでさらに持続性を高められることも案内している。香りの構成はトップがピスタチオとアーモンド、ミドルがヘリオトロープとジャスミンの花びら、ベースがバニラ、塩キャラメル、サンダルウッド。"
+    },
+    "packaging": {
+      "zh": "透明玻璃瓶配沙滩感手绘插画标签，第一眼传递\"度假、阳光、甜美\"的调性，是品牌视觉体系的原点设计，后续产品线大多延续这套配色与插画风格。",
+      "en": "A clear glass bottle with a beach-themed illustrated label reads as vacation, sunshine, and sweetness at first glance — the founding design of the brand's visual system, with most later product lines continuing this color palette and illustration style.",
+      "ja": "透明なガラスボトルにビーチ感のある手描き風イラストのラベルは、バカンス、太陽、甘さという第一印象を与える。ブランドのビジュアル体系の原点となるデザインで、後続の製品ラインの多くがこの配色とイラストスタイルを踏襲している。"
+    },
+    "insight": {
+      "zh": "这支产品是理解Sol de Janeiro整个品牌打法的钥匙——公司官方FAQ里明确列出\"这个香调还出现在身体乳、身体磨砂、护发油、护发素、除臭剂、护手霜等十余款产品里\"，说明品牌从一开始就不是按品类扩张，而是按\"香氛IP\"扩张：先做出一个足够有记忆点的香调，再把这个香调注入几乎所有品类。这跟本库里大部分品牌\"先做好一个品类再谈香氛\"的顺序完全相反，是嗅觉资产驱动品类扩张的典型案例。",
+      "en": "This product is the key to understanding Sol de Janeiro's entire brand strategy — the company's own FAQ explicitly lists over a dozen products carrying this same scent, from body cream and scrub to hair oil, conditioner, deodorant, and hand cream. This shows the brand never expanded category by category; it expanded by fragrance IP — build one sufficiently memorable scent, then inject it into nearly every category. This is the exact reverse of how most brands in this library operate (perfect one category, then think about fragrance), a clear example of scent-asset-driven category expansion.",
+      "ja": "この製品は、ソル・デ・ジャネイロというブランド全体の戦略を理解する鍵となる。公式のFAQには、ボディクリーム、スクラブからヘアオイル、コンディショナー、デオドラント、ハンドクリームまで、この同じ香りを冠した10種類以上の製品が明記されている。これは、ブランドが最初からカテゴリーごとに拡張したのではなく、「香りのIP」として拡張してきたことを示している——十分に記憶に残る香りを一つ作り、それをほぼすべてのカテゴリーに注入する。このライブラリの多くのブランドが「まずカテゴリーを極めてから香りを考える」のとは正反対の順序であり、香りという資産がカテゴリー拡張を牽引する典型例と言える。"
+    },
+    "notes": {
+      "zh": "资料采集日 2026-08-02。信息取自品牌官网soldejaneiro.com产品页，含完整成分表与官方评价统计数据。",
+      "en": "Data collected 2026-08-02. Information taken from the brand's official soldejaneiro.com product page, including the complete ingredient list and official review statistics.",
+      "ja": "情報収集日 2026年8月2日。ブランド公式サイトsoldejaneiro.com商品ページより収集。完全な成分表及び公式レビュー統計データを含む。"
+    },
+    "images": [
+      "https://soldejaneiro.com/cdn/shop/files/Cheriosa62_perfume_Mist_240mL_Sol_de_Janeiro_0-webp.webp?v=1720730189"
+    ],
+    "sources": [
+      [
+        "Official product page (Sol de Janeiro)",
+        "https://soldejaneiro.com/products/cheirosa-62-hair-body-fragrance-mist"
+      ]
+    ],
+    "targetUsers": {
+      "zh": [
+        "追求持久留香、喜欢甜美美食系香调的年轻消费者",
+        "愿意跨品类叠加同香调产品增强留香的用户",
+        "偏好\"度假感\"香氛体验的消费者"
+      ],
+      "en": [
+        "Younger consumers who want long-lasting fragrance and favor sweet gourmand scents",
+        "Users willing to layer same-scent products across categories for intensity",
+        "Consumers who favor a vacation-scent experience"
+      ],
+      "ja": [
+        "香りの持続性を求め、甘いグルマン系の香りを好む若い消費者",
+        "カテゴリーを横断して同じ香りの製品を重ね使いすることを厭わないユーザー",
+        "バカンス感のある香り体験を好む消費者"
+      ]
+    },
+    "keyClaims": {
+      "zh": [
+        "品牌最初招牌香调",
+        "可用于头发、身体、衣物",
+        "开心果盐渍焦糖香草美食系香调",
+        "十余款产品共用同一香调"
+      ],
+      "en": [
+        "The brand's original signature scent",
+        "Usable on hair, body, and clothing",
+        "Pistachio, salted caramel, and vanilla gourmand profile",
+        "Shared across a dozen-plus products in the line"
+      ],
+      "ja": [
+        "ブランド最初の看板フレグランス",
+        "髪、体、衣類に使用可能",
+        "ピスタチオ、塩キャラメル、バニラのグルマン系香調",
+        "10種類以上の製品で共有される香り"
+      ]
+    },
+    "heroIngredients": {
+      "zh": [
+        {
+          "name": "复合香精配方",
+          "tag": "核心香氛资产",
+          "desc": "以开心果、盐渍焦糖、香草为核心的美食系香调，是品牌跨品类共用的核心嗅觉资产"
+        }
+      ],
+      "en": [
+        {
+          "name": "Fragrance Complex",
+          "tag": "Core scent asset",
+          "desc": "A gourmand profile built on pistachio, salted caramel, and vanilla, the core olfactory asset shared across the brand's categories"
+        }
+      ],
+      "ja": [
+        {
+          "name": "複合香料処方",
+          "tag": "核心的な香りの資産",
+          "desc": "ピスタチオ、塩キャラメル、バニラを核とするグルマン系の香り。ブランドがカテゴリーを横断して共有する核心的な嗅覚資産"
+        }
+      ]
+    },
+    "ingredientsNote": {
+      "zh": "配方以酒精为基底的纯喷雾型香水结构，不含护肤功效成分，功能单一聚焦于留香体验本身。",
+      "en": "The formula is a simple alcohol-based perfume mist structure with no skincare-functional ingredients — its function is singularly focused on the scent experience itself.",
+      "ja": "処方はアルコールを基剤としたシンプルな香水ミストの構造で、スキンケア機能成分は含まれておらず、香りの体験そのものに機能を絞っている。"
+    },
+    "pricePositioning": {
+      "zh": {
+        "tier": "premium",
+        "label": "北美网红级身体香氛"
+      },
+      "en": {
+        "tier": "premium",
+        "label": "North American Influencer-Grade Body Fragrance"
+      },
+      "ja": {
+        "tier": "premium",
+        "label": "北米インフルエンサー級ボディフレグランス"
+      }
+    },
+    "marketChannel": {
+      "zh": {
+        "global": [
+          "品牌官网soldejaneiro.com",
+          "Sephora",
+          "Ulta Beauty"
+        ],
+        "japan": [
+          "Sol Passport会员积分兑换渠道"
+        ],
+        "channelLabel": "北美专业美妆零售+社媒种草",
+        "channelDesc": "以Sephora、Ulta等专业美妆零售为核心分销渠道，社媒话题与忠实用户的多品类复购是主要增长驱动"
+      },
+      "en": {
+        "global": [
+          "Brand DTC (soldejaneiro.com)",
+          "Sephora",
+          "Ulta Beauty"
+        ],
+        "japan": [
+          "Sol Passport loyalty points redemption channel"
+        ],
+        "channelLabel": "North American Specialty Beauty Retail + Social Discovery",
+        "channelDesc": "Distributed mainly through specialty beauty retailers like Sephora and Ulta, with social buzz and loyal customers' cross-category repeat purchases as the main growth driver"
+      },
+      "ja": {
+        "global": [
+          "ブランド公式サイトsoldejaneiro.com",
+          "セフォラ",
+          "Ulta Beauty"
+        ],
+        "japan": [
+          "Sol Passportロイヤルティポイント交換チャネル"
+        ],
+        "channelLabel": "北米専門美容小売＋SNSでの発見",
+        "channelDesc": "セフォラやUltaなどの専門美容小売を主要な流通チャネルとし、SNSでの話題性とロイヤル顧客のカテゴリー横断的なリピート購入が主な成長ドライバー"
+      }
+    },
+    "brandConceptRich": {
+      "zh": {
+        "tagline": "Cheirosa意为\"闻起来令人陶醉\"。",
+        "concept": "Sol de Janeiro诞生于对1962年经典歌曲《伊帕内玛女孩》的致敬，本品是品牌最初的产品，香调命名62即取自歌曲创作年份。这支产品定义了品牌此后所有产品线共享的\"嗅觉身份\"，是理解品牌资产积累逻辑的起点。"
+      },
+      "en": {
+        "tagline": "Cheirosa means smelling incredibly delicious.",
+        "concept": "Sol de Janeiro was born as a tribute to the 1962 classic song \"The Girl from Ipanema,\" and this product was the brand's original launch item — the \"62\" in the scent name comes from the song's release year. This product defined the olfactory identity shared across every later product line, the starting point for understanding how the brand builds its asset base."
+      },
+      "ja": {
+        "tagline": "Cheirosaとは「うっとりするほどいい香り」を意味する。",
+        "concept": "ソル・デ・ジャネイロは1962年の名曲「イパネマの娘」へのオマージュとして誕生し、本品はブランド最初の発売商品——香りの名前にある「62」は楽曲の発表年に由来する。この製品が以降のすべての製品ラインが共有する「香りのアイデンティティ」を定義しており、ブランドの資産構築ロジックを理解する出発点となる。"
+      }
+    },
+    "competitiveAdvantage": {
+      "zh": [
+        {
+          "name": "Paixão Óleo Corporal（同库已加入）",
+          "points": [
+            "Paixão走巴西本土香水级复合香调路线，本品走国际化\"美食系\"单一记忆点路线",
+            "本品的\"一香调贯穿全品类\"策略更系统化，Paixão各香型相对独立",
+            "渠道上本品完全国际化，Paixão聚焦巴西本土"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Paixão Óleo Corporal (already in this library)",
+          "points": [
+            "Paixão takes a domestic Brazilian perfume-grade layered-scent approach; this product takes an internationalized, single-memorable-note gourmand approach",
+            "This product's one-scent-across-every-category strategy is more systematic; Paixão's scent variants are relatively independent of each other",
+            "This product's channel is fully internationalized; Paixão stays focused on the domestic Brazilian market"
+          ]
+        }
+      ],
+      "ja": [
+        {
+          "name": "パイション ボディオイル（本ライブラリ収録済み）",
+          "points": [
+            "パイションはブラジル国内向けの香水級の層構造の香りを訴求、本品は国際的な「グルマン系」の単一の記憶点を訴求",
+            "本品の「一つの香りを全カテゴリーに展開する」戦略はより体系的、パイションの各香りは比較的独立している",
+            "チャネル面で本品は完全に国際化、パイションはブラジル国内市場に集中"
+          ]
+        }
+      ]
+    },
+    "evidenceStats": {
+      "zh": [
+        "总体评分4.80/5（8070条评价）"
+      ],
+      "en": [
+        "Overall rating 4.80/5 (8,070 reviews)"
+      ],
+      "ja": [
+        "総合評価4.80/5（8,070件のレビュー）"
+      ]
+    },
+    "experienceItems": {
+      "zh": [
+        "用法：全身、头发、衣物均可喷洒",
+        "叠加：可与同香调身体乳叠加增强留香",
+        "升级：可选购更浓缩的Eau de Parfum版本",
+        "香调：前调开心果杏仁，中调洋玉兰茉莉，尾调香草焦糖檀香"
+      ],
+      "en": [
+        "Usage: spray all over the body, hair, and even clothing",
+        "Layering: can be layered with same-scent body cream for longevity",
+        "Upgrade: a more concentrated Eau de Parfum version is available",
+        "Scent: pistachio/almond top, heliotrope/jasmine heart, vanilla/caramel/sandalwood base"
+      ],
+      "ja": [
+        "使い方：全身、髪、衣類にもスプレー可能",
+        "重ね使い：同じ香りのボディクリームと重ねて持続性を強化",
+        "アップグレード：より濃縮されたオードパルファムも選択可能",
+        "香り：トップはピスタチオ・アーモンド、ミドルはヘリオトロープ・ジャスミン、ベースはバニラ・キャラメル・サンダルウッド"
+      ]
+    },
+    "keyTechnology": {
+      "zh": [
+        {
+          "title": "跨品类共用香调技术",
+          "desc": "以单一命名香调（Cheirosa 62）作为品牌资产核心，注入十余款不同品类产品，构建统一的嗅觉识别体系。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Cross-Category Shared Scent Technology",
+          "desc": "Uses a single named scent (Cheirosa 62) as the core brand asset, injected into a dozen-plus different product categories to build a unified olfactory identity system."
+        }
+      ],
+      "ja": [
+        {
+          "title": "カテゴリー横断共有香り技術",
+          "desc": "単一の名前を持つ香り（Cheirosa 62）を核心的なブランド資産とし、10種類以上の異なる製品カテゴリーに注入することで、統一された香りのアイデンティティ体系を構築している。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "soldejaneiro-brazilian-bum-bum-cream",
+    "vertical": "skincare",
+    "category": "usa",
+    "productType": "cream",
+    "addedAt": 53,
+    "name": {
+      "zh": "Sol de Janeiro 巴西Bum Bum紧致身体乳",
+      "en": "Sol de Janeiro Brazilian Bum Bum Cream",
+      "ja": "ソル・デ・ジャネイロ ブラジリアン バムバム クリーム"
+    },
+    "brand": {
+      "zh": "Sol de Janeiro",
+      "en": "Sol de Janeiro",
+      "ja": "ソル・デ・ジャネイロ"
+    },
+    "company": {
+      "zh": "Sol de Janeiro USA, Inc.",
+      "en": "Sol de Janeiro USA, Inc.",
+      "ja": "ソル・デ・ジャネイロ USA, Inc."
+    },
+    "origin": {
+      "zh": "美国（品牌灵感与命名来自巴西里约热内卢）",
+      "en": "United States (brand inspiration and naming rooted in Rio de Janeiro, Brazil)",
+      "ja": "アメリカ（ブランドのインスピレーションと命名はブラジルのリオデジャネイロに由来）"
+    },
+    "launch": {
+      "zh": "2015年推出，是Sol de Janeiro品牌招牌单品，2024年获Allure读者选择奖",
+      "en": "Launched in 2015, the brand's flagship product, winner of a 2024 Allure Readers' Choice Award",
+      "ja": "2015年発売、ソル・デ・ジャネイロの看板商品で、2024年Allure読者選出賞を受賞"
+    },
+    "market": {
+      "zh": "品牌官网soldejaneiro.com、Sephora、Ulta Beauty等北美专业美妆零售",
+      "en": "Brand DTC (soldejaneiro.com), Sephora, Ulta Beauty and other North American specialty beauty retail",
+      "ja": "ブランド公式サイトsoldejaneiro.com、セフォラ、Ulta Beautyなど北米の専門美容小売"
+    },
+    "capacity": {
+      "zh": "25 mL / 75 mL / 150 mL / 240 mL多种规格，另有替换装",
+      "en": "Available in 25 mL, 75 mL, 150 mL, and 240 mL, plus a refill option",
+      "ja": "25mL／75mL／150mL／240mLの複数サイズ展開、詰め替え用もあり"
+    },
+    "price": {
+      "zh": "US$12.00-48.00（视规格而定）",
+      "en": "US$12.00-48.00, depending on size",
+      "ja": "12.00〜48.00米ドル（サイズによる）"
+    },
+    "positioning": {
+      "zh": "Sol de Janeiro最具代表性的招牌单品，被官方称为品牌\"起家之作\"，主打\"提亮塑形\"身体乳品类——用咖啡因丰富的巴西瓜拉纳提取物为核心成分，主打紧致平滑肌肤、改善橘皮组织外观的功效诉求，同时含天然云母带来微闪光泽感。这支产品把\"身体乳\"从单纯保湿品类，重新定义成了兼具功效诉求与美妆级视觉效果的复合品类。",
+      "en": "Sol de Janeiro's most representative flagship item, described by the brand as its founding product, positioned in the firming/shaping body-cream category — built around caffeine-rich Brazilian guaraná extract as the core ingredient, with claims of visibly tightening and smoothing skin and reducing the appearance of cellulite, alongside natural mica for a subtle shimmer finish. This product redefines body cream from a purely moisturizing category into a hybrid category combining functional claims with makeup-grade visual effect.",
+      "ja": "ソル・デ・ジャネイロを最も代表する看板商品で、公式にはブランドの「創業商品」とされている。「輝き・シェイピング」ボディクリームというカテゴリーに位置づけられ、カフェインが豊富なブラジル産ガラナ抽出物を核心成分とし、肌の引き締めと滑らかさ、セルライトの見た目の改善を訴求すると同時に、天然マイカによるさりげない輝きも特徴。この製品は「ボディクリーム」を、単なる保湿カテゴリーから、機能訴求とメイクアップ級のビジュアル効果を兼ね備えた複合カテゴリーへと再定義している。"
+    },
+    "target": {
+      "zh": "追求身体紧致塑形效果的人群；愿意为\"美妆级身体乳\"（含闪光效果）付费的消费者；社媒种草驱动、追求网红同款的年轻用户。",
+      "en": "Consumers seeking a firming/shaping body effect; those willing to pay for a makeup-grade body cream (with shimmer); younger, social-media-driven consumers chasing the influencer-favorite product.",
+      "ja": "ボディの引き締め効果を求める層。輝き効果のある「メイクアップ級ボディクリーム」にお金をかけることを厭わない消費者。SNSでの発見に導かれ、インフルエンサー愛用品を求める若いユーザー。"
+    },
+    "distribution": {
+      "zh": "从25mL/US$12的迷你装到240mL/US$48的正装覆盖完整价格梯度，迷你装本身就是引流试用装，正装配合替换装（89%减塑）巩固复购，是身体护理品类里少见的\"精细化规格矩阵\"。",
+      "en": "A full price ladder from a 25mL/US$12 mini to a 240mL/US$48 full size, with the mini serving as a trial-driving entry item and the full size paired with an 89%-less-plastic refill to lock in repeat purchase — an unusually finely graduated size matrix for the body-care category.",
+      "ja": "25mL・12米ドルのミニサイズから240mL・48米ドルのフルサイズまで完全な価格帯をカバーし、ミニサイズ自体がトライアルを促す入口商品となっている。フルサイズはプラスチック使用量89%削減の詰め替え用と組み合わせてリピート購入を固めており、ボディケアカテゴリーとしては珍しいきめ細かなサイズ展開となっている。"
+    },
+    "ingredients": {
+      "zh": "水、甲基葡糖倍半硬脂酸酯、苯基三甲基硅氧烷、十二烷、辛酸/癸酸三甘油酯、香精、鲸蜡硬脂醇、硬脂酸甘油酯柠檬酸酯、辛酸甘油酯、甘油、鲸蜡醇、瓜拉纳籽提取物、古布阿苏籽脂、椰子油、巴西莓果油、巴西坚果籽油、透明质酸钠、角鲨烷、瓜拉纳叶提取物、巴拉圭冬青叶提取物、胡萝卜籽油、胭脂树籽提取物、生育酚、云母、植酸钠、黄原胶、倍半油酸山梨坦、硬脂酰谷氨酸钠、丙烯酸羟乙酯/丙烯酰二甲基牛磺酸钠共聚物、乙基己基甘油、苯氧乙醇、苯甲醇、水杨酸苄酯、柠檬醛、香豆素、羟基香茅醛、柠檬烯、氧化亚锡、二氧化钛（含巴西坚果，过敏体质需留意）。",
+      "en": "Aqua (Water), Methyl Glucose Sesquistearate, Phenyl Trimethicone, Dodecane, Caprylic/Capric Triglyceride, Parfum (Fragrance), Cetearyl Alcohol, Glyceryl Stearate Citrate, Glyceryl Caprylate, Glycerin, Cetyl Alcohol, Paullinia Cupana (Guaraná) Seed Extract, Theobroma Grandiflorum (Cupuaçu) Seed Butter, Cocos Nucifera (Coconut) Oil, Euterpe Oleracea (Açaí) Fruit Oil, Bertholletia Excelsa (Brazil Nut) Seed Oil, Sodium Hyaluronate, Squalane, Ilex Guayusa Leaf Extract, Ilex Paraguariensis Leaf Extract, Daucus Carota Sativa (Carrot) Seed Oil, Bixa Orellana Seed Extract, Tocopherol, Mica, Sodium Phytate, Xanthan Gum, Sorbitan Isostearate, Sodium Stearoyl Glutamate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Ethylhexylglycerin, Phenoxyethanol, Benzyl Alcohol, Benzyl Salicylate, Citral, Coumarin, Hydroxycitronellal, Limonene, Tin Oxide, Titanium Dioxide (Contains Brazil nut — note for allergy-prone users).",
+      "ja": "水、メチルグルコースセスキステアレート、フェニルトリメチコン、ドデカン、カプリル酸／カプリン酸トリグリセリド、香料、セテアリルアルコール、ステアリン酸グリセリルクエン酸エステル、カプリル酸グリセリル、グリセリン、セチルアルコール、ガラナ種子エキス、クプアスシードバター、ココナッツ油、アサイー果実油、ブラジルナッツ種子油、ヒアルロン酸Na、スクワラン、ガユサ葉エキス、マテ茶葉エキス、ニンジン種子油、アナトー種子エキス、トコフェロール、マイカ、フィチン酸Na、キサンタンガム、セスキオレイン酸ソルビタン、ステアロイルグルタミン酸Na、アクリル酸ヒドロキシエチル／アクリロイルジメチルタウリンNaコポリマー、エチルヘキシルグリセリン、フェノキシエタノール、ベンジルアルコール、サリチル酸ベンジル、シトラール、クマリン、ヒドロキシシトロネラール、リモネン、酸化スズ、酸化チタン（ブラジルナッツを含む、アレルギー体質は注意）"
+    },
+    "evidence": {
+      "zh": "官方宣称经临床验证\"可见紧致\"，4周内减少橘皮组织外观（34人参与的临床研究，每日两次使用）；100%受试者认为肌肤更有光泽（具体研究未标注参与人数）；96%认为肌肤看起来更有活力（106人参与的消费者研究，每日两次使用14天）。官方评价系统显示总体评分4.87/5（27176条评价）。这些是品牌自行披露的临床/消费者研究数据，样本量均为几十至百余人规模。",
+      "en": "The brand claims clinical validation for visible firming, with reduced cellulite appearance within 4 weeks (a clinical study of 34 participants using it twice daily); 100% of participants felt skin was more radiant (participant count for this specific study not disclosed); 96% felt skin looked more revitalized (a consumer study of 106 participants using it twice daily for 14 days). The brand's review system shows an overall rating of 4.87/5 (27,176 reviews). These are brand-disclosed clinical/consumer study figures, with sample sizes ranging from dozens to just over a hundred participants.",
+      "ja": "公式は臨床的に検証された「目に見える引き締め」効果を謳っており、4週間でセルライトの見た目が減少（1日2回使用、34名参加の臨床試験）。100%の被験者が肌がより輝いていると回答（この調査の参加人数は非公開）。96%が肌がより生き生きして見えると回答（1日2回、14日間使用、106名参加の消費者調査）。公式のレビューシステムでは総合評価4.87/5（27,176件のレビュー）を示している。これらはブランド自身が開示した臨床・消費者調査の数値で、サンプル数は数十名から百数十名規模。"
+    },
+    "experience": {
+      "zh": "官方建议洗澡后清洁干燥皮肤上使用，用打圈按摩方式帮助吸收并促进循环；质地浓厚但吸收快，官方称不留黏腻残留。可与同香调Firmeza Oil叠加使用增强塑形效果。官方明确不建议用于脸部，也未针对孕期/哺乳期使用做安全性测试。",
+      "en": "The brand recommends applying to clean, dry skin after showering, massaging in a circular motion to aid absorption and circulation; the texture is thick but fast-absorbing, with the brand claiming no greasy residue. It can be layered with the same-scent Firmeza Oil to intensify the shaping effect. The brand explicitly advises against facial use and has not safety-tested it for use during pregnancy or breastfeeding.",
+      "ja": "公式はシャワー後の清潔で乾いた肌に使用し、円を描くようにマッサージして吸収と血行を促すことを推奨している。テクスチャーは濃厚だが吸収が速く、べたつく残留感はないとされる。同じ香りのFirmeza Oilと重ねてシェイピング効果を高めることもできる。公式は顔への使用を明確に推奨しておらず、妊娠中・授乳中の使用に関する安全性試験も実施していない。"
+    },
+    "packaging": {
+      "zh": "标志性黄色瓶身配可爱插画罐装设计，第一眼传递\"活力、有趣、社媒友好\"的调性，是品牌在社媒上被大量种草的核心视觉资产，罐装（非管状）设计也强化了\"奢侈品级身体护理仪式\"的联想。",
+      "en": "A signature yellow jar with a playful illustrated design reads as energetic, fun, and social-media-friendly at first glance — the core visual asset behind the brand's heavy social discovery, with the jar format (rather than a tube) reinforcing an association with luxurious body-care ritual.",
+      "ja": "象徴的なイエローのジャーに遊び心のあるイラストデザインは、エネルギッシュで楽しく、SNS映えするという第一印象を与える。ブランドがSNSで大きく話題になる核心的なビジュアル資産であり、チューブではなくジャー型のデザインが「贅沢なボディケアの儀式」という連想を強めている。"
+    },
+    "insight": {
+      "zh": "这支产品是Sol de Janeiro品牌的绝对核心，最值得参考的地方是它把\"身体紧致\"这个原本属于专业美体机构或医美的诉求，用日常护理品的形式和亲民价格（US$12起）大众化了——官方公开临床数据（34人4周研究）虽然样本量不算大，但对于一个日常消费品品类来说已经算是相对罕见的\"临床验证\"姿态，这跟大部分身体乳品牌只谈保湿形成明显差异化。同时用云母闪光这种\"即时可见效果\"弥补功效性成分（需要持续使用才见效）的体验滞后，是一个值得参考的产品体验设计思路。",
+      "en": "This product is the absolute core of the Sol de Janeiro brand, and the most instructive thing about it is how it democratizes \"body firming\" — a claim that traditionally belonged to professional body-sculpting clinics or med-spas — through a daily-care product format at an accessible price (starting at US$12). The brand's disclosed clinical data (a 34-participant, 4-week study), while a modest sample, is a relatively rare \"clinically validated\" posture for a daily consumer-goods category, clearly differentiating it from most body creams that only talk about moisture. It also uses mica shimmer as an instant, visible effect to bridge the gap while waiting for the functional ingredients to show results over time — a product-experience design idea worth referencing.",
+      "ja": "この製品はソル・デ・ジャネイロというブランドの絶対的な核であり、最も参考になるのは、従来は専門のボディシェイピング施設や医療美容に属していた「ボディの引き締め」という訴求を、日常ケア用品の形式と手頃な価格（12米ドルから）で大衆化した点。ブランドが開示する臨床データ（34名・4週間の研究）はサンプル数こそ控えめだが、日常消費財カテゴリーとしては比較的珍しい「臨床的検証」という姿勢であり、保湿しか語らないほとんどのボディクリームブランドとの明確な差別化になっている。同時に、機能性成分の効果が現れるまでの時間差を、マイカの輝きという「即座に見える効果」で埋めているのも、参考になる製品体験設計の考え方。"
+    },
+    "notes": {
+      "zh": "资料采集日 2026-08-02。信息取自品牌官网soldejaneiro.com产品页，含完整成分表、临床/消费者研究数据披露与官方评价统计。",
+      "en": "Data collected 2026-08-02. Information taken from the brand's official soldejaneiro.com product page, including the complete ingredient list, disclosed clinical/consumer study data, and official review statistics.",
+      "ja": "情報収集日 2026年8月2日。ブランド公式サイトsoldejaneiro.com商品ページより収集。完全な成分表、開示された臨床・消費者調査データ及び公式レビュー統計を含む。"
+    },
+    "images": [
+      "https://soldejaneiro.com/cdn/shop/files/Brazilian_Bum_Bum_Cream_Sol_de_Janeiro_0.webp?v=1713788113"
+    ],
+    "sources": [
+      [
+        "Official product page (Sol de Janeiro)",
+        "https://soldejaneiro.com/products/brazilian-bum-bum-cream"
+      ]
+    ],
+    "targetUsers": {
+      "zh": [
+        "追求身体紧致塑形效果的人群",
+        "愿意为美妆级身体乳（含闪光效果）付费的消费者",
+        "社媒种草驱动、追求网红同款的年轻用户"
+      ],
+      "en": [
+        "Consumers seeking a firming/shaping body effect",
+        "Those willing to pay for a makeup-grade body cream with shimmer",
+        "Younger, social-media-driven consumers chasing the influencer favorite"
+      ],
+      "ja": [
+        "ボディの引き締め効果を求める層",
+        "輝き効果のあるメイクアップ級ボディクリームにお金をかけることを厭わない消費者",
+        "SNSでの発見に導かれ、インフルエンサー愛用品を求める若いユーザー"
+      ]
+    },
+    "keyClaims": {
+      "zh": [
+        "瓜拉纳提取物可见紧致塑形",
+        "改善橘皮组织外观",
+        "24小时快速吸收保湿",
+        "天然云母微闪光泽"
+      ],
+      "en": [
+        "Guaraná extract for visible firming and tightening",
+        "Reduces the look of cellulite",
+        "Fast-absorbing 24-hour hydration",
+        "Natural mica shimmer finish"
+      ],
+      "ja": [
+        "ガラナ抽出物による見える引き締め・シェイピング",
+        "セルライトの見た目を改善",
+        "24時間持続する速吸収保湿",
+        "天然マイカによるさりげない輝き"
+      ]
+    },
+    "heroIngredients": {
+      "zh": [
+        {
+          "name": "瓜拉纳提取物",
+          "tag": "紧致核心",
+          "desc": "咖啡因丰富的巴西植物提取物，官方宣称可见紧致塑形肌肤"
+        },
+        {
+          "name": "古布阿苏籽脂",
+          "tag": "深层滋养",
+          "desc": "富含脂肪酸与多酚，被称为亚马逊版乳木果脂"
+        },
+        {
+          "name": "云母",
+          "tag": "即时光泽",
+          "desc": "天然银色矿物质，提供微闪光泽的即时视觉效果"
+        }
+      ],
+      "en": [
+        {
+          "name": "Guaraná Extract",
+          "tag": "Core firming",
+          "desc": "A caffeine-rich Brazilian botanical extract, claimed by the brand to visibly firm and tighten skin"
+        },
+        {
+          "name": "Cupuaçu Seed Butter",
+          "tag": "Deep nourishment",
+          "desc": "Rich in fatty acids and polyphenols, described as the Amazon's answer to shea butter"
+        },
+        {
+          "name": "Mica",
+          "tag": "Instant glow",
+          "desc": "A naturally occurring silvery mineral providing an instant shimmer visual effect"
+        }
+      ],
+      "ja": [
+        {
+          "name": "ガラナ抽出物",
+          "tag": "引き締めの核心",
+          "desc": "カフェインが豊富なブラジルの植物抽出物、公式は見える引き締め・シェイピング効果を謳う"
+        },
+        {
+          "name": "クプアスシードバター",
+          "tag": "深層滋養",
+          "desc": "脂肪酸とポリフェノールが豊富で、アマゾン版シアバターと称される"
+        },
+        {
+          "name": "マイカ",
+          "tag": "即座の輝き",
+          "desc": "天然の銀色鉱物で、さりげない輝きの即座の視覚効果を提供"
+        }
+      ]
+    },
+    "ingredientsNote": {
+      "zh": "配方含巴西坚果籽油，坚果过敏人群需特别留意；不含矿物油、对羟基苯甲酸酯、邻苯二甲酸盐，素食友好、通过PETA无动物测试认证。",
+      "en": "The formula contains Brazil nut seed oil, worth flagging for those with nut allergies; it's free of mineral oil, parabens, and phthalates, and is vegan-friendly with PETA cruelty-free certification.",
+      "ja": "処方にはブラジルナッツ種子油が含まれるため、ナッツアレルギーの方は特に注意が必要。鉱物油、パラベン、フタル酸エステルは不使用で、ビーガンフレンドリー、PETA認証のクルエルティフリー。"
+    },
+    "pricePositioning": {
+      "zh": {
+        "tier": "premium",
+        "label": "北美网红级身体紧致乳"
+      },
+      "en": {
+        "tier": "premium",
+        "label": "North American Influencer-Grade Firming Cream"
+      },
+      "ja": {
+        "tier": "premium",
+        "label": "北米インフルエンサー級ボディファーミングクリーム"
+      }
+    },
+    "marketChannel": {
+      "zh": {
+        "global": [
+          "品牌官网soldejaneiro.com",
+          "Sephora",
+          "Ulta Beauty"
+        ],
+        "japan": [
+          "Sol Passport会员积分兑换渠道"
+        ],
+        "channelLabel": "北美专业美妆零售+社媒种草",
+        "channelDesc": "品牌绝对核心单品，2015年上市后凭社媒话题度迅速成为北美专业美妆零售的常青畅销款"
+      },
+      "en": {
+        "global": [
+          "Brand DTC (soldejaneiro.com)",
+          "Sephora",
+          "Ulta Beauty"
+        ],
+        "japan": [
+          "Sol Passport loyalty points redemption channel"
+        ],
+        "channelLabel": "North American Specialty Beauty Retail + Social Discovery",
+        "channelDesc": "The brand's absolute core item, having quickly become an evergreen bestseller across North American specialty beauty retail through social buzz since its 2015 launch"
+      },
+      "ja": {
+        "global": [
+          "ブランド公式サイトsoldejaneiro.com",
+          "セフォラ",
+          "Ulta Beauty"
+        ],
+        "japan": [
+          "Sol Passportロイヤルティポイント交換チャネル"
+        ],
+        "channelLabel": "北米専門美容小売＋SNSでの発見",
+        "channelDesc": "ブランドの絶対的な核心商品で、2015年の発売以来SNSでの話題性により北米の専門美容小売で定番のロングセラーとなった"
+      }
+    },
+    "brandConceptRich": {
+      "zh": {
+        "tagline": "Uplifting Since 2015（自2015年起提振身心）",
+        "concept": "Brazilian Bum Bum Cream是Sol de Janeiro的起家之作，品牌用这支单品定义了\"身体护理也可以像彩妆一样即时可见效果、像香水一样令人上瘾\"的产品哲学，此后所有产品线（身体乳矩阵：Bom Dia Bright/Beija Flor/Delícia Drench/Rosa Charmosa）都延续这套\"关键成分+核心诉求+专属香调\"的三段式命名逻辑。"
+      },
+      "en": {
+        "tagline": "Uplifting Since 2015.",
+        "concept": "Brazilian Bum Bum Cream is Sol de Janeiro's founding product, defining the brand's product philosophy that body care can deliver instant visible effect like makeup and be as addictive as perfume. Every subsequent product line (the body cream matrix: Bom Dia Bright, Beija Flor, Delícia Drench, Rosa Charmosa) continues this three-part naming logic of key ingredient plus core claim plus signature scent."
+      },
+      "ja": {
+        "tagline": "Uplifting Since 2015（2015年から心と体を高める）。",
+        "concept": "Brazilian Bum Bum Creamはソル・デ・ジャネイロの創業商品で、この一品でブランドは「ボディケアもメイクアップのように即座に見える効果があり、香水のように病みつきになる」という製品哲学を定義した。以降のすべての製品ライン（ボディクリームのマトリクス：Bom Dia Bright、Beija Flor、Delícia Drench、Rosa Charmosa）が、この「主要成分＋核心訴求＋専属の香り」という3段構成の命名ロジックを踏襲している。"
+      }
+    },
+    "competitiveAdvantage": {
+      "zh": [
+        {
+          "name": "Nativa SPA Madagascar's Vanilla Body Oil（同库已加入）",
+          "points": [
+            "Nativa SPA走天然原料SPA仪式感，本品走临床验证紧致塑形+闪光美妆效果",
+            "本品定价体系更精细（4档规格），Nativa SPA规格相对单一",
+            "本品社媒话题度和品牌知名度明显更高"
+          ]
+        },
+        {
+          "name": "Paixão Óleo Corporal（同库已加入）",
+          "points": [
+            "Paixão聚焦巴西本土市场且不含闪光/塑形功效成分，本品已完全国际化并加入功效诉求",
+            "两者都源自巴西身体护理文化基因，但本品的产品复杂度和国际化程度远超Paixão"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Nativa SPA Madagascar's Vanilla Body Oil (already in this library)",
+          "points": [
+            "Nativa SPA leans on natural ingredients and spa ritual; this product leans on clinically claimed firming plus makeup-grade shimmer",
+            "This product has a more finely graduated pricing structure (4 sizes); Nativa SPA's sizing is relatively singular",
+            "This product has notably higher social buzz and brand awareness"
+          ]
+        },
+        {
+          "name": "Paixão Óleo Corporal (already in this library)",
+          "points": [
+            "Paixão focuses on the domestic Brazilian market and lacks shimmer/firming functional ingredients; this product has fully internationalized and added functional claims",
+            "Both trace back to Brazilian body-care culture, but this product's complexity and internationalization far exceed Paixão's"
+          ]
+        }
+      ],
+      "ja": []
+    },
+    "evidenceStats": {
+      "zh": [
+        "4周内可见紧致塑形（34人临床研究，每日两次使用）",
+        "100%受试者认为肌肤更有光泽",
+        "96%认为肌肤看起来更有活力（106人消费者研究，每日两次14天）",
+        "总体评分4.87/5（27176条评价）"
+      ],
+      "en": [
+        "Visible firming/tightening within 4 weeks (34-participant clinical study, twice daily)",
+        "100% of participants felt skin was more radiant",
+        "96% felt skin looked more revitalized (106-participant consumer study, twice daily for 14 days)",
+        "Overall rating 4.87/5 (27,176 reviews)"
+      ],
+      "ja": [
+        "4週間で見える引き締め・シェイピング効果（34名の臨床試験、1日2回使用）",
+        "100%の被験者が肌の輝きの向上を実感",
+        "96%が肌がより生き生きして見えると回答（106名の消費者調査、1日2回14日間使用）",
+        "総合評価4.87/5（27,176件のレビュー）"
+      ]
+    },
+    "experienceItems": {
+      "zh": [
+        "用法：洗澡后干净干燥皮肤打圈按摩",
+        "叠加：可与Firmeza Oil叠加增强塑形",
+        "适用：官方仅限身体，不建议用脸",
+        "质地：浓厚但吸收快不黏腻"
+      ],
+      "en": [
+        "Usage: massage in circular motions on clean, dry skin after showering",
+        "Layering: can be layered with Firmeza Oil for a stronger shaping effect",
+        "Scope: officially body-only, not recommended for the face",
+        "Texture: thick but fast-absorbing, non-greasy"
+      ],
+      "ja": [
+        "使い方：シャワー後の清潔で乾いた肌に円を描くようにマッサージ",
+        "重ね使い：Firmeza Oilと重ねてシェイピング効果を強化可能",
+        "使用範囲：公式にボディ専用、顔への使用は非推奨",
+        "質感：濃厚だが吸収が速くべたつかない"
+      ]
+    },
+    "keyTechnology": {
+      "zh": [
+        {
+          "title": "瓜拉纳咖啡因紧致技术",
+          "desc": "以咖啡因丰富的瓜拉纳提取物为核心，配合34人4周临床研究披露具体数据，是身体护理品类里相对少见的\"临床验证\"姿态。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Guaraná Caffeine Firming Technology",
+          "desc": "Built on caffeine-rich guaraná extract as the core ingredient, backed by disclosed data from a 34-participant, 4-week clinical study — a relatively rare clinically-validated posture in the body-care category."
+        }
+      ],
+      "ja": [
+        {
+          "title": "ガラナカフェイン引き締め技術",
+          "desc": "カフェインが豊富なガラナ抽出物を核心成分とし、34名・4週間の臨床試験の具体的なデータを開示している——ボディケアカテゴリーとしては比較的珍しい臨床的検証の姿勢。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "soldejaneiro-beija-flor-body-wash",
+    "vertical": "skincare",
+    "category": "usa",
+    "productType": "cleanser",
+    "addedAt": 54,
+    "name": {
+      "zh": "Sol de Janeiro Beija Flor 焕活身体沐浴露",
+      "en": "Sol de Janeiro Beija Flor Renewing Body Wash",
+      "ja": "ソル・デ・ジャネイロ ベイジャフロール リニューイング ボディウォッシュ"
+    },
+    "brand": {
+      "zh": "Sol de Janeiro",
+      "en": "Sol de Janeiro",
+      "ja": "ソル・デ・ジャネイロ"
+    },
+    "company": {
+      "zh": "Sol de Janeiro USA, Inc.",
+      "en": "Sol de Janeiro USA, Inc.",
+      "ja": "ソル・デ・ジャネイロ USA, Inc."
+    },
+    "origin": {
+      "zh": "美国（品牌灵感与命名来自巴西里约热内卢）",
+      "en": "United States (brand inspiration and naming rooted in Rio de Janeiro, Brazil)",
+      "ja": "アメリカ（ブランドのインスピレーションと命名はブラジルのリオデジャネイロに由来）"
+    },
+    "launch": {
+      "zh": "Beija Flor（葡语\"蜂鸟\"）系列核心单品，与同系列身体乳、身体油配套，持续在售",
+      "en": "Core item in the Beija Flor (Portuguese for \"hummingbird\") line, paired with a matching body cream and body oil in the same collection; ongoing",
+      "ja": "Beija Flor（ポルトガル語で「ハチドリ」の意）シリーズの主力商品、同シリーズのボディクリームやボディオイルと組み合わせて展開、継続販売中"
+    },
+    "market": {
+      "zh": "品牌官网soldejaneiro.com、Sephora、Ulta Beauty等北美专业美妆零售",
+      "en": "Brand DTC (soldejaneiro.com), Sephora, Ulta Beauty and other North American specialty beauty retail",
+      "ja": "ブランド公式サイトsoldejaneiro.com、セフォラ、Ulta Beautyなど北米の専門美容小売"
+    },
+    "capacity": {
+      "zh": "90 mL / 385 mL / 1升三种规格，另有1升替换装",
+      "en": "Available in 90 mL, 385 mL, and 1 Liter, plus a 1 Liter refill",
+      "ja": "90mL／385mL／1リットルの3サイズ展開、1リットルの詰め替え用もあり"
+    },
+    "price": {
+      "zh": "US$12.00（90mL）／US$26.00（385mL）／US$58.00（1升）",
+      "en": "US$12.00 (90mL) / US$26.00 (385mL) / US$58.00 (1 Liter)",
+      "ja": "12.00米ドル（90mL）／26.00米ドル（385mL）／58.00米ドル（1リットル）"
+    },
+    "positioning": {
+      "zh": "Beija Flor系列的沐浴露单品，主打\"焕活更新\"概念——用咖芽果油（Cacay Oil，被官方称为\"温和维A醇替代品\"）促进肌肤更新，搭配纯素角鲨烷防止水分流失，果酸类成分温和去角质。低泡沫奶油质地设计支持\"兼作剃毛膏\"这一附加使用场景，是品牌\"身体清洁\"品类里功效诉求最具体的一款。",
+      "en": "The body wash in the Beija Flor line, built around a \"renewal\" concept — using cacay oil (described by the brand as a gentle retinol alternative) to encourage skin renewal, paired with vegan squalane to prevent moisture loss and fruit-acid ingredients for gentle exfoliation. Its low-lather cream texture is designed to double as a shaving cream, making it the most functionally specific item in the brand's body-cleansing category.",
+      "ja": "Beija Florシリーズのボディウォッシュで、「刷新・リニューアル」というコンセプトを軸としている。カカイ油（公式は「穏やかなレチノール代替成分」と説明）で肌のターンオーバーを促し、ビーガンスクワランで水分損失を防ぎ、フルーツ酸系成分で穏やかに角質ケアする。低起泡のクリームテクスチャーは「シェービングクリームとしても使える」という付加的な使用シーンを支えており、ブランドの「ボディクレンジング」カテゴリーの中で最も機能訴求が具体的な商品。"
+    },
+    "target": {
+      "zh": "追求身体肌肤焕新、偏好低泡沫奶油质地沐浴露的人群；愿意用同一支产品兼顾清洁与剃毛的用户。",
+      "en": "Consumers seeking body skin renewal who favor a low-lather cream body wash; users willing to use one product for both cleansing and shaving.",
+      "ja": "肌のリニューアルを求め、低起泡のクリームテクスチャーのボディウォッシュを好む層。1本で洗浄とシェービングの両方をこなしたいユーザー。"
+    },
+    "distribution": {
+      "zh": "90mL/US$12到1升/US$58，1升规格搭配替换装可减少74%塑料用量，是身体清洁品类里少见的\"家庭大容量+环保补充装\"组合定价策略。",
+      "en": "From 90mL at US$12 up to 1 Liter at US$58, with the 1-Liter size paired with a refill that cuts plastic use by 74% — an uncommon household-bulk-size-plus-eco-refill pricing strategy for the body-cleansing category.",
+      "ja": "90mL・12米ドルから1リットル・58米ドルまで展開し、1リットルサイズは詰め替え用と組み合わせることでプラスチック使用量を74%削減できる。ボディクレンジングカテゴリーとしては珍しい「家庭用大容量＋エコな詰め替え」の価格戦略。"
+    },
+    "ingredients": {
+      "zh": "水、椰油酰基羟乙磺酸钠、硬脂酸、椰油酰甲基牛磺酸钠、二硬脂酸乙二醇酯、椰油酰胺丙基羟基磺基甜菜碱、甘油、香精、角鲨烷、咖芽果籽油、洛神花提取物、乙基己基甘油、四钠谷氨酸二乙酸、聚季铵盐-7、羟乙磺酸钠、氢氧化钠、甲基牛磺酸钠、黄原胶、苯氧乙醇。",
+      "en": "Aqua (Water), Sodium Cocoyl Isethionate, Stearic Acid, Sodium Methyl Cocoyl Taurate, Glycol Distearate, Cocamidopropyl Hydroxysultaine, Glycerin, Parfum (Fragrance), Squalane, Caryodendron Orinocense (Cacay) Seed Oil, Hibiscus Sabdariffa Flower Extract, Ethylhexylglycerin, Tetrasodium Glutamate Diacetate, Polyquaternium-7, Sodium Isethionate, Sodium Hydroxide, Sodium Methyltaurate, Xanthan Gum, Phenoxyethanol.",
+      "ja": "水、ココイルイセチオン酸Na、ステアリン酸、ココイルメチルタウリンNa、ジステアリン酸グリコール、ココアミドプロピルヒドロキシスルタイン、グリセリン、香料、スクワラン、カカイ種子油、ハイビスカス花エキス、エチルヘキシルグリセリン、グルタミン酸四酢酸四Na、ポリクオタニウム-7、イセチオン酸Na、水酸化Na、メチルタウリンNa、キサンタンガム、フェノキシエタノール"
+    },
+    "evidence": {
+      "zh": "官方产品页未展示针对本产品的独立临床测试数据或消费者自评百分比统计，功效表述以\"咖芽果油促进焕新\"\"果酸温和去角质\"等成分功能性描述为主。",
+      "en": "The official product page does not display independent clinical data or consumer self-assessment percentages specific to this product; the efficacy claims lean on descriptive statements about ingredient function, such as cacay oil encouraging renewal and fruit acids gently exfoliating.",
+      "ja": "公式商品ページには本製品固有の独立臨床データや消費者自己評価のパーセンテージは示されておらず、効能の説明は「カカイ油がリニューアルを促す」「フルーツ酸が穏やかに角質ケアする」といった成分の機能的な説明が中心。"
+    },
+    "experience": {
+      "zh": "官方描述涂抹在湿润皮肤上轻柔按摩，奶油质地会转化为低泡沫丰富泡沫，冲洗后肌肤感觉焕活更新；官方特别提示可兼作剃毛膏使用，是这支产品区别于其他身体沐浴露的实用附加功能。香调为热带果香蜜桃火龙果、巴西茉莉、海洋气息的Cheirosa 68。",
+      "en": "The brand describes applying to wet skin with a gentle massage, with the cream texture transforming into a rich, low-lather foam, leaving skin feeling renewed after rinsing; it specifically notes the product doubles as a shaving cream, a practical add-on that sets it apart from other body washes. The scent is Cheirosa 68, a tropical fruity blend of pink dragonfruit, Brazilian jasmine, and ocean air.",
+      "ja": "公式は濡れた肌に塗布し優しくマッサージすると案内しており、クリームテクスチャーが低起泡のリッチな泡へと変化し、洗い流すと肌が刷新された感覚になるとしている。公式は特にシェービングクリームとしても使えると案内しており、他のボディウォッシュとの差別化になる実用的な付加機能。香りはピンクドラゴンフルーツ、ブラジリアンジャスミン、オーシャンエアーのトロピカルフルーティな香りCheirosa 68。"
+    },
+    "packaging": {
+      "zh": "粉色瓶身配蜂鸟视觉元素，第一眼传递\"轻盈、花香、活力\"的调性，跟同品牌Bum Bum Cream的黄色浓郁调性形成明显区隔，帮助消费者在同一货架上快速辨认不同产品线。",
+      "en": "A pink bottle with hummingbird visual motifs reads as light, floral, and energetic at first glance, clearly distinct from the brand's yellow, richer-toned Bum Bum Cream — helping consumers quickly tell the product lines apart on the same shelf.",
+      "ja": "ピンクのボトルにハチドリのビジュアルモチーフをあしらい、軽やかで華やかでエネルギッシュという第一印象を与える。同ブランドのイエローで濃厚な印象のBum Bum Creamとは明確に区別され、同じ棚に並んでいても消費者が製品ラインを素早く見分けられるようになっている。"
+    },
+    "insight": {
+      "zh": "这支产品的\"兼作剃毛膏\"这个附加功能值得参考——官方FAQ里专门用一整段说明开锁方式（针对1升泵头装），说明品牌对\"大容量家庭装\"这个使用场景做了细致的产品体验设计，而不是简单把小规格放大。这提示我们，身体护理品类做大容量家庭装时，包装的易用性细节（比如泵头锁）本身可以成为一个值得单独沟通的产品卖点，而不只是\"规格更大、更省钱\"这么简单。",
+      "en": "The added shaving-cream function on this product is worth referencing — the brand's FAQ devotes an entire section to explaining how to unlock the pump on the 1-Liter size, showing the brand designed the large-format household size experience carefully rather than simply scaling up a smaller bottle. The takeaway: when a body-care brand moves into large family-size packaging, usability details (like a pump lock) can themselves become a sellable product point worth communicating separately, not just \"bigger size, better value.\"",
+      "ja": "この製品の「シェービングクリームとしても使える」という付加機能は参考になる——公式のFAQは1リットルサイズのポンプの開け方についてわざわざ一つのセクションを割いて説明しており、ブランドが大容量の家庭用サイズの体験を丁寧に設計していることを示している。小さいボトルを単純に拡大しただけではない。示唆されるのは、ボディケアブランドが大容量のファミリーサイズに展開する際、使いやすさの細部（ポンプのロックなど）自体が「大きくてお得」というだけでなく、単独で伝える価値のある訴求点になり得るということ。"
+    },
+    "notes": {
+      "zh": "资料采集日 2026-08-02。信息取自品牌官网soldejaneiro.com产品页，含完整成分表；本产品页未见独立临床/消费者研究数据披露。",
+      "en": "Data collected 2026-08-02. Information taken from the brand's official soldejaneiro.com product page, including the complete ingredient list; no independent clinical/consumer study data was disclosed on this specific product page.",
+      "ja": "情報収集日 2026年8月2日。ブランド公式サイトsoldejaneiro.com商品ページより収集。完全な成分表を含むが、本製品ページには独立した臨床・消費者調査データの開示は見当たらなかった。"
+    },
+    "images": [
+      "https://soldejaneiro.com/cdn/shop/files/sdj_Beijaflor_Bodywash_385mL.jpg?v=1722544228"
+    ],
+    "sources": [
+      [
+        "Official product page (Sol de Janeiro)",
+        "https://soldejaneiro.com/products/beija-flor-renewing-body-wash"
+      ]
+    ],
+    "targetUsers": {
+      "zh": [
+        "追求身体肌肤焕新的人群",
+        "偏好低泡沫奶油质地沐浴露的用户",
+        "愿意一物两用（清洁+剃毛）的消费者"
+      ],
+      "en": [
+        "Consumers seeking body skin renewal",
+        "Users who favor a low-lather cream body wash",
+        "Consumers who like a dual-purpose product (cleansing plus shaving)"
+      ],
+      "ja": [
+        "肌のリニューアルを求める層",
+        "低起泡のクリームテクスチャーのボディウォッシュを好むユーザー",
+        "1本2役（洗浄＋シェービング）を求める消費者"
+      ]
+    },
+    "keyClaims": {
+      "zh": [
+        "咖芽果油促进肌肤焕新",
+        "纯素角鲨烷防止水分流失",
+        "果酸温和去角质",
+        "兼作剃毛膏使用"
+      ],
+      "en": [
+        "Cacay oil encourages skin renewal",
+        "Vegan squalane prevents moisture loss",
+        "Fruit acids gently exfoliate",
+        "Doubles as a shaving cream"
+      ],
+      "ja": [
+        "カカイ油が肌のリニューアルを促す",
+        "ビーガンスクワランが水分損失を防ぐ",
+        "フルーツ酸が穏やかに角質ケア",
+        "シェービングクリームとしても使用可能"
+      ]
+    },
+    "heroIngredients": {
+      "zh": [
+        {
+          "name": "咖芽果籽油",
+          "tag": "温和维A醇替代",
+          "desc": "官方称为温和的维A醇替代成分，促进肌肤焕新"
+        },
+        {
+          "name": "洛神花提取物",
+          "tag": "果酸焕肤",
+          "desc": "提供温和去角质的果酸来源"
+        }
+      ],
+      "en": [
+        {
+          "name": "Cacay Seed Oil",
+          "tag": "Gentle retinol alternative",
+          "desc": "Described by the brand as a gentle retinol alternative that encourages skin renewal"
+        },
+        {
+          "name": "Hibiscus Flower Extract",
+          "tag": "Fruit-acid resurfacing",
+          "desc": "The source of the fruit acids that provide gentle exfoliation"
+        }
+      ],
+      "ja": [
+        {
+          "name": "カカイ種子油",
+          "tag": "穏やかなレチノール代替",
+          "desc": "公式が穏やかなレチノール代替成分と説明、肌のリニューアルを促す"
+        },
+        {
+          "name": "ハイビスカス花エキス",
+          "tag": "フルーツ酸による肌質改善",
+          "desc": "穏やかな角質ケアを提供するフルーツ酸の供給源"
+        }
+      ]
+    },
+    "ingredientsNote": {
+      "zh": "配方无硫酸盐、无矿物油、无对羟基苯甲酸酯，主洁净成分为椰油酰基羟乙磺酸钠这类相对温和的氨基酸系表面活性剂，非传统硫酸盐皂基。",
+      "en": "The formula is sulfate-free, mineral-oil-free, and paraben-free; the main cleansing agent is sodium cocoyl isethionate, a relatively mild amino-acid-type surfactant rather than a traditional sulfate soap base.",
+      "ja": "処方はサルフェートフリー、鉱物油フリー、パラベンフリー。主な洗浄成分はココイルイセチオン酸Naという比較的マイルドなアミノ酸系界面活性剤で、従来のサルフェート系石鹸ベースではない。"
+    },
+    "pricePositioning": {
+      "zh": {
+        "tier": "premium",
+        "label": "北美网红级身体清洁"
+      },
+      "en": {
+        "tier": "premium",
+        "label": "North American Influencer-Grade Body Cleanser"
+      },
+      "ja": {
+        "tier": "premium",
+        "label": "北米インフルエンサー級ボディクレンザー"
+      }
+    },
+    "marketChannel": {
+      "zh": {
+        "global": [
+          "品牌官网soldejaneiro.com",
+          "Sephora",
+          "Ulta Beauty"
+        ],
+        "japan": [
+          "Sol Passport会员积分兑换渠道"
+        ],
+        "channelLabel": "北美专业美妆零售+社媒种草",
+        "channelDesc": "作为Bum Bum Cream的配套清洁品类，主要承担品牌\"完整身体护理仪式\"叙事里的第一步角色"
+      },
+      "en": {
+        "global": [
+          "Brand DTC (soldejaneiro.com)",
+          "Sephora",
+          "Ulta Beauty"
+        ],
+        "japan": [
+          "Sol Passport loyalty points redemption channel"
+        ],
+        "channelLabel": "North American Specialty Beauty Retail + Social Discovery",
+        "channelDesc": "As the cleansing counterpart to Bum Bum Cream, this mainly plays the first-step role in the brand's \"complete body-care ritual\" narrative"
+      },
+      "ja": {
+        "global": [
+          "ブランド公式サイトsoldejaneiro.com",
+          "セフォラ",
+          "Ulta Beauty"
+        ],
+        "japan": [
+          "Sol Passportロイヤルティポイント交換チャネル"
+        ],
+        "channelLabel": "北米専門美容小売＋SNSでの発見",
+        "channelDesc": "Bum Bum Creamと組み合わせるクレンジングカテゴリーとして、ブランドの「完全なボディケアの儀式」というストーリーの第一段階を担う"
+      }
+    },
+    "brandConceptRich": {
+      "zh": {
+        "tagline": "renewed, revitalized, and in bloom（焕新、复苏、绽放）",
+        "concept": "Beija Flor（葡语\"蜂鸟\"）系列以\"轻盈焕活\"为核心概念，跟品牌招牌Bum Bum系列的\"浓郁塑形\"调性形成互补，两条产品线共同构成Sol de Janeiro\"身体护理仪式\"（清洁-塑形-留香）里不同的功能角色。"
+      },
+      "en": {
+        "tagline": "Renewed, revitalized, and in bloom.",
+        "concept": "The Beija Flor (Portuguese for \"hummingbird\") line is built around a light, renewing concept, complementing the brand's flagship Bum Bum line's richer, shaping tone. Together the two lines fill different functional roles in Sol de Janeiro's cleanse-shape-scent body-care ritual."
+      },
+      "ja": {
+        "tagline": "renewed, revitalized, and in bloom（刷新され、生き返り、花開く）。",
+        "concept": "Beija Flor（ポルトガル語で「ハチドリ」）シリーズは「軽やかなリニューアル」を核心コンセプトとし、ブランドの看板であるBum Bumシリーズの「濃厚なシェイピング」というトーンと補完関係にある。2つの製品ラインが合わさって、ソル・デ・ジャネイロの「洗浄→シェイピング→香り」というボディケアの儀式の中でそれぞれ異なる機能的役割を果たしている。"
+      }
+    },
+    "competitiveAdvantage": {
+      "zh": [
+        {
+          "name": "Brazilian Bum Bum Cream（同库已加入，同品牌）",
+          "points": [
+            "本品是清洁品类，Bum Bum Cream是紧致品类，两者是同一\"身体护理仪式\"里的不同步骤而非直接竞争",
+            "本品香调为Cheirosa 68，Bum Bum Cream为Cheirosa 62，代表品牌不同产品线各自的专属香调策略"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Brazilian Bum Bum Cream (already in this library, same brand)",
+          "points": [
+            "This product is a cleansing item, Bum Bum Cream is a firming item — the two are different steps in the same body-care ritual rather than direct competitors",
+            "This product uses the Cheirosa 68 scent while Bum Bum Cream uses Cheirosa 62, representing the brand's strategy of dedicated scents per product line"
+          ]
+        }
+      ],
+      "ja": []
+    },
+    "evidenceStats": {
+      "zh": [],
+      "en": [],
+      "ja": []
+    },
+    "experienceItems": {
+      "zh": [
+        "用法：湿润皮肤轻柔按摩",
+        "质地：奶油转化为低泡沫丰富泡沫",
+        "附加功能：可兼作剃毛膏",
+        "香调：粉红火龙果、巴西茉莉、海洋气息"
+      ],
+      "en": [
+        "Usage: gentle massage on wet skin",
+        "Texture: cream transforms into a rich, low-lather foam",
+        "Add-on: doubles as a shaving cream",
+        "Scent: pink dragonfruit, Brazilian jasmine, ocean air"
+      ],
+      "ja": [
+        "使い方：濡れた肌に優しくマッサージ",
+        "テクスチャー：クリームが低起泡のリッチな泡に変化",
+        "付加機能：シェービングクリームとしても使用可能",
+        "香り：ピンクドラゴンフルーツ、ブラジリアンジャスミン、オーシャンエアー"
+      ]
+    },
+    "keyTechnology": {
+      "zh": [
+        {
+          "title": "低泡沫奶油双功能配方",
+          "desc": "用低泡沫奶油质地同时满足身体清洁与剃毛两种使用场景，减少消费者需要购买的产品种类。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Low-Lather Cream Dual-Function Formula",
+          "desc": "Uses a low-lather cream texture to serve both body cleansing and shaving in one product, reducing the number of separate products a consumer needs to buy."
+        }
+      ],
+      "ja": [
+        {
+          "title": "低起泡クリーム2WAY処方",
+          "desc": "低起泡のクリームテクスチャーで、ボディクレンジングとシェービングという2つの使用シーンを1本でカバーし、消費者が購入すべき製品数を減らしている。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "soldejaneiro-bum-bum-firmeza-oil",
+    "vertical": "skincare",
+    "category": "usa",
+    "productType": "oil",
+    "addedAt": 55,
+    "name": {
+      "zh": "Sol de Janeiro Bum Bum Firmeza 紧致身体油",
+      "en": "Sol de Janeiro Bum Bum Body Firmeza Oil",
+      "ja": "ソル・デ・ジャネイロ バムバム ボディ フィルメザ オイル"
+    },
+    "brand": {
+      "zh": "Sol de Janeiro",
+      "en": "Sol de Janeiro",
+      "ja": "ソル・デ・ジャネイロ"
+    },
+    "company": {
+      "zh": "Sol de Janeiro USA, Inc.",
+      "en": "Sol de Janeiro USA, Inc.",
+      "ja": "ソル・デ・ジャネイロ USA, Inc."
+    },
+    "origin": {
+      "zh": "美国（品牌灵感与命名来自巴西里约热内卢）",
+      "en": "United States (brand inspiration and naming rooted in Rio de Janeiro, Brazil)",
+      "ja": "アメリカ（ブランドのインスピレーションと命名はブラジルのリオデジャネイロに由来）"
+    },
+    "launch": {
+      "zh": "Bum Bum系列身体油单品，与招牌Bum Bum Cream共享Cheirosa 62香调，持续在售",
+      "en": "The body oil in the Bum Bum line, sharing the Cheirosa 62 scent with the flagship Bum Bum Cream; ongoing",
+      "ja": "Bum Bumシリーズのボディオイルで、看板商品Bum Bum Creamと同じCheirosa 62の香りを共有、継続販売中"
+    },
+    "market": {
+      "zh": "品牌官网soldejaneiro.com、Sephora、Ulta Beauty等北美专业美妆零售",
+      "en": "Brand DTC (soldejaneiro.com), Sephora, Ulta Beauty and other North American specialty beauty retail",
+      "ja": "ブランド公式サイトsoldejaneiro.com、セフォラ、Ulta Beautyなど北米の専門美容小売"
+    },
+    "capacity": {
+      "zh": "100 mL",
+      "en": "100 mL",
+      "ja": "100mL"
+    },
+    "price": {
+      "zh": "US$52.00",
+      "en": "US$52.00",
+      "ja": "52.00米ドル"
+    },
+    "positioning": {
+      "zh": "Bum Bum系列的身体油单品，主打\"可见紧致、改善妊娠纹外观、深层滋养\"三重功效，核心技术是品牌专利瓜拉纳咖啡因+复合物（含瓜拉纳、巴西马黛树皮根、佳普提卡巴果提取物），搭配巴西莓果油与微藻提取物负责消肿。定位是Bum Bum Cream的\"精华级\"配套单品，官方明确建议与身体乳、按摩工具组成\"终极紧致护理流程\"。",
+      "en": "The body oil in the Bum Bum line, built around a triple claim of visible firming, improved stretch-mark appearance, and deep nourishment. Its core technology is the brand's proprietary Guaraná Caffeine+ Complex (guaraná, muirapuama bark/root, and jaboticaba fruit extract), paired with Brazilian açaí oil and microalgae extract for depuffing. It's positioned as the \"serum-grade\" companion to Bum Bum Cream, with the brand explicitly recommending it as part of an \"ultimate firming routine\" alongside body cream and a massage tool.",
+      "ja": "Bum Bumシリーズのボディオイルで、「見える引き締め、妊娠線の見た目の改善、深層滋養」という3つの効果を訴求している。核心技術はブランド独自のガラナカフェイン＋コンプレックス（ガラナ、ムイラプアマの樹皮・根、ジャボチカバ果実エキス）で、これにブラジル産アサイーオイルと微細藻類エキスを組み合わせてむくみ対策を行う。Bum Bum Creamの「美容液級」の相棒として位置づけられ、公式はボディクリームやマッサージツールと組み合わせた「究極の引き締めルーティン」の一部として明確に推奨している。"
+    },
+    "target": {
+      "zh": "追求更进阶身体紧致效果、愿意为\"油+乳\"叠加护理付费的消费者；有妊娠纹外观困扰、追求可见改善的用户；旅行前后或海边度假前的\"临时抱佛脚\"型消费者。",
+      "en": "Consumers seeking a more advanced firming effect and willing to pay for a layered oil-plus-cream routine; users concerned about stretch-mark appearance seeking visible improvement; last-minute prep consumers before travel or a beach vacation.",
+      "ja": "より高度な引き締め効果を求め、オイル＋クリームの重ね使いにお金をかけることを厭わない消費者。妊娠線の見た目に悩み、目に見える改善を求めるユーザー。旅行前やビーチバカンス前の「駆け込み」型消費者。"
+    },
+    "distribution": {
+      "zh": "100mL/US$52，是本库目前收录的所有身体护理单品里价格最高的一款，单毫升成本远高于Bum Bum Cream本体，定位为\"进阶单品\"而非入门款，暂无迷你装或替换装选择，客单价结构相对单一。",
+      "en": "100mL at US$52, the most expensive body-care item catalogued in this library so far, with a per-mL cost far above the Bum Bum Cream itself, positioned as an advanced item rather than an entry point — with no mini or refill size currently offered, its per-order value structure is relatively simple.",
+      "ja": "100mL・52米ドルは、本ライブラリに収録されているボディケア商品の中で最も価格が高く、1mLあたりのコストはBum Bum Cream本体をはるかに上回る。入門商品ではなく「上級アイテム」として位置づけられており、現時点でミニサイズや詰め替え用の選択肢はなく、客単価構造は比較的シンプル。"
+    },
+    "ingredients": {
+      "zh": "辛酸/癸酸三甘油酯、葵花籽油、橄榄果油、澳洲坚果籽油、荷荷巴籽油、椰子油、香精、角鲨烷、瓜拉纳果提取物*、巴西马黛树皮/根提取物*、佳普提卡巴果实提取物*、浮游生物提取物、巴西莓果油、苋菜籽提取物、小麦胚芽提取物、大麦提取物、生育酚、乙基己基甘油、苯甲醇、水杨酸苄酯、香豆素、羟基香茅醛、柠檬烯、芳樟醇、苯甲酸苄酯、柠檬醛、丁香酚。（*为瓜拉纳咖啡因+复合物成分）",
+      "en": "Caprylic/Capric Triglyceride, Helianthus Annuus (Sunflower) Seed Oil, Olea Europaea (Olive) Fruit Oil, Macadamia Integrifolia Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Cocos Nucifera (Coconut) Oil, Parfum (Fragrance), Squalane, Paullinia Cupana (Guaraná) Fruit Extract*, Ptychopetalum Olacoides (Muirapuama) Bark/Root Extract*, Plinia Cauliflora (Jabuticaba) Fruit Extract*, Plankton Extract, Euterpe Oleracea (Açaí) Fruit Oil, Amaranthus Caudatus Seed Extract, Triticum Vulgare (Wheat) Germ Extract, Hordeum Distichon (Barley) Extract, Tocopherol, Ethylhexylglycerin, Benzyl Alcohol, Benzyl Salicylate, Coumarin, Hydroxycitronellal, Limonene, Linalool, Benzyl Benzoate, Citral, Eugenol. (*Guaraná Caffeine+ Complex components)",
+      "ja": "カプリル酸／カプリン酸トリグリセリド、ヒマワリ種子油、オリーブ果実油、マカダミア種子油、ホホバ種子油、ココナッツ油、香料、スクワラン、ガラナ果実エキス*、ムイラプアマ樹皮／根エキス*、ジャボチカバ果実エキス*、プランクトンエキス、アサイー果実油、アマランサス種子エキス、小麦胚芽エキス、大麦エキス、トコフェロール、エチルヘキシルグリセリン、ベンジルアルコール、サリチル酸ベンジル、クマリン、ヒドロキシシトロネラール、リモネン、リナロール、安息香酸ベンジル、シトラール、オイゲノール（*ガラナカフェイン＋コンプレックスの成分）"
+    },
+    "evidence": {
+      "zh": "官方披露多组临床/消费者研究数据：94%显示肌肤紧致度改善（34人临床研究，每日两次使用12周）；经临床验证24小时深层滋养（30人研究，单次使用后）；改善妊娠纹颜色、纹理与强度（29人临床研究，每日两次使用8周，100%用户观察到妊娠纹外观改善）；98%认为配方吸收良好（109人消费者研究，单次使用后1天）；91%感觉更自信（109人消费者研究，每日使用28天）。这是本库目前收录产品里临床数据披露最详细的一款，但样本量集中在29-109人区间，仍属于中小规模研究。",
+      "en": "The brand discloses several sets of clinical/consumer study data: 94% showed improved skin firmness (34-participant clinical study, twice daily for 12 weeks); clinically shown to deeply nourish for 24 hours (30-participant study, after one use); improved stretch mark color, texture, and intensity (29-participant clinical study, twice daily for 8 weeks, 100% saw improvement); 98% felt the formula absorbed well (109-participant consumer study, one day after one use); 91% felt more confident (109-participant consumer study, after 28 days of daily use). This is the most extensively disclosed clinical dataset among products catalogued in this library so far, though sample sizes cluster in the 29-109 range, still small-to-mid-scale studies.",
+      "ja": "公式は複数の臨床・消費者調査データを開示している：肌の引き締め度が94%改善（34名の臨床試験、1日2回12週間使用）、24時間の深層滋養が臨床的に証明（30名の調査、単回使用後）、妊娠線の色・質感・強度が改善（29名の臨床試験、1日2回8週間使用、100%が妊娠線の見た目の改善を実感）、98%が処方の吸収が良いと回答（109名の消費者調査、単回使用後1日）、91%がより自信を持てたと回答（109名の消費者調査、28日間毎日使用）。これは本ライブラリに収録されている製品の中で最も詳細に臨床データが開示されている商品だが、サンプル数は29〜109名程度に集中しており、依然として中小規模の調査である。"
+    },
+    "experience": {
+      "zh": "官方推荐四步流程：清洁干燥皮肤上涂抹→打圈按摩促进吸收→重点针对肚子/大腿/臀部/手臂等易浮肿部位→可选配合淋巴引流手法（从肚脐向外上方推至肋骨，再向外下方推至比基尼线）。官方特别推出配套按摩工具（单独购买）辅助塑形消肿效果。质地为深层滋养但不油腻的身体油，吸收速度接近即时。",
+      "en": "The brand recommends a four-step routine: apply to clean, dry skin, massage in circular motions to aid absorption, focus on puffiness-prone areas (stomach, thighs, hips, arms), and optionally follow a lymphatic drainage technique (sweeping from the navel up toward the ribs, then down toward the bikini line). The brand specifically sells a companion massage tool (sold separately) to support the shaping/depuffing effect. The texture is deeply nourishing but non-greasy, with near-instant absorption.",
+      "ja": "公式は4ステップのルーティンを推奨している：清潔で乾いた肌に塗布→円を描くようにマッサージして吸収を促進→むくみやすい部位（お腹、太もも、お尻、腕）を重点的に→任意でリンパドレナージュ手法（おへそから肋骨に向かって上方へ、次にビキニラインに向かって下方へ）を併用。公式は専用のマッサージツール（別売り）も展開しており、シェイピング・むくみ対策効果をサポートする。テクスチャーは深く滋養しながらもべたつかず、ほぼ即座に吸収される。"
+    },
+    "packaging": {
+      "zh": "玻璃瓶配泵头与硅胶保护套设计，比同系列身体乳的塑料罐装更显精致，第一眼传递\"精华级、进阶护理\"的印象，价格与包装材质共同强化了这支产品在系列内的\"高阶单品\"定位。",
+      "en": "A glass bottle with a pump and a silicone protective sleeve looks more refined than the plastic jar of the same-line body cream, reading as serum-grade, advanced care at first glance — the price and packaging material together reinforce this product's positioning as the higher-tier item in the line.",
+      "ja": "ガラスボトルにポンプとシリコン保護スリーブを組み合わせたデザインは、同シリーズのボディクリームのプラスチックジャーよりも上質な印象を与え、美容液級の上級ケアという第一印象を与える。価格とパッケージ素材が相まって、シリーズ内での「上級アイテム」という位置づけを強めている。"
+    },
+    "insight": {
+      "zh": "这支产品最值得参考的地方是它把\"临床数据披露\"这件事做到了本库目前收录产品里最细致的程度——五组不同维度的数据（紧致度、深层滋养、妊娠纹改善、吸收度、自信度）分别标注了各自独立的样本量与测试周期，而不是笼统地说\"经测试有效\"。这种\"分维度、分场景披露具体数据\"的做法，比单纯堆砌一个总体好评率更有说服力，也更经得起推敲——即便样本量本身不算大，这种披露的颗粒度本身就是建立信任的一种方式，值得我们在思考如何呈现自己的功效数据时参考。",
+      "en": "The most instructive thing about this product is that it discloses clinical data in more granular detail than any other product catalogued in this library so far — five separate dimensions (firmness, deep nourishment, stretch-mark improvement, absorption, confidence), each with its own sample size and study duration, rather than a vague \"clinically proven effective.\" This dimension-by-dimension, occasion-by-occasion disclosure is more persuasive and holds up better to scrutiny than a single aggregate satisfaction rate — even with modest sample sizes, this level of granularity is itself a trust-building device, worth referencing when thinking through how to present our own efficacy data.",
+      "ja": "この製品で最も参考になるのは、本ライブラリに収録されている製品の中で最も細かい粒度で臨床データを開示している点。引き締め度、深層滋養、妊娠線の改善、吸収度、自信度という5つの異なる次元それぞれに、独立したサンプル数と試験期間が明記されており、漠然と「試験で効果が証明された」と言うのではない。この「次元ごと、シーンごとに具体的なデータを開示する」というやり方は、単一の総合満足度を並べるよりも説得力があり、精査にも耐えやすい——サンプル数自体が大きくなくても、この開示の粒度自体が信頼構築の一つの手段であり、自社の効能データをどう提示するかを考える上で参考になる。"
+    },
+    "notes": {
+      "zh": "资料采集日 2026-08-02。信息取自品牌官网soldejaneiro.com产品页，含完整成分表与五组临床/消费者研究数据披露。",
+      "en": "Data collected 2026-08-02. Information taken from the brand's official soldejaneiro.com product page, including the complete ingredient list and five disclosed sets of clinical/consumer study data.",
+      "ja": "情報収集日 2026年8月2日。ブランド公式サイトsoldejaneiro.com商品ページより収集。完全な成分表及び5組の臨床・消費者調査データの開示を含む。"
+    },
+    "images": [
+      "https://soldejaneiro.com/cdn/shop/files/bum_bum_Body_firmeza_oil_sol_de_janeiro_0.webp?v=1715102438"
+    ],
+    "sources": [
+      [
+        "Official product page (Sol de Janeiro)",
+        "https://soldejaneiro.com/products/bum-bum-body-firmeza-oil"
+      ]
+    ],
+    "targetUsers": {
+      "zh": [
+        "追求进阶身体紧致效果的消费者",
+        "有妊娠纹外观困扰、追求可见改善的用户",
+        "旅行/度假前临时抱佛脚型消费者"
+      ],
+      "en": [
+        "Consumers seeking a more advanced firming effect",
+        "Users concerned about stretch-mark appearance seeking visible improvement",
+        "Last-minute-prep consumers before travel or vacation"
+      ],
+      "ja": [
+        "より高度な引き締め効果を求める消費者",
+        "妊娠線の見た目に悩み、目に見える改善を求めるユーザー",
+        "旅行・バカンス前の駆け込み型消費者"
+      ]
+    },
+    "keyClaims": {
+      "zh": [
+        "瓜拉纳咖啡因+复合物可见紧致",
+        "改善妊娠纹外观",
+        "24小时深层滋养（临床验证）",
+        "微藻提取物消肿"
+      ],
+      "en": [
+        "Guaraná Caffeine+ Complex for visible firming",
+        "Improves stretch-mark appearance",
+        "24-hour deep nourishment (clinically shown)",
+        "Microalgae extract for depuffing"
+      ],
+      "ja": [
+        "ガラナカフェイン＋コンプレックスによる見える引き締め",
+        "妊娠線の見た目を改善",
+        "24時間の深層滋養（臨床的に証明）",
+        "微細藻類エキスによるむくみ対策"
+      ]
+    },
+    "heroIngredients": {
+      "zh": [
+        {
+          "name": "瓜拉纳咖啡因+复合物（瓜拉纳/马黛树皮根/佳普提卡巴）",
+          "tag": "品牌专利紧致复合物",
+          "desc": "三种巴西活性植物提取物协同，官方宣称帮助可见紧致肌肤"
+        },
+        {
+          "name": "微藻提取物",
+          "tag": "消肿",
+          "desc": "官方宣称可见消肿效果的核心成分"
+        }
+      ],
+      "en": [
+        {
+          "name": "Guaraná Caffeine+ Complex (guaraná/muirapuama/jaboticaba)",
+          "tag": "Proprietary firming complex",
+          "desc": "Three synergistic Brazilian botanical extracts, claimed by the brand to help visibly firm skin"
+        },
+        {
+          "name": "Microalgae Extract",
+          "tag": "Depuffing",
+          "desc": "The core ingredient behind the brand's noticeable depuffing claim"
+        }
+      ],
+      "ja": [
+        {
+          "name": "ガラナカフェイン＋コンプレックス（ガラナ／ムイラプアマ／ジャボチカバ）",
+          "tag": "独自の引き締め複合体",
+          "desc": "3種のブラジル産植物エキスが相乗的に働き、公式は見える肌の引き締めをサポートすると謳う"
+        },
+        {
+          "name": "微細藻類エキス",
+          "tag": "むくみ対策",
+          "desc": "公式が謳う目に見えるむくみ対策効果の核心成分"
+        }
+      ]
+    },
+    "ingredientsNote": {
+      "zh": "配方以多种植物油（葵花籽、橄榄、澳洲坚果、荷荷巴、椰子）为基底，不含矿物油，素食友好，通过PETA无动物测试认证。",
+      "en": "The formula is built on a base of multiple plant oils (sunflower, olive, macadamia, jojoba, coconut), mineral-oil-free, vegan-friendly, and PETA cruelty-free certified.",
+      "ja": "処方は複数の植物油（ヒマワリ、オリーブ、マカダミア、ホホバ、ココナッツ）を基剤とし、鉱物油不使用、ビーガンフレンドリー、PETA認証のクルエルティフリー。"
+    },
+    "pricePositioning": {
+      "zh": {
+        "tier": "premium",
+        "label": "北美进阶身体紧致精华油"
+      },
+      "en": {
+        "tier": "premium",
+        "label": "North American Advanced Body-Firming Serum Oil"
+      },
+      "ja": {
+        "tier": "premium",
+        "label": "北米上級ボディファーミング美容液オイル"
+      }
+    },
+    "marketChannel": {
+      "zh": {
+        "global": [
+          "品牌官网soldejaneiro.com",
+          "Sephora",
+          "Ulta Beauty"
+        ],
+        "japan": [
+          "Sol Passport会员积分兑换渠道"
+        ],
+        "channelLabel": "北美专业美妆零售+社媒种草",
+        "channelDesc": "定位为Bum Bum Cream的进阶配套单品，主要通过\"终极紧致护理流程\"的组合营销带动搭售"
+      },
+      "en": {
+        "global": [
+          "Brand DTC (soldejaneiro.com)",
+          "Sephora",
+          "Ulta Beauty"
+        ],
+        "japan": [
+          "Sol Passport loyalty points redemption channel"
+        ],
+        "channelLabel": "North American Specialty Beauty Retail + Social Discovery",
+        "channelDesc": "Positioned as the advanced companion to Bum Bum Cream, driving bundled sales mainly through the \"ultimate firming routine\" cross-sell"
+      },
+      "ja": {
+        "global": [
+          "ブランド公式サイトsoldejaneiro.com",
+          "セフォラ",
+          "Ulta Beauty"
+        ],
+        "japan": [
+          "Sol Passportロイヤルティポイント交換チャネル"
+        ],
+        "channelLabel": "北米専門美容小売＋SNSでの発見",
+        "channelDesc": "Bum Bum Creamの上級パートナーとして位置づけられ、「究極の引き締めルーティン」というクロスセルを通じたセット販売が主な販売手法"
+      }
+    },
+    "brandConceptRich": {
+      "zh": {
+        "tagline": "Feel the lift（感受提拉的力量）",
+        "concept": "Firmeza Oil延续Bum Bum系列\"紧致塑形\"的核心承诺，用比身体乳更浓缩的油质地形态和更详尽的临床数据披露，把这个承诺推向\"精华级\"高度，是品牌\"身体护理仪式化\"策略里承担\"进阶步骤\"角色的产品。"
+      },
+      "en": {
+        "tagline": "Feel the lift.",
+        "concept": "Firmeza Oil continues the Bum Bum line's core promise of firming and shaping, pushing that promise to a \"serum-grade\" level through a more concentrated oil texture and more extensively disclosed clinical data — the product that plays the \"advanced step\" role in the brand's body-care ritualization strategy."
+      },
+      "ja": {
+        "tagline": "Feel the lift（引き上げの力を感じて）。",
+        "concept": "Firmeza OilはBum Bumシリーズの「引き締め・シェイピング」という核心的な約束を継承し、ボディクリームより濃縮されたオイルテクスチャーとより詳細に開示された臨床データを通じて、その約束を「美容液級」の高みへと押し上げている。ブランドの「ボディケアの儀式化」戦略の中で「上級ステップ」の役割を担う製品。"
+      }
+    },
+    "competitiveAdvantage": {
+      "zh": [
+        {
+          "name": "Brazilian Bum Bum Cream（同库已加入，同品牌）",
+          "points": [
+            "本品是身体乳的\"精华级\"进阶配套，价格是Bum Bum Cream正装的约1.1倍但容量仅为其约42%",
+            "本品临床数据披露维度更多（5组vs Bum Bum Cream的2-3组）",
+            "两者共享同一Cheirosa 62香调，官方建议叠加使用"
+          ]
+        },
+        {
+          "name": "GlowMotions Body Glow Oil（同库已加入，同品牌）",
+          "points": [
+            "GlowMotions主打闪光美妆效果，本品主打功效性紧致塑形，是品牌身体油品类里两种不同的差异化路径",
+            "价格本品略高（US$52 vs US$36），单毫升成本也更高",
+            "本品的临床数据披露远比GlowMotions详尽，走\"功效驱动\"而非\"视觉驱动\"路线"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Brazilian Bum Bum Cream (already in this library, same brand)",
+          "points": [
+            "This product is the \"serum-grade\" advanced companion to the body cream, priced about 1.1x the full-size Bum Bum Cream but only about 42% of its volume",
+            "This product discloses more clinical data dimensions (5 vs. Bum Bum Cream's 2-3)",
+            "Both share the same Cheirosa 62 scent, with the brand recommending they be layered together"
+          ]
+        },
+        {
+          "name": "GlowMotions Body Glow Oil (already in this library, same brand)",
+          "points": [
+            "GlowMotions leads with a shimmer/makeup effect; this product leads with functional firming — two different differentiation paths within the brand's body oil category",
+            "This product is priced slightly higher (US$52 vs. US$36), with a higher per-mL cost as well",
+            "This product's clinical data disclosure is far more extensive than GlowMotions', taking an efficacy-driven rather than visual-driven route"
+          ]
+        }
+      ],
+      "ja": []
+    },
+    "evidenceStats": {
+      "zh": [
+        "94%显示肌肤紧致度改善（34人临床研究，每日两次12周）",
+        "经临床验证24小时深层滋养（30人研究，单次使用后）",
+        "100%用户观察到妊娠纹外观改善（29人临床研究，每日两次8周）",
+        "98%认为配方吸收良好（109人消费者研究，1天后）",
+        "91%感觉更自信（109人消费者研究，28天后）"
+      ],
+      "en": [
+        "94% showed improved skin firmness (34-participant clinical study, twice daily for 12 weeks)",
+        "Clinically shown to deeply nourish for 24 hours (30-participant study, after one use)",
+        "100% saw improved stretch-mark appearance (29-participant clinical study, twice daily for 8 weeks)",
+        "98% felt the formula absorbed well (109-participant consumer study, after 1 day)",
+        "91% felt more confident (109-participant consumer study, after 28 days)"
+      ],
+      "ja": [
+        "94%が肌の引き締め度の改善を実感（34名の臨床試験、1日2回12週間）",
+        "24時間の深層滋養が臨床的に証明（30名の調査、単回使用後）",
+        "100%が妊娠線の見た目の改善を実感（29名の臨床試験、1日2回8週間）",
+        "98%が処方の吸収が良いと回答（109名の消費者調査、1日後）",
+        "91%がより自信を持てたと回答（109名の消費者調査、28日後）"
+      ]
+    },
+    "experienceItems": {
+      "zh": [
+        "用法：清洁干燥皮肤打圈按摩",
+        "重点部位：肚子、大腿、臀部、手臂",
+        "进阶手法：可选淋巴引流按摩",
+        "配套：官方按摩工具单独购买"
+      ],
+      "en": [
+        "Usage: circular massage on clean, dry skin",
+        "Focus areas: stomach, thighs, hips, arms",
+        "Advanced technique: optional lymphatic drainage massage",
+        "Companion: an official massage tool sold separately"
+      ],
+      "ja": [
+        "使い方：清潔で乾いた肌に円を描くようにマッサージ",
+        "重点部位：お腹、太もも、お尻、腕",
+        "上級手法：任意でリンパドレナージュマッサージ",
+        "併用アイテム：公式マッサージツール（別売り）"
+      ]
+    },
+    "keyTechnology": {
+      "zh": [
+        {
+          "title": "瓜拉纳咖啡因+复合物专利技术",
+          "desc": "整合瓜拉纳、巴西马黛树皮根、佳普提卡巴果实三种巴西活性植物提取物，是品牌招牌成分复合物在身体油品类的浓缩应用，并配有五组临床/消费者研究数据支撑。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Guaraná Caffeine+ Complex Proprietary Technology",
+          "desc": "Combines guaraná, muirapuama bark/root, and jaboticaba fruit — three active Brazilian botanical extracts — as the brand's signature ingredient complex applied in concentrated form to the body oil category, backed by five sets of clinical/consumer study data."
+        }
+      ],
+      "ja": [
+        {
+          "title": "ガラナカフェイン＋コンプレックス独自技術",
+          "desc": "ガラナ、ムイラプアマの樹皮・根、ジャボチカバ果実という3種のブラジル産活性植物エキスを組み合わせた、ブランドの看板成分複合体をボディオイルカテゴリーに濃縮適用したもので、5組の臨床・消費者調査データに裏付けられている。"
+        }
+      ]
+    }
   }
 ]
