@@ -17088,5 +17088,1050 @@
         }
       ]
     }
+  },
+  {
+    "id": "paixao-oleo-corporal-rosas-brancas",
+    "vertical": "skincare",
+    "category": "brazil",
+    "productType": "oil",
+    "addedAt": 49,
+    "name": {
+      "zh": "Paixão Óleo Corporal 白玫瑰身体香氛油（含止汗功效）",
+      "en": "Paixão Body Oil Inspiradora White Roses with Deodorant Action",
+      "ja": "パイション ボディオイル インスピラドーラ ホワイトローズ（デオドラント効果付き）"
+    },
+    "brand": {
+      "zh": "Paixão（激情，巴西身体香氛品牌）",
+      "en": "Paixão (a Brazilian body-fragrance brand)",
+      "ja": "パイション（ブラジルのボディフレグランスブランド）"
+    },
+    "company": {
+      "zh": "Coty集团旗下巴西本土品牌",
+      "en": "A Brazil-focused brand under Coty",
+      "ja": "コティグループ傘下のブラジル向けブランド"
+    },
+    "origin": {
+      "zh": "巴西",
+      "en": "Brazil",
+      "ja": "ブラジル"
+    },
+    "launch": {
+      "zh": "\"Inspiradora 白玫瑰\"香型系列核心单品，持续在售，同系列另有玫红梅子、鸢尾花等多个香型",
+      "en": "Core item in the \"Inspiradora White Roses\" fragrance line, ongoing, with several sibling fragrances (ruby plum, fleur-de-lis, etc.) in the same body-oil range",
+      "ja": "「インスピラドーラ ホワイトローズ」フレグランスラインの主力商品、継続販売中。同シリーズにはルビープラム、フルール・ド・リスなど複数の香りが展開されている"
+    },
+    "market": {
+      "zh": "巴西本土Loja Coty官方商城及线下药妆连锁，是巴西大众市场身体护理常见品类",
+      "en": "Brazil's official Loja Coty online store and offline drugstore chains; a mainstream body-care category in the Brazilian mass market",
+      "ja": "ブラジル国内のLoja Coty公式通販及びドラッグストアチェーン。ブラジルの大衆市場では定番のボディケアカテゴリー"
+    },
+    "capacity": {
+      "zh": "100 mL / 200 mL两种规格",
+      "en": "Available in 100 mL and 200 mL",
+      "ja": "100mL／200mLの2サイズ展開"
+    },
+    "price": {
+      "zh": "约R$25-40（视规格与渠道浮动）",
+      "en": "About R$25-40, varying by size and channel",
+      "ja": "約25〜40レアル（サイズ・購入チャネルにより変動）"
+    },
+    "positioning": {
+      "zh": "巴西大众市场极具代表性的\"身体香氛油\"品类单品，把经典杏仁油身体护理与香水级香氛体验、止汗功效三者合一。定位不是精品护肤而是\"日常身体仪式感\"——巴西消费者习惯把身体油当作洗澡后甚至洗澡时的护理步骤，兼顾保湿滋润与留香持久，这条产品线本身就是巴西身体护理文化的一个缩影。",
+      "en": "A representative item in Brazil's mass-market \"body fragrance oil\" category, combining classic almond-oil body care with a perfume-grade scent experience and a deodorant function in one product. It's not positioned as prestige skincare but as an everyday ritual — Brazilian consumers commonly use body oil as a post-shower (or even in-shower) care step, balancing moisture with long-lasting fragrance. The product line itself is something of a microcosm of Brazilian body-care culture.",
+      "ja": "ブラジルの大衆市場を代表する「ボディフレグランスオイル」カテゴリーの商品で、クラシックなアーモンドオイルによるボディケアと香水級の香り体験、デオドラント効果を一つにまとめている。プレステージスキンケアではなく「日常のボディリチュアル」として位置づけられている——ブラジルの消費者はシャワー後（時にはシャワー中）のケアステップとしてボディオイルを使う習慣があり、保湿と香りの持続性を両立させる。このラインそのものがブラジルのボディケア文化を象徴している。"
+    },
+    "target": {
+      "zh": "追求身体保湿+留香双重体验的大众消费者；巴西本土及拉美市场偏好身体香氛文化的用户。",
+      "en": "Mass-market consumers seeking both body moisture and lasting fragrance; users in Brazil and Latin America who favor body-fragrance culture.",
+      "ja": "ボディの保湿と香りの持続を両方求める大衆消費者。ブラジル及びラテンアメリカ市場でボディフレグランス文化を好む層。"
+    },
+    "distribution": {
+      "zh": "100mL/约R$25-40，是巴西本土大众市场价位，单毫升成本远低于欧美精品身体油品牌，走渠道铺货广、复购频次高的大众消费品逻辑。",
+      "en": "100mL at roughly R$25-40, a mainstream Brazilian price point with a per-mL cost far below Western prestige body-oil brands, following a mass-consumer-goods logic of broad distribution and high repurchase frequency.",
+      "ja": "100mL・約25〜40レアルはブラジル国内の大衆価格帯で、1mLあたりのコストは欧米のプレステージ系ボディオイルブランドよりはるかに低い。流通網の広さとリピート購入頻度の高さを重視する大衆消費財のロジックを採る。"
+    },
+    "ingredients": {
+      "zh": "液体矿脂（凡士林基质）、卵磷脂、香精、聚氧乙烯月桂醇醚-400（止汗相关成分）、辛基十二醇、杏仁油、苯氧乙醇、癸二酸二丁酯、芳樟醇、己基肉桂醛、香叶醇、香茅醇、香豆素、水杨酸苄酯、乙基己基甘油、四叔丁基羟基氢化肉桂酸季戊四醇酯、肉桂醇、柠檬烯、丁香酚、戊基肉桂醛、柠檬醛。",
+      "en": "Petrolatum (mineral oil base), Lecithin, Fragrance (Parfum), PEG-40 Lauromacrogol, Octyldodecanol, Almond Oil, Phenoxyethanol, Dibutyl Adipate, Linalool, Hexyl Cinnamal, Geraniol, Citronellol, Coumarin, Benzyl Salicylate, Ethylhexylglycerin, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Cinnamyl Alcohol, Limonene, Eugenol, Amyl Cinnamal, Citral.",
+      "ja": "流動パラフィン（ワセリン基剤）、レシチン、香料、ラウロマクロゴール400、オクチルドデカノール、アーモンド油、フェノキシエタノール、アジピン酸ジブチル、リナロール、ヘキシルシンナマール、ゲラニオール、シトロネロール、クマリン、サリチル酸ベンジル、エチルヘキシルグリセリン、ペンタエリスリチルテトラ-ジ-t-ブチルヒドロキシヒドロシンナメート、シンナミルアルコール、リモネン、オイゲノール、アミルシンナマール、シトラール"
+    },
+    "evidence": {
+      "zh": "官方宣称24小时保湿效果，属于品牌自身对产品配方（凡士林基质+杏仁油）功能的一般性描述，未见公开的独立第三方测试数据或消费者自评百分比统计。",
+      "en": "The brand claims 24-hour hydration, a general functional description of the formula (petrolatum base plus almond oil) rather than published independent third-party testing or consumer self-assessment percentages.",
+      "ja": "公式は24時間保湿効果を謳っているが、これは配方（ワセリン基剤＋アーモンド油）の機能に関するブランド自身の一般的な説明であり、公開された独立した第三者試験データや消費者自己評価のパーセンテージは見当たらない。"
+    },
+    "experience": {
+      "zh": "官方建议洗澡后在清洁、微湿的皮肤上使用并轻柔按摩，如果介意油感可冲洗掉多余部分；主打白玫瑰前调薰衣草迷迭香佛手柑、中调玫瑰茉莉依兰、后调香草晶石雪松广藿香麝香的复合香调，香氛层次接近香水而非普通身体乳的单一留香。",
+      "en": "The brand recommends applying to clean, slightly damp skin after showering with a gentle massage, rinsing off any excess if the oiliness isn't desired; the fragrance is a layered composition — lavender, rosemary and bergamot top notes, rose, jasmine and ylang-ylang heart notes, vanilla, tonka bean, cedarwood and musk base notes — closer to a perfume's scent architecture than a typical single-note body lotion fragrance.",
+      "ja": "シャワー後の清潔でやや湿った肌に使用し、軽くマッサージすることが推奨されている。油分が気になる場合は余分を洗い流してもよい。香りはラベンダー、ローズマリー、ベルガモットのトップノート、ローズ、ジャスミン、イランイランのミドルノート、バニラ、トンカ豆、シダーウッド、ムスクのベースノートという層構造で、一般的なボディローションの単純な残り香というより、香水に近い香りの構成となっている。"
+    },
+    "packaging": {
+      "zh": "透明瓶身配简洁烫金标签，第一眼传递\"性感、亲密感\"的调性（品牌名Paixão本身就是葡语\"激情\"之意），跟欧美身体油偏\"清洁护肤\"的视觉语言明显不同，更强调感官与情欲联想。",
+      "en": "A clear bottle with a simple foil-stamped label reads as sensual and intimate at first glance — the brand name Paixão itself means \"passion\" in Portuguese — a visual language clearly distinct from the clean, clinical-leaning look of Western body oils, leaning instead into sensory and romantic association.",
+      "ja": "透明なボトルにシンプルな箔押しラベルは、官能的で親密な第一印象を与える——ブランド名Paixão自体がポルトガル語で「情熱」を意味する。欧米のボディオイルに見られる清潔感重視のビジュアル言語とは明らかに異なり、感覚的でロマンチックな連想を強調している。"
+    },
+    "insight": {
+      "zh": "这支产品最值得参考的地方是它代表了一种跟东亚/欧美护肤逻辑都不同的身体护理文化——巴西消费者把身体油当作\"香水的替代品/延伸品\"而非单纯的保湿护理，品牌名直接叫\"激情\"、香调设计接近香水复杂度，这种\"身体护理即香氛表达\"的定位在本库里几乎没有先例。对我们而言，这提示了一个可能性：身体护理品类除了功效诉求（保湿、紧致）之外，还存在一种以\"留香体验\"为核心卖点的差异化路径，尤其适合有香氛调性积累的品牌延伸做身体护理线。",
+      "en": "The most instructive thing about this product is that it represents a body-care culture distinct from both East Asian and Western skincare logic — Brazilian consumers treat body oil as an extension of perfume rather than pure moisture care. The brand is literally named \"Passion,\" and its scent architecture approaches perfume-level complexity — a \"body care as fragrance expression\" positioning that has almost no precedent elsewhere in this library. The takeaway: beyond functional claims (hydration, firming), body care can also differentiate primarily on scent experience — a natural extension path for brands with an existing fragrance identity moving into body care.",
+      "ja": "この製品で参考になるのは、東アジアや欧米のスキンケアロジックとは異なるボディケア文化を代表している点——ブラジルの消費者はボディオイルを単なる保湿ケアではなく、香水の延長として扱う。ブランド名自体が「情熱」であり、香りの構成は香水並みの複雑さを持つ。この「ボディケア＝香りの表現」というポジショニングは、このライブラリでほぼ前例がない。示唆されるのは、ボディケアカテゴリーが機能訴求（保湿、引き締め）以外にも、「香りの持続体験」そのものを核心的な訴求点とする差別化の道があり得るということ——特に既存の香りのアイデンティティを持つブランドがボディケアラインに拡張する際の自然な道筋となる。"
+    },
+    "notes": {
+      "zh": "资料采集日 2026-08-02。信息取自品牌官网linhapaixao.com.br产品页（含全成分表与香调说明）。",
+      "en": "Data collected 2026-08-02. Information taken from the brand's official linhapaixao.com.br product page (including the full ingredient list and fragrance note breakdown).",
+      "ja": "情報収集日 2026年8月2日。ブランド公式サイトlinhapaixao.com.br商品ページ（全成分表と香調説明を含む）より収集。"
+    },
+    "images": [
+      "https://www.linhapaixao.com.br/wp-content/uploads/2022/01/inspiradora_oleo-corporal-100ml_card-default.webp",
+      "https://www.linhapaixao.com.br/wp-content/uploads/2022/01/inspiradora_oleo-corporal-200ml_card-default.webp"
+    ],
+    "sources": [
+      [
+        "Official product page (Paixão)",
+        "https://www.linhapaixao.com.br/produto/oleo-deo-corporal-inspiradora-rosas-brancas/"
+      ],
+      [
+        "Retail listing (Loja Coty)",
+        "https://www.lojacoty.com.br/oleo-corporal-paixao-inspiradora-rosas-brancas-com-acao-desodorante-100ml-25101-0/p"
+      ]
+    ],
+    "targetUsers": {
+      "zh": [
+        "追求身体保湿+留香双重体验的大众消费者",
+        "偏好身体香氛文化的巴西/拉美用户",
+        "喜欢香水级复合香调而非单一香型的用户"
+      ],
+      "en": [
+        "Mass-market consumers seeking both body moisture and lasting fragrance",
+        "Brazilian/Latin American users who favor body-fragrance culture",
+        "Users who prefer perfume-level layered scents over a single fragrance note"
+      ],
+      "ja": [
+        "ボディの保湿と香りの持続を両方求める大衆消費者",
+        "ボディフレグランス文化を好むブラジル・ラテンアメリカのユーザー",
+        "単一の香りではなく香水並みの層構造の香りを好むユーザー"
+      ]
+    },
+    "keyClaims": {
+      "zh": [
+        "经典杏仁油配方",
+        "24小时保湿",
+        "止汗功效",
+        "香水级复合香调（前中后调）"
+      ],
+      "en": [
+        "Classic almond oil formula",
+        "24-hour hydration",
+        "Deodorant action",
+        "Perfume-grade layered scent (top/heart/base notes)"
+      ],
+      "ja": [
+        "クラシックなアーモンドオイル配合",
+        "24時間保湿",
+        "デオドラント効果",
+        "香水級の層構造の香り（トップ・ミドル・ベースノート）"
+      ]
+    },
+    "heroIngredients": {
+      "zh": [
+        {
+          "name": "杏仁油",
+          "tag": "经典滋养油",
+          "desc": "品牌一贯使用的核心身体护理油脂"
+        },
+        {
+          "name": "聚氧乙烯月桂醇醚-400",
+          "tag": "止汗相关成分",
+          "desc": "配合止汗功能诉求的功能性成分"
+        }
+      ],
+      "en": [
+        {
+          "name": "Almond Oil",
+          "tag": "Classic nourishing oil",
+          "desc": "The brand's consistently used core body-care oil"
+        },
+        {
+          "name": "PEG-40 Lauromacrogol",
+          "tag": "Deodorant-related ingredient",
+          "desc": "A functional ingredient supporting the deodorant claim"
+        }
+      ],
+      "ja": [
+        {
+          "name": "アーモンド油",
+          "tag": "クラシックな滋養オイル",
+          "desc": "ブランドが一貫して使用する中核のボディケアオイル"
+        },
+        {
+          "name": "ラウロマクロゴール400",
+          "tag": "デオドラント関連成分",
+          "desc": "デオドラント訴求をサポートする機能性成分"
+        }
+      ]
+    },
+    "ingredientsNote": {
+      "zh": "配方基质为液体矿脂（凡士林），并非纯天然植物油配方；含较多致敏原香料成分（芳樟醇、香叶醇、柠檬烯等），敏感肌需留意。",
+      "en": "The base is liquid petrolatum (mineral oil), not a purely natural plant-oil formula; it contains a relatively high number of fragrance allergens (linalool, geraniol, limonene, etc.), worth noting for sensitive skin.",
+      "ja": "基剤は流動パラフィン（ワセリン）であり、純植物油処方ではない。香料アレルゲン成分（リナロール、ゲラニオール、リモネンなど）を比較的多く含むため、敏感肌の方は注意が必要。"
+    },
+    "pricePositioning": {
+      "zh": {
+        "tier": "mass",
+        "label": "巴西大众身体香氛"
+      },
+      "en": {
+        "tier": "mass",
+        "label": "Brazilian Mass-Market Body Fragrance"
+      },
+      "ja": {
+        "tier": "mass",
+        "label": "ブラジル大衆向けボディフレグランス"
+      }
+    },
+    "marketChannel": {
+      "zh": {
+        "global": [
+          "Loja Coty官方商城"
+        ],
+        "japan": [
+          "巴西本土药妆连锁"
+        ],
+        "channelLabel": "巴西本土大众渠道",
+        "channelDesc": "作为Coty集团在巴西市场的本土品牌，主要依靠巴西本土药妆连锁与官方商城铺货，未见明显的国际化渠道布局"
+      },
+      "en": {
+        "global": [
+          "Loja Coty official store"
+        ],
+        "japan": [
+          "Brazilian domestic drugstore chains"
+        ],
+        "channelLabel": "Brazilian Domestic Mass Channel",
+        "channelDesc": "As Coty's Brazil-focused brand, distributed mainly through Brazilian domestic drugstore chains and its official store, with no significant international channel presence observed"
+      },
+      "ja": {
+        "global": [
+          "Loja Coty公式通販"
+        ],
+        "japan": [
+          "ブラジル国内のドラッグストアチェーン"
+        ],
+        "channelLabel": "ブラジル国内大衆チャネル",
+        "channelDesc": "コティグループのブラジル向けブランドとして、主にブラジル国内のドラッグストアチェーンと公式通販で展開、国際的なチャネル展開は目立たない"
+      }
+    },
+    "brandConceptRich": {
+      "zh": {
+        "tagline": "Sensual é ser você（性感就是做自己）",
+        "concept": "Paixão是Coty集团在巴西市场运营的身体香氛品牌，品牌名本身即葡语\"激情\"，产品线全部围绕\"身体油+身体乳+止汗功效\"这一组合展开，用多种复合香调命名（如Rosas Brancas白玫瑰、Ameixa Rubi红宝石梅子）构建香氛矩阵，是巴西身体护理与香氛文化紧密结合的典型代表。"
+      },
+      "en": {
+        "tagline": "Sensual is being yourself.",
+        "concept": "Paixão is Coty's body-fragrance brand for the Brazilian market — the name itself means \"passion\" in Portuguese. Its entire range revolves around the body oil / body lotion plus deodorant-action combination, building a fragrance matrix through named scent variants (Rosas Brancas/White Roses, Ameixa Rubi/Ruby Plum, etc.), a representative example of how tightly body care and fragrance culture are intertwined in Brazil."
+      },
+      "ja": {
+        "tagline": "セクシーとは、自分自身であること。",
+        "concept": "パイションはコティグループがブラジル市場向けに展開するボディフレグランスブランドで、ブランド名自体がポルトガル語で「情熱」を意味する。製品ラインはすべて「ボディオイル＋ボディローション＋デオドラント効果」という組み合わせを軸に展開され、複数の香りバリエーション（Rosas Brancas＝ホワイトローズ、Ameixa Rubi＝ルビープラムなど）で香りのマトリクスを構築している。ブラジルにおいてボディケアと香りの文化がいかに密接に結びついているかを示す代表例。"
+      }
+    },
+    "competitiveAdvantage": {
+      "zh": [
+        {
+          "name": "Nativa SPA Madagascar's Vanilla Body Oil（同库已加入）",
+          "points": [
+            "Nativa SPA走\"SPA仪式感+天然原料\"叙事，Paixão走\"性感香氛\"叙事",
+            "Nativa SPA国际化程度更高，Paixão更聚焦巴西本土市场",
+            "价格带Paixão略低，走更大众的渠道"
+          ]
+        },
+        {
+          "name": "Sol de Janeiro GlowMotions（同库已加入）",
+          "points": [
+            "Sol de Janeiro走国际化网红品牌+提亮塑形路线，Paixão走本土日常香氛路线",
+            "Sol de Janeiro渠道以北美专业美妆零售为主，Paixão以巴西本土药妆为主",
+            "两者都源自巴西身体护理文化，但国际化程度差异巨大"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Nativa SPA Madagascar's Vanilla Body Oil (already in this library)",
+          "points": [
+            "Nativa SPA leans on a spa-ritual, natural-ingredient narrative; Paixão leans on a sensual-fragrance narrative",
+            "Nativa SPA has a higher degree of internationalization; Paixão stays more focused on the domestic Brazilian market",
+            "Paixão is priced slightly lower, distributed through more mass-market channels"
+          ]
+        },
+        {
+          "name": "Sol de Janeiro GlowMotions (already in this library)",
+          "points": [
+            "Sol de Janeiro takes an internationalized influencer-brand, illuminating/shaping approach; Paixão takes a domestic everyday-fragrance approach",
+            "Sol de Janeiro's channels are mainly North American specialty beauty retail; Paixão's are mainly Brazilian domestic drugstores",
+            "Both trace back to Brazilian body-care culture, but their degree of internationalization differs enormously"
+          ]
+        }
+      ],
+      "ja": [
+        {
+          "name": "ナティバSPA マダガスカルバニラボディオイル（本ライブラリ収録済み）",
+          "points": [
+            "ナティバSPAは「スパの儀式感＋天然原料」を訴求、パイションは「セクシーな香り」を訴求",
+            "ナティバSPAの方が国際化度が高く、パイションはブラジル国内市場により集中",
+            "パイションの方がやや価格が低く、より大衆的なチャネルで展開"
+          ]
+        },
+        {
+          "name": "ソル・デ・ジャネイロ グローモーションズ（本ライブラリ収録済み）",
+          "points": [
+            "ソル・デ・ジャネイロは国際的なインフルエンサーブランド＋輝き・シェイピングの路線、パイションは国内の日常的な香り路線",
+            "ソル・デ・ジャネイロのチャネルは主に北米の専門美容小売、パイションは主にブラジル国内のドラッグストア",
+            "両者ともブラジルのボディケア文化に起源を持つが、国際化の度合いが大きく異なる"
+          ]
+        }
+      ]
+    },
+    "evidenceStats": {
+      "zh": [],
+      "en": [],
+      "ja": []
+    },
+    "experienceItems": {
+      "zh": [
+        "用法：洗澡后清洁微湿皮肤按摩使用",
+        "可选：介意油感可冲洗多余部分",
+        "香调：前调薰衣草迷迭香佛手柑，中调玫瑰茉莉依兰，后调香草雪松麝香",
+        "质地：凡士林基质，滋润感强"
+      ],
+      "en": [
+        "Usage: massage onto clean, slightly damp skin after showering",
+        "Optional: rinse off excess if oiliness isn't desired",
+        "Scent: lavender/rosemary/bergamot top, rose/jasmine/ylang-ylang heart, vanilla/cedarwood/musk base",
+        "Texture: petrolatum-based, richly nourishing"
+      ],
+      "ja": [
+        "使い方：シャワー後の清潔でやや湿った肌にマッサージして使用",
+        "任意：油分が気になる場合は余分を洗い流す",
+        "香り：トップはラベンダー・ローズマリー・ベルガモット、ミドルはローズ・ジャスミン・イランイラン、ベースはバニラ・シダーウッド・ムスク",
+        "質感：ワセリン基剤で潤い感が強い"
+      ]
+    },
+    "keyTechnology": {
+      "zh": [
+        {
+          "title": "身体油+止汗二合一技术",
+          "desc": "把身体保湿油与止汗功能成分（聚氧乙烯月桂醇醚-400）整合进同一配方，用一支产品覆盖两种日常护理需求。"
+        }
+      ],
+      "en": [
+        {
+          "title": "2-in-1 Body Oil + Deodorant Technology",
+          "desc": "Combines a moisturizing body oil with a deodorant-supporting ingredient (PEG-40 Lauromacrogol) in a single formula, covering two everyday care needs with one product."
+        }
+      ],
+      "ja": [
+        {
+          "title": "ボディオイル＋デオドラント2in1技術",
+          "desc": "保湿ボディオイルとデオドラント成分（ラウロマクロゴール400）を単一の処方に統合し、一つの製品で2つの日常ケアニーズをカバーしている。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "boticario-nativa-spa-vanilla-body-oil",
+    "vertical": "skincare",
+    "category": "brazil",
+    "productType": "oil",
+    "addedAt": 50,
+    "name": {
+      "zh": "O Boticário Nativa SPA 马达加斯加香草舒缓身体油",
+      "en": "Nativa SPA Madagascar's Vanilla Soothing Body Oil",
+      "ja": "オ・ボチカリオ ナティバSPA マダガスカルバニラ ソーシングボディオイル"
+    },
+    "brand": {
+      "zh": "Nativa SPA（O Boticário旗下身体护理系列）",
+      "en": "Nativa SPA (a body-care line under O Boticário)",
+      "ja": "ナティバSPA（オ・ボチカリオ傘下のボディケアライン）"
+    },
+    "company": {
+      "zh": "O Boticário S.A.，巴西1977年成立的国民级美妆集团",
+      "en": "O Boticário S.A., a national Brazilian beauty group founded in 1977",
+      "ja": "オ・ボチカリオ社、1977年設立のブラジルの国民的美容グループ"
+    },
+    "origin": {
+      "zh": "巴西",
+      "en": "Brazil",
+      "ja": "ブラジル"
+    },
+    "launch": {
+      "zh": "Nativa SPA马达加斯加香草系列核心单品，系列内还有身体乳、身体磨砂等配套产品，持续在售",
+      "en": "Core item in the Nativa SPA Madagascar's Vanilla line, alongside a matching body lotion and body scrub in the same collection; ongoing",
+      "ja": "ナティバSPA マダガスカルバニラシリーズの主力商品。同シリーズにはボディローションやボディスクラブも展開、継続販売中"
+    },
+    "market": {
+      "zh": "O Boticário巴西本土专卖店与官网，美国官网boticario.com，是品牌\"Body Care\"品类的重点产品线",
+      "en": "O Boticário's Brazilian retail stores and official site, plus its US site (boticario.com); a focus line within the brand's Body Care category",
+      "ja": "オ・ボチカリオのブラジル国内直営店及び公式サイト、米国サイトboticario.com。ブランドの「Body Care」カテゴリーの主力ラインの一つ"
+    },
+    "capacity": {
+      "zh": "250 mL",
+      "en": "250 mL",
+      "ja": "250mL"
+    },
+    "price": {
+      "zh": "US$29.00（美国官网价）",
+      "en": "US$29.00 (US official site price)",
+      "ja": "29.00米ドル（米国公式サイト価格）"
+    },
+    "positioning": {
+      "zh": "Nativa SPA品牌以\"藜麦油（Quinoa Oil）\"为系列共通基底成分，本品在此基础上叠加马达加斯加香草与白花香调，主打\"温暖治愈\"的身体护理体验。品牌方明确提到巴西女性习惯在淋浴时或淋浴后使用身体油，并可与身体乳混合叠加使用增强光泽感，这是巴西身体护理\"多层叠加\"仪式的一个典型案例，跟东亚市场\"洗后单一步骤\"的护理习惯不同。",
+      "en": "The Nativa SPA brand builds its whole line on a shared quinoa-oil base; this product layers Madagascar vanilla and white-floral notes on top, positioned around a warm, comforting body-care experience. The brand explicitly notes that Brazilian women commonly use body oil during or after showering, and can mix it into body lotion to boost shine — a good example of the layered, multi-step body-care ritual common in Brazil, distinct from the single post-wash step typical in East Asian routines.",
+      "ja": "ナティバSPAブランドは全ラインの共通基剤として「キノアオイル」を採用しており、本品はそこにマダガスカルバニラと白い花の香りを重ねている。温かく癒されるボディケア体験として位置づけられている。公式は、ブラジルの女性がシャワー中またはシャワー後にボディオイルを使う習慣があり、ボディローションに混ぜてツヤを強化することもできると明言している。これは東アジア市場の「洗い上がりの単一ステップ」とは異なる、ブラジルのボディケアにおける「重ね塗り」の儀式の典型例である。"
+    },
+    "target": {
+      "zh": "追求温暖治愈系香调、日常身体保养仪式感的人群；愿意做\"身体油+身体乳\"叠加护理的用户。",
+      "en": "Consumers seeking a warm, comforting scent and an everyday body-care ritual; users willing to layer body oil with body lotion.",
+      "ja": "温かく癒される香りと日常のボディケアの儀式感を求める層。ボディオイルとボディローションを重ねて使うことを厭わないユーザー。"
+    },
+    "distribution": {
+      "zh": "250mL/US$29，单毫升价格明显高于Paixão等巴西本土大众身体油品牌，是O Boticário旗下走\"进阶身体护理\"定位的中端产品线，美国市场定价对标当地精品身体护理品类。",
+      "en": "250mL at US$29, a notably higher per-mL price than mass-market Brazilian body-oil brands like Paixão; a mid-tier line within O Boticário positioned as elevated body care, priced in the US market to compete with local prestige body-care categories.",
+      "ja": "250mL・29米ドルは、パイションのようなブラジル大衆向けボディオイルブランドよりも1mLあたりの価格が明らかに高い。オ・ボチカリオの中では「上質なボディケア」として位置づけられる中間層のラインで、米国市場では現地のプレステージ系ボディケアカテゴリーと競合する価格設定となっている。"
+    },
+    "ingredients": {
+      "zh": "官方公开信息以\"100%纯藜麦油\"为核心成分描述，未见零售页面公开完整INCI成分表；藜麦油被官方描述为富含抗氧化成分。",
+      "en": "Official information describes \"100% pure Quinoa Oil\" as the core ingredient; no complete INCI list was found publicly listed on the retail page. Quinoa oil is described by the brand as rich in antioxidants.",
+      "ja": "公式情報では「100%ピュアキノアオイル」が核心成分として説明されているが、通販ページには完全なINCI成分表は公開されていなかった。キノアオイルは公式により抗酸化成分が豊富であると説明されている。"
+    },
+    "evidence": {
+      "zh": "官方以\"强效保湿\"\"舒缓肌肤\"等描述性表述为主，未见公开的独立第三方测试数据、样本量或量化改善百分比。",
+      "en": "Official claims lean on descriptive phrasing like \"intense moisturizing\" and \"calming,\" with no published independent third-party testing, sample size, or quantified improvement percentage found.",
+      "ja": "公式は「強力な保湿」「肌を落ち着かせる」といった記述的な表現が中心で、公開された独立の第三者試験データ、サンプル数、定量的な改善率は見当たらない。"
+    },
+    "experience": {
+      "zh": "官方建议淋浴中或淋浴后大量涂抹全身，可冲洗也可不冲洗；也可滴几滴混入身体乳增强紧致光泽感。官方特别提到\"巴西女性习惯淋浴时使用身体油，乳液后再叠加身体油提亮肌肤\"这一本土使用习惯。",
+      "en": "The brand recommends applying generously all over the body during or after showering, with rinsing optional; a few drops can also be mixed into body lotion for extra firmness and shine. The brand specifically notes a local usage habit — Brazilian women applying body oil during the shower, then layering it again after lotion for an extra glow.",
+      "ja": "公式はシャワー中またはシャワー後に全身にたっぷりと塗布することを推奨しており、洗い流すかどうかは任意。ボディローションに数滴混ぜてハリとツヤを強化することもできる。公式は特に「ブラジルの女性はシャワー中にボディオイルを使い、ローションの後にもう一度重ねて肌に輝きを与える」という現地の使用習慣に言及している。"
+    },
+    "packaging": {
+      "zh": "米白色瓶身配木纹质感瓶盖，第一眼传递\"天然、温暖、SPA仪式感\"的印象，比Paixão克制、比精品身体油品牌亲民，定位在两者中间。",
+      "en": "A cream-colored bottle with a wood-textured cap reads as natural, warm, and spa-ritual at first glance — more restrained than Paixão, more approachable than prestige body-oil brands, sitting in between.",
+      "ja": "アイボリーのボトルに木目調のキャップを合わせ、ナチュラルで温かみのある、スパの儀式感という第一印象を与える。パイションより控えめで、プレステージ系ボディオイルブランドより親しみやすく、両者の中間に位置する。"
+    },
+    "insight": {
+      "zh": "这支产品最值得参考的地方是它明确把\"本土使用习惯\"（淋浴中使用、与乳液叠加）写进了官方产品说明里，而不是简单套用国际通用的\"洗后使用\"护理话术。这提示我们，把一个品类引入新市场时，与其照搬原有的使用场景描述，不如去了解当地消费者实际的使用习惯，并把这种习惯本身作为卖点的一部分——巴西身体油品类能在美国市场立足，很大程度上是靠这种\"异域仪式感\"本身的吸引力，而不只是靠成分或香味。",
+      "en": "The most instructive thing about this product is that it explicitly writes a local usage habit — using it during the shower, layering with lotion — directly into the official product copy, rather than defaulting to the generic \"apply after washing\" language common internationally. The takeaway: when bringing a category into a new market, it can pay to understand how local consumers actually use the product and make that habit itself part of the selling point — Brazilian body oil gaining a foothold in the US market owes a lot to the appeal of this \"exotic ritual\" framing itself, not just the ingredients or scent.",
+      "ja": "この製品で参考になるのは、「現地の使用習慣」（シャワー中の使用、ローションとの重ね塗り）を、国際的に一般的な「洗浄後に使用」という説明にただ倣うのではなく、公式の商品説明に明確に書き込んでいる点。示唆されるのは、あるカテゴリーを新しい市場に導入する際、既存の使用シーンの説明をそのまま流用するより、現地消費者の実際の使用習慣を理解し、その習慣自体を訴求点の一部にする方が効果的だということ——ブラジルのボディオイルが米国市場で足場を築けたのは、成分や香りだけでなく、こうした「異国の儀式感」そのものの魅力によるところが大きい。"
+    },
+    "notes": {
+      "zh": "资料采集日 2026-08-02。信息取自O Boticário美国官网boticario.com产品页；完整INCI成分表未见公开列出。",
+      "en": "Data collected 2026-08-02. Information taken from O Boticário's US official site (boticario.com) product page; a complete INCI list was not found publicly listed.",
+      "ja": "情報収集日 2026年8月2日。オ・ボチカリオ米国公式サイト（boticario.com）商品ページより収集。完全なINCI成分表は公開されていなかった。"
+    },
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0587/6075/7446/files/BT_US_AON_PDP_NSPA_VANILLA_OIL_TRUSS_01.png?v=1759561619"
+    ],
+    "sources": [
+      [
+        "Official product page (O Boticário US)",
+        "https://www.boticario.com/products/nativa-spa-madagascars-vanilla-body-oil-250ml-84-floz"
+      ]
+    ],
+    "targetUsers": {
+      "zh": [
+        "追求温暖治愈系香调的人群",
+        "愿意做身体油+身体乳叠加护理的用户",
+        "偏好SPA仪式感日常身体保养的消费者"
+      ],
+      "en": [
+        "Consumers seeking a warm, comforting scent",
+        "Users willing to layer body oil with body lotion",
+        "Consumers who favor a spa-ritual approach to daily body care"
+      ],
+      "ja": [
+        "温かく癒される香りを求める層",
+        "ボディオイルとボディローションを重ねるケアを厭わないユーザー",
+        "スパの儀式感のある日常ボディケアを好む消費者"
+      ]
+    },
+    "keyClaims": {
+      "zh": [
+        "100%纯藜麦油",
+        "富含抗氧化成分",
+        "强效保湿",
+        "可与身体乳叠加使用增强光泽"
+      ],
+      "en": [
+        "100% pure Quinoa Oil",
+        "Rich in antioxidants",
+        "Intense moisturizing effect",
+        "Can be layered with body lotion for extra shine"
+      ],
+      "ja": [
+        "100%ピュアキノアオイル",
+        "抗酸化成分が豊富",
+        "強力な保湿効果",
+        "ボディローションと重ねてツヤを強化可能"
+      ]
+    },
+    "heroIngredients": {
+      "zh": [
+        {
+          "name": "藜麦油",
+          "tag": "系列共通基底",
+          "desc": "Nativa SPA全系列共用的核心油脂，官方称富含抗氧化成分"
+        },
+        {
+          "name": "马达加斯加香草",
+          "tag": "香氛核心",
+          "desc": "可持续来源的香草，负责温暖治愈系香调"
+        }
+      ],
+      "en": [
+        {
+          "name": "Quinoa Oil",
+          "tag": "Shared line base",
+          "desc": "The core oil shared across the entire Nativa SPA line, described by the brand as rich in antioxidants"
+        },
+        {
+          "name": "Madagascar Vanilla",
+          "tag": "Fragrance core",
+          "desc": "Sustainably sourced vanilla responsible for the warm, comforting scent"
+        }
+      ],
+      "ja": [
+        {
+          "name": "キノアオイル",
+          "tag": "シリーズ共通の基剤",
+          "desc": "ナティバSPA全ラインで共有される核心オイル、公式は抗酸化成分が豊富としている"
+        },
+        {
+          "name": "マダガスカルバニラ",
+          "tag": "香りの核心",
+          "desc": "持続可能な調達によるバニラで、温かく癒される香りを担う"
+        }
+      ]
+    },
+    "ingredientsNote": {
+      "zh": "官方未公开完整INCI成分表，成分沟通以\"藜麦油+马达加斯加香草\"两大核心元素为主，白花香调具体成分未详细列出。",
+      "en": "The brand has not publicly disclosed a complete INCI list; ingredient communication centers on the two named core elements — quinoa oil and Madagascar vanilla — without detailing the specific white-floral fragrance components.",
+      "ja": "公式は完全なINCI成分表を公開しておらず、成分の説明は「キノアオイル＋マダガスカルバニラ」という2つの核心要素が中心で、白い花の香りの具体的な成分は詳しく列挙されていない。"
+    },
+    "pricePositioning": {
+      "zh": {
+        "tier": "masstige",
+        "label": "巴西SPA仪式感身体护理"
+      },
+      "en": {
+        "tier": "masstige",
+        "label": "Brazilian Spa-Ritual Body Care"
+      },
+      "ja": {
+        "tier": "masstige",
+        "label": "ブラジル系スパリチュアルボディケア"
+      }
+    },
+    "marketChannel": {
+      "zh": {
+        "global": [
+          "boticario.com美国官网"
+        ],
+        "japan": [
+          "O Boticário巴西本土专卖店"
+        ],
+        "channelLabel": "巴西本土专卖店+美国DTC双轨",
+        "channelDesc": "依托O Boticário在巴西的国民级门店网络，同时通过美国官网boticario.com做海外DTC扩张"
+      },
+      "en": {
+        "global": [
+          "boticario.com US official site"
+        ],
+        "japan": [
+          "O Boticário Brazilian retail stores"
+        ],
+        "channelLabel": "Brazilian Retail + US DTC Dual Track",
+        "channelDesc": "Relies on O Boticário's nationwide Brazilian store network while expanding overseas through its US DTC site, boticario.com"
+      },
+      "ja": {
+        "global": [
+          "boticario.com米国公式サイト"
+        ],
+        "japan": [
+          "オ・ボチカリオのブラジル国内直営店"
+        ],
+        "channelLabel": "ブラジル直営店＋米国DTCの二軸展開",
+        "channelDesc": "オ・ボチカリオのブラジル国内の国民的店舗網に依拠しつつ、米国公式サイトboticario.comを通じて海外DTC展開を進めている"
+      }
+    },
+    "brandConceptRich": {
+      "zh": {
+        "tagline": "从淋浴到肌肤发光，一场温暖的仪式。",
+        "concept": "Nativa SPA是O Boticário（1977年成立，巴西最具国民度的美妆集团之一）旗下的身体护理系列，以\"藜麦油\"为品牌统一叙事基底，围绕不同香调（香草、可可等）延伸出身体油、身体乳、身体磨砂等多品类SKU，代表了O Boticário从香水彩妆延伸至身体护理品类的策略。"
+      },
+      "en": {
+        "tagline": "From the shower to glowing skin, a warm ritual.",
+        "concept": "Nativa SPA is a body-care line under O Boticário (founded 1977, one of Brazil's most nationally recognized beauty groups), built on a unified quinoa-oil narrative that branches into body oils, lotions, and scrubs across different scent variants (vanilla, cocoa, etc.) — representing O Boticário's strategy of extending from fragrance and makeup into body care."
+      },
+      "ja": {
+        "tagline": "シャワーから輝く肌へ、温かな儀式。",
+        "concept": "ナティバSPAは、オ・ボチカリオ（1977年設立、ブラジルで最も国民的な美容グループの一つ）傘下のボディケアラインで、「キノアオイル」を統一的な物語の基盤とし、異なる香り（バニラ、カカオなど）を軸にボディオイル、ボディローション、ボディスクラブなど多品目のSKUに展開している。フレグランスやメイクアップからボディケアへと拡張するオ・ボチカリオの戦略を体現している。"
+      }
+    },
+    "competitiveAdvantage": {
+      "zh": [
+        {
+          "name": "Sol de Janeiro GlowMotions（同库已加入）",
+          "points": [
+            "Sol de Janeiro走\"提亮塑形+网红话题\"路线，Nativa SPA走\"天然原料+SPA仪式感\"路线",
+            "Sol de Janeiro渠道更依赖社媒种草，Nativa SPA依赖O Boticário本土门店网络的信任积累",
+            "价格带接近，都是巴西身体油出海的代表品牌"
+          ]
+        },
+        {
+          "name": "Paixão Óleo Corporal（同库已加入）",
+          "points": [
+            "Paixão走\"性感香氛\"叙事且完全聚焦巴西本土市场，Nativa SPA已进入美国市场",
+            "价格带Nativa SPA明显更高，走精品化路线",
+            "两者都体现了巴西身体护理文化，但国际化程度和品牌调性完全不同"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Sol de Janeiro GlowMotions (already in this library)",
+          "points": [
+            "Sol de Janeiro leans on an illuminating/shaping, influencer-driven approach; Nativa SPA leans on natural ingredients and spa ritual",
+            "Sol de Janeiro relies more on social-media discovery; Nativa SPA relies on trust built through O Boticário's domestic retail network",
+            "Similar price bands, both representative Brazilian body-oil brands going international"
+          ]
+        },
+        {
+          "name": "Paixão Óleo Corporal (already in this library)",
+          "points": [
+            "Paixão leans on a sensual-fragrance narrative and stays fully focused on the domestic Brazilian market; Nativa SPA has already entered the US market",
+            "Nativa SPA is priced notably higher, taking a more premium approach",
+            "Both embody Brazilian body-care culture, but differ enormously in internationalization and brand tone"
+          ]
+        }
+      ],
+      "ja": [
+        {
+          "name": "ソル・デ・ジャネイロ グローモーションズ（本ライブラリ収録済み）",
+          "points": [
+            "ソル・デ・ジャネイロは「輝き・シェイピング＋インフルエンサー話題性」の路線、ナティバSPAは「天然原料＋スパの儀式感」の路線",
+            "ソル・デ・ジャネイロはSNSでの発見に依存する度合いが高く、ナティバSPAはオ・ボチカリオの国内小売網で築かれた信頼に依存",
+            "価格帯は近く、共にブラジルのボディオイルが海外進出する際の代表的なブランド"
+          ]
+        },
+        {
+          "name": "パイション ボディオイル（本ライブラリ収録済み）",
+          "points": [
+            "パイションは「セクシーな香り」を訴求しブラジル国内市場に完全に集中、ナティバSPAはすでに米国市場に参入",
+            "ナティバSPAの方が価格が明確に高く、より上質な路線",
+            "両者ともブラジルのボディケア文化を体現しているが、国際化の度合いとブランドトーンが全く異なる"
+          ]
+        }
+      ]
+    },
+    "evidenceStats": {
+      "zh": [],
+      "en": [],
+      "ja": []
+    },
+    "experienceItems": {
+      "zh": [
+        "用法：淋浴中或淋浴后大量涂抹全身",
+        "可选：可冲洗也可不冲洗",
+        "叠加：几滴混入身体乳增强光泽紧致感",
+        "本土习惯：巴西女性常淋浴时用油、乳液后再叠加提亮"
+      ],
+      "en": [
+        "Usage: apply generously all over the body during or after showering",
+        "Optional: rinse off or leave on",
+        "Layering: mix a few drops into body lotion for extra shine and firmness",
+        "Local habit: Brazilian women often use oil during the shower, then layer again after lotion for glow"
+      ],
+      "ja": [
+        "使い方：シャワー中またはシャワー後に全身にたっぷり塗布",
+        "任意：洗い流しても、そのままでも可",
+        "重ね使い：ボディローションに数滴混ぜてツヤとハリを強化",
+        "現地の習慣：ブラジルの女性はシャワー中にオイルを使い、ローションの後にもう一度重ねて輝きを与えることが多い"
+      ]
+    },
+    "keyTechnology": {
+      "zh": [
+        {
+          "title": "藜麦油系列共通基底技术",
+          "desc": "以单一核心油脂（藜麦油）作为整个Nativa SPA系列的统一配方基底，再通过不同香调变体延伸出多个产品线，是品牌管理多SKU的核心结构。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Quinoa Oil Shared-Base Technology",
+          "desc": "Uses a single core oil (quinoa oil) as the unified formula base across the entire Nativa SPA line, then extends into multiple product lines through different scent variants — the core structure behind how the brand manages a multi-SKU range."
+        }
+      ],
+      "ja": [
+        {
+          "title": "キノアオイル共通基剤技術",
+          "desc": "単一の核心オイル（キノアオイル）をナティバSPA全ラインの統一処方基剤とし、異なる香りのバリエーションを通じて複数の製品ラインに展開する、ブランドが多SKUを管理する上での核心的な構造。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "soldejaneiro-glowmotions-body-glow-oil",
+    "vertical": "skincare",
+    "category": "usa",
+    "productType": "oil",
+    "addedAt": 51,
+    "name": {
+      "zh": "Sol de Janeiro GlowMotions 提亮身体闪耀油",
+      "en": "Sol de Janeiro GlowMotions Body Glow Oil",
+      "ja": "ソル・デ・ジャネイロ グローモーションズ ボディグローオイル"
+    },
+    "brand": {
+      "zh": "Sol de Janeiro（巴西灵感、美国运营的国际网红身体护理品牌）",
+      "en": "Sol de Janeiro (a Brazilian-inspired, US-operated internationally popular body-care brand)",
+      "ja": "ソル・デ・ジャネイロ（ブラジルにインスパイアされ、米国で展開する国際的な人気ボディケアブランド）"
+    },
+    "company": {
+      "zh": "Sol de Janeiro USA, Inc.",
+      "en": "Sol de Janeiro USA, Inc.",
+      "ja": "ソル・デ・ジャネイロ USA, Inc."
+    },
+    "origin": {
+      "zh": "美国（品牌灵感与命名来自巴西）",
+      "en": "United States (brand inspiration and naming rooted in Brazil)",
+      "ja": "アメリカ（ブランドのインスピレーションと命名はブラジルに由来）"
+    },
+    "launch": {
+      "zh": "2025年推出新一代包装升级款，是品牌Body品类的明星单品，与招牌Bum Bum Cream共享同一经典香调",
+      "en": "Relaunched with updated packaging in 2025, a hero item in the brand's Body category, sharing the same signature scent as the brand's iconic Bum Bum Cream",
+      "ja": "2025年に新パッケージへ刷新、ブランドのBodyカテゴリーの看板商品の一つで、代表作Bum Bum Creamと同じシグネチャーの香りを共有"
+    },
+    "market": {
+      "zh": "品牌官网soldejaneiro.com、Sephora、Ulta Beauty等北美专业美妆零售",
+      "en": "Brand DTC (soldejaneiro.com), Sephora, Ulta Beauty and other North American specialty beauty retail",
+      "ja": "ブランド公式サイトsoldejaneiro.com、セフォラ、Ulta Beautyなど北米の専門美容小売"
+    },
+    "capacity": {
+      "zh": "75 mL",
+      "en": "75 mL",
+      "ja": "75mL"
+    },
+    "price": {
+      "zh": "US$36.00",
+      "en": "US$36.00",
+      "ja": "36.00米ドル"
+    },
+    "positioning": {
+      "zh": "品牌招牌Cheirosa 62香调的身体闪耀油延伸产品，主打\"透气不显厚重、不易转印\"的闪光质地，提供Copacabana Bronze（古铜金闪）与Rio Sunset（香槟闪）两种色调选择。定位为\"提亮塑形\"品类而非单纯身体保湿，闪光颗粒本身就是核心卖点，是Sol de Janeiro从\"香氛身体护理\"延伸到\"美妆级身体闪光\"品类的代表单品。",
+      "en": "A body glow oil extension of the brand's signature Cheirosa 62 scent, built around a lightweight, transfer-resistant shimmer texture, available in two shades — Copacabana Bronze (a warm bronze shimmer) and Rio Sunset (a champagne shimmer). It's positioned in the illuminating/shaping category rather than pure body moisture — the shimmer itself is the core selling point, representing Sol de Janeiro's extension from fragrance-led body care into makeup-adjacent body shimmer.",
+      "ja": "ブランドのシグネチャーであるCheirosa 62の香りを冠したボディグローオイルで、軽く、色移りしにくいシマーテクスチャーを核心に、コパカバーナブロンズ（温かみのあるブロンズシマー）とリオサンセット（シャンパンシマー）の2色展開。単なるボディの保湿ではなく「輝き・シェイピング」というカテゴリーに位置づけられ、シマー粒子そのものが核心的な訴求点。フレグランス主導のボディケアから、メイクアップに近いボディシマーへと展開するソル・デ・ジャネイロを代表する商品。"
+    },
+    "target": {
+      "zh": "追求日晒健康色闪光肌效果、不想真正晒黑的人群；社媒种草驱动、追求\"度假感\"身体妆效的年轻消费者。",
+      "en": "Consumers who want a sun-kissed, shimmering look without actually tanning; younger, social-media-driven consumers chasing a vacation-glow body finish.",
+      "ja": "実際に日焼けせずに健康的な輝きのある肌を求める層。SNSでの発見に導かれ、バカンス感のあるボディメイク効果を求める若い消費者。"
+    },
+    "distribution": {
+      "zh": "75mL/US$36，单毫升价格在身体护理品类里明显偏高，走的是\"美妆级身体单品\"定价逻辑而非日常大容量护理品逻辑，两个色号需分开购买（\"Colors sold separately\"）进一步提高客单价。",
+      "en": "75mL at US$36, a notably high per-mL price for the body-care category, following a makeup-grade single-item pricing logic rather than daily bulk-care pricing; the two shades are sold separately, further pushing up the per-order value.",
+      "ja": "75mL・36米ドルはボディケアカテゴリーとしては1mLあたりの価格が明らかに高く、日常使いの大容量ケア用品ではなく「メイクアップ級のボディアイテム」という価格ロジックを採っている。2色は別売り（Colors sold separately）で、これがさらに客単価を押し上げている。"
+    },
+    "ingredients": {
+      "zh": "异十二烷、氢化聚癸烯、木薯淀粉、乙烯/丙烯/苯乙烯共聚物、香精、椰子油、葵花籽油、棉籽油、巴西莓果油、可可脂（古布阿苏籽脂）、芦荟叶提取物、苯氧乙醇、丁烯/乙烯/苯乙烯共聚物、生育酚醋酸酯、乙基己基甘油、苯甲酸苄酯、四叔丁基羟基氢化肉桂酸季戊四醇酯、生育酚、氧化铁（CI 77491/77499）、二氧化钛（CI 77891）、苯甲醇、水杨酸苄酯、香豆素、羟基香茅醛、柠檬烯；云母（Copacabana Bronze/Rio Sunset均含，负责闪光效果）。",
+      "en": "Isododecane, Hydrogenated Polydecene, Tapioca Starch, Ethylene/Propylene/Styrene Copolymer, Fragrance (Parfum), Coconut Oil, Sunflower Seed Oil, Cottonseed Oil, Açaí Fruit Oil, Cupuaçu Seed Butter, Aloe Vera Leaf Extract, Phenoxyethanol, Butylene/Ethylene/Styrene Copolymer, Tocopheryl Acetate, Ethylhexylglycerin, Benzyl Benzoate, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Tocopherol, Iron Oxides (CI 77491/77499), Titanium Dioxide (CI 77891), Benzyl Alcohol, Benzyl Salicylate, Coumarin, Hydroxycitronellal, Limonene; Mica (in both Copacabana Bronze and Rio Sunset, responsible for the shimmer effect).",
+      "ja": "イソドデカン、水添ポリデセン、タピオカでんぷん、エチレン／プロピレン／スチレンコポリマー、香料、ココナッツ油、ヒマワリ種子油、綿実油、アサイー果実油、クプアスシードバター、アロエベラ葉エキス、フェノキシエタノール、ブチレン／エチレン／スチレンコポリマー、トコフェリルアセテート、エチルヘキシルグリセリン、安息香酸ベンジル、ペンタエリスリチルテトラ-ジ-t-ブチルヒドロキシヒドロシンナメート、トコフェロール、酸化鉄（CI 77491/77499）、酸化チタン（CI 77891）、ベンジルアルコール、サリチル酸ベンジル、クマリン、ヒドロキシシトロネラール、リモネン、マイカ（コパカバーナブロンズ・リオサンセット共に配合、シマー効果を担う）"
+    },
+    "evidence": {
+      "zh": "官方评价系统显示总体评分4.795/5（3163条评价）；AI生成的评价摘要显示消费者主要称赞光泽感、颜色与不粘腻的吸收感，闪光效果好评占比23%、颜色好评占比8%；但也有少量评价反馈吸收较慢、香味不够持久等负面意见。这些均为电商平台消费者评价数据，非独立实验室测试。",
+      "en": "The brand's review system shows an overall rating of 4.795/5 across 3,163 reviews; an AI-generated review summary shows consumers mainly praising the glow, color, and non-greasy absorption, with 23% of reviews highlighting the glow effect and 8% the color — though some reviews note slower absorption or scent that fades faster than expected. These are all e-commerce consumer review data points, not independent lab testing.",
+      "ja": "公式のレビューシステムでは総合評価4.795/5（3,163件のレビュー）を示している。AIが生成したレビュー要約では、消費者が主に輝き、色、べたつかない吸収感を評価しており、輝きへの言及が23%、色への言及が8%を占める。一方で、吸収がやや遅い、香りの持続性が期待より短いといった否定的な意見も一部見られる。これらはすべてEコマースプラットフォーム上の消費者レビューデータであり、独立した実験室テストではない。"
+    },
+    "experience": {
+      "zh": "官方建议在清洁干燥的皮肤上使用（不建议先涂身体乳），用泵头按压后均匀涂抹推开；官方强调透气不显厚重的\"若隐若现\"质感，主打\"防转印\"（须完全干透后再穿衣）；消费者常见反馈是吸收快、不黏腻，但也有反馈称遮盖力/持妆度不如预期。官方明确不建议用于面部，仅针对身体设计。",
+      "en": "The brand recommends applying to clean, dry skin (not after body lotion), pumping the product and blending it evenly; it emphasizes a lightweight, barely-there texture and transfer resistance (letting it fully dry before dressing). Common consumer feedback describes fast absorption and a non-greasy feel, though some note the coverage/staying power falls short of expectations. The brand explicitly advises against facial use — the product is designed for the body only.",
+      "ja": "公式は清潔で乾いた肌に使用することを推奨（ボディローションを先に塗ることは推奨されない）。ポンプで押し出し均一にブレンドする。軽くさりげない質感と色移りしにくさ（完全に乾いてから着衣する）を強調している。消費者からは吸収が速くべたつかないという声が多いが、一部にはカバー力や持続性が期待に届かないという意見もある。公式は顔への使用を明確に推奨しておらず、ボディ専用として設計されている。"
+    },
+    "packaging": {
+      "zh": "2025年升级为新瓶型，泵头设计配简洁色块标签，第一眼传递\"美妆单品\"而非传统身体护理产品的印象，视觉语言更接近高光/腮红这类彩妆产品，货架识别度很高。",
+      "en": "Updated to a new bottle format in 2025, with a pump design and a simple color-blocked label, reading as a makeup item rather than a conventional body-care product at first glance — a visual language closer to highlighter or blush than body lotion, with strong shelf recognition.",
+      "ja": "2025年に新しいボトル形状に刷新、ポンプ式デザインとシンプルなカラーブロックのラベルは、従来のボディケア製品というより「メイクアップアイテム」という第一印象を与える。ハイライターやチークに近いビジュアル言語で、店頭での視認性が高い。"
+    },
+    "insight": {
+      "zh": "这支产品最值得参考的地方是它证明了\"身体护理\"和\"彩妆\"这两个原本分属不同货架的品类，可以靠\"闪光质地+防转印技术\"这个单一卖点做融合——GlowMotions本质上是把高光的视觉效果和身体油的使用场景结合，创造出一个新的\"身体彩妆\"子品类。品牌官方问答里甚至直接回答\"能不能替代自然晒黑\"\"能不能叠加喷雾晒\"这类问题，说明消费者是把它当作彩妆/伪装晒黑产品在用，而不是传统身体护理品。这提示我们身体护理品类的边界正在被彩妆逻辑改写。",
+      "en": "The most instructive thing about this product is that it proves body care and makeup — categories that traditionally sit on different shelves — can merge through a single selling point: shimmer texture plus transfer-resistant technology. GlowMotions essentially combines the visual effect of a highlighter with the use-case of a body oil, creating a new body-makeup sub-category. The brand's own Q&A directly answers questions like \"can this replace a real tan\" and \"can I layer it with spray tan,\" showing consumers treat it as makeup or fake-tan rather than conventional body care. The takeaway: the boundary of the body-care category is being rewritten by makeup logic.",
+      "ja": "この製品で参考になるのは、従来は別の棚に置かれていたボディケアとメイクアップという2つのカテゴリーが、「シマーテクスチャー＋色移りしにくい技術」という単一の訴求点で融合できることを証明している点。GlowMotionsは本質的に、ハイライターの視覚効果とボディオイルの使用シーンを組み合わせ、新しい「ボディメイク」というサブカテゴリーを生み出している。公式Q&Aでは「本物の日焼けの代わりになるか」「スプレータンと重ねられるか」といった質問に直接答えており、消費者がこれを従来のボディケアではなくメイクアップ／擬似日焼け製品として使っていることを示している。示唆されるのは、ボディケアカテゴリーの境界がメイクアップのロジックによって書き換えられつつあるということ。"
+    },
+    "notes": {
+      "zh": "资料采集日 2026-08-02。信息取自品牌官网soldejaneiro.com产品页，含完整INCI成分表（两个色号分别列出）与官方评价统计数据。",
+      "en": "Data collected 2026-08-02. Information taken from the brand's official soldejaneiro.com product page, including the complete INCI list for each shade and official review statistics.",
+      "ja": "情報収集日 2026年8月2日。ブランド公式サイトsoldejaneiro.com商品ページより収集。各色の完全なINCI成分表及び公式レビュー統計データを含む。"
+    },
+    "images": [
+      "https://soldejaneiro.com/cdn/shop/files/SDJ_DTC_Glowmotions2025_CopacabanaBronze_Ppage_1600x1600_1.webp?v=1759325301"
+    ],
+    "sources": [
+      [
+        "Official product page (Sol de Janeiro)",
+        "https://soldejaneiro.com/products/new-glowmotions-glow-oils-page"
+      ]
+    ],
+    "targetUsers": {
+      "zh": [
+        "追求日晒健康色闪光肌效果、不想真正晒黑的人群",
+        "社媒种草驱动的年轻消费者",
+        "追求\"身体彩妆\"效果而非单纯保湿的用户"
+      ],
+      "en": [
+        "Consumers who want a sun-kissed shimmer look without actually tanning",
+        "Younger, social-media-driven consumers",
+        "Users seeking a body-makeup effect rather than pure moisture"
+      ],
+      "ja": [
+        "実際には日焼けせず健康的な輝きのある肌を求める層",
+        "SNSでの発見に導かれる若い消費者",
+        "単なる保湿ではなくボディメイク効果を求めるユーザー"
+      ]
+    },
+    "keyClaims": {
+      "zh": [
+        "透气不显厚重的闪光质地",
+        "防转印，可与晒后护理叠加",
+        "两种色调：古铜金闪/香槟闪",
+        "椰子油、巴西莓果油、古布阿苏籽脂滋养复合"
+      ],
+      "en": [
+        "Lightweight, barely-there shimmer texture",
+        "Transfer-resistant, can be layered over a tan",
+        "Two shades: Copacabana Bronze / Rio Sunset",
+        "Coconut, açaí, and cupuaçu nourishing oil blend"
+      ],
+      "ja": [
+        "軽くさりげないシマーテクスチャー",
+        "色移りしにくく、日焼け後のケアと重ねられる",
+        "2色展開：コパカバーナブロンズ／リオサンセット",
+        "ココナッツ、アサイー、クプアスの滋養オイルブレンド"
+      ]
+    },
+    "heroIngredients": {
+      "zh": [
+        {
+          "name": "云母（Mica）",
+          "tag": "闪光核心",
+          "desc": "两个色号共用的核心闪光颗粒成分"
+        },
+        {
+          "name": "椰子+巴西莓果+葵花籽油复合",
+          "tag": "滋养软化",
+          "desc": "官方称软化滋润肌肤的核心油脂组合"
+        },
+        {
+          "name": "古布阿苏籽脂",
+          "tag": "快速吸收锁水",
+          "desc": "官方称能快速吸收、不留油腻感地锁住水分"
+        }
+      ],
+      "en": [
+        {
+          "name": "Mica",
+          "tag": "Core shimmer",
+          "desc": "The core shimmer-particle ingredient shared by both shades"
+        },
+        {
+          "name": "Coconut + Açaí + Sunflower Oil Blend",
+          "tag": "Softening & nourishing",
+          "desc": "The core oil combination described by the brand as softening and moisturizing skin"
+        },
+        {
+          "name": "Cupuaçu Seed Butter",
+          "tag": "Fast-absorbing hydration lock",
+          "desc": "Described by the brand as locking in hydration with a fast, non-greasy absorption"
+        }
+      ],
+      "ja": []
+    },
+    "ingredientsNote": {
+      "zh": "两个色号成分表几乎一致，主要差异是氧化铁配比（决定古铜金vs香槟色调）及Rio Sunset额外添加了三乙氧基辛基硅烷；配方标注无麸质、素食友好、无对羟基苯甲酸酯。",
+      "en": "The two shades share nearly identical ingredient lists, differing mainly in the iron oxide ratio (determining bronze vs. champagne tone) and Rio Sunset's extra Triethoxycaprylylsilane; the formula is labeled gluten-free, vegan-friendly, and paraben-free.",
+      "ja": "2色の成分表はほぼ同一で、主な違いは酸化鉄の配合比（ブロンズかシャンパンかを左右する）とリオサンセットに追加されているトリエトキシカプリリルシランのみ。処方はグルテンフリー、ビーガンフレンドリー、パラベンフリーと表示されている。"
+    },
+    "pricePositioning": {
+      "zh": {
+        "tier": "premium",
+        "label": "北美美妆级身体闪光"
+      },
+      "en": {
+        "tier": "premium",
+        "label": "North American Makeup-Grade Body Shimmer"
+      },
+      "ja": {
+        "tier": "premium",
+        "label": "北米メイクアップ級ボディシマー"
+      }
+    },
+    "marketChannel": {
+      "zh": {
+        "global": [
+          "品牌官网soldejaneiro.com",
+          "Sephora",
+          "Ulta Beauty"
+        ],
+        "japan": [
+          "Sol Passport会员积分兑换渠道"
+        ],
+        "channelLabel": "北美专业美妆零售+社媒种草",
+        "channelDesc": "以Sephora、Ulta等专业美妆零售为核心分销渠道，同时通过品牌官网会员积分体系（Sol Passport）和社媒内容驱动复购"
+      },
+      "en": {
+        "global": [
+          "Brand DTC (soldejaneiro.com)",
+          "Sephora",
+          "Ulta Beauty"
+        ],
+        "japan": [
+          "Sol Passport loyalty points redemption channel"
+        ],
+        "channelLabel": "North American Specialty Beauty Retail + Social Discovery",
+        "channelDesc": "Distributed mainly through specialty beauty retailers like Sephora and Ulta, with repeat purchase driven by the brand's own loyalty program (Sol Passport) and social-media content"
+      },
+      "ja": {
+        "global": [
+          "ブランド公式サイトsoldejaneiro.com",
+          "セフォラ",
+          "Ulta Beauty"
+        ],
+        "japan": [
+          "Sol Passportロイヤルティポイント交換チャネル"
+        ],
+        "channelLabel": "北米専門美容小売＋SNSでの発見",
+        "channelDesc": "セフォラやUltaなどの専門美容小売を主要な流通チャネルとし、ブランド自身のロイヤルティプログラム（Sol Passport）とSNSコンテンツによってリピート購入を促進"
+      }
+    },
+    "brandConceptRich": {
+      "zh": {
+        "tagline": "Body Joy + Planet Joy（身体的愉悦，星球的愉悦）",
+        "concept": "Sol de Janeiro是一个以巴西里约热内卢为灵感原点、在美国孵化壮大的国际化身体护理品牌，核心叙事是把\"巴西海滩文化\"的感官体验（香氛、闪光、丰盈曲线美）转译成可购买的产品语言，招牌Bum Bum Cream与本品共享同一Cheirosa 62经典香调，构成品牌跨品类（身体乳、身体油、香水喷雾）的统一嗅觉资产。"
+      },
+      "en": {
+        "tagline": "Body Joy + Planet Joy.",
+        "concept": "Sol de Janeiro is an internationally scaled body-care brand born from Rio de Janeiro, Brazil, as its inspiration and grown out of the US. Its core narrative translates the sensory experience of Brazilian beach culture — fragrance, shimmer, curvaceous beauty — into a purchasable product language. Its signature Bum Bum Cream shares the same classic Cheirosa 62 scent with this product, forming a unified olfactory asset across categories (body lotion, body oil, fragrance mist)."
+      },
+      "ja": {
+        "tagline": "Body Joy + Planet Joy（体の喜び、地球の喜び）。",
+        "concept": "ソル・デ・ジャネイロは、ブラジルのリオデジャネイロを着想の原点とし、米国で育った国際的なボディケアブランド。核心的な物語は、ブラジルのビーチ文化の感覚的な体験（香り、輝き、豊かな曲線美）を購入可能な商品言語に翻訳することにある。看板商品のBum Bum Creamと本品は同じクラシックなCheirosa 62の香りを共有しており、カテゴリーを横断（ボディローション、ボディオイル、フレグランスミスト）した統一的な香りの資産を形成している。"
+      }
+    },
+    "competitiveAdvantage": {
+      "zh": [
+        {
+          "name": "Nativa SPA Madagascar's Vanilla Body Oil（同库已加入）",
+          "points": [
+            "Nativa SPA走\"天然原料+SPA仪式感\"叙事，本品走\"闪光提亮+身体彩妆\"叙事",
+            "本品渠道更依赖社媒话题与专业美妆零售，Nativa SPA依赖本土门店信任积累",
+            "本品单价明显更高，走美妆级定价而非日常护理定价"
+          ]
+        },
+        {
+          "name": "Paixão Óleo Corporal（同库已加入）",
+          "points": [
+            "Paixão走巴西本土\"性感香氛\"叙事，本品已完全国际化并加入闪光美妆功能",
+            "本品渠道以北美专业美妆零售为主，Paixão以巴西本土药妆为主",
+            "两者都源自巴西身体护理文化基因，但产品功能与国际化路径完全不同"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Nativa SPA Madagascar's Vanilla Body Oil (already in this library)",
+          "points": [
+            "Nativa SPA leans on a natural-ingredient, spa-ritual narrative; this product leans on a shimmer/glow, body-makeup narrative",
+            "This product relies more on social-media buzz and specialty beauty retail; Nativa SPA relies on trust built through domestic retail",
+            "This product is priced notably higher, following makeup-grade rather than daily-care pricing"
+          ]
+        },
+        {
+          "name": "Paixão Óleo Corporal (already in this library)",
+          "points": [
+            "Paixão leans on a domestic Brazilian sensual-fragrance narrative; this product has fully internationalized and added a shimmer/makeup function",
+            "This product's channels are mainly North American specialty beauty retail; Paixão's are mainly Brazilian domestic drugstores",
+            "Both trace back to Brazilian body-care culture, but diverge completely in product function and internationalization path"
+          ]
+        }
+      ],
+      "ja": [
+        {
+          "name": "ナティバSPA マダガスカルバニラボディオイル（本ライブラリ収録済み）",
+          "points": [
+            "ナティバSPAは「天然原料＋スパの儀式感」を訴求、本品は「輝き・グロー＋ボディメイク」を訴求",
+            "本品はSNSでの話題性と専門美容小売への依存度が高く、ナティバSPAは国内店舗で築かれた信頼に依存",
+            "本品の単価は明確に高く、日常ケアではなくメイクアップ級の価格設定"
+          ]
+        },
+        {
+          "name": "パイション ボディオイル（本ライブラリ収録済み）",
+          "points": [
+            "パイションはブラジル国内の「セクシーな香り」を訴求、本品は完全に国際化しシマーメイクアップ機能を追加",
+            "本品のチャネルは主に北米の専門美容小売、パイションは主にブラジル国内のドラッグストア",
+            "両者ともブラジルのボディケア文化を起源に持つが、製品機能と国際化の道筋が全く異なる"
+          ]
+        }
+      ]
+    },
+    "evidenceStats": {
+      "zh": [
+        "总体评分4.795/5（3163条评价）",
+        "23%评价提及闪光效果，8%提及颜色，7%提及肤感，3%提及吸收速度"
+      ],
+      "en": [
+        "Overall rating 4.795/5 (3,163 reviews)",
+        "23% of reviews mention the glow effect, 8% mention color, 7% mention feel, 3% mention absorption speed"
+      ],
+      "ja": [
+        "総合評価4.795/5（3,163件のレビュー）",
+        "23%のレビューが輝き効果に言及、8%が色、7%が肌ざわり、3%が吸収速度に言及"
+      ]
+    },
+    "experienceItems": {
+      "zh": [
+        "用法：清洁干燥皮肤上按压泵头均匀涂抹",
+        "叠加：可与晒后护理叠加，穿衣前需完全干透",
+        "适用范围：官方明确仅限身体，不建议用脸部",
+        "肤感：多数消费者反馈吸收快不黏腻"
+      ],
+      "en": [
+        "Usage: pump onto clean, dry skin and blend evenly",
+        "Layering: can be layered with tanning products, let dry fully before dressing",
+        "Scope: officially body-only, not recommended for the face",
+        "Feel: most consumers report fast, non-greasy absorption"
+      ],
+      "ja": [
+        "使い方：清潔で乾いた肌にポンプで押し出し均一にブレンド",
+        "重ね使い：日焼け後のケアと重ねられる、着衣前に完全に乾かす必要あり",
+        "使用範囲：公式にボディ専用、顔への使用は非推奨",
+        "肌ざわり：多くの消費者が吸収が速くべたつかないと回答"
+      ]
+    },
+    "keyTechnology": {
+      "zh": [
+        {
+          "title": "防转印闪光配方技术",
+          "desc": "结合云母闪光颗粒与轻质油脂基底，做到闪光显色的同时保持透气不厚重，并通过配方设计实现干透后不易转印到衣物的效果。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Transfer-Resistant Shimmer Formula",
+          "desc": "Combines mica shimmer particles with a lightweight oil base to deliver visible shimmer while staying breathable and not heavy, with formula design achieving transfer resistance onto clothing once fully dry."
+        }
+      ],
+      "ja": [
+        {
+          "title": "色移りしにくいシマー処方技術",
+          "desc": "マイカのシマー粒子と軽量なオイル基剤を組み合わせ、輝きを発色させながら軽く重くならないようにし、完全に乾いた後は衣類への色移りが起きにくい処方設計を実現している。"
+        }
+      ]
+    }
   }
 ]
