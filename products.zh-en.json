@@ -20116,5 +20116,1728 @@
         }
       ]
     }
+  },
+  {
+    "id": "kao-curel-intensive-moisture-facial-cream",
+    "vertical": "skincare",
+    "category": "japan",
+    "productType": "cream",
+    "addedAt": 58,
+    "name": {
+      "zh": "Curél 润浸保湿面霜",
+      "en": "Curél Intensive Moisture Care Moisture Facial Cream",
+      "ja": "キュレル 潤浸保湿 フェイスクリーム"
+    },
+    "brand": {
+      "zh": "Curél（キュレル）",
+      "en": "Curél",
+      "ja": "キュレル"
+    },
+    "company": {
+      "zh": "花王株式会社",
+      "en": "Kao Corporation",
+      "ja": "花王株式会社"
+    },
+    "origin": {
+      "zh": "日本",
+      "en": "Japan",
+      "ja": "日本（Made in Japan）"
+    },
+    "launch": {
+      "zh": "Curél品牌\"润浸保湿\"系列核心面霜，医药部外品，持续在售",
+      "en": "Core facial cream in Curél's \"Intensive Moisture Care\" line, a quasi-drug product, ongoing",
+      "ja": "キュレル「潤浸保湿」シリーズの中核フェイスクリーム、医薬部外品、継続販売中"
+    },
+    "market": {
+      "zh": "花王官方通販My Kao Mall、日本全国药妆连锁",
+      "en": "Kao's official online store My Kao Mall, Japanese drugstore chains nationwide",
+      "ja": "花王公式通販My Kao Mall、日本全国のドラッグストアチェーン"
+    },
+    "capacity": {
+      "zh": "40 g（另有70 g及替换装）",
+      "en": "40 g (also available in 70 g and as a refill)",
+      "ja": "40g（70g及びつめかえ用もあり）"
+    },
+    "price": {
+      "zh": "¥2,970（40g）／¥4,950（70g，含税）",
+      "en": "¥2,970 (40g) / ¥4,950 (70g, tax included)",
+      "ja": "2,970円（40g）／4,950円（70g、税込）"
+    },
+    "positioning": {
+      "zh": "Curél是花王专门面向\"干燥性敏感肌\"（角质层神经酰胺不足导致的敏感干燥肌肤）研发的专业护肤品牌，本品是品牌\"润浸保湿\"系列的核心面霜，医药部外品认证，主打保湿成分（神经酰胺功能成分、尤加利提取物）深入角质层，配合消炎有效成分预防肌肤粗糙。整个品牌的立论基础是\"敏感肌问题根源在于神经酰胺不足\"这一皮肤科学逻辑，而非笼统的\"温和不刺激\"表述。",
+      "en": "Curél is Kao's dedicated skincare brand for dry sensitive skin, developed around the idea that sensitivity stems from a deficiency of ceramide in the stratum corneum. This product is the core cream in the brand's \"Intensive Moisture Care\" line, a quasi-drug (yakuho gaihin) formula built on a ceramide-functional ingredient and eucalyptus extract to deliver moisture deep into the stratum corneum, paired with an anti-inflammatory active to prevent skin roughness. The brand's whole premise rests on a specific dermatological logic — sensitivity traces back to a ceramide shortfall — rather than a generic \"gentle, non-irritating\" claim.",
+      "ja": "キュレルは、角質層のセラミド不足が乾燥性敏感肌の根本原因であるという皮膚科学的な考え方に基づき、花王が展開する敏感肌専門のスキンケアブランド。本品はブランドの「潤浸保湿」シリーズの中核フェイスクリームで、医薬部外品として、セラミド機能成分とユーカリエキスで角質層まで深く潤いを届け、消炎有効成分（アラントイン）で肌荒れを防ぐ。ブランド全体の立脚点は「敏感肌の原因はセラミド不足にある」という具体的な皮膚科学ロジックであり、漠然とした「やさしい・低刺激」という訴求とは一線を画す。"
+    },
+    "target": {
+      "zh": "干燥性敏感肌人群；反复出现肌肤粗糙、干燥紧绷困扰的用户；追求皮肤科学逻辑而非模糊\"温和\"宣称的消费者。",
+      "en": "Consumers with dry sensitive skin; those with recurring rough, tight, dry skin; users who want a dermatological rationale rather than a vague \"gentle\" claim.",
+      "ja": "乾燥性敏感肌の人。肌荒れや乾燥によるつっぱり感を繰り返す人。漠然とした「やさしさ」ではなく皮膚科学的な根拠を求める消費者。"
+    },
+    "distribution": {
+      "zh": "40g/¥2,970，单克约¥74，是日本药妆敏感肌专业线的主流价位，70g正装单价略低，另有替换装进一步降低复购成本。",
+      "en": "40g at ¥2,970, about ¥74/g, a mainstream price point for Japanese drugstore sensitive-skin specialty lines; the 70g size has a slightly lower per-gram cost, with a refill further lowering repeat-purchase cost.",
+      "ja": "40g・2,970円で1gあたり約74円、日本のドラッグストアにおける敏感肌専門ラインの主流価格帯。70gの方が単価はやや低く、つめかえ用でリピート購入のコストをさらに抑えられる。"
+    },
+    "ingredients": {
+      "zh": "有效成分：阿拉伯坦（アラントイン，消炎剂）；其他成分：水、甘油、十六烷氧基PG羟乙基十六酰胺（神经酰胺功能成分）、三硅氧烷、聚二甲基硅氧烷、α-烯烃低聚物、POE·聚二甲基硅氧烷共聚物、尤加利提取物、硫酸镁、BG、异硬脂醇甘油醚、琥珀酸、氢氧化钠液、对羟基苯甲酸酯。",
+      "en": "Active ingredient: Allantoin (anti-inflammatory); other ingredients: Water, Glycerin, Hexadecyloxy PG Hydroxyethyl Hexadecanamide (ceramide-functional ingredient), Trisiloxane, Dimethicone, Alpha-Olefin Oligomer, POE/Dimethicone Copolymer, Eucalyptus Extract, Magnesium Sulfate, BG, Isostearyl Glyceryl Ether, Succinic Acid, Sodium Hydroxide Solution, Parabens.",
+      "ja": "有効成分：アラントイン（消炎剤）／その他の成分：水、グリセリン、ヘキサデシロキシPGヒドロキシエチルヘキサデカナミド（セラミド機能成分）、トリシロキサン、ジメチコン、α-オレフィンオリゴマー、POE・ジメチコン共重合体、ユーカリエキス、硫酸Mg、BG、イソステアリルグリセリルエーテル、コハク酸、水酸化ナトリウム液、パラベン"
+    },
+    "evidence": {
+      "zh": "官方标注弱酸性、无香料、无着色、无酒精（无乙醇添加）、过敏测试已完成、经干燥性敏感肌人群协力完成的斑贴测试；但官方同时明确注明\"并非对所有人都不会引起过敏或刺激\"，未公开具体测试样本量或量化改善数据。",
+      "en": "The brand states the formula is mildly acidic, fragrance-free, colorant-free, alcohol-free (no added ethanol), allergy tested, and patch-tested with the cooperation of people with dry sensitive skin; it also explicitly notes this doesn't guarantee no allergic reaction or irritation for everyone, and no specific sample size or quantified improvement data is disclosed.",
+      "ja": "公式は弱酸性、無香料、無着色、アルコールフリー（エチルアルコール無添加）、アレルギーテスト済み、乾燥性敏感肌の方の協力によるパッチテスト済みと表示している。ただし「すべての方にアレルギーや皮膚刺激が起こらないというわけではありません」と明記されており、具体的なサンプル数や定量的な改善データは公開されていない。"
+    },
+    "experience": {
+      "zh": "官方建议在化妆水、乳液后使用，取直径约2cm（食指第一关节舀取的量）涂抹全脸及干燥明显部位；使用手法为顺着脸部5点（两颊、额头、鼻、下巴）点涂后从中心向外侧推开，特别干燥部位可重复叠加涂抹。质地弱酸性、无香料，官方形容为\"非常滋润却轻盈蓬松\"的使用感。",
+      "en": "The brand recommends applying after toner and emulsion, taking an amount about 2cm in diameter (roughly one scoop from the first knuckle of the index finger) over the whole face and especially dry areas; the technique is dotting onto five points (both cheeks, forehead, nose, chin) and blending from center outward, with extra layers on particularly dry spots. The formula is mildly acidic and fragrance-free, described by the brand as very moisturizing yet light and airy in feel.",
+      "ja": "公式は化粧水・乳液の後に使用し、直径約2cm（人差し指の第一関節でひとすくいする程度）を顔全体とカサつきが気になる部分になじませることを推奨している。両頬、ひたい、鼻、あごの5か所に置き、中心から外側へなじませる。特に乾燥が気になる部分には重ねづけを。弱酸性・無香料で、公式は「とてもしっとりするのに、ふわっと軽い」使用感と説明している。"
+    },
+    "packaging": {
+      "zh": "白色瓶身配蓝色标签，第一眼传递\"医药部外品级、专业克制\"的印象，走药妆专业线的克制视觉路线，不追求精品化包装，跟品牌\"皮肤科学逻辑\"的定位保持一致。",
+      "en": "A white jar with a blue label reads as quasi-drug-grade and professionally restrained at first glance, following a drugstore-specialty visual language rather than premium packaging, consistent with the brand's dermatological-logic positioning.",
+      "ja": "白いボトルにブルーのラベルは、医薬部外品級で専門的、控えめな第一印象を与える。プレミアムなパッケージングではなく薬用ラインの抑えたビジュアル路線で、ブランドの「皮膚科学ロジック」という位置づけと一致している。"
+    },
+    "insight": {
+      "zh": "Curél最值得参考的地方是它把\"敏感肌\"这个模糊的自我诊断，转译成了一个具体的、可被产品逻辑对应解决的成分故事。\n\n* 用病理逻辑代替感受描述：大部分敏感肌品牌只说\"温和不刺激\"，Curél直接给出病因——神经酰胺不足，再用神经酰胺功能成分对症配方，整套逻辑闭环，比单纯强调温和更有说服力。\n* 医药部外品身份是天然的信任背书：消炎有效成分阿拉伯坦让产品获得医药部外品资质，这个身份本身在日本消费者心智里自带\"经过认证\"的信任感，不需要额外的临床数据说服。\n* 官方主动说明测试局限性，反而增强可信度：官方明确写出\"并非对所有人都不会过敏\"这种免责表述，这种诚实的克制反而符合敏感肌用户对\"过度承诺\"品牌的天然警惕心理。\n\n战略启示：面对一个模糊的消费者自我诊断（如\"敏感肌\"\"熬夜肌\"），把它转译成具体的成分因果链条，比反复强调\"温和\"\"专业\"这类形容词更容易建立信任。",
+      "en": "The most instructive thing about Curél is how it translates a vague self-diagnosis (\"sensitive skin\") into a concrete ingredient story with a matching product logic.\n\n* Uses pathological logic instead of a feeling-based description: most sensitive-skin brands just say \"gentle, non-irritating.\" Curél names a specific cause — ceramide deficiency — then formulates against it with a ceramide-functional ingredient, closing the logical loop more persuasively than a plain gentleness claim.\n* Quasi-drug status is a built-in trust credential: the anti-inflammatory active allantoin earns the product quasi-drug status, which in Japanese consumers' minds already carries a sense of official certification, no extra clinical data needed to persuade.\n* Volunteering the test limitations actually builds more trust: explicitly stating \"this doesn't guarantee no reaction for everyone\" is an honest restraint that matches sensitive-skin users' natural wariness of brands that overpromise.\n\nStrategic takeaway: when facing a vague consumer self-diagnosis (like \"sensitive skin\" or \"tired skin\"), translating it into a concrete ingredient-cause chain builds more trust than repeating adjectives like gentle or professional.",
+      "ja": "キュレルで最も参考になるのは、「敏感肌」という曖昧な自己診断を、製品ロジックで具体的に対応できる成分ストーリーに翻訳している点。\n\n* 感覚的な説明ではなく病理的なロジックを使う：ほとんどの敏感肌ブランドは「やさしい・低刺激」としか言わないが、キュレルは「セラミド不足」という具体的な原因を示し、セラミド機能成分で対症的に処方する。このロジックの一貫性が、単なる「やさしさ」の訴求より説得力を持つ。\n* 医薬部外品という立場が自然な信頼の裏付けになる：消炎有効成分アラントインによって医薬部外品の資格を得ており、この立場自体が日本の消費者の意識の中で「認証済み」という信頼感を自然に持つ。追加の臨床データで説得する必要がない。\n* 公式が自らテストの限界を説明することで、かえって信頼性が高まる：「すべての方にアレルギーが起こらないというわけではない」という免責的な表現を明記する誠実な抑制が、「過剰な約束」をするブランドへの敏感肌ユーザーの自然な警戒心とかみ合っている。\n\n戦略的示唆：「敏感肌」「寝不足肌」のような曖昧な消費者の自己診断に対して、それを具体的な成分の因果関係に翻訳することは、「やさしい」「専門的」といった形容詞を繰り返すより信頼を築きやすい。"
+    },
+    "notes": {
+      "zh": "资料采集日 2026-08-02。信息取自花王官方通販My Kao Mall产品页（含全成分表与使用方法）。",
+      "en": "Data collected 2026-08-02. Information taken from Kao's official My Kao Mall product page (including the full ingredient list and usage instructions).",
+      "ja": "情報収集日 2026年8月2日。花王公式通販My Kao Mall商品ページ（全成分表と使用方法を含む）より収集。"
+    },
+    "images": [
+      "https://kao-h.assetsadobe3.com/is/image/content/dam/sites/kao/www-kao-kirei-com/jp/ja/item/kbb/curel/25417079/GG01.jpg"
+    ],
+    "sources": [
+      [
+        "Official product page (Kao My Kao Mall)",
+        "https://www.kao-kirei.com/ja/item/kbb/curel/4901301236210/"
+      ],
+      [
+        "Brand site (Curél)",
+        "https://www.kao.co.jp/curel/"
+      ]
+    ],
+    "targetUsers": {
+      "zh": [
+        "干燥性敏感肌人群",
+        "反复出现肌肤粗糙、干燥紧绷困扰的用户",
+        "追求皮肤科学逻辑而非模糊温和宣称的消费者"
+      ],
+      "en": [
+        "Consumers with dry sensitive skin",
+        "Those with recurring rough, tight, dry skin",
+        "Users who want a dermatological rationale rather than a vague gentleness claim"
+      ],
+      "ja": [
+        "乾燥性敏感肌の人",
+        "肌荒れや乾燥によるつっぱり感を繰り返す人",
+        "曖昧な「やさしさ」ではなく皮膚科学的根拠を求める消費者"
+      ]
+    },
+    "keyClaims": {
+      "zh": [
+        "医药部外品，消炎有效成分阿拉伯坦",
+        "神经酰胺功能成分深入角质层",
+        "弱酸性、无香料、无着色、无酒精",
+        "过敏测试+干燥敏感肌协力斑贴测试"
+      ],
+      "en": [
+        "Quasi-drug status, anti-inflammatory active allantoin",
+        "Ceramide-functional ingredient reaches deep into the stratum corneum",
+        "Mildly acidic, fragrance-free, colorant-free, alcohol-free",
+        "Allergy tested + patch tested with dry sensitive-skin volunteers"
+      ],
+      "ja": [
+        "医薬部外品、消炎有効成分アラントイン配合",
+        "セラミド機能成分が角質層まで深く浸透",
+        "弱酸性・無香料・無着色・アルコールフリー",
+        "アレルギーテスト済み＋乾燥性敏感肌協力パッチテスト済み"
+      ]
+    },
+    "heroIngredients": {
+      "zh": [
+        {
+          "name": "阿拉伯坦（有效成分）",
+          "tag": "消炎核心",
+          "desc": "医药部外品认证的消炎有效成分，预防肌肤粗糙"
+        },
+        {
+          "name": "神经酰胺功能成分",
+          "tag": "屏障核心",
+          "desc": "十六烷氧基PG羟乙基十六酰胺，深入角质层提供保湿"
+        }
+      ],
+      "en": [
+        {
+          "name": "Allantoin (Active Ingredient)",
+          "tag": "Anti-inflammatory core",
+          "desc": "The quasi-drug-certified anti-inflammatory active that prevents skin roughness"
+        },
+        {
+          "name": "Ceramide-Functional Ingredient",
+          "tag": "Barrier core",
+          "desc": "Hexadecyloxy PG Hydroxyethyl Hexadecanamide, delivering hydration deep into the stratum corneum"
+        }
+      ],
+      "ja": [
+        {
+          "name": "アラントイン（有効成分）",
+          "tag": "消炎の核心",
+          "desc": "医薬部外品として認証された消炎有効成分、肌荒れを防ぐ"
+        },
+        {
+          "name": "セラミド機能成分",
+          "tag": "バリアの核心",
+          "desc": "ヘキサデシロキシPGヒドロキシエチルヘキサデカナミド、角質層まで深く浸透して潤いを届ける"
+        }
+      ]
+    },
+    "ingredientsNote": {
+      "zh": "配方含对羟基苯甲酸酯类防腐剂（パラベン），部分敏感肌消费者对这类防腐剂有顾虑，官方未特别标注无添加。",
+      "en": "The formula contains parabens as preservatives; some sensitive-skin consumers have concerns about this preservative class, and the brand doesn't specifically label the product as paraben-free.",
+      "ja": "処方には防腐剤としてパラベンが含まれており、この防腐剤に懸念を持つ敏感肌の消費者も一部存在する。公式は特にパラベンフリーとは表示していない。"
+    },
+    "pricePositioning": {
+      "zh": {
+        "tier": "mass",
+        "label": "日系药妆敏感肌专业线"
+      },
+      "en": {
+        "tier": "mass",
+        "label": "Japanese Drugstore Sensitive-Skin Specialty"
+      },
+      "ja": {
+        "tier": "mass",
+        "label": "日系ドラッグストア敏感肌専門ライン"
+      }
+    },
+    "marketChannel": {
+      "zh": {
+        "global": [
+          "My Kao Mall官方通販"
+        ],
+        "japan": [
+          "日本全国药妆连锁"
+        ],
+        "channelLabel": "药妆全渠道铺货",
+        "channelDesc": "作为花王旗下敏感肌专业品牌，覆盖日本全国药妆连锁及官方通販渠道"
+      },
+      "en": {
+        "global": [
+          "My Kao Mall official store"
+        ],
+        "japan": [
+          "Japanese drugstore chains nationwide"
+        ],
+        "channelLabel": "Full Drugstore Distribution",
+        "channelDesc": "As Kao's dedicated sensitive-skin brand, distributed across Japanese drugstore chains nationwide and the official online store"
+      },
+      "ja": {
+        "global": [
+          "My Kao Mall公式通販"
+        ],
+        "japan": [
+          "日本全国のドラッグストアチェーン"
+        ],
+        "channelLabel": "ドラッグストア全国展開",
+        "channelDesc": "花王傘下の敏感肌専門ブランドとして、日本全国のドラッグストアチェーン及び公式通販をカバー"
+      }
+    },
+    "brandConceptRich": {
+      "zh": {
+        "tagline": "潤い成分配合で、角層まで深く潤う。（配合保湿成分，深入角层深层滋润）",
+        "concept": "Curél由花王基于\"神经酰胺研究\"创立，核心信念是干燥性敏感肌的根本原因是角质层神经酰胺不足，而非单纯的外界刺激。品牌全线产品都围绕\"神经酰胺功能成分\"这一核心技术展开，是少数把\"敏感肌\"品类做出明确病理逻辑而非模糊温和宣称的日系药妆品牌。"
+      },
+      "en": {
+        "tagline": "A moisturizing formula that reaches deep into the stratum corneum.",
+        "concept": "Curél was founded by Kao on ceramide research, built on the belief that dry sensitive skin's root cause is a ceramide deficiency in the stratum corneum, not simply external irritation. The entire product line revolves around ceramide-functional ingredients as its core technology, making it one of the few Japanese drugstore brands that gives the \"sensitive skin\" category a clear pathological logic rather than a vague gentleness claim."
+      },
+      "ja": {
+        "tagline": "潤い成分配合で、角層まで深く潤う。",
+        "concept": "キュレルは花王がセラミド研究をもとに立ち上げたブランドで、乾燥性敏感肌の根本原因は外部刺激ではなく角質層のセラミド不足にあるという考え方を核心信念としている。ブランド全体の製品ラインが「セラミド機能成分」という核心技術を軸に展開されており、「敏感肌」というカテゴリーに、曖昧な「やさしさ」訴求ではなく明確な病理ロジックを与えている数少ない日系ドラッグストアブランドの一つ。"
+      }
+    },
+    "competitiveAdvantage": {
+      "zh": [
+        {
+          "name": "Curél Aging Care系列（同品牌）",
+          "points": [
+            "本品是基础\"润浸保湿\"系列，Aging Care系列走同样的神经酰胺逻辑但加了抗老诉求，价格更高",
+            "两者共享同一核心技术资产（神经酰胺功能成分），是品牌内部按年龄段做的自然分层",
+            "本品定位更基础日常，Aging Care更偏进阶功效"
+          ]
+        },
+        {
+          "name": "d program（资生堂旗下敏感肌品牌）",
+          "points": [
+            "d program走\"皮肤科医生监修\"的专业医学背书路线，Curél走\"神经酰胺研究\"的成分科学路线",
+            "两者都是日系敏感肌专业线代表，价格带接近",
+            "d program渠道更偏药妆店专柜咨询式销售，Curél渠道更广泛铺货"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Curél Aging Care Line (same brand)",
+          "points": [
+            "This product is the foundational \"Intensive Moisture Care\" line; the Aging Care line follows the same ceramide logic with an added anti-aging claim, priced higher",
+            "Both share the same core technology asset (ceramide-functional ingredient), a natural age-tier split within the brand",
+            "This product is positioned as the basic daily item; Aging Care leans toward advanced efficacy"
+          ]
+        },
+        {
+          "name": "d program (Shiseido's sensitive-skin brand)",
+          "points": [
+            "d program leans on a dermatologist-supervised professional medical endorsement; Curél leans on ceramide-research ingredient science",
+            "Both are representative Japanese sensitive-skin specialty lines at similar price points",
+            "d program's channel skews toward drugstore counter consultation-style selling; Curél is distributed more broadly"
+          ]
+        }
+      ],
+      "ja": []
+    },
+    "evidenceStats": {
+      "zh": [],
+      "en": [],
+      "ja": []
+    },
+    "experienceItems": {
+      "zh": [
+        "用法：化妆水乳液后，5点涂抹再推开",
+        "质地：弱酸性、无香料，滋润但轻盈",
+        "特别护理：干燥部位可重复叠加",
+        "认证：过敏测试+敏感肌协力斑贴测试"
+      ],
+      "en": [
+        "Usage: after toner/emulsion, dot onto 5 points then blend",
+        "Texture: mildly acidic, fragrance-free, moisturizing yet light",
+        "Extra care: layer on especially dry areas",
+        "Certification: allergy tested + sensitive-skin patch tested"
+      ],
+      "ja": [
+        "使い方：化粧水・乳液の後、5か所に置いてなじませる",
+        "質感：弱酸性、無香料、しっとりだが軽い",
+        "重点ケア：乾燥が気になる部分は重ねづけ",
+        "認証：アレルギーテスト＋敏感肌協力パッチテスト済み"
+      ]
+    },
+    "keyTechnology": {
+      "zh": [
+        {
+          "title": "神经酰胺功能成分技术",
+          "desc": "以十六烷氧基PG羟乙基十六酰胺为核心，模拟人体自身神经酰胺功能，是Curél品牌全系产品共用的核心技术资产。"
+        },
+        {
+          "title": "医药部外品消炎配方",
+          "desc": "阿拉伯坦作为有效成分获得医药部外品认证，让\"预防肌肤粗糙\"这一宣称获得官方分类背书。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Ceramide-Functional Ingredient Technology",
+          "desc": "Built around Hexadecyloxy PG Hydroxyethyl Hexadecanamide, which mimics the body's own ceramide function, the core technology asset shared across Curél's entire product line."
+        },
+        {
+          "title": "Quasi-Drug Anti-Inflammatory Formula",
+          "desc": "Allantoin as the active ingredient earns quasi-drug certification, giving the \"prevents skin roughness\" claim an official regulatory-category endorsement."
+        }
+      ],
+      "ja": [
+        {
+          "title": "セラミド機能成分技術",
+          "desc": "ヘキサデシロキシPGヒドロキシエチルヘキサデカナミドを核心とし、人体自身のセラミド機能を模倣する、キュレルブランド全製品で共有される核心技術資産。"
+        },
+        {
+          "title": "医薬部外品消炎処方",
+          "desc": "アラントインを有効成分として医薬部外品認証を取得しており、「肌荒れを防ぐ」という訴求に公的な分類の裏付けを与えている。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "shuuemura-ultime8-sublime-cleansing-oil",
+    "vertical": "skincare",
+    "category": "japan",
+    "productType": "cleanser",
+    "addedAt": 59,
+    "name": {
+      "zh": "植村秀 Ultime8∞ 臻颜卸妆油n",
+      "en": "shu uemura ultime8∞ sublime beauty cleansing oil n",
+      "ja": "アルティム8∞ スブリム ビューティ クレンジング オイルn"
+    },
+    "brand": {
+      "zh": "shu uemura（植村秀）",
+      "en": "shu uemura",
+      "ja": "シュウ ウエムラ"
+    },
+    "company": {
+      "zh": "L'Oréal集团旗下日本美妆品牌",
+      "en": "A Japanese beauty brand under the L'Oréal Group",
+      "ja": "ロレアルグループ傘下の日本発ビューティブランド"
+    },
+    "origin": {
+      "zh": "日本",
+      "en": "Japan",
+      "ja": "日本"
+    },
+    "launch": {
+      "zh": "品牌Ultime8∞系列旗舰卸妆油，官方称连续6年日本销售额第一，持续在售并多次改良升级",
+      "en": "The flagship cleansing oil in the brand's Ultime8∞ line, described by the brand as #1 in Japan sales for 6 consecutive years, ongoing with multiple formula upgrades",
+      "ja": "ブランドのアルティム8∞シリーズの旗艦クレンジングオイルで、公式は6年連続日本売上No.1と謳っている。継続販売中で、複数回の処方改良を経ている"
+    },
+    "market": {
+      "zh": "shu uemura官方通販、日本百货店专柜、日本免税店",
+      "en": "shu uemura's official online store, Japanese department store counters, Japan duty-free stores",
+      "ja": "シュウ ウエムラ公式通販、日本の百貨店カウンター、日本の免税店"
+    },
+    "capacity": {
+      "zh": "450 mL（另有150 mL规格）",
+      "en": "Available in 450 mL and 150 mL",
+      "ja": "450mL（150mLサイズもあり）"
+    },
+    "price": {
+      "zh": "¥15,400（450mL）／¥6,270（150mL，含税）",
+      "en": "¥15,400 (450mL) / ¥6,270 (150mL, tax included)",
+      "ja": "15,400円（450mL）／6,270円（150mL、税込）"
+    },
+    "positioning": {
+      "zh": "shu uemura品牌历史最悠久、最具代表性的卸妆油，官方数据显示连续6年蝉联日本清洁品类销售额第一（据Beauté Research调研，涵盖百货店、直营店、电商渠道）。本品主打\"卸妆超越单纯清洁\"的定位——搭载纳米胶束技术负责清洁力，搭载\"肌肤活性化技术\"松解角质层细胞间脂质，使卸妆后续涂抹的护肤成分渗透量提升2.2倍（品牌自测，以烟酰胺为测量对象），把\"卸妆\"这一步骤重新定义为护肤流程的起点而非单纯的清洁动作。",
+      "en": "shu uemura's longest-running and most iconic cleansing oil, with the brand stating it has held the #1 spot in Japan's cleansing category for 6 consecutive years (per Beauté Research surveys covering department stores, directly-managed stores, and e-commerce). The product is positioned around going \"beyond cleansing\" — nano-micelle technology handles the cleansing power, while a named \"Skin Activation Technology\" loosens intercellular lipids in the stratum corneum, boosting the penetration of skincare ingredients applied afterward by 2.2x (per the brand's own testing, measured using niacinamide) — redefining cleansing as the starting point of a skincare routine rather than a purely functional step.",
+      "ja": "シュウ ウエムラの最も歴史が長く、最も代表的なクレンジングオイル。公式データによれば6年連続で日本の洗浄料カテゴリー売上No.1（Beauté Research調べ、百貨店・直営店・Eコマースを含む）。「クレンジングを超える」という位置づけを核心に、ナノミセル技術が洗浄力を担い、独自の「スキンアクティベーション テクノロジー」が角質層の細胞間脂質をほぐすことで、クレンジング後に塗布するスキンケア成分の浸透量を2.2倍に高める（同社調べ、ナイアシンアミドで測定）。「クレンジング」というステップを、単なる洗浄行為ではなくスキンケアルーティンの出発点として再定義している。"
+    },
+    "target": {
+      "zh": "复合型肌肤困扰人群，从敏感干燥肌到油性肌均适用；追求\"高机能清洁\"而非单纯卸妆的消费者；愿意为长期肌肤状态投资单价较高卸妆油的用户。",
+      "en": "Consumers with complex, mixed skin concerns, suitable from sensitive-dry to oily skin; those seeking \"high-function cleansing\" rather than plain makeup removal; users willing to invest in a higher-priced cleansing oil for long-term skin condition.",
+      "ja": "複合的な肌悩みを持つ層、敏感乾燥肌からオイリー肌まで対応。単なるメイク落としではなく「高機能クレンジング」を求める消費者。長期的な肌状態のために単価の高いクレンジングオイルに投資することを厭わないユーザー。"
+    },
+    "distribution": {
+      "zh": "450mL/¥15,400，单毫升约¥34，是日本卸妆油品类里价格最高的细分之一，走百货店专柜与免税渠道的精品化路线，同时提供定期便订阅服务（8/16/20周周期可选）巩固长期复购。",
+      "en": "450mL at ¥15,400, roughly ¥34/mL, among the most expensive segments in the Japanese cleansing-oil category, distributed through a prestige department-store-counter and duty-free channel, with a subscription service (8/16/20-week cycles) locking in long-term repeat purchase.",
+      "ja": "450mL・15,400円で1mLあたり約34円、日本のクレンジングオイルカテゴリーの中でも最も高価格帯の一つ。百貨店カウンターと免税チャネルというプレステージ路線で展開しつつ、定期便サービス（8週／16週／20週から選択可）で長期的なリピート購入を固めている。"
+    },
+    "ingredients": {
+      "zh": "玉米胚芽油、棕榈酸乙基己酯、三（辛酸/癸酸）甘油酯、肉豆蔻酸异丙酯、聚甘油-6二油酸酯、聚甘油-6二癸酸酯、大茴香籽油、聚甘油-2油酸酯、橄榄果油、聚甘油-6辛酸酯、二聚亚油酸二聚亚油醇双（山萮醇/异硬脂醇/植物甾醇）酯、芳樟醇、山茶籽油、荷荷巴籽油、红花籽油、生育酚、香叶醇、大豆油、柠檬酸硬脂酸甘油酯、米糠油、柠檬酸、磷脂、人参根提取物、大山竹提取物、山茶花提取物、香精。",
+      "en": "Corn Germ Oil, Ethylhexyl Palmitate, Tri(Caprylic/Capric) Glyceride, Isopropyl Myristate, Polyglyceryl-6 Dioleate, Polyglyceryl-6 Dicaprate, Limnanthes Alba (Meadowfoam) Seed Oil, Polyglyceryl-2 Oleate, Olive Fruit Oil, Polyglyceryl-6 Caprylate, Dimer Dilinoleic Acid/Dimer Dilinoleyl Dimer Diol Copolymer Bis-Behenyl/Isostearyl/Phytosteryl, Linalool, Camellia Seed Oil, Jojoba Seed Oil, Safflower Seed Oil, Tocopherol, Geraniol, Soybean Oil, Glyceryl Citrate/Stearate, Rice Bran Oil, Citric Acid, Phospholipids, Panax Ginseng Root Extract, Bambusa Arundinacea Extract, Camellia Japonica Flower Extract, Fragrance.",
+      "ja": "トウモロコシ胚芽油/パルミチン酸エチルヘキシル/トリ（カプリル酸／カプリン酸）グリセリル/ミリスチン酸イソプロピル/ジオレイン酸ポリグリセリル-6/ジカプリン酸ポリグリセリル-6/メドウフォーム種子油/オレイン酸ポリグリセリル-2/オリーブ果実油/カプリル酸ポリグリセリル-6/ダイマージリノール酸ダイマージリノレイルビス（ベヘニル／イソステアリル／フィトステリル）/リナロール/ツバキ種子油/ホホバ種子油/ベニバナ種子油/トコフェロール/ゲラニオール/ダイズ油/クエン酸ステアリン酸グリセリル/コメヌカ油/クエン酸/リン脂質/オタネニンジン根エキス/ダイサンチクエキス/ツバキ花エキス/香料"
+    },
+    "evidence": {
+      "zh": "官方宣称的\"日本销售额第一\"数据来自Beauté Research第三方市场调研机构（涵盖百货店、直营店、电商的销售额合算比较），属于销售排名而非功效测试；\"渗透量2.2倍\"的表述明确标注为品牌自测（以烟酰胺、角质层为测量对象），非独立第三方验证。官方评价系统显示4.8/5（427条评价）。",
+      "en": "The brand's \"#1 in Japan sales\" claim comes from Beauté Research, a third-party market research firm (combining department store, directly-managed store, and e-commerce sales figures), a sales ranking rather than an efficacy test; the \"2.2x penetration\" figure is explicitly labeled as the brand's own measurement (using niacinamide, at the stratum corneum), not independent third-party verification. The official review system shows 4.8/5 across 427 reviews.",
+      "ja": "公式が謳う「日本売上No.1」というデータは、第三者市場調査会社Beauté Researchによるもの（百貨店・直営店・Eコマースの売上金額を合算して比較）で、これは効能試験ではなく販売ランキングである。「浸透量2.2倍」という表現は「シュウ ウエムラ調べ」（ナイアシンアミド、角質層で測定）と明記されており、独立した第三者による検証ではない。公式のレビューシステムでは4.8/5（427件のレビュー）を示している。"
+    },
+    "experience": {
+      "zh": "无需二次洁面，一步完成卸妆与洁面。使用方法：取4次泵压量于手心，轻柔涂抹全脸，加少量水或温水乳化至脸部变白浊，彻底冲洗；可湿手使用，也可用于常见氰基丙烯酸酯型胶水粘合的美睫产品（不影响粘合力，但其他成分胶水可能受影响）。全新泵头设计支持旋转开关锁定。",
+      "en": "No double-cleansing needed, completing makeup removal and cleansing in one step. Usage: take 4 pump presses into the palm, gently massage over the whole face, add a little water or lukewarm water and emulsify until the face turns milky white, then rinse thoroughly; usable with wet hands, and safe for eyelash extensions using standard cyanoacrylate-type glue (adhesion unaffected, though extensions using a different glue chemistry may be affected). The redesigned pump has a twist-to-lock open/close mechanism.",
+      "ja": "ダブル洗顔不要、メイク落としと洗顔を1ステップで完了。使い方：手のひらに4プッシュ取り、顔全体にやさしくなじませ、少量の水またはぬるま湯を加えて顔全体が白く濁るまで乳化させ、しっかりと洗い流す。ぬれた手でも使用可能で、一般的なシアノアクリレート系グルーを使用したまつげエクステにも使用可能（接着力に影響なし。ただし成分が異なる他のグルーの場合は取れる可能性あり）。新しいポンプはノズルを回して開閉ロックする設計。"
+    },
+    "packaging": {
+      "zh": "透明玻璃瓶配几何切面泵头设计，第一眼传递\"高端百货专柜、值得投资\"的印象，瓶身99%以上使用消费后回收塑料（ポンプ与着色剂除外），在精品化视觉与环保材质之间做了平衡。",
+      "en": "A clear glass bottle with a faceted pump design reads as high-end department-store, worth-investing-in at first glance; the bottle uses over 99% post-consumer recycled plastic (excluding the pump and colorant), balancing a premium visual with sustainable materials.",
+      "ja": "透明なガラスボトルに幾何学的なカット面のポンプデザインは、高級百貨店で投資する価値があるという第一印象を与える。ボトルは99%以上の使用済み再生プラスチックを使用（ポンプと着色剤を除く）しており、プレミアムな見た目とサステナブルな素材のバランスを取っている。"
+    },
+    "insight": {
+      "zh": "Ultime8最值得参考的地方是它把\"清洁力\"和\"护肤效果\"这两个原本分属不同产品阶段的诉求，压缩进了同一支卸妆油里。\n\n* 两套技术分工明确：纳米胶束技术负责\"洗干净\"，肌肤活性化技术负责\"为后续护肤铺路\"，卸妆油第一次被赋予了\"影响后续步骤效果\"的角色，而不只是清洁本身。\n* 用第三方销量数据代替功效数据做信任背书：品牌没有堆砌功效测试数据，而是主推\"连续6年日本销售额第一\"这个第三方市场调研结果，销量本身成为信任的证据链，这是成熟品类头部产品常见的打法。\n* 明星用户证言强化\"专业级\"人设：邀请从青少年时期就开始使用产品的歌舞伎演员做访谈式内容，用\"专业舞台妆需要更强卸妆力\"这个具体场景，比泛泛的明星代言更有说服力。\n\n战略启示：当一个品类的核心功能（清洁）已经被做到极致、难以再靠成分差异化时，把该步骤重新定义成\"影响下一步骤效果\"的角色，是延伸产品价值主张的一个方向。",
+      "en": "The most instructive thing about Ultime8 is how it compresses two demands that traditionally belong to different steps of a routine — cleansing power and skincare benefit — into one cleansing oil.\n\n* Two technologies with a clear division of labor: nano-micelle technology handles \"getting clean,\" while Skin Activation Technology handles \"paving the way for what comes next,\" giving the cleansing oil a role in affecting later steps' results, not just cleansing itself.\n* Uses third-party sales data instead of efficacy data as the trust credential: rather than stacking up efficacy test data, the brand leads with a third-party market-research finding — #1 in Japan sales for 6 consecutive years — letting sales volume itself become the evidence of trust, a common tactic for the leading product in a mature category.\n* A celebrity testimonial reinforces the \"professional-grade\" persona: featuring an interview with a kabuki actor who has used the product since his teens, grounded in the concrete scenario of heavy stage makeup needing stronger removal, is more persuasive than a generic celebrity endorsement.\n\nStrategic takeaway: when a category's core function (cleansing) has already been pushed to its limit and is hard to differentiate on ingredients alone, redefining that step as one that \"affects the next step's results\" is one way to extend a product's value proposition.",
+      "ja": "アルティム8で最も参考になるのは、洗浄力とスキンケア効果という本来ルーティンの異なる段階に属する2つの訴求を、1本のクレンジングオイルに圧縮している点。\n\n* 2つの技術の役割分担が明確：ナノミセル技術が「きれいに落とす」を担い、スキンアクティベーション テクノロジーが「次のステップへの土台作り」を担う。クレンジングオイルに、洗浄そのものだけでなく「次のステップの効果に影響を与える」という役割が初めて与えられている。\n* 効能データではなく第三者の販売データを信頼の裏付けとして使う：ブランドは効能試験データを積み上げるのではなく、「6年連続日本売上No.1」という第三者市場調査の結果を前面に押し出している。販売量そのものが信頼の証拠となる、成熟カテゴリーの首位製品によく見られる手法。\n* 著名人の証言が「プロフェッショナル級」というペルソナを強化：10代から製品を使い続けている歌舞伎俳優へのインタビュー形式のコンテンツを起用し、「本格的な舞台メイクにはより強いクレンジング力が必要」という具体的なシーンを使うことで、単なる著名人起用より説得力を持たせている。\n\n戦略的示唆：あるカテゴリーの核心機能（洗浄）がすでに極限まで追求され、成分だけでは差別化が難しくなったとき、そのステップを「次のステップの効果に影響を与える」役割として再定義することは、製品の価値提案を広げる一つの方向性となる。"
+    },
+    "notes": {
+      "zh": "资料采集日 2026-08-02。信息取自shu uemura官方通販产品页，含完整成分表、技术说明与官方评价统计；\"连续6年销售额第一\"及渗透量2.2倍数据均为品牌自行披露，已在evidence字段说明数据来源与局限性。",
+      "en": "Data collected 2026-08-02. Information taken from shu uemura's official online store product page, including the complete ingredient list, technology explanations, and official review statistics; the \"6 consecutive years #1\" and \"2.2x penetration\" figures are both brand-disclosed, with their sources and limitations noted in the evidence field.",
+      "ja": "情報収集日 2026年8月2日。シュウ ウエムラ公式通販商品ページより収集。完全な成分表、テクノロジーの説明、公式レビュー統計を含む。「6年連続売上No.1」及び「浸透量2.2倍」のデータはいずれもブランド自身が開示したもので、出典と限界についてはevidence欄に記載。"
+    },
+    "images": [
+      "https://www.shuuemura.jp/dw/image/v2/BCKQ_PRD/on/demandware.static/-/Sites-shubeauty-master/ja_JP/dwf767ee60/skincare/category/cleansing/SHU10336/260318/450ml-260318-2.jpg"
+    ],
+    "sources": [
+      [
+        "Official product page (shu uemura)",
+        "https://www.shuuemura.jp/cleansing/ultime8--sublime-tsubaki--cleansing-oil/SHU10336.html"
+      ]
+    ],
+    "targetUsers": {
+      "zh": [
+        "复合型肌肤困扰、从敏感干燥到油性肌均适用的人群",
+        "追求高机能清洁而非单纯卸妆的消费者",
+        "愿意为长期肌肤状态投资的用户"
+      ],
+      "en": [
+        "Consumers with mixed skin concerns, from sensitive-dry to oily",
+        "Those seeking high-function cleansing rather than plain makeup removal",
+        "Users willing to invest for long-term skin condition"
+      ],
+      "ja": [
+        "敏感乾燥肌からオイリー肌まで、複合的な肌悩みを持つ層",
+        "単なるメイク落としではなく高機能クレンジングを求める消費者",
+        "長期的な肌状態のために投資することを厭わないユーザー"
+      ]
+    },
+    "keyClaims": {
+      "zh": [
+        "连续6年日本销售额第一（第三方市场调研）",
+        "纳米胶束技术清洁力",
+        "肌肤活性化技术，护肤成分渗透量2.2倍（品牌自测）",
+        "94%美容液成分，13种美容成分"
+      ],
+      "en": [
+        "#1 in Japan sales for 6 consecutive years (third-party market research)",
+        "Nano-micelle technology for cleansing power",
+        "Skin Activation Technology, 2.2x skincare ingredient penetration (brand's own testing)",
+        "94% essence ingredients, 13 beauty ingredients"
+      ],
+      "ja": [
+        "6年連続日本売上No.1（第三者市場調査）",
+        "ナノミセル技術による洗浄力",
+        "スキンアクティベーション テクノロジー、スキンケア成分浸透量2.2倍（同社調べ）",
+        "美容液成分94%、13種の美容成分配合"
+      ]
+    },
+    "heroIngredients": {
+      "zh": [
+        {
+          "name": "利岛产椿油（山茶籽油）",
+          "tag": "整肌成分",
+          "desc": "利岛产，无化学肥料农药栽培，官方主打的核心美容油之一"
+        },
+        {
+          "name": "椿花提取物",
+          "tag": "整肌成分",
+          "desc": "同样只使用利岛产山茶花提取，与椿油共同构成品牌\"日本自然\"叙事"
+        }
+      ],
+      "en": [
+        {
+          "name": "Toshima-Grown Camellia (Tsubaki) Oil",
+          "tag": "Skin-conditioning",
+          "desc": "Grown on Toshima Island without chemical fertilizers or pesticides, one of the brand's core named beauty oils"
+        },
+        {
+          "name": "Camellia Flower Extract",
+          "tag": "Skin-conditioning",
+          "desc": "Also sourced exclusively from Toshima-grown camellia, forming the brand's \"Japanese nature\" narrative together with the camellia oil"
+        }
+      ],
+      "ja": [
+        {
+          "name": "利島産椿油（ツバキ種子油）",
+          "tag": "整肌成分",
+          "desc": "利島産、化学肥料・農薬不使用で栽培。公式が主力とする核心美容オイルの一つ"
+        },
+        {
+          "name": "ツバキ花エキス",
+          "tag": "整肌成分",
+          "desc": "こちらも利島産椿のみを使用し、椿油と共にブランドの「日本の自然」というストーリーを構成"
+        }
+      ]
+    },
+    "ingredientsNote": {
+      "zh": "配方另含人参根提取物、大山竹提取物等植物萃取作为辅助整肌成分；含香精，敏感肌需留意。",
+      "en": "The formula also includes botanical extracts like ginseng root and Bambusa arundinacea as supporting skin-conditioning ingredients; it contains fragrance, worth noting for sensitive skin.",
+      "ja": "処方にはオタネニンジン根エキス、ダイサンチクエキスなどの植物エキスも補助的な整肌成分として配合。香料を含むため、敏感肌の方は留意が必要。"
+    },
+    "pricePositioning": {
+      "zh": {
+        "tier": "premium",
+        "label": "日系百货专柜高端卸妆油"
+      },
+      "en": {
+        "tier": "premium",
+        "label": "Japanese Prestige Department-Store Cleansing Oil"
+      },
+      "ja": {
+        "tier": "premium",
+        "label": "日系百貨店カウンター系プレステージクレンジングオイル"
+      }
+    },
+    "marketChannel": {
+      "zh": {
+        "global": [
+          "shu uemura官方通販"
+        ],
+        "japan": [
+          "日本百货店专柜",
+          "日本免税店"
+        ],
+        "channelLabel": "百货专柜+定期便订阅",
+        "channelDesc": "以百货店专柜与免税渠道建立精品形象，同时通过定期便订阅（8/16/20周可选）巩固长期复购"
+      },
+      "en": {
+        "global": [
+          "shu uemura official online store"
+        ],
+        "japan": [
+          "Japanese department store counters",
+          "Japan duty-free stores"
+        ],
+        "channelLabel": "Department Store Counter + Subscription",
+        "channelDesc": "Builds a prestige image through department store counters and duty-free channels, while a subscription service (8/16/20-week cycles) locks in long-term repeat purchase"
+      },
+      "ja": {
+        "global": [
+          "シュウ ウエムラ公式通販"
+        ],
+        "japan": [
+          "日本の百貨店カウンター",
+          "日本の免税店"
+        ],
+        "channelLabel": "百貨店カウンター＋定期便",
+        "channelDesc": "百貨店カウンターと免税チャネルでプレステージなイメージを構築しつつ、定期便（8週／16週／20週から選択可）で長期的なリピート購入を固めている"
+      }
+    },
+    "brandConceptRich": {
+      "zh": {
+        "tagline": "「落とす」を超えて「美を育む」境地に。（超越\"卸除\"，抵达\"育美\"之境）",
+        "concept": "shu uemura由已故化妆艺术家植村秀先生创立，品牌以卸妆油作为标志性品类起家。Ultime8∞系列延续了这一传统，把\"卸妆\"从单纯的清洁动作重新定义为护肤流程的起点，是品牌历史最悠久的旗舰产品线之一，L'Oréal集团收购后延续了这一核心品类定位。"
+      },
+      "en": {
+        "tagline": "Beyond cleansing, toward nurtured beauty.",
+        "concept": "shu uemura was founded by the late makeup artist Shu Uemura, with cleansing oil as its signature category from the start. The Ultime8∞ line continues this tradition, redefining cleansing from a purely functional act into the starting point of a skincare routine — one of the brand's longest-running flagship lines, a positioning maintained after the brand's acquisition by L'Oréal."
+      },
+      "ja": {
+        "tagline": "「落とす」を超えて「美を育む」境地に。",
+        "concept": "シュウ ウエムラは、故・植村秀氏によって創業されたブランドで、クレンジングオイルを看板カテゴリーとして始まった。アルティム8∞シリーズはその伝統を受け継ぎ、「クレンジング」を単なる洗浄行為から、スキンケアルーティンの出発点へと再定義している。ブランド史上最も歴史の長い旗艦ラインの一つで、ロレアルグループによる買収後もこの核心カテゴリーの位置づけは維持されている。"
+      }
+    },
+    "competitiveAdvantage": {
+      "zh": [
+        {
+          "name": "DHC 药用卸妆油（同为日系经典卸妆油）",
+          "points": [
+            "DHC走大众平价的橄榄油基础卸妆油路线，价格约为本品的1/5",
+            "本品靠\"纳米胶束+肌肤活性化\"双技术叙事走精品化路线，DHC靠\"单一橄榄油成分\"的极简叙事走大众路线",
+            "两者都是日本卸妆油品类的国民级产品，但价格带和渠道完全不同"
+          ]
+        },
+        {
+          "name": "Fancl 卸妆油（同为日系无添加代表）",
+          "points": [
+            "Fancl以\"无添加\"（防腐剂、香料等）作为核心卖点，本品含香精且未强调无添加",
+            "价格带Fancl更接近大众，本品走百货专柜精品路线",
+            "两者都强调温和卸妆不伤肌，但技术叙事完全不同"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "DHC Medicated Cleansing Oil (another classic Japanese cleansing oil)",
+          "points": [
+            "DHC takes a mass-affordable, olive-oil-based route, priced at roughly 1/5 of this product",
+            "This product takes a prestige route on its dual nano-micelle-plus-Skin-Activation narrative; DHC takes a mass route on a minimalist single-olive-oil-ingredient narrative",
+            "Both are national-level Japanese cleansing oil products, but differ entirely in price band and channel"
+          ]
+        },
+        {
+          "name": "Fancl Cleansing Oil (another representative Japanese \"additive-free\" brand)",
+          "points": [
+            "Fancl leads with \"additive-free\" (no preservatives, no fragrance) as its core selling point; this product contains fragrance and doesn't emphasize additive-free",
+            "Fancl is priced closer to mass-market; this product takes a department-store-prestige route",
+            "Both emphasize gentle removal without harming skin, but their technology narratives differ entirely"
+          ]
+        }
+      ],
+      "ja": []
+    },
+    "evidenceStats": {
+      "zh": [
+        "官方评价系统4.8/5（427条评价）",
+        "连续6年日本销售额第一（Beauté Research第三方市场调研，百货店+直营店+电商合算比较）"
+      ],
+      "en": [
+        "Official review system 4.8/5 (427 reviews)",
+        "#1 in Japan sales for 6 consecutive years (Beauté Research third-party market research, combining department store, directly-managed store, and e-commerce sales)"
+      ],
+      "ja": [
+        "公式レビューシステム4.8/5（427件のレビュー）",
+        "6年連続日本売上No.1（Beauté Research第三者市場調査、百貨店＋直営店＋Eコマース合算比較）"
+      ]
+    },
+    "experienceItems": {
+      "zh": [
+        "用法：4次泵压量，加水乳化至白浊，冲净",
+        "特点：W洗顔不要，一步完成",
+        "适用：湿手可用，安全用于常见胶水的美睫",
+        "包装：新泵头旋转开关锁定设计"
+      ],
+      "en": [
+        "Usage: 4 pump presses, emulsify with water until milky white, rinse",
+        "Feature: no double-cleansing needed, one-step",
+        "Compatible: usable with wet hands, safe for eyelash extensions with standard glue",
+        "Packaging: redesigned pump with twist-to-lock mechanism"
+      ],
+      "ja": [
+        "使い方：4プッシュ、水を加えて白濁するまで乳化、洗い流す",
+        "特徴：W洗顔不要、ワンステップで完了",
+        "対応：ぬれた手でも使用可、一般的なグルーのまつげエクステにも安全",
+        "パッケージ：新ポンプの回転式開閉ロック機構"
+      ]
+    },
+    "keyTechnology": {
+      "zh": [
+        {
+          "title": "ナノミセルテクノロジー（纳米胶束技术）",
+          "desc": "1-20纳米的纳米胶束像磁铁一样吸附毛孔深处的污垢与皮脂，同时减少摩擦负担，官方称为洗净技术核心。"
+        },
+        {
+          "title": "スキンアクティベーションテクノロジー（肌肤活性化技术）",
+          "desc": "松解角质层细胞间脂质，促进卸妆后续护肤成分渗透，官方以烟酰胺为测量对象自测得出渗透量提升2.2倍的结论。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Nano Micelle Technology",
+          "desc": "1-20 nanometer nano-micelles lift away deep-pore dirt and sebum like a magnet while reducing friction on skin, described by the brand as the core of its cleansing technology."
+        },
+        {
+          "title": "Skin Activation Technology",
+          "desc": "Loosens intercellular lipids in the stratum corneum to boost the penetration of skincare ingredients applied after cleansing; the brand's own testing, measured using niacinamide, found a 2.2x improvement in penetration."
+        }
+      ],
+      "ja": [
+        {
+          "title": "ナノミセルテクノロジー",
+          "desc": "1〜20ナノメートルのナノミセルが毛穴奥の汚れや皮脂をマグネットのように吸着し、同時に肌への摩擦負担を軽減。公式は洗浄技術の核心と説明している。"
+        },
+        {
+          "title": "スキンアクティベーションテクノロジー",
+          "desc": "角質層の細胞間脂質をほぐし、クレンジング後に塗布するスキンケア成分の浸透を促進。ナイアシンアミドを測定対象とした同社調べで、浸透量が2.2倍向上するという結果を得ている。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "kao-biore-uv-airy-hold-cream",
+    "vertical": "skincare",
+    "category": "japan",
+    "productType": "sunscreen",
+    "addedAt": 60,
+    "name": {
+      "zh": "Biore UV Aqua Rich 呼吸感面纱防晒霜",
+      "en": "Biore UV Aqua Rich Airy Hold Cream",
+      "ja": "ビオレUV アクアリッチ 呼吸感ベールUV（エアリーホールドクリーム）"
+    },
+    "brand": {
+      "zh": "Biore UV（ビオレUV）",
+      "en": "Biore UV",
+      "ja": "ビオレUV"
+    },
+    "company": {
+      "zh": "花王株式会社",
+      "en": "Kao Corporation",
+      "ja": "花王株式会社"
+    },
+    "origin": {
+      "zh": "日本",
+      "en": "Japan",
+      "ja": "日本"
+    },
+    "launch": {
+      "zh": "Aqua Rich系列新一代防晒单品，2026年主推新品，多项日本美妆媒体年度大奖得主",
+      "en": "A newer entry in the Aqua Rich line, a headline 2026 launch, winner of multiple Japanese beauty-media annual awards",
+      "ja": "アクアリッチシリーズの新しい日焼け止め、2026年の主力新商品で、複数の日本美容メディアの年間アワードを受賞"
+    },
+    "market": {
+      "zh": "日本全国药妆连锁、松本清、乐天、Amazon日本",
+      "en": "Japanese drugstore chains nationwide, Matsumoto Kiyoshi, Rakuten, Amazon Japan",
+      "ja": "日本全国のドラッグストアチェーン、マツモトキヨシ、楽天、Amazon"
+    },
+    "capacity": {
+      "zh": "70 g",
+      "en": "70 g",
+      "ja": "70g"
+    },
+    "price": {
+      "zh": "¥1,650（含税）",
+      "en": "¥1,650 (tax included)",
+      "ja": "1,650円（税込）"
+    },
+    "positioning": {
+      "zh": "Biore UV Aqua Rich系列的新一代防晒霜，主打\"呼吸感面纱\"概念——搭载湿度响应剂，能根据环境湿度自动调节防晒膜厚度：闷热出汗环境下吸收汗液避免黏腻，干燥室内环境下释放水分避免紧绷，主打\"同一支防晒应对日本气候的湿热与空调干燥两种极端环境\"。质地为\"密着舒芙蕾奶油\"，官方描述为\"蓬松→融入→干爽\"三段式触感变化。",
+      "en": "A newer entry in the Biore UV Aqua Rich line, built around a \"breathable veil\" concept — a humidity-responsive agent that automatically adjusts the sunscreen film's thickness based on ambient humidity: absorbing sweat in hot, humid conditions to avoid stickiness, and releasing moisture in dry indoor conditions to avoid tightness. The pitch is one sunscreen for both of Japan's climate extremes: muggy heat and air-conditioned dryness. The texture is a \"clinging soufflé cream,\" described by the brand as changing in three stages: fluffy, melting-in, then dry to the touch.",
+      "ja": "ビオレUV アクアリッチシリーズの新しい日焼け止めで、「呼吸感ベール」というコンセプトを軸としている。湿度応答剤を搭載し、周囲の湿度に応じて防御膜の厚みを自動調整——蒸し暑く汗ばむ環境では汗を吸収してベタつきを防ぎ、エアコンの効いた乾燥した室内では水分を放出して乾燥を防ぐ。「1本で日本の蒸し暑さとエアコンの乾燥という両極端の気候に対応する」という訴求。テクスチャーは「密着スフレクリーム」で、公式は「ふわっ→じゅわっ→さらっ」という3段階の触感変化と説明している。"
+    },
+    "target": {
+      "zh": "在闷热户外与干燥空调室内环境间频繁切换的日常通勤人群；追求防晒同时兼顾全天肤感舒适度的用户。",
+      "en": "Consumers who move frequently between muggy outdoor heat and dry air-conditioned indoor spaces in daily life; users who want sunscreen protection without sacrificing all-day comfort.",
+      "ja": "蒸し暑い屋外とエアコンの効いた乾燥した室内を日常的に行き来する層。日焼け止め効果と一日中の快適な肌ざわりを両立させたい人。"
+    },
+    "distribution": {
+      "zh": "70g/¥1,650，单价明显高于同系列水感精华（约¥1,078/70g），走的是防晒品类里\"功能升级款\"的定价逻辑，用更高单价对应更具体的气候适应技术卖点。",
+      "en": "70g at ¥1,650, notably pricier than the same line's watery essence (about ¥1,078/70g), following a \"feature-upgrade\" pricing logic within the sunscreen category, with the higher price mapped to a more specific climate-adaptive technology claim.",
+      "ja": "70g・1,650円は、同シリーズの水感エッセンス（約1,078円/70g）より明らかに高価格。日焼け止めカテゴリーにおける「機能アップグレード版」の価格ロジックで、より具体的な気候適応技術の訴求に対応した高めの単価となっている。"
+    },
+    "ingredients": {
+      "zh": "官方公开信息以功效性列点为主（湿度响应剂、美肌粉末、透明质酸、维生素C衍生物即抗坏血酸葡糖苷、BG），未见零售页面公开完整INCI成分表逐项列出。",
+      "en": "Official information is presented mainly as functional bullet points (humidity-responsive agent, beauty powder, hyaluronic acid, the vitamin C derivative ascorbyl glucoside, BG); no complete, itemized INCI list was found publicly listed on retail pages.",
+      "ja": "公式情報は主に機能面の箇条書き（湿度応答剤、美肌パウダー、ヒアルロン酸、ビタミンC誘導体＝アスコルビルグルコシド、BG）が中心で、通販ページに完全なINCI成分表は個別に公開されていなかった。"
+    },
+    "evidence": {
+      "zh": "官方展示消费者追踪调查（2025年4月购买者，20-50代女性，N=108，每周使用防晒3次以上）的正面评价摘录（如\"轻盈不闷\"\"不易滴落\"），属于消费者自评反馈，未标注具体量化改善百分比；\"蒸热环境下不黏腻\"的对比宣称标注了具体测试方法（两臂涂抹后喷洒约40度蒸汽做对比），但未见公开的量化数值。",
+      "en": "The brand presents excerpted positive feedback from a consumer tracking survey (buyers from April 2025, women aged 20-50, N=108, using sunscreen 3+ times weekly), such as \"light and non-stuffy\" or \"doesn't drip easily\" — consumer self-reported feedback without disclosed quantified improvement percentages; the \"non-sticky in hot, humid conditions\" comparison claim discloses its test method (spraying about 40°C steam onto both arms after application for comparison), but no quantified figures were found publicly disclosed.",
+      "ja": "公式は消費者追跡調査（2025年4月購入者、20〜50代女性、N=108、週3回以上日焼け止め使用者）から肯定的なコメント（「軽い使用感」「垂れにくい」など）を抜粋して示しているが、これは消費者の自己申告によるフィードバックであり、具体的な定量的改善率は明記されていない。「蒸し暑い環境でベタつかない」という比較訴求は具体的な試験方法（日やけ止めを塗布した両腕に約40度のスチームを噴霧して比較）を明記しているが、公開された定量的な数値は見当たらない。"
+    },
+    "experience": {
+      "zh": "官方建议脸、颈、前臂各涂抹1元硬币大小的舒芙蕾用量（单侧腿部2份），先线状涂开、再螺旋涂匀、最后单方向涂抹避免涂抹不均；可用作化妆下地，超强防水但可用平常的清洁产品（洗面奶/沐浴露）洗净；含美肌粉末带来透明感（化妆效果），香调为清爽花香。",
+      "en": "The brand recommends a coin-sized amount of the soufflé cream for face, neck, and each forearm (double for one leg), applying in a line first, then spreading in a spiral, then finishing with one-directional strokes to avoid unevenness; it can double as a makeup base, is super waterproof yet washable with regular cleansers (face wash or body wash); the beauty powder adds a sense of transparency (via a makeup effect), in a fresh floral scent.",
+      "ja": "公式は顔・首・前腕それぞれ1円玉サイズのスフレ1個分（片脚は2個分）を目安に、まず線状にのばし、らせん状に広げ、最後に一方向に塗ってムラを防ぐことを推奨している。化粧下地としても使え、スーパーウォータープルーフながら普段の洗浄料（洗顔料やボディソープなど）で落とせる。美肌パウダー配合でメイクアップ効果による透明感を演出し、香りはさわやかなフローラル。"
+    },
+    "packaging": {
+      "zh": "角度不同呈现不同光泽的全息图案软管，配合浮游感双层瓶盖设计，第一眼传递\"新技术、值得期待\"的印象，比同系列基础款水感精华的视觉设计更强调科技感与设计感。",
+      "en": "A hologram-pattern tube that shifts sheen depending on the viewing angle, paired with a floating-effect two-layer cap design, reads as new-technology and full of promise at first glance, with a more tech-forward, design-conscious visual than the same line's basic watery essence.",
+      "ja": "角度によって表情を変えるホログラムチューブと、浮遊感のある2層キャップデザインを組み合わせ、新しい技術で期待感があるという第一印象を与える。同シリーズのベーシックな水感エッセンスより、テクノロジー感とデザイン性を強調したビジュアルとなっている。"
+    },
+    "insight": {
+      "zh": "湿度响应技术解决的是一个具体的日本气候矛盾。\n\n* 精准定位气候切换场景：日本消费者的痛点不是单一天气，而是\"户外闷热+室内空调干燥\"的反复切换，官方直接用两种对立场景（蒸热环境vs干燥室内）分别做对比演示，而不是笼统宣称\"全天舒适\"。\n* 用同一系列内部差异化而非推翻旧款：本品跟同系列水感精华共享\"Aqua Rich\"这个大IP和基础防晒技术，只是新增了湿度响应这个细分卖点，价格也相应上浮，是典型的\"系列内功能分层\"打法，而非另起炉灶。\n* 用具体使用步骤图解降低\"涂不够量\"的失败率：官方给出线状-螺旋-单向三步涂抹法和硬币大小的具体用量参考，直接回应大众防晒品类里\"用量不足导致防晒效果打折\"这个普遍存在但很少被正面解决的问题。\n\n战略启示：与其宣称\"全能\"，不如精准命名一个具体的环境切换场景并针对性解决，这样的功能诉求更容易被消费者感知和记住。",
+      "en": "The humidity-responsive technology addresses a very specific Japanese climate conflict.\n\n* Precisely targets a climate-switching scenario: Japanese consumers' pain point isn't one type of weather, but the repeated switch between muggy outdoor heat and dry air-conditioned indoors. The brand directly demonstrates the contrast between these two opposing scenarios rather than making a vague \"comfortable all day\" claim.\n* Differentiates within the same line rather than replacing it: this product shares the \"Aqua Rich\" IP and base sunscreen technology with the same line's watery essence, adding only the humidity-responsive feature as a specific selling point, with a correspondingly higher price — a classic within-line feature-tiering play rather than starting from scratch.\n* Uses a concrete application diagram to reduce the \"not enough applied\" failure rate: the brand gives a line-spiral-one-direction three-step method with a coin-sized reference amount, directly addressing the common but rarely tackled problem of under-application diluting sunscreen effectiveness in the mass sunscreen category.\n\nStrategic takeaway: rather than claiming to be \"all-purpose,\" precisely naming a specific environment-switching scenario and solving it directly makes a functional claim easier for consumers to perceive and remember.",
+      "ja": "湿度応答技術が解決しているのは、日本の気候における具体的な矛盾。\n\n* 気候の切り替わりというシーンを的確に捉えている：日本の消費者の悩みは単一の天候ではなく、「屋外の蒸し暑さ＋室内のエアコンによる乾燥」という繰り返しの切り替わりにある。公式は「全天候快適」といった漠然とした訴求ではなく、この2つの対立するシーン（蒸し暑い環境vs乾燥した室内）を直接比較実演している。\n* 旧製品を置き換えるのではなく、同シリーズ内で差別化している：本品は同シリーズの水感エッセンスと「アクアリッチ」という大きなIPと基礎的な日焼け止め技術を共有し、湿度応答という機能を新たに追加した。価格もそれに応じて上がっており、ゼロから作り直すのではなく、典型的な「シリーズ内の機能階層化」の手法。\n* 具体的な塗り方の図解で「塗る量が足りない」失敗を減らす：公式は線状→らせん状→一方向という3ステップの塗り方と、1円玉サイズという具体的な使用量の目安を示している。これは、大衆的な日焼け止めカテゴリーにありがちだが、正面から解決されることが少ない「塗布量不足による効果の低下」という問題に直接応えている。\n\n戦略的示唆：「オールマイティ」を謳うより、具体的な環境の切り替わりシーンを的確に名指しして解決する方が、消費者にとって機能訴求を知覚し、記憶しやすい。"
+    },
+    "notes": {
+      "zh": "资料采集日 2026-08-02。信息取自花王官网bioreuv/airyuv产品页及日本药妆零售页面（マツキヨココカラ、価格.com等）；完整INCI成分表未见公开列出。",
+      "en": "Data collected 2026-08-02. Information taken from Kao's official bioreuv/airyuv page and Japanese drugstore retail listings (Matsukiyo Cocokara, Kakaku.com, etc.); a complete INCI list was not found publicly listed.",
+      "ja": "情報収集日 2026年8月2日。花王公式サイトbioreuv/airyuv及び日本のドラッグストア通販ページ（マツキヨココカラ、価格.comなど）より収集。完全なINCI成分表は公開されていなかった。"
+    },
+    "images": [
+      "https://kao-h.assetsadobe3.com/is/image/content/dam/sites/kao/www-kao-co-jp/bioreuv/airyuv/mainpic_02.png"
+    ],
+    "sources": [
+      [
+        "Official product page (Kao)",
+        "https://www.kao.co.jp/bioreuv/airyuv/"
+      ],
+      [
+        "Retail listing (Matsukiyo Cocokara)",
+        "https://www.matsukiyococokara-online.com/store/catalog/product/view/id/4901301463593"
+      ],
+      [
+        "Review coverage (@cosme)",
+        "https://www.cosme.net/products/10289129/"
+      ]
+    ],
+    "targetUsers": {
+      "zh": [
+        "在闷热户外与干燥空调室内间频繁切换的通勤人群",
+        "追求防晒同时兼顾全天肤感舒适度的用户",
+        "已在用同系列产品、愿意为细分功能升级付费的用户"
+      ],
+      "en": [
+        "Commuters who move frequently between muggy outdoor heat and dry air-conditioned indoors",
+        "Users who want sunscreen protection without sacrificing all-day comfort",
+        "Existing same-line users willing to pay more for a specific feature upgrade"
+      ],
+      "ja": [
+        "蒸し暑い屋外と乾燥したエアコンの室内を日常的に行き来する通勤層",
+        "日焼け止め効果と一日中の快適な肌ざわりを両立させたい人",
+        "同シリーズの既存ユーザーで、特定の機能アップグレードに追加投資することを厭わない人"
+      ]
+    },
+    "keyClaims": {
+      "zh": [
+        "SPF50+ / PA++++ / UV耐水性★★",
+        "湿度响应剂，膜厚随环境湿度自动调节",
+        "密着舒芙蕾奶油质地，三段式触感",
+        "美肌粉末+透明质酸+维生素C衍生物"
+      ],
+      "en": [
+        "SPF50+ / PA++++ / UV Water Resistance ★★",
+        "Humidity-responsive agent, film thickness auto-adjusts to ambient humidity",
+        "Clinging soufflé cream texture, three-stage feel",
+        "Beauty powder + hyaluronic acid + vitamin C derivative"
+      ],
+      "ja": [
+        "SPF50+／PA++++／UV耐水性★★",
+        "湿度応答剤、周囲の湿度に応じて膜厚を自動調整",
+        "密着スフレクリームのテクスチャー、3段階の触感変化",
+        "美肌パウダー＋ヒアルロン酸＋ビタミンC誘導体"
+      ]
+    },
+    "heroIngredients": {
+      "zh": [
+        {
+          "name": "湿度响应剂",
+          "tag": "核心气候适应技术",
+          "desc": "闷热出汗时吸收水分避免黏腻，干燥室内时释放水分避免紧绷"
+        },
+        {
+          "name": "美肌粉末",
+          "tag": "即时透明感",
+          "desc": "通过化妆效果提升肌肤透明感，兼具防晒下的妆效加成"
+        }
+      ],
+      "en": [
+        {
+          "name": "Humidity-Responsive Agent",
+          "tag": "Core climate-adaptive technology",
+          "desc": "Absorbs moisture in hot, sweaty conditions to avoid stickiness; releases moisture in dry indoor conditions to avoid tightness"
+        },
+        {
+          "name": "Beauty Powder",
+          "tag": "Instant transparency",
+          "desc": "Enhances skin transparency via a makeup effect, doubling as a makeup boost under the sunscreen"
+        }
+      ],
+      "ja": [
+        {
+          "name": "湿度応答剤",
+          "tag": "核心的な気候適応技術",
+          "desc": "蒸し暑く汗ばむ時は水分を吸収してベタつきを防ぎ、乾燥した室内では水分を放出して乾燥を防ぐ"
+        },
+        {
+          "name": "美肌パウダー",
+          "tag": "即座の透明感",
+          "desc": "メイクアップ効果で肌の透明感を高め、日焼け止めの下でメイク効果も兼ねる"
+        }
+      ]
+    },
+    "ingredientsNote": {
+      "zh": "官方未公开完整INCI表，成分沟通以功能性成分组合（湿度响应剂、美肌粉末、保湿成分）为主，具体防晒剂成分种类未详细列出。",
+      "en": "The brand hasn't publicly disclosed a complete INCI list; ingredient communication centers on functional ingredient groups (humidity-responsive agent, beauty powder, moisturizing ingredients), without detailing the specific UV-filter ingredients used.",
+      "ja": "公式は完全なINCI成分表を公開しておらず、成分の説明は機能性成分グループ（湿度応答剤、美肌パウダー、保湿成分）が中心で、具体的な紫外線吸収剤の種類は詳しく列挙されていない。"
+    },
+    "pricePositioning": {
+      "zh": {
+        "tier": "mass",
+        "label": "日系大众防晒功能升级款"
+      },
+      "en": {
+        "tier": "mass",
+        "label": "Japanese Mass-Market Sunscreen, Feature-Upgrade Tier"
+      },
+      "ja": {
+        "tier": "mass",
+        "label": "日系大衆日焼け止め機能アップグレード版"
+      }
+    },
+    "marketChannel": {
+      "zh": {
+        "global": [
+          "乐天",
+          "Amazon日本"
+        ],
+        "japan": [
+          "日本全国药妆连锁",
+          "松本清"
+        ],
+        "channelLabel": "药妆全渠道铺货",
+        "channelDesc": "作为Aqua Rich系列新品，覆盖日本全国药妆连锁及主流电商，凭多项2026年美妆媒体大奖快速建立市场认知"
+      },
+      "en": {
+        "global": [
+          "Rakuten",
+          "Amazon Japan"
+        ],
+        "japan": [
+          "Japanese drugstore chains nationwide",
+          "Matsumoto Kiyoshi"
+        ],
+        "channelLabel": "Full Drugstore Distribution",
+        "channelDesc": "As a new item in the Aqua Rich line, distributed across Japanese drugstore chains nationwide and major e-commerce, building market awareness quickly through multiple 2026 beauty-media awards"
+      },
+      "ja": {
+        "global": [
+          "楽天",
+          "Amazon"
+        ],
+        "japan": [
+          "日本全国のドラッグストアチェーン",
+          "マツモトキヨシ"
+        ],
+        "channelLabel": "ドラッグストア全国展開",
+        "channelDesc": "アクアリッチシリーズの新商品として、日本全国のドラッグストアチェーンと主要ECをカバー、2026年の複数の美容メディアアワード受賞で市場認知を素早く構築"
+      }
+    },
+    "brandConceptRich": {
+      "zh": {
+        "tagline": "気温・湿度・紫外線量、日本の気候は変わった。だから、日やけ止めも変わらなくちゃ。（气温、湿度、紫外线量，日本气候变了，所以防晒也必须改变）",
+        "concept": "Biore UV延续品牌\"瞬时服帖\"的基础配方哲学，在此基础上针对\"日本气候正在变化\"这一具体环境论述，开发出湿度响应这一新一代技术，是品牌把宏观气候变化叙事转译为具体产品功能的案例。"
+      },
+      "en": {
+        "tagline": "Temperature, humidity, UV levels — Japan's climate has changed. So sunscreen has to change too.",
+        "concept": "Biore UV continues the brand's foundational \"instant-blend\" formula philosophy, building on it with a humidity-responsive technology developed specifically around the argument that \"Japan's climate is changing\" — an example of the brand translating a macro climate-change narrative into a concrete product feature."
+      },
+      "ja": {
+        "tagline": "気温・湿度・紫外線量、日本の気候は変わった。だから、日やけ止めも変わらなくちゃ。",
+        "concept": "ビオレUVはブランドの基礎処方哲学である「瞬時になじむ」を継承しつつ、「日本の気候が変化している」という具体的な環境論をもとに、湿度応答という新世代の技術を開発した。マクロな気候変動の物語を具体的な製品機能に翻訳した事例と言える。"
+      }
+    },
+    "competitiveAdvantage": {
+      "zh": [
+        {
+          "name": "Anessa（同库已加入）",
+          "points": [
+            "Anessa走沙龙渠道+高端热熔科技叙事，本品走大众药妆渠道+气候适应叙事",
+            "Anessa定价约为本品2-3倍，走专业防晒专家形象",
+            "两者都靠具体技术命名（Anessa的熔岩科技vs本品的湿度响应剂）建立差异化"
+          ]
+        },
+        {
+          "name": "本品同系列Aqua Rich水感精华（同库已加入，同品牌）",
+          "points": [
+            "本品是水感精华的\"功能升级款\"，共享Aqua Rich大IP但定价更高",
+            "水感精华主打防涂抹不均，本品主打气候环境适应，是同一品牌线内两种不同的技术叙事",
+            "消费者可根据自己更看重的痛点（涂抹不均vs环境切换）在同系列内选择"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "Anessa (already in this library)",
+          "points": [
+            "Anessa leans on salon channels and a prestige lava-technology narrative; this product leans on mass drugstore channels and a climate-adaptive narrative",
+            "Anessa is priced roughly 2-3x this product, positioned as a professional sunscreen expert",
+            "Both differentiate through named technology (Anessa's lava technology vs. this product's humidity-responsive agent)"
+          ]
+        },
+        {
+          "name": "The Same-Line Aqua Rich Watery Essence (already in this library, same brand)",
+          "points": [
+            "This product is a \"feature-upgraded\" version of the watery essence, sharing the Aqua Rich IP at a higher price",
+            "The watery essence leads with anti-uneven-application; this product leads with climate adaptation — two different technology narratives within the same brand line",
+            "Consumers can choose within the line based on which pain point matters more to them: uneven application or environment switching"
+          ]
+        }
+      ],
+      "ja": []
+    },
+    "evidenceStats": {
+      "zh": [
+        "消费者追踪调查N=108（2025年4月购买者，20-50代女性，每周使用3次以上）",
+        "获日经トレンディ2026年上半期ヒット大賞美容部门大賞等多项日本美妆媒体大奖"
+      ],
+      "en": [
+        "Consumer tracking survey N=108 (April 2025 buyers, women 20-50, using 3+ times weekly)",
+        "Won multiple Japanese beauty-media awards including Nikkei Trendy's 2026 first-half hit product grand prize in the beauty category"
+      ],
+      "ja": [
+        "消費者追跡調査N=108（2025年4月購入者、20〜50代女性、週3回以上使用）",
+        "日経トレンディ2026年上半期ヒット大賞美容部門大賞など複数の日本美容メディアアワードを受賞"
+      ]
+    },
+    "experienceItems": {
+      "zh": [
+        "用量：脸颈前臂各1元硬币大小舒芙蕾量",
+        "涂法：线状→螺旋→单向三步",
+        "质地：三段式变化，蓬松→融入→干爽",
+        "清洁：超强防水但可用日常清洁产品洗净"
+      ],
+      "en": [
+        "Amount: one coin-sized soufflé portion each for face, neck, forearm",
+        "Technique: line, then spiral, then one-direction, three steps",
+        "Texture: three-stage change, fluffy → melting-in → dry",
+        "Removal: super waterproof yet washable with everyday cleansers"
+      ],
+      "ja": [
+        "使用量：顔・首・前腕それぞれ1円玉サイズのスフレ1個分",
+        "塗り方：線状→らせん状→一方向の3ステップ",
+        "テクスチャー：3段階変化、ふわっ→じゅわっ→さらっ",
+        "落とし方：スーパーウォータープルーフだが普段の洗浄料で落とせる"
+      ]
+    },
+    "keyTechnology": {
+      "zh": [
+        {
+          "title": "湿度响应技术",
+          "desc": "根据环境湿度自动调节防晒膜的厚度与透气性，闷热环境吸收水分、干燥环境释放水分，是本品区别于同系列其他单品的核心新技术。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Humidity-Responsive Technology",
+          "desc": "Automatically adjusts the sunscreen film's thickness and breathability based on ambient humidity, absorbing moisture in humid conditions and releasing it in dry conditions — the core new technology distinguishing this product from other items in the same line."
+        }
+      ],
+      "ja": [
+        {
+          "title": "湿度応答技術",
+          "desc": "周囲の湿度に応じて日焼け止め膜の厚みと通気性を自動調整し、蒸し暑い環境では水分を吸収、乾燥した環境では水分を放出する。同シリーズの他アイテムと本品を区別する核心的な新技術。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "kanebo-allie-chrono-beauty-color-tuning-uv",
+    "vertical": "skincare",
+    "category": "japan",
+    "productType": "sunscreen",
+    "addedAt": 61,
+    "name": {
+      "zh": "ALLIE Chrono Beauty 色调调整UV 02 阳光杏桃色",
+      "en": "ALLIE Chrono Beauty Color Tuning UV 02 Sunny Apricot",
+      "ja": "アリィー クロノビューティ カラーチューニングUV 02 サニーアプリコット"
+    },
+    "brand": {
+      "zh": "ALLIE（アリィー）",
+      "en": "ALLIE",
+      "ja": "アリィー"
+    },
+    "company": {
+      "zh": "佳丽宝化妆品（Kanebo Cosmetics），花王集团旗下品牌",
+      "en": "Kanebo Cosmetics, a brand under the Kao Group",
+      "ja": "カネボウ化粧品、花王グループ傘下ブランド"
+    },
+    "origin": {
+      "zh": "日本",
+      "en": "Japan",
+      "ja": "日本"
+    },
+    "launch": {
+      "zh": "\"色调调整UV\"（无粉底UV）系列核心色号，全系共3个色号（01紫/02杏桃/03米），持续在售",
+      "en": "A core shade in the \"Color Tuning UV\" (no-foundation UV) line, one of three shades in the range (01 Purple / 02 Apricot / 03 Beige), ongoing",
+      "ja": "「カラーチューニングUV」（ノーファンデUV）シリーズの主力色で、全3色展開（01パープル／02アプリコット／03ベージュ）、継続販売中"
+    },
+    "market": {
+      "zh": "日本全国药妆连锁、Amazon日本、乐天、@cosme店铺",
+      "en": "Japanese drugstore chains nationwide, Amazon Japan, Rakuten, @cosme stores",
+      "ja": "日本全国のドラッグストアチェーン、Amazon、楽天、@cosme店舗"
+    },
+    "capacity": {
+      "zh": "40 g",
+      "en": "40 g",
+      "ja": "40g"
+    },
+    "price": {
+      "zh": "约¥1,800-2,164（含税，视渠道浮动）",
+      "en": "About ¥1,800-2,164, tax included, varying by channel",
+      "ja": "約1,800〜2,164円（税込、購入チャネルにより変動）"
+    },
+    "positioning": {
+      "zh": "ALLIE品牌\"色调调整UV\"系列，主打\"无粉底UV\"概念——即使不化妆，单靠这支防晒本身的色调修正效果也能呈现有血色感的健康妆效。02号杏桃色主打修饰黑眼圈与毛孔的色彩校正效果，赋予肌肤\"有血色感\"的健康印象，同时保有ALLIE一贯的高防晒力与\"海滩友好配方\"（对海洋环境风险评估合格的环保配方）。产品名里的\"Chrono Beauty\"呼应品牌\"随时间流逝也保持美丽\"的长效诉求。",
+      "en": "A core item in ALLIE's \"Color Tuning UV\" line, built around a \"no-foundation UV\" concept — the sunscreen's own color-correcting effect gives a healthy, flushed-with-color look even without makeup. Shade 02 Apricot is built around correcting dark circles and pore visibility, giving skin a healthy, vibrant impression, while retaining ALLIE's signature high sun protection and \"Beach Friendly Formula\" (a formula that passed a water-environment risk assessment). The \"Chrono Beauty\" name ties to the brand's promise of staying beautiful as time passes.",
+      "ja": "アリィーブランドの「カラーチューニングUV」シリーズは、「ノーファンデUV」というコンセプトを軸としている——ファンデーションを使わなくても、この日焼け止め自体の色補整効果だけで血色感のある健康的な仕上がりを実現する。02番のアプリコットはクマや毛穴の色補整を核心とし、肌に「血色感」のある健康的な印象を与えつつ、アリィー一貫の高い日焼け止め効果と「ビーチフレンドリー処方」（水環境リスク評価に合格した環境配慮型処方）を維持している。「クロノビューティ」という商品名は「時が経っても美しさを保つ」というブランドの長時間持続の訴求と呼応している。"
+    },
+    "target": {
+      "zh": "追求\"裸妆感\"、不想化底妆但希望有气色的人群；对海洋生态友好配方有需求的沙滩/游泳场景用户；追求防晒同时兼具彩妆效果的\"省步骤\"型消费者。",
+      "en": "Consumers who want a bare-skin look without foundation but still want a healthy glow; beach/swimming users who care about a marine-friendly formula; \"step-saving\" consumers who want sunscreen and makeup effect in one.",
+      "ja": "「素肌感」を求め、ベースメイクはしたくないが血色感は欲しい人。海洋環境に配慮した処方を求めるビーチ・水泳シーンのユーザー。日焼け止めとメイクアップ効果を一つで済ませたい「時短」志向の消費者。"
+    },
+    "distribution": {
+      "zh": "40g/约¥1,800-2,164，单价高于普通大众防晒（如Biore UV约¥1,650/70g），但低于专业彩妆下地产品，走\"防晒+底妆二合一\"的中间价位定位。",
+      "en": "40g at roughly ¥1,800-2,164, priced above a plain mass sunscreen (like Biore UV at about ¥1,650/70g) but below a dedicated makeup-base product, sitting in a middle price tier for its \"sunscreen plus base makeup, two-in-one\" positioning.",
+      "ja": "40g・約1,800〜2,164円は、通常の大衆日焼け止め（ビオレUV約1,650円/70gなど）より高いが、専門的なメイクアップベース製品よりは低い、「日焼け止め＋ベースメイク2in1」という位置づけの中間価格帯。"
+    },
+    "ingredients": {
+      "zh": "官方公开信息以功效性描述为主（透明质酸钠为标注的美容液保湿成分），未见零售页面公开完整INCI成分表逐项列出，具体色料与防晒剂成分种类未详细披露。",
+      "en": "Official information is presented mainly as functional claims (sodium hyaluronate is the named moisturizing essence ingredient), with no complete, itemized INCI list found publicly listed on retail pages; the specific colorants and UV-filter ingredients used are not disclosed in detail.",
+      "ja": "公式情報は主に機能面の説明が中心（ヒアルロン酸Naが表示されている美容液保湿成分）で、通販ページに完全なINCI成分表は個別に公開されていなかった。具体的な色材や紫外線防御成分の種類は詳細に開示されていない。"
+    },
+    "evidence": {
+      "zh": "官方宣称\"8小时控油持妆\"标注为\"经数据验证\"（based on Kao's research，效果因人而异），未公开具体样本量或测试机构；摩擦耐受、防水防汗、控油持妆三项功能性宣称均未见独立第三方测试数据支撑，官方以\"防晒下的耐用性\"为主要沟通角度。",
+      "en": "The brand's \"8-hour shine control and long-lastingness\" claim is labeled \"proven by data\" (based on Kao's research; effects vary by person), with no specific sample size or testing institution disclosed; the friction-resistant, water/sweat-resistant, and shine-control claims are not backed by disclosed independent third-party test data, with the brand communicating mainly around sunscreen durability.",
+      "ja": "公式が謳う「8時間の皮脂崩れ抑制・持続」は「データで実証」（花王の研究に基づく、効果には個人差あり）と表示されているが、具体的なサンプル数や試験機関は開示されていない。摩擦耐性、防水・汗耐性、皮脂崩れ抑制という3つの機能訴求はいずれも公開された独立の第三者試験データの裏付けは見当たらず、公式は主に「日焼け止めとしての耐久性」を軸にコミュニケーションしている。"
+    },
+    "experience": {
+      "zh": "官方五点涂抹法：额头、两颊、鼻梁、下巴点涂后，大螺旋快速涂开，再单方向大范围推匀，最后用手掌轻压帮助吸收。可用日常卸妆产品卸除；官方强调\"摩擦耐受+防水防汗+抗皮脂光泽\"三重机制共同维持妆效持久。香调为杏桃与金木犀。",
+      "en": "The brand's five-point application method: dot onto the forehead, both cheeks, nose bridge, and chin, spread quickly in large spiral motions, then blend widely in one direction, and finally press with the palm to help absorption. Removable with regular makeup remover; the brand emphasizes a triple mechanism of friction resistance, water/sweat resistance, and sebum-shine resistance working together to keep the finish lasting. The scent is apricot and osmanthus.",
+      "ja": "公式の5点塗布法：額、両頬、鼻筋、あごに点置きし、大きならせんを描いて素早く広げ、その後一方向に大きく伸ばしてなじませ、最後に手のひらで軽く押さえて吸収を助ける。普段のクレンジングで落とせる。公式は摩擦耐性・防水防汗・皮脂崩れ耐性という3つのメカニズムが合わさって仕上がりの持続を支えると強調している。香りはアプリコット＆金木犀。"
+    },
+    "packaging": {
+      "zh": "圆润瓶身配杏桃色标签，第一眼传递\"轻松、亲近彩妆\"的印象，包装材质标注\"环境配慮素材\"，跟同品牌基础防晒线相比更贴近彩妆品类的视觉语言，而非纯功能性防晒的视觉语言。",
+      "en": "A rounded bottle with an apricot-toned label reads as easygoing and makeup-adjacent at first glance, with packaging materials labeled as environmentally conscious, closer to the visual language of a makeup product than a purely functional sunscreen compared to the brand's basic sunscreen line.",
+      "ja": "丸みを帯びたボトルにアプリコット色のラベルは、気軽でメイクアップに近いという第一印象を与える。パッケージ素材は「環境配慮素材」と表示されており、同ブランドの基礎的な日焼け止めラインより、純粋に機能的な日焼け止めというよりメイクアップ製品に近いビジュアル言語となっている。"
+    },
+    "insight": {
+      "zh": "\"无粉底UV\"这个命名，本质上是在给防晒产品抢彩妆品类的预算。\n\n* 用彩妆语言重新定义防晒的成功标准：传统防晒的成功标准是\"防晒力够不够\"，这支产品把标准换成了\"不化妆能不能看起来气色好\"，直接从功能品类切入了底妆品类的消费决策链路。\n* 三个色号对应三种\"人设\"而非单纯肤色分类：01紫（透明感）、02杏桃（血色感）、03米（自然裸感）是按\"想呈现的印象\"分类，而不是按\"适合的肤色\"分类，这跟传统粉底液的色号逻辑完全相反，降低了选色的技术门槛。\n* \"海滩友好配方\"是给环保议题找到的商业化落点：这项配方特性通常只在专业防晒测评里被讨论，ALLIE把它做成了消费者可见的产品卖点之一，是环保诉求商业化的一个具体案例。\n\n战略启示：当一个功能性品类（防晒）遇到增长瓶颈时，把评价标准从\"功能达标\"换成\"能否替代相邻品类的产品\"（如底妆），是打开新增量的一个方向。",
+      "en": "The \"no-foundation UV\" naming is essentially sunscreen competing for base-makeup budget.\n\n* Redefines the success metric for sunscreen using makeup vocabulary: a traditional sunscreen's success metric is \"is the protection strong enough\"; this product swaps that for \"do I look good without makeup,\" cutting directly from a functional category into the base-makeup purchase decision.\n* Three shades map to three personas, not skin tones: 01 Purple (transparency), 02 Apricot (healthy flush), 03 Beige (natural bare look) are categorized by the impression you want to give, not the skin tone you have — the opposite of traditional foundation shade logic, lowering the technical barrier to choosing a shade.\n* \"Beach Friendly Formula\" gives an environmental topic a commercial landing point: this formula trait is usually only discussed in specialist sunscreen reviews; ALLIE turns it into a consumer-visible selling point, a concrete example of commercializing an environmental claim.\n\nStrategic takeaway: when a functional category (sunscreen) hits a growth ceiling, shifting the success metric from \"meets the function\" to \"can replace a product in an adjacent category\" (like base makeup) is one way to open up new growth.",
+      "ja": "「ノーファンデUV」という命名は、本質的には日焼け止め製品がメイクアップカテゴリーの予算を奪いに行っている。\n\n* メイクアップの言葉で日焼け止めの成功基準を再定義：従来の日焼け止めの成功基準は「防御力が十分かどうか」だが、本品はその基準を「メイクをしなくても血色よく見えるか」に置き換え、機能的カテゴリーからベースメイクの購入意思決定に直接切り込んでいる。\n* 3色は肌色分類ではなく3つの「ペルソナ」に対応：01パープル（透明感）、02アプリコット（血色感）、03ベージュ（自然な素肌感）は「なりたい印象」で分類されており、「合う肌色」で分類されているのではない。これは従来のファンデーションの色番号のロジックとは正反対で、色選びの技術的なハードルを下げている。\n* 「ビーチフレンドリー処方」は環境問題に商業的な着地点を与えている：この処方特性は通常、専門的な日焼け止めレビューでしか語られないが、アリィーはそれを消費者に見える形の訴求点の一つにしている。環境訴求を商業化した具体的な事例。\n\n戦略的示唆：機能的カテゴリー（日焼け止め）が成長の壁にぶつかったとき、評価基準を「機能を満たしているか」から「隣接カテゴリー（ベースメイクなど）の製品を代替できるか」に切り替えることは、新たな成長を開く一つの方向性となる。"
+    },
+    "notes": {
+      "zh": "资料采集日 2026-08-02。信息取自ALLIE品牌官网allie-global.net英文产品页及日本零售平台（Yahoo!ショッピング、cosme.net、LIPS等）；完整INCI成分表未见公开列出，具体防晒剂成分未详细披露。",
+      "en": "Data collected 2026-08-02. Information taken from ALLIE's official English product page on allie-global.net and Japanese retail platforms (Yahoo! Shopping, cosme.net, LIPS, etc.); a complete INCI list was not found publicly listed, and the specific UV-filter ingredients are not detailed.",
+      "ja": "情報収集日 2026年8月2日。アリィーブランド公式サイトallie-global.netの英語版商品ページ及び日本の通販プラットフォーム（Yahoo!ショッピング、cosme.net、LIPSなど）より収集。完全なINCI成分表は公開されておらず、具体的な紫外線防御成分は詳細に開示されていない。"
+    },
+    "images": [
+      "https://kao-h.assetsadobe3.com/is/image/content/dam/sites/kanebo/www-allie-global-net/en/2024/item/color_tuning_uv02/item08_img01.png"
+    ],
+    "sources": [
+      [
+        "Official product page (ALLIE, English)",
+        "https://www.allie-global.net/en/product/item/item08/"
+      ],
+      [
+        "Retail listing (Yahoo! Shopping)",
+        "https://store.shopping.yahoo.co.jp/soukai/4973167034095.html"
+      ],
+      [
+        "Review coverage (@cosme)",
+        "https://www.cosme.net/products/10217053/"
+      ]
+    ],
+    "targetUsers": {
+      "zh": [
+        "追求裸妆感、不化底妆但希望有气色的人群",
+        "对海洋生态友好配方有需求的沙滩/游泳场景用户",
+        "追求防晒+彩妆效果二合一的省步骤型消费者"
+      ],
+      "en": [
+        "Consumers wanting a bare-skin look without foundation but still a healthy glow",
+        "Beach/swimming users who care about a marine-friendly formula",
+        "Step-saving consumers who want sunscreen plus makeup effect in one"
+      ],
+      "ja": [
+        "素肌感を求め、ベースメイクはしないが血色感は欲しい人",
+        "海洋環境に配慮した処方を求めるビーチ・水泳シーンのユーザー",
+        "日焼け止め＋メイクアップ効果を1つで済ませたい時短志向の消費者"
+      ]
+    },
+    "keyClaims": {
+      "zh": [
+        "SPF50+ / PA++++",
+        "无粉底UV，色彩校正遮盖黑眼圈毛孔",
+        "海滩友好配方（水环境风险评估合格）",
+        "摩擦耐受+防水防汗+抗皮脂光泽，8小时持妆"
+      ],
+      "en": [
+        "SPF50+ / PA++++",
+        "No-foundation UV, color correction covers dark circles and pores",
+        "Beach Friendly Formula (passed water-environment risk assessment)",
+        "Friction resistant + water/sweat resistant + sebum-shine resistant, 8-hour longevity"
+      ],
+      "ja": [
+        "SPF50+／PA++++",
+        "ノーファンデUV、色補整でクマ・毛穴をカバー",
+        "ビーチフレンドリー処方（水環境リスク評価合格）",
+        "摩擦耐性＋防水防汗＋皮脂崩れ耐性、8時間の持続"
+      ]
+    },
+    "heroIngredients": {
+      "zh": [
+        {
+          "name": "透明质酸钠",
+          "tag": "美容液保湿成分",
+          "desc": "官方标注的核心保湿成分，弥补防晒产品常见的干燥感"
+        },
+        {
+          "name": "杏桃色色彩校正体系",
+          "tag": "无粉底效果核心",
+          "desc": "官方称的色彩校正效果，覆盖黑眼圈与毛孔阴影"
+        }
+      ],
+      "en": [
+        {
+          "name": "Sodium Hyaluronate",
+          "tag": "Moisturizing essence ingredient",
+          "desc": "The brand's named core moisturizing ingredient, offsetting the dryness common in sunscreen products"
+        },
+        {
+          "name": "Apricot Color-Correction System",
+          "tag": "Core of the no-foundation effect",
+          "desc": "The brand's named color-correction effect, covering dark circles and pore shadows"
+        }
+      ],
+      "ja": [
+        {
+          "name": "ヒアルロン酸Na",
+          "tag": "美容液保湿成分",
+          "desc": "公式が表示する核心保湿成分、日焼け止め製品にありがちな乾燥感を補う"
+        },
+        {
+          "name": "アプリコット色補整システム",
+          "tag": "ノーファンデ効果の核心",
+          "desc": "公式が謳う色補整効果、クマや毛穴の陰影をカバー"
+        }
+      ]
+    },
+    "ingredientsNote": {
+      "zh": "官方未公开完整INCI表，具体防晒剂（有机/无机）成分种类及色料成分未详细披露，仅以功效性成分（透明质酸钠）作为沟通重点。",
+      "en": "The brand hasn't publicly disclosed a complete INCI list; the specific organic/inorganic UV filters and colorants used are not detailed, with communication focused only on the named functional ingredient (sodium hyaluronate).",
+      "ja": "公式は完全なINCI成分表を公開しておらず、具体的な紫外線吸収剤・散乱剤（有機／無機）の種類や色材成分は詳細に開示されていない。機能性成分（ヒアルロン酸Na）のみをコミュニケーションの重点としている。"
+    },
+    "pricePositioning": {
+      "zh": {
+        "tier": "masstige",
+        "label": "日系防晒+彩妆二合一"
+      },
+      "en": {
+        "tier": "masstige",
+        "label": "Japanese Sunscreen-Plus-Makeup Hybrid"
+      },
+      "ja": {
+        "tier": "masstige",
+        "label": "日系日焼け止め＋メイクアップ2in1"
+      }
+    },
+    "marketChannel": {
+      "zh": {
+        "global": [
+          "Amazon日本",
+          "乐天"
+        ],
+        "japan": [
+          "日本全国药妆连锁",
+          "@cosme店铺"
+        ],
+        "channelLabel": "药妆+彩妆双渠道",
+        "channelDesc": "既走传统防晒药妆渠道，也通过@cosme等彩妆评测平台触达关注底妆效果的消费者"
+      },
+      "en": {
+        "global": [
+          "Amazon Japan",
+          "Rakuten"
+        ],
+        "japan": [
+          "Japanese drugstore chains nationwide",
+          "@cosme stores"
+        ],
+        "channelLabel": "Drugstore + Makeup Dual Channel",
+        "channelDesc": "Distributed through traditional sunscreen drugstore channels while also reaching makeup-effect-focused consumers via platforms like @cosme"
+      },
+      "ja": {
+        "global": [
+          "Amazon",
+          "楽天"
+        ],
+        "japan": [
+          "日本全国のドラッグストアチェーン",
+          "@cosme店舗"
+        ],
+        "channelLabel": "ドラッグストア＋メイクアップの二軸",
+        "channelDesc": "従来の日焼け止めドラッグストアチャネルで展開しつつ、@cosmeなどのメイクアップレビュープラットフォームを通じてベースメイク効果を重視する消費者にもリーチ"
+      }
+    },
+    "brandConceptRich": {
+      "zh": {
+        "tagline": "日やけ止めだけで、くずれにくい惹き寄せ美肌。（仅凭防晒，打造不易脱妆的迷人美肌）",
+        "concept": "ALLIE是佳丽宝（花王集团旗下）专注防晒品类的品牌，\"Chrono Beauty\"系列主张\"随时间流逝依然美丽\"，色调调整UV是该系列把\"防晒功能\"与\"底妆效果\"合并成单一步骤的代表产品，呼应ALLIE一贯\"沙滩场景起家、兼顾日常使用\"的品牌基因。"
+      },
+      "en": {
+        "tagline": "Skin that stays flawless and glowing with sunscreen alone.",
+        "concept": "ALLIE is Kanebo's (under the Kao Group) dedicated sunscreen brand, with its \"Chrono Beauty\" line promising beauty that lasts as time passes. Color Tuning UV represents this line's approach of merging sun protection and base-makeup effect into a single step, echoing ALLIE's brand DNA rooted in beach scenarios while extending into daily use."
+      },
+      "ja": {
+        "tagline": "日やけ止めだけで、くずれにくい惹き寄せ美肌。",
+        "concept": "アリィーはカネボウ（花王グループ傘下）が展開する日焼け止め専門ブランドで、「クロノビューティ」シリーズは「時が経っても美しさを保つ」ことを訴求している。カラーチューニングUVは、このシリーズが「日焼け止め機能」と「ベースメイク効果」を1ステップに統合するアプローチを代表する商品で、ビーチシーンから始まり日常使いにも広がるというアリィーのブランドDNAと呼応している。"
+      }
+    },
+    "competitiveAdvantage": {
+      "zh": [
+        {
+          "name": "ANESSA Perfect UV Brush On Powder（同库已加入）",
+          "points": [
+            "ANESSA走\"化妆后补涂\"的补妆场景，本品走\"化妆前替代粉底\"的省步骤场景，是防晒-彩妆融合的两个不同切入点",
+            "本品是乳液质地一步到位，ANESSA是粉状定妆产品，使用场景互补而非直接竞争",
+            "价格带本品略低，走更基础的日常UV+底妆需求"
+          ]
+        },
+        {
+          "name": "CEZANNE 皮脂控制UV底妆（大众平价底妆防晒代表）",
+          "points": [
+            "CEZANNE走极致平价路线（约¥700-900），本品定价约2-3倍，走机能升级路线",
+            "CEZANNE缺少ALLIE式的\"海滩友好配方\"环保叙事，功能诉求更单一（控油）",
+            "两者都主打\"防晒兼具底妆\"逻辑，但价格带和技术叙事复杂度完全不同"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "ANESSA Perfect UV Brush On Powder (already in this library)",
+          "points": [
+            "ANESSA leads with the \"touch-up after makeup\" occasion; this product leads with the \"replace foundation before makeup\" step-saving occasion — two different entry points into the sunscreen-makeup fusion",
+            "This product is a one-step lotion texture; ANESSA is a powder-format touch-up product, complementary rather than directly competing use cases",
+            "This product is priced slightly lower, serving a more basic daily UV-plus-base-makeup need"
+          ]
+        },
+        {
+          "name": "CEZANNE Sebum Control UV Base Makeup (a representative Japanese value-tier makeup-sunscreen)",
+          "points": [
+            "CEZANNE takes an extreme-value route (about ¥700-900); this product is priced roughly 2-3x higher, taking a feature-upgrade route",
+            "CEZANNE lacks ALLIE's \"Beach Friendly Formula\" environmental narrative, with a more singular functional claim (oil control)",
+            "Both lead with a sunscreen-plus-base-makeup logic, but differ entirely in price band and technology-narrative complexity"
+          ]
+        }
+      ],
+      "ja": []
+    },
+    "evidenceStats": {
+      "zh": [],
+      "en": [],
+      "ja": []
+    },
+    "experienceItems": {
+      "zh": [
+        "用法：五点点涂→大螺旋涂开→单方向推匀→掌心按压",
+        "卸除：可用日常卸妆产品",
+        "机制：摩擦耐受+防水防汗+抗皮脂光泽三重维持妆效",
+        "香调：杏桃与金木犀"
+      ],
+      "en": [
+        "Usage: dot on five points → spread in large spirals → blend in one direction → press with palm",
+        "Removal: usable with regular makeup remover",
+        "Mechanism: friction resistance, water/sweat resistance, and sebum-shine resistance work together to keep the finish lasting",
+        "Scent: apricot and osmanthus"
+      ],
+      "ja": [
+        "使い方：5点に置く→大きくらせん状に広げる→一方向になじませる→手のひらで押さえる",
+        "落とし方：普段のクレンジングで落とせる",
+        "メカニズム：摩擦耐性＋防水防汗＋皮脂崩れ耐性の3つで仕上がりを維持",
+        "香り：アプリコット＆金木犀"
+      ]
+    },
+    "keyTechnology": {
+      "zh": [
+        {
+          "title": "无粉底UV色彩校正技术",
+          "desc": "把防晒配方与色彩校正技术结合，用色调本身修饰黑眼圈与毛孔阴影，替代传统底妆的遮瑕步骤。"
+        }
+      ],
+      "en": [
+        {
+          "title": "No-Foundation UV Color-Correction Technology",
+          "desc": "Combines a sunscreen formula with color-correction technology, using the tint itself to camouflage dark circles and pore shadows, replacing the concealing step of traditional base makeup."
+        }
+      ],
+      "ja": [
+        {
+          "title": "ノーファンデUV色補整技術",
+          "desc": "日焼け止め処方と色補整技術を組み合わせ、色味そのものでクマや毛穴の陰影をカバーし、従来のベースメイクのコンシーリングステップを代替する。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "shiseido-anessa-perfect-uv-brush-on-powder",
+    "vertical": "skincare",
+    "category": "japan",
+    "productType": "sunscreen",
+    "addedAt": 62,
+    "name": {
+      "zh": "ANESSA 完美UV刷式定妆防晒粉",
+      "en": "ANESSA Perfect UV Brush On Powder",
+      "ja": "アネッサ パーフェクトUV ブラッシュオンパウダー"
+    },
+    "brand": {
+      "zh": "ANESSA（アネッサ）",
+      "en": "ANESSA",
+      "ja": "アネッサ"
+    },
+    "company": {
+      "zh": "资生堂株式会社",
+      "en": "Shiseido Company, Limited",
+      "ja": "株式会社資生堂"
+    },
+    "origin": {
+      "zh": "日本",
+      "en": "Japan",
+      "ja": "日本"
+    },
+    "launch": {
+      "zh": "全国发售，是ANESSA品牌\"化妆直し\"（补妆）品类的新形态单品，斩获多项2025-2026年日本美妆媒体大奖，包括日本マーケティング大賞グランプリ",
+      "en": "A nationally launched, newer product format in ANESSA's \"makeup touch-up\" category, winner of multiple 2025-2026 Japanese beauty-media awards, including the Grand Prix of the Japan Marketing Association's Marketing Award",
+      "ja": "全国発売、アネッサブランドの「化粧直し」カテゴリーにおける新しい製品形態で、2025〜2026年の複数の日本美容メディアアワードを受賞、日本マーケティング協会「日本マーケティング大賞」グランプリも受賞"
+    },
+    "market": {
+      "zh": "资生堂官方通販、Amazon日本、乐天",
+      "en": "Shiseido's official online store, Amazon Japan, Rakuten",
+      "ja": "資生堂公式通販、Amazon、楽天"
+    },
+    "capacity": {
+      "zh": "3 g（脸用），另有替换装",
+      "en": "3 g (for face), also available as a refill",
+      "ja": "3g（顔用）、レフィルもあり"
+    },
+    "price": {
+      "zh": "¥3,498（本体）／¥2,442（替换装，含税）",
+      "en": "¥3,498 (main unit) / ¥2,442 (refill, tax included)",
+      "ja": "3,498円（本体）／2,442円（レフィル、税込）"
+    },
+    "positioning": {
+      "zh": "ANESSA首款\"刷式定妆防晒粉\"，主打\"化妆直し与防晒对策合二为一\"——把补妆和补涂防晒这两个通常分开的动作，压缩进同一支便携刷头产品里。核心逻辑是官方明确指出的洞察：\"容易脱妆的部位\"和\"容易被紫外线伤害的部位\"高度重合，因此一支能补妆的产品理论上也能兼顾补涂防晒。含皮脂吸附粉末控油，透明裸色调不需要叠加粉底也能遮盖泛红与肤色不均，宣称12小时持妆。",
+      "en": "ANESSA's first \"brush-on touch-up sunscreen powder,\" built around combining makeup touch-ups and sunscreen reapplication into one step — compressing two usually separate actions into a single portable brush-tip product. The core insight, stated explicitly by the brand, is that the areas prone to makeup breakdown and the areas prone to UV damage largely overlap, so a touch-up product can, in principle, double as sunscreen reapplication. It contains a sebum-absorbing powder for oil control, with a translucent beige tone that covers redness and unevenness without layering foundation, claiming 12-hour makeup longevity.",
+      "ja": "アネッサ初の「ブラシ一体型化粧直し用日焼け止めパウダー」で、「化粧直しとUV対策がこれ1本」というコンセプトを核心としている——通常は別々の動作である化粧直しと日焼け止めの塗り直しを、1本の携帯用ブラシ製品に圧縮している。公式が明確に示す洞察は「メイク崩れしやすいゾーンと紫外線ダメージが気になる部位は同じ」というもので、そのため化粧直しができる製品は理論上、日焼け止めの塗り直しも兼ねられる。皮脂吸着パウダー配合で皮脂を抑え、透明感のあるベージュカラーはファンデーションを重ねなくても赤みや色ムラをカバーでき、12時間の化粧もちを謳っている。"
+    },
+    "target": {
+      "zh": "追求便携补妆、不想携带整套化妆包的通勤/外出人群；已画底妆、需要午后补涂防晒但不想破坏妆容的用户；追求\"一物两用\"效率的消费者。",
+      "en": "Commuters and out-and-about consumers who want portable touch-ups without carrying a full makeup bag; users who already wear base makeup and need to reapply sunscreen midday without disturbing it; consumers seeking a \"two functions, one item\" efficiency.",
+      "ja": "携帯用の化粧直しを求め、フルメイクポーチを持ち歩きたくない通勤・外出層。すでにベースメイクをしていて、崩さずに日中に日焼け止めを塗り直したいユーザー。「一物二役」の効率を求める消費者。"
+    },
+    "distribution": {
+      "zh": "3g/¥3,498，单克约¥1,166，是本库目前收录的防晒品类里单克成本最高的产品之一，走的是\"便携定妆彩妆\"而非大众防晒的定价逻辑；替换装¥2,442相对正装折扣约30%，鼓励重复购买替换装而非重买本体。",
+      "en": "3g at ¥3,498, about ¥1,166/g, among the highest per-gram costs in the sunscreen category catalogued in this library, following a portable-touch-up-makeup pricing logic rather than a mass-sunscreen one; the ¥2,442 refill is roughly 30% cheaper than the main unit, encouraging repeat refill purchases over rebuying the whole unit.",
+      "ja": "3g・3,498円で1gあたり約1,166円、本ライブラリに収録されている日焼け止めカテゴリーの中でも1gあたりのコストが最も高い部類に入り、大衆日焼け止めではなく「携帯用化粧直しメイクアップ」の価格ロジックを採っている。レフィル2,442円は本体より約30%安く、本体の買い直しよりレフィルのリピート購入を促している。"
+    },
+    "ingredients": {
+      "zh": "官方未公开完整INCI成分表，成分沟通以功能性列点为主：皮脂吸附粉末（控油）、含硫酸钡的美容液级透明肤感粉末、护肤成分粉末（\"スキンケアパウダー\"）。具体防晒剂种类未详细披露。",
+      "en": "The brand hasn't publicly disclosed a complete INCI list; ingredient communication is functional bullet points — a sebum-absorbing powder (oil control), a beauty-grade translucent-feel powder containing barium sulfate, and a named \"skincare powder.\" The specific UV-filter ingredients are not detailed.",
+      "ja": "公式は完全なINCI成分表を公開しておらず、成分の説明は機能面の箇条書きが中心：皮脂吸着パウダー（皮脂対策）、硫酸バリウムを含む美容液級の透明感パウダー、「スキンケアパウダー」と表示された成分。具体的な紫外線防御成分の種類は詳細に開示されていない。"
+    },
+    "evidence": {
+      "zh": "官方宣称12小时化妆持久效果（标注*为具体测试方法，但未公开样本量或独立第三方数据）；获得大量第三方美妆媒体奖项（VOCE、LIPS、日经トレンディ、日本マーケティング大賞グランプリ等），这些属于媒体评选/行业奖项而非独立科学测试。",
+      "en": "The brand claims 12-hour makeup longevity (footnoted with a specific test method, though sample size or independent third-party data isn't disclosed); it has won numerous third-party beauty-media awards (VOCE, LIPS, Nikkei Trendy, the Japan Marketing Association's Grand Prix, etc.), which are media selections/industry awards rather than independent scientific testing.",
+      "ja": "公式は12時間の化粧もち効果を謳っている（具体的な試験方法は脚注で示されているが、サンプル数や独立した第三者データは公開されていない）。VOCE、LIPS、日経トレンディ、日本マーケティング大賞グランプリなど多数の第三者美容メディアの賞を受賞しているが、これらはメディア選出・業界アワードであり、独立した科学的試験ではない。"
+    },
+    "experience": {
+      "zh": "官方三步用法：拔除首次使用的白色安全销→打开刷头保护盖→轻拍手背或纸巾使粉末充分附着于刷毛，再从脸部中心向外侧轻扫涂开；刷头可拆卸水洗，容器支持替换装重新灌粉。官方特别强调\"皮肤感觉变得干爽即为涂抹完成的标志\"这一具体判断标准。",
+      "en": "The brand's three-step usage: remove the white safety pin on first use, open the brush cover, tap the brush on the back of the hand or a tissue to load the bristles with powder, then sweep from the center of the face outward; the brush is detachable and washable, and the container supports refilling with the sold-separately refill. The brand specifically highlights a concrete cue for knowing when enough has been applied: the skin should feel smooth and dry.",
+      "ja": "公式の3ステップの使い方：初回使用時は白い安全ピンを引き抜く→ブラシカバーを開ける→手の甲やティッシュに軽くたたいてブラシに十分パウダーを含ませ、顔の中心から外側へゆっくり塗り広げる。ブラシは取り外して水洗い可能で、容器は別売りのレフィルで詰め替えできる。公式は「肌がサラサラと感じたら仕上がりの目安」という具体的な判断基準を特に強調している。"
+    },
+    "packaging": {
+      "zh": "笔状便携容器配一体化刷头设计，第一眼传递\"随身彩妆工具\"而非传统防晒瓶罐的印象，是本库里防晒品类中形态最接近彩妆单品的一款，视觉语言直接对标粉饼/蜜粉刷这类彩妆工具而非防晒霜。",
+      "en": "A pen-shaped portable container with an integrated brush reads as a makeup-on-the-go tool rather than a conventional sunscreen bottle or tube at first glance, the sunscreen-category product in this library whose format most closely resembles a makeup item, with a visual language directly benchmarked against a pressed-powder compact or setting-powder brush rather than a lotion or cream.",
+      "ja": "ペン型の携帯容器にブラシ一体型のデザインは、従来の日焼け止めのボトルやチューブというより「持ち歩き用メイクアップツール」という第一印象を与える。本ライブラリの日焼け止めカテゴリーの中でも、パウダーファンデーションやフェイスパウダーブラシといったメイクアップツールに最も近い形態と視覚言語を持つ商品。"
+    },
+    "insight": {
+      "zh": "这支产品最值得参考的地方是它精准抓住了一个\"两个场景高度重合但从未被合并\"的产品空白。\n\n* 用一句洞察打通两个原本无关的购买动机：\"容易脱妆的部位\"和\"容易被紫外线伤害的部位\"高度重合，这句话把\"补妆刚需\"和\"防晒刚需\"两个原本分属不同产品品类的诉求焊在了一起，创造了一个新品类而非改良旧品类。\n* 单克成本高但决策门槛低：¥1,166/g的单克成本远高于普通防晒，但因为规格小（3g）总价并不算离谱，用\"总价可接受\"掩盖了\"单价其实很贵\"这个事实，是随身彩妆/便携品类常见的定价心理策略。\n* 奖项矩阵本身构成一种社会认同证据：官方罗列了十余个不同媒体、不同细分榜单（总合大赏、UV粉末部门、モバイルUV部门等）的获奖记录，用\"多方媒体反复验证\"代替单一权威背书，密集的奖项列表本身成为一种从众心理的说服工具。\n\n战略启示：找到两个消费者已经分别有需求、但从未被同一产品同时满足的场景交集，往往比在单一场景里做微创新更容易开辟新的产品品类。",
+      "en": "The most instructive thing about this product is how precisely it identifies a gap: two overlapping scenarios that had never been merged into one product.\n\n* One insight bridges two previously unrelated purchase motives: \"the areas prone to makeup breakdown\" and \"the areas prone to UV damage\" largely overlap — this single line welds together a touch-up need and a sunscreen need that used to belong to entirely different product categories, creating a new category rather than improving an old one.\n* High per-gram cost, low decision barrier: at ¥1,166/g, the per-gram cost is far above ordinary sunscreen, but because the format is small (3g), the total price doesn't feel outrageous — \"the total feels acceptable\" masks the fact that \"the unit price is actually expensive,\" a common pricing psychology tactic in portable makeup and beauty-on-the-go categories.\n* The award matrix itself is a piece of social-proof evidence: the brand lists over a dozen award wins across different media outlets and sub-category rankings (overall grand prize, UV powder category, mobile UV category, etc.), replacing a single authoritative endorsement with \"repeatedly validated by multiple outlets\" — a dense list of awards becomes a herd-mentality persuasion tool in itself.\n\nStrategic takeaway: finding the intersection of two scenarios consumers already separately need, but that no product has ever satisfied at once, is often an easier way to open a new product category than making incremental improvements within a single existing scenario.",
+      "ja": "この製品で最も参考になるのは、「2つのシーンが高度に重なっているのに、これまで統合されたことがなかった」という製品の空白を的確に捉えている点。\n\n* 一つの洞察で、本来無関係だった2つの購買動機を結びつける：「メイク崩れしやすいゾーン」と「紫外線ダメージが気になる部位」が高度に重なるという指摘が、本来別々の製品カテゴリーに属していた「化粧直しのニーズ」と「日焼け止めのニーズ」を溶接し、既存カテゴリーの改良ではなく新しいカテゴリーを生み出している。\n* 1gあたりのコストは高いが、意思決定のハードルは低い：1gあたり1,166円というコストは通常の日焼け止めよりはるかに高いが、規格が小さい（3g）ため総額はそれほど極端に見えない。「総額なら許容範囲」という感覚が「実は単価がかなり高い」という事実を覆い隠している。これは携帯用メイクアップやビューティー・オン・ザ・ゴー系のカテゴリーによくある価格心理戦略。\n* アワードのマトリクス自体が社会的証明の証拠となっている：公式は異なるメディア、異なるサブカテゴリーのランキング（総合大賞、UVパウダー部門、モバイルUV部門など）で十数の受賞歴を列挙しており、単一の権威的な裏付けの代わりに「複数のメディアで繰り返し検証された」という形を取っている。密度の高い受賞リストそのものが、集団心理に訴える説得材料となっている。\n\n戦略的示唆：消費者がそれぞれ既に持っているが、これまでどの製品も同時に満たしたことのない2つのシーンの交差点を見つけることは、単一のシーン内で小さな改良を重ねるより、新しい製品カテゴリーを切り開きやすい。"
+    },
+    "notes": {
+      "zh": "资料采集日 2026-08-02。信息取自资生堂ANESSA官网brush_on_powder产品页；完整INCI成分表未见公开列出，具体防晒剂种类未详细披露；官方页面\"2.21待望の全国発売\"未明确标注具体年份，本条按资料页面所列2025-2026年奖项时间线推断为近期新品。",
+      "en": "Data collected 2026-08-02. Information taken from the official ANESSA brush_on_powder product page on shiseido.co.jp; a complete INCI list was not found publicly listed and the specific UV-filter ingredients are not detailed; the official page's \"long-awaited February 21 national launch\" doesn't specify an exact year, and this entry infers a recent launch based on the 2025-2026 award timeline listed on the page.",
+      "ja": "情報収集日 2026年8月2日。資生堂アネッサ公式サイトbrush_on_powder商品ページより収集。完全なINCI成分表は公開されておらず、具体的な紫外線防御成分は詳細に開示されていない。公式ページの「2.21待望の全国発売」は具体的な年が明記されておらず、本項目はページに記載された2025〜2026年の受賞歴のタイムラインから直近の新商品と推測している。"
+    },
+    "images": [
+      "https://www.shiseido.co.jp/anessa/products/suncare/brush_on_powder/img/product_img_pc.png"
+    ],
+    "sources": [
+      [
+        "Official product page (ANESSA)",
+        "https://www.shiseido.co.jp/anessa/products/suncare/brush_on_powder/"
+      ]
+    ],
+    "targetUsers": {
+      "zh": [
+        "追求便携补妆、不想携带整套化妆包的通勤外出人群",
+        "已画底妆、需要午后补涂防晒但不想破坏妆容的用户",
+        "追求一物两用效率的消费者"
+      ],
+      "en": [
+        "Commuters wanting portable touch-ups without a full makeup bag",
+        "Users who already wear base makeup and need midday sunscreen reapplication without disturbing it",
+        "Consumers seeking two-functions-in-one efficiency"
+      ],
+      "ja": [
+        "携帯用の化粧直しを求め、フルメイクポーチを持ち歩きたくない通勤・外出層",
+        "すでにベースメイクをしていて、崩さずに日中に日焼け止めを塗り直したいユーザー",
+        "一物二役の効率を求める消費者"
+      ]
+    },
+    "keyClaims": {
+      "zh": [
+        "SPF50+ / PA++++ / UV耐水性★",
+        "化妆直し与防晒对策二合一",
+        "皮脂吸附粉末控油+透明裸色调遮红",
+        "12小时化妆持久效果，ブラシ可水洗"
+      ],
+      "en": [
+        "SPF50+ / PA++++ / UV Water Resistance ★",
+        "Combines makeup touch-up and sunscreen reapplication in one",
+        "Sebum-absorbing powder for oil control + translucent beige tone covers redness",
+        "12-hour makeup longevity, washable brush"
+      ],
+      "ja": [
+        "SPF50+／PA++++／UV耐水性★",
+        "化粧直しとUV対策を1本で兼ねる",
+        "皮脂吸着パウダーで皮脂対策＋トランスルーセントベージュで赤みカバー",
+        "12時間化粧もち、ブラシは水洗い可能"
+      ]
+    },
+    "heroIngredients": {
+      "zh": [
+        {
+          "name": "皮脂吸附粉末",
+          "tag": "控油核心",
+          "desc": "官方标注的核心控油成分，带来さらさら（干爽）使用感"
+        },
+        {
+          "name": "美容液级透明肤感粉末（含硫酸钡）",
+          "tag": "透明感",
+          "desc": "官方称的\"ビューティーアップパウダー\"，提升肌肤透明感同时抑制反光"
+        }
+      ],
+      "en": [
+        {
+          "name": "Sebum-Absorbing Powder",
+          "tag": "Core oil control",
+          "desc": "The brand's named core oil-control ingredient, delivering a dry, smooth feel"
+        },
+        {
+          "name": "Beauty-Grade Translucent-Feel Powder (Contains Barium Sulfate)",
+          "tag": "Transparency",
+          "desc": "Described by the brand as the \"Beauty Up Powder,\" enhancing skin transparency while controlling shine"
+        }
+      ],
+      "ja": [
+        {
+          "name": "皮脂吸着パウダー",
+          "tag": "皮脂対策の核心",
+          "desc": "公式が表示する核心的な皮脂対策成分、サラサラとした使用感をもたらす"
+        },
+        {
+          "name": "美容液級透明感パウダー（硫酸バリウム配合）",
+          "tag": "透明感",
+          "desc": "公式が謳う「ビューティーアップパウダー」、肌の透明感を高めつつテカリを抑える"
+        }
+      ]
+    },
+    "ingredientsNote": {
+      "zh": "官方未公开完整INCI成分表，具体防晒剂（有机/无机）种类及配比未详细披露，仅以功效性成分组合（皮脂吸附粉末+美容液级透明肤感粉末+スキンケアパウダー）作为沟通重点。",
+      "en": "The brand hasn't publicly disclosed a complete INCI list; the specific organic/inorganic UV filters and their ratios are not detailed, with communication focused only on named functional ingredient groups (sebum-absorbing powder, beauty-grade translucent-feel powder, and a named skincare powder).",
+      "ja": "公式は完全なINCI成分表を公開しておらず、具体的な紫外線防御成分（有機／無機）の種類や配合比率は詳細に開示されていない。機能性成分の組み合わせ（皮脂吸着パウダー＋美容液級透明感パウダー＋スキンケアパウダー）のみをコミュニケーションの重点としている。"
+    },
+    "pricePositioning": {
+      "zh": {
+        "tier": "premium",
+        "label": "日系便携补妆级防晒彩妆"
+      },
+      "en": {
+        "tier": "premium",
+        "label": "Japanese Prestige Portable Touch-Up Sunscreen-Makeup"
+      },
+      "ja": {
+        "tier": "premium",
+        "label": "日系携帯用化粧直し級日焼け止めメイクアップ"
+      }
+    },
+    "marketChannel": {
+      "zh": {
+        "global": [
+          "资生堂官方通販",
+          "Amazon日本",
+          "乐天"
+        ],
+        "japan": [
+          "资生堂官方通販",
+          "Amazon日本",
+          "乐天"
+        ],
+        "channelLabel": "官方直营+主流电商",
+        "channelDesc": "以资生堂官方渠道为核心，配合Amazon、乐天等主流电商铺货，凭密集的美妆媒体奖项矩阵在短期内建立市场认知"
+      },
+      "en": {
+        "global": [
+          "Shiseido's official online store",
+          "Amazon Japan",
+          "Rakuten"
+        ],
+        "japan": [
+          "Shiseido's official online store",
+          "Amazon Japan",
+          "Rakuten"
+        ],
+        "channelLabel": "Official DTC + Major E-commerce",
+        "channelDesc": "Centered on Shiseido's official channels alongside major e-commerce like Amazon and Rakuten, building market awareness quickly through a dense matrix of beauty-media awards"
+      },
+      "ja": {
+        "global": [
+          "資生堂公式通販",
+          "Amazon",
+          "楽天"
+        ],
+        "japan": [
+          "資生堂公式通販",
+          "Amazon",
+          "楽天"
+        ],
+        "channelLabel": "公式直販＋主要EC",
+        "channelDesc": "資生堂の公式チャネルを中心に、Amazonや楽天などの主要ECで展開。密度の高い美容メディアアワードのマトリクスによって短期間で市場認知を構築"
+      }
+    },
+    "brandConceptRich": {
+      "zh": {
+        "tagline": "メイクの上から、さっと塗り直し。（在妆容之上，轻松快速补涂）",
+        "concept": "ANESSA是资生堂旗下日本国民级防晒品牌，长期主打\"高防御力+沙滩防水\"的专业防晒形象。本品是品牌在\"补妆场景\"这一细分需求上的新尝试，把ANESSA一贯的专业防晒力度延伸到了原本属于彩妆品类的便携补妆产品形态里。"
+      },
+      "en": {
+        "tagline": "A quick touch-up, right over your makeup.",
+        "concept": "ANESSA is Shiseido's nationally beloved Japanese sunscreen brand, long positioned around a professional image of high protection and beach-grade waterproofing. This product represents the brand's new attempt at the \"touch-up\" sub-need, extending ANESSA's signature professional sun protection into a portable format that traditionally belonged to the makeup category."
+      },
+      "ja": {
+        "tagline": "メイクの上から、さっと塗り直し。",
+        "concept": "アネッサは資生堂傘下の日本国民的日焼け止めブランドで、長らく「高い防御力＋ビーチグレードの防水性」という専門的なイメージを打ち出してきた。本品は「化粧直し」という細分化されたニーズに対するブランドの新たな試みで、アネッサ一貫の専門的な日焼け止め効果を、従来はメイクアップカテゴリーに属していた携帯用の化粧直し製品の形態へと拡張している。"
+      }
+    },
+    "competitiveAdvantage": {
+      "zh": [
+        {
+          "name": "ALLIE Chrono Beauty 色调调整UV（同库已加入）",
+          "points": [
+            "ALLIE走\"化妆前替代粉底\"的省步骤场景，本品走\"化妆后补涂\"的补妆场景，是防晒-彩妆融合的两个不同切入点",
+            "本品是刷式定妆粉产品，ALLIE是乳液质地一步到位，使用场景互补而非直接竞争",
+            "本品单克成本明显更高，走更极致的便携高端化路线"
+          ]
+        },
+        {
+          "name": "CEZANNE 皮脂控制UVパウダー（大众平价补妆防晒代表）",
+          "points": [
+            "CEZANNE走极致平价路线（约¥900左右），本品定价约3-4倍，走机能与品牌力叠加的高端路线",
+            "两者都主打\"化妆上补涂防晒\"的相同使用场景，是直接竞争关系",
+            "本品靠密集的美妆媒体奖项矩阵建立信任，CEZANNE更依赖大众口碑与性价比"
+          ]
+        }
+      ],
+      "en": [
+        {
+          "name": "ALLIE Chrono Beauty Color Tuning UV (already in this library)",
+          "points": [
+            "ALLIE leads with the \"replace foundation before makeup\" step-saving occasion; this product leads with the \"touch up after makeup\" occasion — two different entry points into sunscreen-makeup fusion",
+            "This product is a brush-on powder format; ALLIE is a one-step lotion texture, complementary rather than directly competing use cases",
+            "This product has a notably higher per-gram cost, taking an even more extreme portable-premium route"
+          ]
+        },
+        {
+          "name": "CEZANNE Sebum Control UV Powder (a representative Japanese value-tier touch-up sunscreen)",
+          "points": [
+            "CEZANNE takes an extreme-value route (roughly ¥900); this product is priced roughly 3-4x higher, taking a route that stacks feature and brand power",
+            "Both lead with the same use case, touching up sunscreen over makeup, making them direct competitors",
+            "This product builds trust through a dense matrix of beauty-media awards; CEZANNE relies more on mass word-of-mouth and value pricing"
+          ]
+        }
+      ],
+      "ja": []
+    },
+    "evidenceStats": {
+      "zh": [
+        "12小时化妆持久效果（标注具体测试方法，未公开样本量）",
+        "VOCE、LIPS、日经トレンディ、日本マーケティング大賞グランプリ等十余项第三方媒体/行业奖项"
+      ],
+      "en": [
+        "12-hour makeup longevity (specific test method footnoted, sample size not disclosed)",
+        "Over a dozen third-party media/industry awards including VOCE, LIPS, Nikkei Trendy, and the Japan Marketing Association's Grand Prix"
+      ],
+      "ja": [
+        "12時間の化粧もち効果（具体的な試験方法は脚注、サンプル数は非公開）",
+        "VOCE、LIPS、日経トレンディ、日本マーケティング大賞グランプリなど十数件の第三者メディア・業界アワード"
+      ]
+    },
+    "experienceItems": {
+      "zh": [
+        "初次使用：拔除刷头白色安全销",
+        "用法：手背/纸巾拍打上粉后，从中心向外侧涂开",
+        "判断标准：肌肤感觉干爽即为完成",
+        "维护：刷头可拆卸水洗，容器支持替换装"
+      ],
+      "en": [
+        "First use: remove the brush's white safety pin",
+        "Usage: tap onto the back of the hand or a tissue to load powder, then sweep from center outward",
+        "Cue: skin feeling smooth and dry signals completion",
+        "Maintenance: brush is detachable and washable, container supports the refill"
+      ],
+      "ja": [
+        "初回使用時：ブラシの白い安全ピンを引き抜く",
+        "使い方：手の甲やティッシュにたたいてパウダーを含ませ、中心から外側へ塗り広げる",
+        "目安：肌がサラサラと感じたら完了",
+        "お手入れ：ブラシは取り外して水洗い可能、容器はレフィル対応"
+      ]
+    },
+    "keyTechnology": {
+      "zh": [
+        {
+          "title": "补妆与防晒融合技术",
+          "desc": "基于\"脱妆部位与紫外线伤害部位高度重合\"这一洞察，把皮脂吸附粉末、透明肤感粉末与防晒剂整合进同一支刷式产品，让补妆动作天然包含防晒补涂功能。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Touch-Up + Sunscreen Fusion Technology",
+          "desc": "Built on the insight that makeup-breakdown zones and UV-damage zones largely overlap, integrating a sebum-absorbing powder, a translucent-feel powder, and UV filters into a single brush product, so the touch-up action naturally includes sunscreen reapplication."
+        }
+      ],
+      "ja": [
+        {
+          "title": "化粧直し＋日焼け止め融合技術",
+          "desc": "「メイク崩れしやすいゾーンと紫外線ダメージが気になる部位は同じ」という洞察に基づき、皮脂吸着パウダー、透明感パウダー、紫外線防御成分を1本のブラシ製品に統合し、化粧直しの動作が自然に日焼け止めの塗り直しを兼ねるようにしている。"
+        }
+      ]
+    }
   }
 ]
