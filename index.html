@@ -202,7 +202,7 @@ try{
   document.body.innerHTML='<p style=\'padding:40px;font-family:sans-serif;line-height:1.6\'>数据加载失败，请确认 products.zh-en.json 与 index.html 放在同一目录下，然后刷新页面重试。<br><br>Failed to load product data. Make sure products.zh-en.json is in the same folder as index.html, then refresh the page.</p>';
   return;
 }
- const KEY='competitor-library-v71';
+ const KEY='competitor-library-v72';
 const SB_URL='https://aevvtswznvogtkoomvge.supabase.co';
 const SB_KEY='sb_publishable_euGSL8LNh-xZ9e3iPiK7Yg_b560gbSM';
 const SB_TABLE='user_comments';
@@ -651,14 +651,7 @@ async function exportPptx(listArg){
   if(typeof PptxGenJS==='undefined'){toast(lang==='zh'?'PPT组件加载失败，请确认网络连接':'PPT library failed to load; check your connection');return}
   const savedLang=lang;
   lang='en';
-  try{
-  const pptx=new PptxGenJS();
-  pptx.layout='LAYOUT_WIDE';
-  pptx.author='Competitor Library';
-  pptx.subject='Competitive intelligence';
-  pptx.title='Competitor Library';
-  pptx.company='Internal';
-  pptx.lang='en-US';
+  const exportList=(listArg&&listArg.length)?listArg:(selectedForExport.size?products.filter(p=>selectedForExport.has(p.id)):products);
 
   function imgOpt(u){ return u&&u.startsWith('data:') ? {data:u} : {path:u}; }
   const ACCENT='C15B72';
@@ -667,7 +660,18 @@ async function exportPptx(listArg){
 
   function estLines(str,charsPerLine){ return Math.max(1,Math.ceil((str||'').length/charsPerLine)); }
 
-  const exportList=(listArg&&listArg.length)?listArg:(selectedForExport.size?products.filter(p=>selectedForExport.has(p.id)):products);
+  // Builds the whole deck. includeImages=false is used as a fallback when a product image
+  // fails to embed (e.g. the source site blocks cross-origin image loading), so the export
+  // still succeeds with text-only slides rather than failing the whole download.
+  function buildDeck(includeImages){
+  const pptx=new PptxGenJS();
+  pptx.layout='LAYOUT_WIDE';
+  pptx.author='Competitor Library';
+  pptx.subject='Competitive intelligence';
+  pptx.title='Competitor Library';
+  pptx.company='Internal';
+  pptx.lang='en-US';
+
   exportList.forEach((p)=>{
     const slide=pptx.addSlide();
     slide.background={color:'FFFFFF'};
@@ -758,28 +762,41 @@ async function exportPptx(listArg){
     }
 
     // Images (right column, clean product shots, up to 3) — spans full content height for even distribution
-    const images=(p.images||[]).slice(0,3);
-    const imgX=9.35, imgW=3.45;
-    const imgTop=1.35, imgBottom=7.1, imgSpan=imgBottom-imgTop;
-    if(images[0]){
-      const h0=images.length>1?imgSpan*0.62:imgSpan;
-      try{ slide.addImage({...imgOpt(images[0]),x:imgX,y:imgTop,w:imgW,h:h0,sizing:{type:'contain',w:imgW,h:h0}}); }catch(e){}
-      if(images[1]){
-        const y2=imgTop+h0+0.2;
-        const h2=imgBottom-y2;
-        const halfImgW=(imgW-0.15)/2;
-        try{ slide.addImage({...imgOpt(images[1]),x:imgX,y:y2,w:halfImgW,h:h2,sizing:{type:'contain',w:halfImgW,h:h2}}); }catch(e){}
-        if(images[2]){
-          try{ slide.addImage({...imgOpt(images[2]),x:imgX+halfImgW+0.15,y:y2,w:halfImgW,h:h2,sizing:{type:'contain',w:halfImgW,h:h2}}); }catch(e){}
+    if(includeImages){
+      const images=(p.images||[]).slice(0,3);
+      const imgX=9.35, imgW=3.45;
+      const imgTop=1.35, imgBottom=7.1, imgSpan=imgBottom-imgTop;
+      if(images[0]){
+        const h0=images.length>1?imgSpan*0.62:imgSpan;
+        try{ slide.addImage({...imgOpt(images[0]),x:imgX,y:imgTop,w:imgW,h:h0,sizing:{type:'contain',w:imgW,h:h0}}); }catch(e){}
+        if(images[1]){
+          const y2=imgTop+h0+0.2;
+          const h2=imgBottom-y2;
+          const halfImgW=(imgW-0.15)/2;
+          try{ slide.addImage({...imgOpt(images[1]),x:imgX,y:y2,w:halfImgW,h:h2,sizing:{type:'contain',w:halfImgW,h:h2}}); }catch(e){}
+          if(images[2]){
+            try{ slide.addImage({...imgOpt(images[2]),x:imgX+halfImgW+0.15,y:y2,w:halfImgW,h:h2,sizing:{type:'contain',w:halfImgW,h:h2}}); }catch(e){}
+          }
         }
       }
     }
   });
+  return pptx;
+  }
 
-  await pptx.writeFile({fileName:'Competitor_Library_EN.pptx'});
+  try{
+    const pptx=buildDeck(true);
+    await pptx.writeFile({fileName:'Competitor_Library_EN.pptx'});
   }catch(err){
-    console.error('exportPptx failed:',err);
-    toast((savedLang==='zh'?'幻灯片生成出错：':'Slide generation error: ')+(err&&err.message?err.message:err));
+    console.error('exportPptx with images failed, retrying without images:',err);
+    try{
+      const pptxNoImg=buildDeck(false);
+      await pptxNoImg.writeFile({fileName:'Competitor_Library_EN.pptx'});
+      toast(savedLang==='zh'?'部分产品图片加载失败，已生成不含图片的幻灯片':'Some product images failed to load; generated slides without images instead');
+    }catch(err2){
+      console.error('exportPptx retry without images also failed:',err2);
+      toast((savedLang==='zh'?'幻灯片生成出错：':'Slide generation error: ')+(err2&&err2.message?err2.message:err2));
+    }
   }finally{
     lang=savedLang;
   }
