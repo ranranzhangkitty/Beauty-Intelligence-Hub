@@ -202,7 +202,7 @@ try{
   document.body.innerHTML='<p style=\'padding:40px;font-family:sans-serif;line-height:1.6\'>数据加载失败，请确认 products.zh-en.json 与 index.html 放在同一目录下，然后刷新页面重试。<br><br>Failed to load product data. Make sure products.zh-en.json is in the same folder as index.html, then refresh the page.</p>';
   return;
 }
- const KEY='competitor-library-v70';
+ const KEY='competitor-library-v71';
 const SB_URL='https://aevvtswznvogtkoomvge.supabase.co';
 const SB_KEY='sb_publishable_euGSL8LNh-xZ9e3iPiK7Yg_b560gbSM';
 const SB_TABLE='user_comments';
@@ -679,8 +679,8 @@ async function exportPptx(listArg){
     slide.addText(`${catLbl} · ${typeLabel(p.productType,p.vertical)||''}`,{x:leftX,y:0.88,w:leftW,h:0.25,fontFace:'Montserrat',fontSize:11,color:GREY});
 
     let y=1.35;
-    function label(text,x,w){
-      slide.addText(text,{x,y,w,h:0.24,fontFace:'Montserrat',fontSize:10.5,bold:true,color:ACCENT,charSpacing:1});
+    function label(text,x,w,y0){
+      slide.addText(text,{x,y:y0!==undefined?y0:y,w,h:0.24,fontFace:'Montserrat',fontSize:10.5,bold:true,color:ACCENT,charSpacing:1});
     }
     function value(text,x,y0,w,fontSize,lines,italic){
       slide.addText(text||'—',{x,y:y0,w,h:0.24*lines+0.1,fontFace:'Montserrat',fontSize:fontSize||13,color:INK,italic:!!italic,valign:'top'});
@@ -714,51 +714,47 @@ async function exportPptx(listArg){
       y+=0.44;
     }
 
-    // Positioning (merged with target users)
+    // --- Remaining flexible-length sections: Positioning, Key Technology, Key Claims, Core Ingredients ---
+    // Compute all texts up front so we can fit them into the remaining space without overflowing the slide.
     const targetPhrase=biList(p.targetUsers).slice(0,2).join(', ');
     const posText=[targetPhrase?`For ${targetPhrase}`:'',bi(p.positioning)].filter(Boolean).join(' — ');
-    if(posText){
-      label(lang==='zh'?'定位':'Positioning',leftX,leftW);
-      y+=0.26;
-      const lines=estLines(posText,68);
-      value(posText,leftX,y,leftW,13,lines);
-      y+=0.24*lines+0.22;
-    }
-
-    // Key Technology
     const techTxt=biList(p.keyTechnology).map(x=>x.title).join(' · ');
-    if(techTxt){
-      label(lang==='zh'?'核心技术':'Key Technology',leftX,leftW);
-      y+=0.26;
-      const lines=estLines(techTxt,68);
-      value(techTxt,leftX,y,leftW,13,lines);
-      y+=0.24*lines+0.22;
-    }
-
-    // Key Claims
     const claimsTxt=biList(p.keyClaims).join(' · ');
-    if(claimsTxt){
-      label(lang==='zh'?'核心卖点':'Key Claims',leftX,leftW);
-      y+=0.26;
-      const lines=estLines(claimsTxt,68);
-      value(claimsTxt,leftX,y,leftW,13,lines);
-      y+=0.24*lines+0.22;
-    }
-
-    // Core Ingredients
     let ingTxt=biList(p.heroIngredients).map(x=>x.name).join(', ');
     if(!ingTxt) ingTxt=bi(p.ingredients);
-    if(ingTxt){
-      label(lang==='zh'?'核心成分':'Core Ingredients',leftX,leftW);
-      y+=0.26;
-      const lines=estLines(ingTxt,68);
-      value(ingTxt,leftX,y,leftW,13,lines);
-      y+=0.24*lines+0.22;
+
+    const sections=[
+      {label:lang==='zh'?'定位':'Positioning',text:posText},
+      {label:lang==='zh'?'核心技术':'Key Technology',text:techTxt},
+      {label:lang==='zh'?'核心卖点':'Key Claims',text:claimsTxt},
+      {label:lang==='zh'?'核心成分':'Core Ingredients',text:ingTxt}
+    ].filter(s=>s.text);
+
+    // Budget: leave room for the source line near the bottom of the slide.
+    const budget=7.0-y;
+    const baseFontSize=13, baseCpl=68, baseLineH=0.24, baseGap=0.26+0.22; // label height (0.26) + line height + inter-section gap
+
+    // Find the largest font size (stepping down from 13pt) whose estimated total height fits the budget.
+    const candidateSizes=[13,12,11,10,9,8.5,8];
+    let chosenSize=8, chosenCpl=baseCpl*(baseFontSize/8);
+    for(const fs of candidateSizes){
+      const cpl=Math.round(baseCpl*(baseFontSize/fs));
+      const totalH=sections.reduce((sum,s)=>sum+0.26+baseLineH*(fs/baseFontSize)*estLines(s.text,cpl)+0.22,0);
+      if(totalH<=budget || fs===8){ chosenSize=fs; chosenCpl=cpl; break; }
     }
+    const lineH=baseLineH*(chosenSize/baseFontSize);
+
+    sections.forEach(s=>{
+      label(s.label,leftX,leftW,y);
+      y+=0.26;
+      const lines=estLines(s.text,chosenCpl);
+      slide.addText(s.text,{x:leftX,y,w:leftW,h:lineH*lines+0.1,fontFace:'Montserrat',fontSize:chosenSize,color:INK,valign:'top'});
+      y+=lineH*lines+0.22;
+    });
 
     // Source (link only, same color as body text)
     if(p.sources && p.sources[0]){
-      slide.addText(p.sources[0][1],{x:leftX,y:Math.min(y+0.05,7.05),w:leftW,h:0.25,fontFace:'Montserrat',fontSize:10,color:INK});
+      slide.addText(p.sources[0][1],{x:leftX,y:Math.min(y+0.05,7.25),w:leftW,h:0.25,fontFace:'Montserrat',fontSize:9,color:INK});
     }
 
     // Images (right column, clean product shots, up to 3) — spans full content height for even distribution
