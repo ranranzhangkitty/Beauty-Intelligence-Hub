@@ -220,7 +220,7 @@ try{
   document.body.innerHTML='<p style=\'padding:40px;font-family:sans-serif;line-height:1.6\'>数据加载失败，请确认 products.zh-en.json 与 index.html 放在同一目录下，然后刷新页面重试。<br><br>Failed to load product data. Make sure products.zh-en.json is in the same folder as index.html, then refresh the page.</p>';
   return;
 }
- const KEY='competitor-library-v78';
+ const KEY='competitor-library-v79';
 const SB_URL='https://aevvtswznvogtkoomvge.supabase.co';
 const SB_KEY='sb_publishable_euGSL8LNh-xZ9e3iPiK7Yg_b560gbSM';
 const SB_TABLE='user_comments';
@@ -415,8 +415,10 @@ if(statLine){const vList=products.filter(p=>(p.vertical||'hair')===vertical);sta
 function priceDots(p){
   const tierRaw=(biObj(p.pricePositioning)||{}).tier||'mass';
   const order=['mass','masstige','premium','luxury'];
+  const labels=['Mass','Masstige','Premium','Luxury'];
   const idx=Math.max(0,order.indexOf(tierRaw));
-  return '\u25cf'.repeat(idx+1)+'\u25cb'.repeat(3-idx);
+  const dots=order.map((o,i)=>i===idx?'\u25cf':'\u25cb').join('');
+  return dots+' '+labels[idx];
 }
 function cardHtml(p,i){
   const img0=esc(p.images?.[0]||'');
