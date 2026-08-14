@@ -23,58 +23,8 @@
 #wishToggle.active svg [fill]:not([fill="none"]){fill:#fff}
 .nav-badge{position:absolute;top:-6px;right:-7px;min-width:19px;height:19px;padding:0 5px;border-radius:10px;background:var(--plum);color:#fff;font-size:10px;font-weight:700;display:flex;align-items:center;justify-content:center;border:2px solid var(--paper);line-height:1}
 /* ---------- wishlist view ---------- */
-.wl-head{border-bottom:1px solid var(--line);padding-bottom:14px;margin-bottom:18px}
-.wl-eyebrow{font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--plum);font-weight:700;margin-bottom:8px}
-.wl-title{font-family:'Noto Sans SC',sans-serif;font-weight:900;font-size:28px;margin:0 0 7px}
-.wl-desc{margin:0;color:var(--ink-soft);font-size:12.5px;line-height:1.7;max-width:660px}
-.wl-form{background:#fff;border:1px solid var(--line);border-radius:6px;margin-bottom:18px;overflow:hidden}
-.wl-form-head{background:var(--plum-soft);color:#8B3A52;padding:7px 12px;font-size:9.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase}
-.wl-form-body{padding:14px}
-.wl-row{display:grid;grid-template-columns:190px 1fr;gap:9px;margin-bottom:9px}
-.wl-form input,.wl-form textarea{width:100%;border:1px solid var(--line);border-radius:4px;padding:8px 11px;font-size:12.5px;color:var(--ink);font-family:var(--sans)}
-.wl-form textarea{resize:vertical;min-height:56px;line-height:1.55}
-.wl-form input:focus,.wl-form textarea:focus{outline:none;border-color:var(--plum)}
-.wl-form input::placeholder,.wl-form textarea::placeholder{color:#B4B9C2}
-.wl-form-foot{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
-.wl-hint{font-size:10.5px;color:var(--grey);line-height:1.5}
-.wl-submit{border:1px solid var(--plum);background:var(--plum);color:#fff;font-weight:700;padding:9px 20px;border-radius:4px;font-size:12.5px}
-.wl-submit:disabled{opacity:.5;cursor:default}
-.wl-bar{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:12px}
-.wl-tabs{display:flex;gap:7px;flex-wrap:wrap}
-.wl-tab{font-size:11.5px;padding:6px 13px;border-radius:20px;border:1px solid var(--line);background:#fff;color:var(--ink-soft)}
-.wl-tab.on{background:#000;border-color:#000;color:#fff;font-weight:700}
-.wl-sorts{display:flex;gap:7px}
-.wl-sortb{font-size:11.5px;padding:6px 12px;border-radius:4px}
-.wl-sortb.on{border-color:var(--plum);color:var(--plum);font-weight:700}
-.wl-table{width:100%;border-collapse:separate;border-spacing:0;background:#fff;border:1px solid var(--line);border-radius:6px;overflow:hidden}
-.wl-table th{background:var(--plinth);font-size:9px;letter-spacing:.08em;text-transform:uppercase;color:var(--grey);font-weight:700;text-align:left;padding:9px 12px;border-bottom:1px solid var(--line);white-space:nowrap}
-.wl-table td{padding:12px;border-bottom:1px solid var(--line);font-size:12px;vertical-align:top;line-height:1.55}
-.wl-table tr:last-child td{border-bottom:0}
-.wl-table tbody tr:hover{background:#FDF7F8}
-.wl-c-vote{width:62px}.wl-c-prod{min-width:210px}.wl-c-who{width:110px}.wl-c-reason{min-width:230px}.wl-c-status{width:118px}.wl-c-act{width:90px}
-.wl-vote{width:46px;padding:5px 0;border:1px solid var(--line);border-radius:6px;background:#fff;display:flex;flex-direction:column;align-items:center;gap:1px;line-height:1.1}
-.wl-vote .car{font-size:8px;color:var(--grey)}
-.wl-vote .num{font-size:14px;font-weight:800}
-.wl-vote.voted{border-color:var(--plum);background:var(--plum-soft);color:#8B3A52}
-.wl-vote.voted .car{color:#8B3A52}
-.wl-pname{font-weight:700;font-size:12.5px;margin-bottom:3px}
-.wl-pname.noname{color:#C2C6CE;font-weight:600;font-style:italic}
-.wl-plink{font-size:10.5px;color:var(--honey);text-decoration:none;border-bottom:1px solid var(--honey-soft);word-break:break-all}
-.wl-plink:hover{border-bottom-color:var(--honey)}
-.wl-golink{display:inline-flex;align-items:center;gap:4px;font-size:10.5px;color:var(--plum);font-weight:700;text-decoration:none;margin-top:4px;cursor:pointer}
-.wl-who{font-weight:700;font-size:11.5px}
-.wl-date{font-size:10px;color:var(--grey);margin-top:2px}
-.wl-reason{color:var(--ink-soft);white-space:pre-wrap;word-break:break-word;overflow-wrap:anywhere}
-.wl-reason.empty{color:#C2C6CE;font-style:italic}
-.wl-st{display:inline-block;font-size:10px;font-weight:700;padding:4px 10px;border-radius:20px;white-space:nowrap}
-.wl-st-todo{background:var(--plum-soft);color:#8B3A52}
-.wl-st-done{background:#DCEFE0;color:#2C6B3F}
-.wl-stsel{margin-top:6px;width:100%;font-size:10.5px;padding:4px 6px;border:1px solid var(--line);border-radius:4px;color:var(--ink-soft);background:#fff;font-family:var(--sans)}
-.wl-del{font-size:10px;padding:4px 9px;border-radius:4px;color:#8B3A52;border:1px solid var(--line)}
-.wl-del:hover{background:var(--plum);color:#fff;border-color:var(--plum)}
-.wl-empty td{text-align:center;color:var(--grey);font-size:12px;padding:34px 12px}
-@media(max-width:900px){.wl-row{grid-template-columns:1fr}.wl-c-reason{min-width:150px}}
-@media print{#wishlistView{display:none!important}}
+.wl-head{border-bottom:1px solid var(--n-line);padding-bottom:14px;margin-bottom:18px;font-family:var(--n-sans)}.wl-eyebrow{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--n-soft);font-weight:700;margin-bottom:8px}.wl-title{font-family:var(--n-sans);font-weight:800;font-size:26px;margin:0 0 7px;color:var(--n-ink)}.wl-desc{margin:0;color:var(--n-soft);font-size:12.5px;line-height:1.7;max-width:660px}.wl-form{background:#fff;border:1px solid var(--n-line);border-radius:12px;margin-bottom:18px;overflow:hidden;font-family:var(--n-sans)}.wl-form-head{background:var(--n-accent-soft);color:oklch(0.4 0.15 340);padding:8px 14px;font-size:10.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase}.wl-form-body{padding:14px}.wl-row{display:grid;grid-template-columns:190px 1fr;gap:9px;margin-bottom:9px}.wl-row input,.wl-row textarea{border:1px solid var(--n-line);border-radius:8px;padding:9px 12px;font-size:12.5px;font-family:inherit;background:#fff}.wl-form-foot{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}.wl-hint{font-size:10.5px;color:var(--n-soft);line-height:1.5}.wl-submit{border:1px solid var(--n-ink);background:var(--n-ink);color:#fff;font-weight:700;padding:9px 20px;border-radius:999px;font-size:12.5px;cursor:pointer}.wl-submit:hover{opacity:.85}.wl-bar{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:12px;font-family:var(--n-sans)}.wl-tabs,.wl-sorts{display:flex;gap:6px}.wl-tab{font-size:11.5px;padding:7px 14px;border-radius:999px;border:1px solid var(--n-line);background:#fff;color:var(--n-soft);cursor:pointer}.wl-tab.on{background:var(--n-ink);color:#fff;border-color:var(--n-ink)}.wl-sortb{font-size:11.5px;padding:7px 12px;border-radius:8px;border:1px solid var(--n-line);background:#fff;color:var(--n-soft);cursor:pointer}.wl-sortb.on{border-color:var(--n-accent);background:var(--n-accent-soft);color:oklch(0.4 0.15 340)}.wl-table{width:100%;border-collapse:separate;border-spacing:0;background:#fff;border:1px solid var(--n-line);border-radius:12px;overflow:hidden;font-family:var(--n-sans)}.wl-row{grid-template-columns:1fr}.wl-c-reason{min-width:150px}
+.wl-table th{text-align:left;font-size:10.5px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--n-soft);padding:10px 12px;border-bottom:1px solid var(--n-line);background:oklch(0.97 0 0)}.wl-table td{padding:12px;border-bottom:1px solid var(--n-line);font-size:12.5px;color:var(--n-ink);vertical-align:top}.wl-table tr:last-child td{border-bottom:none}.wl-vote{display:flex;flex-direction:column;align-items:center;gap:2px;border:1px solid var(--n-line);background:#fff;border-radius:10px;padding:6px 10px;cursor:pointer;color:var(--n-soft)}.wl-vote .car{font-size:10px;line-height:1}.wl-vote .num{font-size:13px;font-weight:700;color:var(--n-ink)}.wl-vote.voted{border-color:var(--n-accent);background:var(--n-accent-soft);color:oklch(0.4 0.15 340)}.wl-vote.voted .num{color:oklch(0.4 0.15 340)}.wl-pname{font-weight:700;font-size:12.5px;color:var(--n-ink)}.wl-pname.noname{font-weight:400;color:var(--n-soft);font-style:italic}.wl-plink{display:block;font-size:11px;color:var(--n-accent);text-decoration:none;margin-top:2px}.wl-plink:hover{text-decoration:underline}.wl-golink{font-size:11px;color:var(--n-blue);cursor:pointer;text-decoration:none}.wl-golink:hover{text-decoration:underline}.wl-who{font-weight:600;font-size:12px}.wl-date{font-size:10.5px;color:var(--n-soft);margin-top:2px}.wl-reason{font-size:12px;line-height:1.5;color:oklch(0.35 0 0)}.wl-reason.empty{color:var(--n-soft);font-style:italic}.wl-st{display:inline-block;font-size:10.5px;font-weight:700;padding:4px 10px;border-radius:999px;margin-bottom:4px}.wl-st-todo{background:var(--n-accent-soft);color:oklch(0.4 0.15 340)}.wl-st-done{background:oklch(0.93 0.06 145);color:oklch(0.4 0.12 145)}.wl-stsel{display:block;font-size:11px;border:1px solid var(--n-line);border-radius:8px;padding:4px 8px;font-family:inherit;background:#fff}.wl-del{border:1px solid var(--n-line);background:#fff;color:var(--n-soft);font-size:11px;padding:6px 12px;border-radius:8px;cursor:pointer}.wl-del:hover{border-color:oklch(0.55 0.18 25);color:oklch(0.5 0.18 25)}.wl-empty td{text-align:center;color:var(--n-soft);padding:24px 12px;font-size:12.5px}@media print{#wishlistView{display:none!important}}
 .library-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:14px}
 
 .export-bar{display:none;align-items:center;gap:10px;padding:10px 14px;background:#F5DEE3;border-radius:6px;margin-bottom:14px;width:fit-content}
@@ -212,7 +162,7 @@ try{
   document.body.innerHTML='<p style=\'padding:40px;font-family:sans-serif;line-height:1.6\'>数据加载失败，请确认 products.zh-en.json 与 index.html 放在同一目录下，然后刷新页面重试。<br><br>Failed to load product data. Make sure products.zh-en.json is in the same folder as index.html, then refresh the page.</p>';
   return;
 }
- const KEY='competitor-library-v81';
+ const KEY='competitor-library-v83';
 const SB_URL='https://aevvtswznvogtkoomvge.supabase.co';
 const SB_KEY='sb_publishable_euGSL8LNh-xZ9e3iPiK7Yg_b560gbSM';
 const SB_TABLE='user_comments';
@@ -404,13 +354,17 @@ if(!q){sc.style.display='none'}else{const n=visible().length;sc.style.display=''
 const statLine=document.getElementById('statLine');
 if(statLine){const vList=products.filter(p=>(p.vertical||'hair')===vertical);statLine.textContent=visible().length+' / '+vList.length+' '+tr().total;}
 }
-function priceDots(p){
+function priceTierInfo(p){
   const tierRaw=(biObj(p.pricePositioning)||{}).tier||'mass';
   const order=['mass','masstige','premium','luxury'];
   const labels=['Mass','Masstige','Premium','Luxury'];
   const idx=Math.max(0,order.indexOf(tierRaw));
   const dots=order.map((o,i)=>i===idx?'\u25cf':'\u25cb').join('');
-  return dots+' '+labels[idx];
+  return {dots,label:labels[idx]};
+}
+function priceDotsHtml(p,dotSize,labelSize){
+  const info=priceTierInfo(p);
+  return `<span style="font-family:var(--n-mono);font-size:${dotSize}">${info.dots}</span><span style="font-family:var(--n-sans);font-size:${labelSize};font-weight:700;margin-left:4px">${info.label}</span>`;
 }
 function cardHtml(p,i){
   const img0=esc(p.images?.[0]||'');
@@ -423,7 +377,7 @@ function cardHtml(p,i){
       <div class="n-tag-row">${typeLabel(p.productType,p.vertical)?`<span class="n-mini-tag type">${typeLabel(p.productType,p.vertical)}</span>`:''}<span class="n-mini-tag region">${catLabel(p.category)}</span></div>
       <div class="n-card-brand">${esc(bi(p.brand))}</div>
       <div class="n-card-name">${esc(bi(p.name))}</div>
-      <span class="n-price-dots">${priceDots(p)}</span>
+      <span class="n-price-dots">${priceDotsHtml(p,'11px','11px')}</span>
     </div>
   </div>`;
 }
@@ -600,16 +554,15 @@ function modalHtml(p,idx){
       <div class="n-modal-tags">
         <span class="n-tag">${catLabel(p.category)}</span>
         <span class="n-tag">${typeLabel(p.productType,p.vertical)}</span>
-        <span class="n-price-mono">${priceDots(p)}</span>
+        <span class="n-price-mono">${priceDotsHtml(p,'13px','12.5px')}</span>
       </div>
-      ${tagline?`<p class="n-quote">\u201c${esc(tagline)}\u201d</p>`:''}
-
       <div class="n-fact-grid">
         <div><div class="n-fact-label">${t.company}</div><div class="n-fact-val" contenteditable="true" data-key="company">${esc(bi(p.company))}</div></div>
         <div><div class="n-fact-label">${t.origin}</div><div class="n-fact-val" contenteditable="true" data-key="origin">${esc(bi(p.origin))}</div></div>
         <div><div class="n-fact-label">${t.capacity}</div><div class="n-fact-val" contenteditable="true" data-key="capacity">${esc(bi(p.capacity))}</div></div>
         <div><div class="n-fact-label">${t.price}</div><div class="n-fact-val" contenteditable="true" data-key="price">${esc(bi(p.price))}</div></div>
       </div>
+      ${tagline?`<p class="n-quote">\u201c${esc(tagline)}\u201d</p>`:''}
 
       <div class="n-sect-label">${t.positioning}</div>
       <div class="n-body-text" contenteditable="true" data-key="positioning">${esc(bi(p.positioning))}</div>
@@ -674,17 +627,17 @@ function renderFeedbackItems(root,rows){
   const list=root.querySelector('#feedbackList');
   if(!list) return;
   if(!rows.length){
-    list.innerHTML=`<span class="feedback-empty">${tr().feedbackEmpty}</span>`;
+    list.innerHTML=`<p class="n-body-text" style="opacity:.6">${tr().feedbackEmpty}</p>`;
     return;
   }
-  list.innerHTML=rows.map(r=>`<div class="feedback-item" data-cid="${r.id}"><div class="feedback-item-head"><span class="feedback-item-name">${esc(r.name)}</span><div class="feedback-item-date-wrap"><span class="feedback-item-date">${fmtDateSlash(r.created_at)}</span><button class="feedback-item-del" data-del="${r.id}" title="Delete">✕</button></div></div><p class="feedback-item-text">${esc(r.comment)}</p></div>`).join('');
+  list.innerHTML=rows.map(r=>`<div class="n-comment" data-cid="${r.id}"><div style="display:flex;justify-content:space-between;align-items:center;gap:8px"><b style="font-size:11.5px;color:var(--n-ink)">${esc(r.name)}</b><span style="display:flex;align-items:center;gap:6px"><span style="font-size:10px;opacity:.55;color:var(--n-soft)">${fmtDateSlash(r.created_at)}</span><button data-del="${r.id}" title="Delete" style="border:none;background:none;cursor:pointer;color:var(--n-soft);font-size:11px;padding:2px">\u2715</button></span></div><p style="margin:4px 0 0;font-size:12.5px;line-height:1.5;color:oklch(0.32 0 0)">${esc(r.comment)}</p></div>`).join('');
   list.querySelectorAll('[data-del]').forEach(btn=>{
     btn.onclick=async()=>{
       if(!sbClient) return;
       try{
         await sbClient.from(SB_TABLE).delete().eq('id',btn.dataset.del);
-        btn.closest('.feedback-item').remove();
-        if(!list.querySelector('.feedback-item')) list.innerHTML=`<span class="feedback-empty">${tr().feedbackEmpty}</span>`;
+        btn.closest('.n-comment').remove();
+        if(!list.querySelector('.n-comment')) list.innerHTML=`<p class="n-body-text" style="opacity:.6">${tr().feedbackEmpty}</p>`;
       }catch(err){
         console.warn(err);
         toast(tr().feedbackSendErr);
