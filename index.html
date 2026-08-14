@@ -220,7 +220,7 @@ try{
   document.body.innerHTML='<p style=\'padding:40px;font-family:sans-serif;line-height:1.6\'>数据加载失败，请确认 products.zh-en.json 与 index.html 放在同一目录下，然后刷新页面重试。<br><br>Failed to load product data. Make sure products.zh-en.json is in the same folder as index.html, then refresh the page.</p>';
   return;
 }
- const KEY='competitor-library-v77';
+ const KEY='competitor-library-v78';
 const SB_URL='https://aevvtswznvogtkoomvge.supabase.co';
 const SB_KEY='sb_publishable_euGSL8LNh-xZ9e3iPiK7Yg_b560gbSM';
 const SB_TABLE='user_comments';
@@ -581,7 +581,7 @@ function modalTechHtml(p){
 function modalAdvHtml(p){
   const adv=biList(p.competitiveAdvantage);
   if(!adv.length) return '';
-  return `<div class="n-sect-label blue">${tr().competitiveAdvantage}</div><div class="n-three-col">${adv.map(c=>`<div><div class="n-adv-col-title">VS ${esc(c.name)}</div><div class="n-body-text">${(c.points||[]).map(x=>'· '+esc(x)).join('<br>')}</div></div>`).join('')}</div>`;
+  return `<div class="n-sect-label">${tr().competitiveAdvantage}</div><div class="n-three-col">${adv.map(c=>`<div><div class="n-adv-col-title">VS ${esc(c.name)}</div><div class="n-body-text">${(c.points||[]).map(x=>'· '+esc(x)).join('<br>')}</div></div>`).join('')}</div>`;
 }
 function modalHtml(p,idx){
   const t=tr();
@@ -636,8 +636,8 @@ function modalHtml(p,idx){
       </div>
 
       <div class="n-two-col" style="margin-top:16px">
-        <div><div class="n-sect-label blue">${t.marketChannel}</div>${marketHtml}</div>
-        <div><div class="n-sect-label blue">${t.packaging}</div><div class="n-body-text" contenteditable="true" data-key="packaging">${esc(bi(p.packaging))}</div></div>
+        <div><div class="n-sect-label">${t.marketChannel}</div>${marketHtml}</div>
+        <div><div class="n-sect-label">${t.packaging}</div><div class="n-body-text" contenteditable="true" data-key="packaging">${esc(bi(p.packaging))}</div></div>
       </div>
 
       ${modalAdvHtml(p)}
