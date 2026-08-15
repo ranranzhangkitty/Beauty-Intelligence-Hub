@@ -17091,7 +17091,7 @@
   },
   {
     "id": "paixao-oleo-corporal-rosas-brancas",
-    "vertical": "skincare",
+    "vertical": "body",
     "category": "brazil",
     "productType": "oil",
     "addedAt": 49,
@@ -17421,7 +17421,7 @@
   },
   {
     "id": "boticario-nativa-spa-vanilla-body-oil",
-    "vertical": "skincare",
+    "vertical": "body",
     "category": "brazil",
     "productType": "oil",
     "addedAt": 50,
@@ -17746,7 +17746,7 @@
   },
   {
     "id": "soldejaneiro-glowmotions-body-glow-oil",
-    "vertical": "skincare",
+    "vertical": "body",
     "category": "usa",
     "productType": "oil",
     "addedAt": 51,
@@ -18085,7 +18085,7 @@
   },
   {
     "id": "soldejaneiro-cheirosa-62-perfume-mist",
-    "vertical": "skincare",
+    "vertical": "body",
     "category": "usa",
     "productType": "mist",
     "addedAt": 52,
@@ -18407,7 +18407,7 @@
   },
   {
     "id": "soldejaneiro-brazilian-bum-bum-cream",
-    "vertical": "skincare",
+    "vertical": "body",
     "category": "usa",
     "productType": "cream",
     "addedAt": 53,
@@ -18768,7 +18768,7 @@
   },
   {
     "id": "soldejaneiro-beija-flor-body-wash",
-    "vertical": "skincare",
+    "vertical": "body",
     "category": "usa",
     "productType": "cleanser",
     "addedAt": 54,
@@ -19099,7 +19099,7 @@
   },
   {
     "id": "soldejaneiro-bum-bum-firmeza-oil",
-    "vertical": "skincare",
+    "vertical": "body",
     "category": "usa",
     "productType": "oil",
     "addedAt": 55,
@@ -19448,7 +19448,7 @@
   },
   {
     "id": "natura-tododia-morango-baunilha-dourada-creme",
-    "vertical": "skincare",
+    "vertical": "body",
     "category": "brazil",
     "productType": "bodycream",
     "addedAt": 56,
@@ -19785,7 +19785,7 @@
   },
   {
     "id": "aura-beauty-afrodite-garden-body-splash",
-    "vertical": "skincare",
+    "vertical": "body",
     "category": "brazil",
     "productType": "mist",
     "addedAt": 57,
