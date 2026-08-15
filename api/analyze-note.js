@@ -17,7 +17,10 @@ export default async function handler(req,res){
     const ai=await aiRes.json(),raw=String(ai.choices?.[0]?.message?.content||'').replace(/^```json|```$/g,'').trim(),match=raw.match(/\{[\s\S]*\}/);
     let result;try{result=JSON.parse(match?match[0]:raw)}catch{result={core_highlight:raw||'Image analysis completed.'}}
     const fields=['category','title','brand','source','price','launch_date','market','core_highlight','core_benefit','consumer_insight','ocr_text'];
-    const update=Object.fromEntries(fields.filter(k=>typeof result[k]==='string').map(k=>[k,result[k].slice(0,8000)]));update.status='Ready';update.last_edited_by_name='New Finds';update.last_edited_at=new Date().toISOString();
-    const saved=await fetch(`${url}/rest/v1/screenshot_notes?id=eq.${encodeURIComponent(noteId)}`,{method:'PATCH',headers:{...headers,Prefer:'return=representation'},body:JSON.stringify(update)});if(!saved.ok)throw Error('Supabase could not save the analysis.');return res.status(200).json({note:(await saved.json())[0]});
+    const update=Object.fromEntries(fields.filter(k=>typeof result[k]==='string').map(k=>[k,result[k].slice(0,8000)]));
+    const allowedCategories=['New Launch','Trend Insight','Ingredient Intelligence','Packaging Design','Pricing Strategy','Channel & Marketing','Other'];
+    if(!allowedCategories.includes(update.category))update.category=allowedCategories.includes(note.category)?note.category:'Other';
+    update.status='Ready';update.last_edited_by_name='New Finds';update.last_edited_at=new Date().toISOString();
+    const saved=await fetch(`${url}/rest/v1/screenshot_notes?id=eq.${encodeURIComponent(noteId)}`,{method:'PATCH',headers:{...headers,Prefer:'return=representation'},body:JSON.stringify(update)});if(!saved.ok)throw Error('Supabase could not save the analysis: '+await saved.text());return res.status(200).json({note:(await saved.json())[0]});
   }catch(error){console.error('New Finds analysis error:',error);await fetch(`${url}/rest/v1/screenshot_notes?id=eq.${encodeURIComponent(noteId)}`,{method:'PATCH',headers,body:JSON.stringify({status:'Pending Analysis'})}).catch(()=>{});return res.status(500).json({error:error.message||'Analysis failed'});}
 }
