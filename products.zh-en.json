@@ -18300,5 +18300,1219 @@
         }
       ]
     }
+  },
+  {
+    "id": "pattern-leave-in-conditioner",
+    "category": "usa",
+    "productType": "conditioner",
+    "addedAt": 63,
+    "name": {
+      "zh": "",
+      "en": "PATTERN Leave-In Conditioner for Curls & Coils"
+    },
+    "brand": {
+      "zh": "",
+      "en": "PATTERN Beauty"
+    },
+    "company": {
+      "zh": "",
+      "en": "PATTERN Beauty, founded by Tracee Ellis Ross"
+    },
+    "origin": {
+      "zh": "",
+      "en": "United States"
+    },
+    "launch": {
+      "zh": "",
+      "en": "PATTERN's original bestselling leave-in, part of the brand's founding lineup, ongoing"
+    },
+    "market": {
+      "zh": "",
+      "en": "Sephora, Ulta Beauty, Target, brand DTC (patternbeauty.com)"
+    },
+    "capacity": {
+      "zh": "",
+      "en": "9.8 fl oz (also available in 3 fl oz and 25 fl oz)"
+    },
+    "price": {
+      "zh": "",
+      "en": "US$29.00 (9.8 fl oz)"
+    },
+    "positioning": {
+      "zh": "",
+      "en": "PATTERN's original bestselling leave-in conditioner, built for curl types 3A to 4C. The formula centers on a blend of eight natural oils (jojoba, avocado, olive, coconut, sweet almond, shea, tea tree, and argan) plus biotin and honey, designed to detangle, seal in moisture, and give soft curl definition without heavy buildup. Founded by actress Tracee Ellis Ross specifically to serve the curly, coily, and tight-textured community that mainstream haircare had historically underserved."
+    },
+    "target": {
+      "zh": "",
+      "en": "Consumers with curl types 3A-4C seeking a lightweight, multi-oil leave-in for daily detangling and moisture; shoppers drawn to a founder-led, community-first brand story."
+    },
+    "distribution": {
+      "zh": "",
+      "en": "US$29 for 9.8 fl oz (about $2.96/oz), a mid-tier price sitting between drugstore curl brands and prestige salon lines; also sold in a 3 fl oz travel size and a 25 fl oz value size, giving a full range from trial to bulk purchase."
+    },
+    "ingredients": {
+      "zh": "",
+      "en": "Water/Aqua/Eau, Cetearyl Alcohol, Behentrimonium Methosulfate, Butylene Glycol, Caprylic/Capric Triglyceride, Biotin, Persea Gratissima (Avocado) Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Argania Spinosa Kernel Oil, Cocos Nucifera (Coconut) Oil, Olea Europaea (Olive) Fruit Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Aloe Barbadensis Leaf Extract, Ricinus Communis (Castor) Seed Oil, Butyrospermum Parkii (Shea) Butter, Glycerin, Honey/Mel/Miel, Panthenol, Tocopherol, Hydrolyzed Vegetable Protein PG-Propyl Silanetriol, Amodimethicone, Polyquaternium-37, Propylene Glycol Dicaprylate/Dicaprate, Cetrimonium Chloride, Trideceth-15, Trideceth-3, PPG-1 Trideceth-6, C11-13 Isoalkane, Citric Acid, Ethylhexylglycerin, Phenoxyethanol, Aminomethyl Propanol, Potassium Sorbate, Fragrance/Parfum, Benzyl Benzoate, Hexyl Cinnamal, Amyl Cinnamal, Hydroxycitronellal, Linalool, Citronellol, Limonene, Coumarin."
+    },
+    "evidence": {
+      "zh": "",
+      "en": "The brand cites a consumer perception study (63 subjects, 1 week of use) in which 91% agreed the Leave-In Conditioner replenishes moisture. Sample size and methodology beyond that are not disclosed; this is a brand-run perception survey, not independent clinical testing."
+    },
+    "packaging": {
+      "zh": "",
+      "en": "A minimalist round bottle in a neutral palette with the brand's circular logo motif, reading as clean and design-forward rather than overtly \"natural hair\" coded — part of PATTERN's broader positioning as a mainstream prestige brand rather than a niche ethnic-care label."
+    },
+    "insight": {
+      "zh": "",
+      "en": "This product's real asset is a founder whose own hair story is the brand's origin.\n\n* Founder-market fit is the credibility shortcut: Tracee Ellis Ross built PATTERN explicitly to fill a gap she experienced firsthand, giving the brand a authenticity story that's hard for a corporate-owned line to replicate.\n* Eight oils is a legibility strategy, not just a formula: naming eight familiar oils (jojoba, avocado, coconut, argan, etc.) lets consumers feel like they understand the formula at a glance, even though the actual functional differentiation comes from ratios and delivery, not the oil count itself.\n* Distribution breadth signals mainstream ambition: selling at Sephora, Ulta, and Target simultaneously (not just specialty natural-hair retailers) shows PATTERN was built to sit in the general beauty aisle, not a segregated \"textured hair\" section.\n\nStrategic takeaway: a credible founder story tied to an underserved need can carry a brand into mainstream retail distribution faster than product novelty alone."
+    },
+    "notes": {
+      "zh": "",
+      "en": "Data collected 2026-08-14. Information taken from Sephora, Ulta, Target, and PATTERN's official product pages, including the full ingredient list and the brand's own consumer perception study figures."
+    },
+    "images": [
+      "https://www.patternbeauty.com/cdn/shop/files/PATTERN_LeaveIn_9.8oz_Front.png"
+    ],
+    "sources": [
+      [
+        "Official product page (PATTERN Beauty)",
+        "https://patternbeauty.com/products/leave-in"
+      ],
+      [
+        "Retail listing (Ulta Beauty)",
+        "https://www.ulta.com/p/leave-in-conditioner-pimprod2009735"
+      ],
+      [
+        "Retail listing (Sephora)",
+        "https://www.sephora.com/product/P474849"
+      ]
+    ],
+    "targetUsers": {
+      "zh": "",
+      "en": [
+        "Consumers with curl types 3A-4C seeking daily detangling and moisture",
+        "Shoppers drawn to a founder-led, community-first brand story",
+        "Curl/coily hair users buying at mainstream beauty retailers (Sephora, Ulta, Target)"
+      ]
+    },
+    "keyClaims": {
+      "zh": "",
+      "en": [
+        "8-oil blend (jojoba, avocado, coconut, argan, etc.)",
+        "Biotin + honey for moisture and detangling",
+        "91% agreed it replenishes moisture (63-subject study)",
+        "Free of parabens, sulfates, mineral oil, phthalates"
+      ]
+    },
+    "heroIngredients": {
+      "zh": [],
+      "en": [
+        {
+          "name": "8-Oil Blend",
+          "tag": "Core moisture system",
+          "desc": "Jojoba, avocado, olive, coconut, sweet almond, shea, tea tree, and argan oils combined for multi-layer moisture"
+        },
+        {
+          "name": "Biotin + Honey",
+          "tag": "Detangle & seal",
+          "desc": "Biotin supports strand resilience while honey acts as a humectant to seal in moisture"
+        }
+      ]
+    },
+    "ingredientsNote": {
+      "zh": "",
+      "en": "Contains fragrance and several common fragrance allergens (linalool, citronellol, limonene, coumarin); free of parabens, sulfates (SLS/SLES), phthalates, and mineral oil per brand disclosure."
+    },
+    "pricePositioning": {
+      "zh": {
+        "tier": "",
+        "label": ""
+      },
+      "en": {
+        "tier": "masstige",
+        "label": "Mainstream Prestige Curl Care"
+      }
+    },
+    "marketChannel": {
+      "zh": {
+        "global": [],
+        "japan": [],
+        "channelLabel": "",
+        "channelDesc": ""
+      },
+      "en": {
+        "global": [
+          "Sephora",
+          "Target"
+        ],
+        "japan": [
+          "Ulta Beauty",
+          "Brand DTC"
+        ],
+        "channelLabel": "Mainstream Prestige Beauty Retail",
+        "channelDesc": "Distributed across Sephora, Ulta, and Target simultaneously — mainstream general beauty retail rather than a niche natural-hair-only channel."
+      }
+    },
+    "brandConceptRich": {
+      "zh": {
+        "tagline": "",
+        "concept": ""
+      },
+      "en": {
+        "tagline": "Formulated for the unmet beauty needs of curls, coils, and tight textures.",
+        "concept": "PATTERN was founded by actress Tracee Ellis Ross to serve a community she felt mainstream haircare had long underserved. Named for the natural bends, curves, and coils that describe textured hair, the brand built its identity around design-forward packaging and mainstream retail presence rather than a niche \"ethnic hair care\" visual language."
+      }
+    },
+    "competitiveAdvantage": {
+      "zh": [],
+      "en": [
+        {
+          "name": "Camille Rose Curl Love Moisture Milk (already in this library)",
+          "points": [
+            "Camille Rose leans on a botanical/herbal narrative (rice milk, slippery elm); PATTERN leans on a founder-story and multi-oil narrative",
+            "PATTERN is priced notably higher per ounce, positioned as mainstream prestige rather than value",
+            "Both target similar curl types but through different retail channels — PATTERN at Sephora/Ulta/Target, Camille Rose more at Walmart/CVS/Target value aisles"
+          ]
+        },
+        {
+          "name": "Briogeo Curl Charisma Leave-In (already in this library)",
+          "points": [
+            "Briogeo leads with named actives (rice amino acids, tomato ferment); PATTERN leads with a recognizable 8-oil list",
+            "Briogeo is priced slightly lower ($24 vs $29)",
+            "Both compete for the same Sephora/Ulta shelf space and curl-type customer base"
+          ]
+        }
+      ]
+    },
+    "evidenceStats": {
+      "zh": "",
+      "en": [
+        "91% agreed the Leave-In Conditioner replenishes moisture (63-subject consumer perception study, 1 week of use)"
+      ]
+    },
+    "experienceItems": {
+      "zh": "",
+      "en": [
+        "Usage: apply to soaking wet, conditioned hair evenly to all strands",
+        "Also works on dry hair: tames flyaways, adds light hold",
+        "Pro tip: mix in a few drops of PATTERN oil serum for extra moisture boost",
+        "Fragrance: clean floral with neroli, rose, and patchouli notes"
+      ]
+    },
+    "keyTechnology": {
+      "zh": [],
+      "en": [
+        {
+          "title": "8-Oil Blend System",
+          "desc": "Combines eight named plant oils into one formula, giving the product a legible, easy-to-explain ingredient story without requiring consumers to understand complex actives."
+        }
+      ]
+    }
+  },
+  {
+    "id": "camillerose-curl-love-moisture-milk",
+    "category": "usa",
+    "productType": "conditioner",
+    "addedAt": 64,
+    "name": {
+      "zh": "",
+      "en": "Camille Rose Curl Love Moisture Milk"
+    },
+    "brand": {
+      "zh": "",
+      "en": "Camille Rose"
+    },
+    "company": {
+      "zh": "",
+      "en": "Camille Rose Naturals"
+    },
+    "origin": {
+      "zh": "",
+      "en": "United States"
+    },
+    "launch": {
+      "zh": "",
+      "en": "Core item in the Curl Love line, ongoing"
+    },
+    "market": {
+      "zh": "",
+      "en": "Walmart, CVS, Target, Kroger, Amazon, brand DTC (camillerose.com)"
+    },
+    "capacity": {
+      "zh": "",
+      "en": "8 fl oz (also available in a 1.7 fl oz travel size)"
+    },
+    "price": {
+      "zh": "",
+      "en": "US$13.97 (8 fl oz, Walmart)"
+    },
+    "positioning": {
+      "zh": "",
+      "en": "A hand-whipped leave-in \"milk\" built around rice milk and macadamia oil, positioned as a softening, nourishing daily moisturizer for dry, withdrawn curls. The formula leans on a botanical ingredient story (rice milk, slippery elm bark, green tea, aloe) rather than a synthetic-active narrative, consistent with Camille Rose's broader positioning as a natural-leaning, value-priced curl brand."
+    },
+    "target": {
+      "zh": "",
+      "en": "Value-conscious consumers with dry, frizzy curls seeking a botanical-leaning daily leave-in; shoppers who buy curl care at mass retailers like Walmart, CVS, and Target rather than specialty beauty stores."
+    },
+    "distribution": {
+      "zh": "",
+      "en": "US$13.97 for 8 fl oz (about $1.75/oz), a mass-market price point sold primarily through Walmart, CVS, Target, and Kroger rather than prestige beauty retail — positioned for high-frequency, low-cost repurchase."
+    },
+    "ingredients": {
+      "zh": "",
+      "en": "Deionized Water, Behentrimonium Methosulfate, Cetearyl Alcohol, Persea Gratissima (Avocado) Oil, Oryza Sativa (Rice) Bran Oil, Aloe Barbadensis Leaf Juice, Ricinus Communis (Castor) Seed Oil, Macadamia Ternifolia Seed Oil, Sorbitol, Camellia Sinensis (Green Tea) Leaf Extract, Oryza Sativa (Rice) Milk, Rosa Canina (Rosehip) Fruit Oil, Ceteareth-20, Ulmus Fulva (Slippery Elm) Bark Extract, Phenoxyethanol, Caprylyl Glycol, Sorbic Acid, Fragrance."
+    },
+    "evidence": {
+      "zh": "",
+      "en": "No independent clinical data or brand-disclosed consumer study was found for this specific product; ingredient function claims (rice milk for vitamins A/D/B12, macadamia oil for breakage prevention) are general botanical-property statements rather than product-specific test results."
+    },
+    "packaging": {
+      "zh": "",
+      "en": "A simple squeeze bottle with warm, botanical-coded color and typography, reading as an affordable, ingredient-forward everyday product rather than a prestige styling item."
+    },
+    "insight": {
+      "zh": "",
+      "en": "This product wins on the price-per-use math, not the ingredient novelty.\n\n* Botanical naming does double duty: rice milk and macadamia oil are simple enough for a shopper to understand at a glance, while still sounding distinct from generic \"moisturizing\" claims on cheaper store brands.\n* Mass retail is the whole strategy: selling primarily through Walmart, CVS, Target, and Kroger — not Sephora or Ulta — means the product competes on shelf visibility and price, not prestige positioning.\n* No disclosed clinical backing: unlike some competitors in this category, there's no brand-run consumer study or clinical claim attached to this specific product, relying instead on ingredient reputation and price to persuade.\n\nStrategic takeaway: in the value tier of curl care, a simple, nameable botanical story paired with wide mass-retail distribution can compete effectively without clinical substantiation."
+    },
+    "notes": {
+      "zh": "",
+      "en": "Data collected 2026-08-14. Information taken from Walmart, CVS, and Camille Rose's official product listings, including the full ingredient list."
+    },
+    "images": [],
+    "sources": [
+      [
+        "Official product page (Camille Rose)",
+        "https://www.camillerose.com/products/curl-love-moisture-milk"
+      ],
+      [
+        "Ingredients & price (Walmart)",
+        "https://www.walmart.com/ip/Camille-Rose-Curl-Love-Leave-in-Conditioning-Cream-8-oz-Curly-Nourishing-Unisex/135253418"
+      ]
+    ],
+    "targetUsers": {
+      "zh": "",
+      "en": [
+        "Value-conscious consumers with dry, frizzy curls",
+        "Shoppers who buy curl care at mass retailers rather than specialty beauty stores",
+        "Consumers who favor a botanical-leaning ingredient story"
+      ]
+    },
+    "keyClaims": {
+      "zh": "",
+      "en": [
+        "Rice milk + macadamia oil core formula",
+        "Lasting moisture for waves, curls, and coils",
+        "Reduces the appearance of frizz and breakage",
+        "Light vanilla scent"
+      ]
+    },
+    "heroIngredients": {
+      "zh": [],
+      "en": [
+        {
+          "name": "Rice Milk",
+          "tag": "Softening & nourishing",
+          "desc": "Provides vitamins A, D, and B12 to support the look of healthy hair, per the brand"
+        },
+        {
+          "name": "Macadamia Ternifolia Seed Oil",
+          "tag": "Breakage prevention",
+          "desc": "Seals hair strands to help prevent breakage and thinning, per the brand"
+        }
+      ]
+    },
+    "ingredientsNote": {
+      "zh": "",
+      "en": "Contains fragrance and phenoxyethanol/caprylyl glycol as the preservative system; no INCI evidence of sulfates or mineral oil in the formula."
+    },
+    "pricePositioning": {
+      "zh": {
+        "tier": "",
+        "label": ""
+      },
+      "en": {
+        "tier": "mass",
+        "label": "Mass-Market Botanical Curl Care"
+      }
+    },
+    "marketChannel": {
+      "zh": {
+        "global": [],
+        "japan": [],
+        "channelLabel": "",
+        "channelDesc": ""
+      },
+      "en": {
+        "global": [
+          "Walmart",
+          "Amazon"
+        ],
+        "japan": [
+          "CVS",
+          "Target",
+          "Kroger"
+        ],
+        "channelLabel": "Mass Retail Distribution",
+        "channelDesc": "Distributed primarily through Walmart, CVS, Target, and Kroger — mass-market grocery and drugstore retail rather than prestige beauty channels."
+      }
+    },
+    "brandConceptRich": {
+      "zh": {
+        "tagline": "",
+        "concept": ""
+      },
+      "en": {
+        "tagline": "Hand-whipped to perfection with rice milk.",
+        "concept": "Camille Rose builds its Curl Love line around accessible, nameable botanical ingredients (rice milk, macadamia, slippery elm) at a mass-market price point, positioning natural-leaning formulation as an everyday, affordable choice rather than a premium indulgence."
+      }
+    },
+    "competitiveAdvantage": {
+      "zh": [],
+      "en": [
+        {
+          "name": "PATTERN Leave-In Conditioner (already in this library)",
+          "points": [
+            "PATTERN is priced roughly 2x higher per ounce and sold through Sephora/Ulta/Target rather than mass grocery/drugstore",
+            "Camille Rose leans on botanical simplicity; PATTERN leans on a founder-story and 8-oil formula complexity",
+            "Both target similar curl types but occupy different price tiers within the same category"
+          ]
+        },
+        {
+          "name": "SheaMoisture (a representative mass-market curl-care peer)",
+          "points": [
+            "SheaMoisture is the more internationally recognized mass-market curl brand, with broader shelf presence",
+            "Both lean on natural/botanical ingredient storytelling at accessible price points",
+            "Camille Rose differentiates through its specific rice-milk-and-macadamia formula rather than a shea-butter-led narrative"
+          ]
+        }
+      ]
+    },
+    "evidenceStats": {
+      "zh": "",
+      "en": []
+    },
+    "experienceItems": {
+      "zh": "",
+      "en": [
+        "Usage: apply evenly from roots to ends after cleansing and conditioning",
+        "Also usable as a curl refresher on damp or dry hair",
+        "Texture: thick, silky \"milk\" consistency",
+        "Scent: light vanilla"
+      ]
+    },
+    "keyTechnology": {
+      "zh": [],
+      "en": [
+        {
+          "title": "Rice Milk + Macadamia Oil Base",
+          "desc": "Combines rice milk (vitamins A, D, B12) with macadamia seed oil (strand-sealing) as the formula's two named core ingredients, kept simple and easy to explain to value-conscious shoppers."
+        }
+      ]
+    }
+  },
+  {
+    "id": "ouai-leave-in-conditioner",
+    "category": "usa",
+    "productType": "conditioner",
+    "addedAt": 65,
+    "name": {
+      "zh": "",
+      "en": "OUAI Leave-In Conditioner (Detangling and Frizz Fighting)"
+    },
+    "brand": {
+      "zh": "",
+      "en": "OUAI"
+    },
+    "company": {
+      "zh": "",
+      "en": "OUAI Haircare, founded by Jen Atkin"
+    },
+    "origin": {
+      "zh": "",
+      "en": "United States"
+    },
+    "launch": {
+      "zh": "",
+      "en": "A core item in OUAI's haircare range, ongoing"
+    },
+    "market": {
+      "zh": "",
+      "en": "Sephora, Ulta Beauty, Kohl's, brand DTC (theouai.com)"
+    },
+    "capacity": {
+      "zh": "",
+      "en": "4.7 fl oz / 140 mL (also available in a 1.5 fl oz travel size)"
+    },
+    "price": {
+      "zh": "",
+      "en": "US$32.00 (4.7 fl oz)"
+    },
+    "positioning": {
+      "zh": "",
+      "en": "A multitasking leave-in mist that detangles, hydrates, fights frizz, and provides heat protection up to 450°F/232°C, built around tamarind seed extract for weightless hydration plus panthenol and vitamin E for conditioning. Positioned as a pre-styling primer as much as a moisture treatment — designed to be used before brushing or heat styling, not just as a standalone curl moisturizer."
+    },
+    "target": {
+      "zh": "",
+      "en": "Consumers across straight, wavy, curly, and coily hair textures who want one product to cover detangling, frizz control, and heat protection; users who prioritize a lifestyle-brand aesthetic alongside function."
+    },
+    "distribution": {
+      "zh": "",
+      "en": "US$32 for 4.7 fl oz (about $6.81/oz), among the higher per-ounce prices in this curl/detangle leave-in set, consistent with OUAI's broader positioning as a premium celebrity-stylist-founded lifestyle haircare brand rather than a curl-specialist line."
+    },
+    "ingredients": {
+      "zh": "",
+      "en": "Aqua/Water/Eau, Cyclopentasiloxane, Cetearyl Alcohol, Quaternium-91, Parfum/Fragrance, Phenoxyethanol, Adansonia Digitata Seed Oil, Argania Spinosa Kernel Oil, Oenothera Biennis (Evening Primrose) Oil, Tocopheryl Acetate, Hydrolyzed Rhodophyceae Extract, Tamarindus Indica Extract, Panthenol, and additional conditioning and fragrance components."
+    },
+    "evidence": {
+      "zh": "",
+      "en": "The brand states that when used before heat styling, the product reduces hair breakage by 52%; no sample size, testing institution, or methodology is disclosed alongside this figure, so it should be read as a brand-stated claim rather than independently verified data."
+    },
+    "packaging": {
+      "zh": "",
+      "en": "A minimalist glass-look spray bottle in OUAI's signature clean, Instagram-friendly aesthetic, part of a broader lifestyle-brand visual identity shared across the brand's shampoo, styling, and fragrance lines."
+    },
+    "insight": {
+      "zh": "",
+      "en": "This product's differentiation is functional breadth, not curl-specific formulation depth.\n\n* One product covers three jobs: detangling, frizz control, and heat protection are bundled into a single spray, competing less with dedicated curl creams and more with generic multi-benefit hair mists.\n* A specific breakage number does real work: the \"reduces breakage by 52%\" claim, even undisclosed in methodology, is more persuasive than a vague \"protects hair\" line, and it's the kind of number that gets repeated in reviews and social content.\n* Lifestyle branding extends beyond the bottle: OUAI's product design and tone are consistent across haircare, body care, and fragrance, so this leave-in also functions as a low-cost entry point into the wider OUAI lifestyle ecosystem.\n\nStrategic takeaway: a leave-in doesn't have to specialize in one hair concern — bundling detangling, frizz, and heat protection into one spray can compete on convenience against more curl-specific single-purpose products."
+    },
+    "notes": {
+      "zh": "",
+      "en": "Data collected 2026-08-14. Information taken from Sephora, Kohl's, and OUAI's official product pages, including the full ingredient list and the brand's disclosed breakage-reduction claim."
+    },
+    "images": [],
+    "sources": [
+      [
+        "Official product page (OUAI)",
+        "https://theouai.com/products/leave-in-conditioner"
+      ],
+      [
+        "Retail listing (Sephora)",
+        "https://www.sephora.com/product/leave-in-conditioner-P428222"
+      ]
+    ],
+    "targetUsers": {
+      "zh": "",
+      "en": [
+        "Consumers across hair textures wanting one multitasking leave-in",
+        "Users who prioritize pre-heat-styling protection",
+        "Shoppers drawn to OUAI's lifestyle-brand aesthetic"
+      ]
+    },
+    "keyClaims": {
+      "zh": "",
+      "en": [
+        "Detangles, hydrates, and fights frizz",
+        "Heat protection up to 450°F/232°C",
+        "Reduces hair breakage by 52% when used before heat styling",
+        "Vegan, cruelty-free, sulfate-free"
+      ]
+    },
+    "heroIngredients": {
+      "zh": [],
+      "en": [
+        {
+          "name": "Tamarind Seed Extract",
+          "tag": "Weightless hydration",
+          "desc": "Provides hydration without weighing hair down, per the brand"
+        },
+        {
+          "name": "Panthenol + Vitamin E",
+          "tag": "Conditioning & detangling",
+          "desc": "Condition strands and support detangling"
+        }
+      ]
+    },
+    "ingredientsNote": {
+      "zh": "",
+      "en": "Contains cyclopentasiloxane (a silicone) as an early-listed ingredient, differing from several competitors in this set that market themselves as silicone-free; contains fragrance and several fragrance allergens."
+    },
+    "pricePositioning": {
+      "zh": {
+        "tier": "",
+        "label": ""
+      },
+      "en": {
+        "tier": "premium",
+        "label": "Premium Lifestyle Multitasking Leave-In"
+      }
+    },
+    "marketChannel": {
+      "zh": {
+        "global": [],
+        "japan": [],
+        "channelLabel": "",
+        "channelDesc": ""
+      },
+      "en": {
+        "global": [
+          "Sephora",
+          "Brand DTC"
+        ],
+        "japan": [
+          "Ulta Beauty",
+          "Kohl's"
+        ],
+        "channelLabel": "Premium Beauty Retail",
+        "channelDesc": "Distributed through Sephora, Ulta, and Kohl's alongside the brand's own DTC site, consistent with OUAI's premium lifestyle-brand positioning."
+      }
+    },
+    "brandConceptRich": {
+      "zh": {
+        "tagline": "",
+        "concept": ""
+      },
+      "en": {
+        "tagline": "Feeling knotty? Say OUAI to smooth, silky hair.",
+        "concept": "Founded by celebrity hairstylist Jen Atkin, OUAI built its identity around a casual, aspirational lifestyle aesthetic that spans haircare, body care, and fragrance. The Leave-In Conditioner reflects this multitasking, editorial approach — designed to be a do-it-all product rather than a specialist for one hair concern."
+      }
+    },
+    "competitiveAdvantage": {
+      "zh": [],
+      "en": [
+        {
+          "name": "Kérastase Curl Manifesto Leave-In Cream (already in this library)",
+          "points": [
+            "Kérastase is priced higher and specializes specifically in curly/coily hair; OUAI is formulated for all hair textures",
+            "Kérastase discloses detailed clinical curl-definition data; OUAI discloses a single breakage-reduction figure",
+            "OUAI's spray-mist format differs from Kérastase's cream format, appealing to different application preferences"
+          ]
+        },
+        {
+          "name": "Briogeo Curl Charisma Leave-In (already in this library)",
+          "points": [
+            "Briogeo is curl-specific and lower-priced; OUAI is a general-purpose multitasker priced higher",
+            "OUAI leans on lifestyle-brand aesthetics; Briogeo leans on named natural actives (rice amino acids, tomato ferment)",
+            "Both are silicone considerations differ — OUAI contains cyclopentasiloxane, Briogeo markets as silicone-free"
+          ]
+        }
+      ]
+    },
+    "evidenceStats": {
+      "zh": "",
+      "en": [
+        "Reduces hair breakage by 52% when used before heat styling (brand-stated, methodology undisclosed)"
+      ]
+    },
+    "experienceItems": {
+      "zh": "",
+      "en": [
+        "Usage: spray 6-8 inches from the eyeline down on freshly cleansed, damp hair",
+        "Distribute with a wide-tooth comb from the eyeline down",
+        "Doubles as a pre-heat-styling primer",
+        "Scent: North Bondi — bergamot, violet, and white musk"
+      ]
+    },
+    "keyTechnology": {
+      "zh": [],
+      "en": [
+        {
+          "title": "Multi-Benefit Mist Formula",
+          "desc": "Combines detangling, frizz control, and thermal protection into a single lightweight spray format, positioning the product as a styling-routine primer rather than a dedicated curl-cream alternative."
+        }
+      ]
+    }
+  },
+  {
+    "id": "kerastase-curl-manifesto-leavein",
+    "category": "europe",
+    "productType": "conditioner",
+    "addedAt": 66,
+    "name": {
+      "zh": "",
+      "en": "Kérastase Curl Manifesto Hydrating Leave-In Cream"
+    },
+    "brand": {
+      "zh": "",
+      "en": "Kérastase"
+    },
+    "company": {
+      "zh": "",
+      "en": "Kérastase, part of L'Oréal Group"
+    },
+    "origin": {
+      "zh": "",
+      "en": "France"
+    },
+    "launch": {
+      "zh": "",
+      "en": "Headline item in the Curl Manifesto collection, developed with input from scientists and hairstylists"
+    },
+    "market": {
+      "zh": "",
+      "en": "Sephora, Kérastase salons, brand DTC (kerastase-usa.com)"
+    },
+    "capacity": {
+      "zh": "",
+      "en": "5.1 fl oz / 150 mL"
+    },
+    "price": {
+      "zh": "",
+      "en": "US$50.00 (5.1 fl oz)"
+    },
+    "positioning": {
+      "zh": "",
+      "en": "A lightweight leave-in cream for all curly and coily hair types, built around Manuka honey and a patented ceramide (developed over 4 years of research) to restore, strengthen, and intensely moisturize curls. Positioned as the headline product of the full Curl Manifesto system (shampoo, conditioner, mask, oil, leave-in, gel-cream, restyling spray), with the brand explicitly recommending the full routine for maximum benefit."
+    },
+    "target": {
+      "zh": "",
+      "en": "Curly, wavy, and coily hair consumers seeking a salon-professional, clinically substantiated leave-in; existing Kérastase or L'Oréal Professionnel salon clients looking to extend their in-salon routine at home."
+    },
+    "distribution": {
+      "zh": "",
+      "en": "US$50 for 5.1 fl oz (about $9.80/oz), the most expensive item in this leave-in comparison set, consistent with Kérastase's salon-professional positioning and L'Oréal-backed R&D narrative."
+    },
+    "ingredients": {
+      "zh": "",
+      "en": "Aqua/Water/Eau, Glycerin, Cetearyl Alcohol, Helianthus Annuus Seed Oil/Sunflower Seed Oil, Hydroxypropyl Guar, Stearamidopropyl Dimethylamine, Cetyl Esters, Caprylyl Glycol, Glyceryl Stearate, Salicylic Acid, Benzyl Salicylate, Linalool, Benzyl Alcohol, Tartaric Acid, Mel Extract/Honey Extract, 2-Oleamido-1,3-Octadecanediol, Citric Acid, Parfum/Fragrance."
+    },
+    "evidence": {
+      "zh": "",
+      "en": "In a controlled study comparing the Curl Manifesto Leave-In Cream system against a non-conditioning shampoo, the brand reports 72% more curl definition and 74% more conditioned hair with no weigh-down; a separate figure cites an 86% reduction in breakage. Sample sizes, testing institution, and full methodology are not disclosed in the retail-facing materials reviewed."
+    },
+    "packaging": {
+      "zh": "",
+      "en": "A cream-colored jar-and-tube format consistent with Kérastase's broader Curl Manifesto line packaging, positioned visually as a salon-professional treatment rather than a mass-market styling product."
+    },
+    "insight": {
+      "zh": "",
+      "en": "This product's real asset is the R&D story behind one ingredient, not the ingredient itself.\n\n* A patented ceramide becomes a headline claim: the brand emphasizes \"4 years of research\" behind its ceramide ingredient, turning a common cosmetic ingredient class into a proprietary-sounding technology story.\n* Clinical figures are specific and stacked: 72% more definition, 86% less breakage, 74% more conditioned hair — three distinct numbers cover three distinct benefits, giving the brand more individually quotable claims than a single overall satisfaction score.\n* The product is designed to sell a system, not a single item: the brand explicitly recommends using the leave-in alongside the rest of the Curl Manifesto line, positioning this product as one entry point into a multi-step, higher-total-spend routine.\n\nStrategic takeaway: naming and researching one specific ingredient (like a patented ceramide) can justify a premium price more effectively than a longer generic ingredient list."
+    },
+    "notes": {
+      "zh": "",
+      "en": "Data collected 2026-08-14. Information taken from Kohl's, Liberty Center, and Kérastase's official product pages, including the full ingredient list and the brand's disclosed clinical claim figures."
+    },
+    "images": [],
+    "sources": [
+      [
+        "Official collection page (Kérastase USA)",
+        "https://www.kerastase-usa.com/collections/curl-manifesto"
+      ],
+      [
+        "Retail listing with clinical claims (Liberty Center)",
+        "https://www.liberty-center.com/buy/product/curl-manifesto-hydrating-leave-in-cream-for-curly-hair-sephora-433bed"
+      ]
+    ],
+    "targetUsers": {
+      "zh": "",
+      "en": [
+        "Curly, wavy, and coily hair consumers seeking a salon-professional leave-in",
+        "Existing Kérastase/L'Oréal Professionnel salon clients",
+        "Consumers who respond to disclosed clinical claim figures"
+      ]
+    },
+    "keyClaims": {
+      "zh": "",
+      "en": [
+        "+72% more curl definition",
+        "+86% reduction in breakage",
+        "Up to 24 hours of humidity protection",
+        "Heat protection against diffusing tools"
+      ]
+    },
+    "heroIngredients": {
+      "zh": [],
+      "en": [
+        {
+          "name": "Manuka Honey",
+          "tag": "Intense hydration",
+          "desc": "A rare, mineral-rich honey used for intense hydration and smoothing"
+        },
+        {
+          "name": "Patented Ceramide",
+          "tag": "Strand strengthening",
+          "desc": "Developed over 4 years of research, described as filling gaps in and reinforcing weakened hair"
+        }
+      ]
+    },
+    "ingredientsNote": {
+      "zh": "",
+      "en": "Contains salicylic acid at a low concentration as part of the formula system; contains fragrance and benzyl salicylate/linalool as disclosed allergens."
+    },
+    "pricePositioning": {
+      "zh": {
+        "tier": "",
+        "label": ""
+      },
+      "en": {
+        "tier": "luxury",
+        "label": "Salon-Professional Curl System"
+      }
+    },
+    "marketChannel": {
+      "zh": {
+        "global": [],
+        "japan": [],
+        "channelLabel": "",
+        "channelDesc": ""
+      },
+      "en": {
+        "global": [
+          "Sephora",
+          "Brand DTC"
+        ],
+        "japan": [
+          "Kérastase salons"
+        ],
+        "channelLabel": "Salon + Prestige Retail",
+        "channelDesc": "Distributed through Kérastase's salon network and Sephora, reinforcing a professional, in-salon-to-at-home continuity narrative."
+      }
+    },
+    "brandConceptRich": {
+      "zh": {
+        "tagline": "",
+        "concept": ""
+      },
+      "en": {
+        "tagline": "A daily ritual for soft, vibrant, and beautifully defined curls.",
+        "concept": "Kérastase built the Curl Manifesto collection in close collaboration between scientists and hairstylists, aiming to give every curl type — from loose waves to tight coils — definition, strength, and protection through a complete multi-step system rather than a single product."
+      }
+    },
+    "competitiveAdvantage": {
+      "zh": [],
+      "en": [
+        {
+          "name": "Moroccanoil Intense Curl Cream (already in this library)",
+          "points": [
+            "Kérastase discloses specific clinical percentages (72% definition, 86% less breakage); Moroccanoil's marketing leans on ingredient story (argan oil) without disclosed clinical figures",
+            "Kérastase is priced higher and sold through a salon network; Moroccanoil is more broadly available at mass beauty retailers",
+            "Both are positioned as premium curl leave-ins but differ in evidence-based versus ingredient-story positioning"
+          ]
+        },
+        {
+          "name": "OUAI Leave-In Conditioner (already in this library)",
+          "points": [
+            "Kérastase is curl-specific with a full companion system; OUAI is a general-purpose multitasker for all hair types",
+            "Kérastase's price is roughly 56% higher per ounce",
+            "Kérastase leans on salon-professional credibility; OUAI leans on lifestyle-brand aesthetics"
+          ]
+        }
+      ]
+    },
+    "evidenceStats": {
+      "zh": "",
+      "en": [
+        "+72% more curl definition (controlled study vs. non-conditioning shampoo)",
+        "+86% reduction in breakage",
+        "+74% more conditioned hair with no weigh-down"
+      ]
+    },
+    "experienceItems": {
+      "zh": "",
+      "en": [
+        "Usage: apply generously to wet, towel-dried hair from roots to ends",
+        "Rake and scrunch to encourage curl pattern formation",
+        "Complete the routine with the full Curl Manifesto system for maximum benefit",
+        "Fragrance: Floral Manifesto — frangipani, jasmine, tuberose, white musk, honey"
+      ]
+    },
+    "keyTechnology": {
+      "zh": [],
+      "en": [
+        {
+          "title": "Patented Ceramide + Manuka Honey Complex",
+          "desc": "Combines a patented ceramide (4 years of R&D) with Manuka honey to simultaneously strengthen the hair shaft and deliver intense hydration, forming the technical basis for the brand's disclosed clinical claims."
+        }
+      ]
+    }
+  },
+  {
+    "id": "moroccanoil-intense-curl-cream",
+    "category": "usa",
+    "productType": "conditioner",
+    "addedAt": 67,
+    "name": {
+      "zh": "",
+      "en": "Moroccanoil Intense Curl Cream"
+    },
+    "brand": {
+      "zh": "",
+      "en": "Moroccanoil"
+    },
+    "company": {
+      "zh": "",
+      "en": "Moroccanoil Israel Ltd."
+    },
+    "origin": {
+      "zh": "",
+      "en": "Israel"
+    },
+    "launch": {
+      "zh": "",
+      "en": "A core item in Moroccanoil's curl-care range, ongoing"
+    },
+    "market": {
+      "zh": "",
+      "en": "Bluemercury, Amazon, salons, brand DTC (moroccanoil.com)"
+    },
+    "capacity": {
+      "zh": "",
+      "en": "10.2 fl oz / 300 mL"
+    },
+    "price": {
+      "zh": "",
+      "en": "US$36.00 (10.2 fl oz)"
+    },
+    "positioning": {
+      "zh": "",
+      "en": "A rich, no-rinse leave-in conditioner built around the brand's signature argan oil, designed to nourish curls, add shine, and fight frizz without leaving a sticky residue. Positioned as an extension of Moroccanoil's core argan-oil brand identity into the curl-specific category, rather than a standalone curl-technology story."
+    },
+    "target": {
+      "zh": "",
+      "en": "Wavy and curly hair consumers already familiar with or loyal to the Moroccanoil argan-oil brand identity; users seeking maintained curl shape and natural hold without a sticky or heavy after-feel."
+    },
+    "distribution": {
+      "zh": "",
+      "en": "US$36 for 10.2 fl oz (about $3.53/oz), a mid-tier price point among salon-adjacent hair-oil brands, with the large 300 mL size positioning it for value-conscious repeat buyers rather than a trial-size entry point."
+    },
+    "ingredients": {
+      "zh": "",
+      "en": "Aqua/Water/Eau, Cetyl Alcohol, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Parfum/Fragrance, Dimethicone, Glyceryl Stearate, Glyceryl Distearate, Ricinus Communis (Castor) Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Argania Spinosa (Argan) Kernel Oil, Hippophae Rhamnoides (Sea Buckthorn) Fruit Oil, Cetrimonium Chloride, Polyquaternium-7, Stearic Acid, Glycerin, Illite, Sodium Stearate, Ethylhexylglycerin, Caprylyl Glycol, Myristyl Alcohol, Stearyl Alcohol, Citric Acid, Tocopherol, Chlorphenesin, Sodium Benzoate, Phenoxyethanol, Hydroxycitronellal, Linalool, Benzyl Benzoate, Alpha-Isomethyl Ionone. (Note: some older third-party retail listings show an earlier formula containing mineral oil and petrolatum; the ingredient list above reflects the brand's own current product page.)"
+    },
+    "evidence": {
+      "zh": "",
+      "en": "No independent clinical data or brand-disclosed consumer study was found for this specific product; claims (frizz control, no sticky residue, curl shape maintenance) are presented as general product descriptions rather than test-backed figures."
+    },
+    "packaging": {
+      "zh": "",
+      "en": "A dark amber pump bottle with gold accents, matching Moroccanoil's signature brand color scheme across its entire product range, immediately recognizable on shelf regardless of specific product line."
+    },
+    "insight": {
+      "zh": "",
+      "en": "This product's differentiation comes from an established brand identity, not a curl-specific innovation.\n\n* The brand's signature ingredient does the persuading: argan oil is Moroccanoil's founding ingredient story across its whole range, so this curl cream inherits trust built by other products rather than needing to establish new credibility.\n* No disclosed clinical claims, unlike category peers: compared to Kérastase's specific percentage claims, Moroccanoil's curl cream relies on descriptive language (\"without stickiness,\" \"beautifully refreshed\") rather than quantified evidence.\n* Ingredient list has shifted over time: older third-party retail listings show mineral oil and petrolatum in the formula, while the brand's own current page does not list them — a reminder that formulas for long-running products can change without prominent announcement.\n\nStrategic takeaway: a strong existing brand ingredient story (like Moroccanoil's argan oil) can be extended into a new category without needing new clinical substantiation, but researchers should verify ingredient lists against the brand's current official page rather than older retail listings."
+    },
+    "notes": {
+      "zh": "",
+      "en": "Data collected 2026-08-14. Information taken from Bluemercury and Moroccanoil's official product page for the current ingredient list; an older ingredient list circulating on some third-party sites differs and is noted above."
+    },
+    "images": [],
+    "sources": [
+      [
+        "Official product page (Moroccanoil via Bluemercury)",
+        "https://bluemercury.com/products/moroccanoil-intense-curl-cream"
+      ],
+      [
+        "Ingredient comparison (INCIDecoder)",
+        "https://incidecoder.com/products/moroccanoil-intense-curl-cream"
+      ]
+    ],
+    "targetUsers": {
+      "zh": "",
+      "en": [
+        "Wavy and curly hair consumers loyal to the Moroccanoil brand",
+        "Users seeking maintained curl shape without stickiness",
+        "Salon-goers familiar with Moroccanoil's core argan-oil range"
+      ]
+    },
+    "keyClaims": {
+      "zh": "",
+      "en": [
+        "Infused with argan oil",
+        "Fights frizz without stickiness",
+        "Maintains curl shape with soft natural hold",
+        "No-rinse leave-in format"
+      ]
+    },
+    "heroIngredients": {
+      "zh": [],
+      "en": [
+        {
+          "name": "Argania Spinosa (Argan) Kernel Oil",
+          "tag": "Signature brand ingredient",
+          "desc": "Moroccanoil's founding ingredient, extended here into the curl-specific category"
+        },
+        {
+          "name": "Hippophae Rhamnoides (Sea Buckthorn) Fruit Oil",
+          "tag": "Antioxidant support",
+          "desc": "A supporting oil for nourishment alongside argan oil"
+        }
+      ]
+    },
+    "ingredientsNote": {
+      "zh": "",
+      "en": "Contains dimethicone (a silicone); the current official formula does not list mineral oil or petrolatum, though these appear in some older third-party retail ingredient listings — worth verifying against the brand's own page for the most current formula."
+    },
+    "pricePositioning": {
+      "zh": {
+        "tier": "",
+        "label": ""
+      },
+      "en": {
+        "tier": "masstige",
+        "label": "Salon-Adjacent Curl Care"
+      }
+    },
+    "marketChannel": {
+      "zh": {
+        "global": [],
+        "japan": [],
+        "channelLabel": "",
+        "channelDesc": ""
+      },
+      "en": {
+        "global": [
+          "Bluemercury",
+          "Amazon"
+        ],
+        "japan": [
+          "Salons",
+          "Brand DTC"
+        ],
+        "channelLabel": "Salon + Specialty Beauty Retail",
+        "channelDesc": "Distributed through salons and specialty beauty retailers like Bluemercury, consistent with Moroccanoil's salon-origin brand positioning."
+      }
+    },
+    "brandConceptRich": {
+      "zh": {
+        "tagline": "",
+        "concept": ""
+      },
+      "en": {
+        "tagline": "Nourished, shiny, and beautifully refreshed curls.",
+        "concept": "Moroccanoil built its identity around argan oil sourced from Morocco, extending that single-ingredient story across a wide range of hair categories, including this curl-specific leave-in, rather than developing a separate curl-technology narrative."
+      }
+    },
+    "competitiveAdvantage": {
+      "zh": [],
+      "en": [
+        {
+          "name": "Kérastase Curl Manifesto Leave-In Cream (already in this library)",
+          "points": [
+            "Kérastase discloses specific clinical claim percentages; Moroccanoil relies on descriptive, non-quantified language",
+            "Moroccanoil is priced lower per ounce than Kérastase",
+            "Both are salon-adjacent premium brands but differ in evidence-based versus ingredient-story positioning"
+          ]
+        },
+        {
+          "name": "PATTERN Leave-In Conditioner (already in this library)",
+          "points": [
+            "PATTERN uses a named 8-oil blend as its story; Moroccanoil uses a single signature ingredient (argan oil) reinforced by brand history",
+            "Similar price points per ounce",
+            "PATTERN leans on founder story; Moroccanoil leans on decades of established brand recognition"
+          ]
+        }
+      ]
+    },
+    "evidenceStats": {
+      "zh": "",
+      "en": []
+    },
+    "experienceItems": {
+      "zh": "",
+      "en": [
+        "Usage: apply one pump (or more) throughout damp or dry strands",
+        "Style as usual or let hair air dry",
+        "Can be reapplied to dry hair to refresh curls during the day",
+        "No sticky residue after use, per the brand"
+      ]
+    },
+    "keyTechnology": {
+      "zh": [],
+      "en": [
+        {
+          "title": "Argan Oil Brand Extension",
+          "desc": "Extends Moroccanoil's core argan-oil ingredient story into the curl-specific leave-in category, leaning on established brand trust rather than introducing a new named technology."
+        }
+      ]
+    }
+  },
+  {
+    "id": "briogeo-curl-charisma-leavein",
+    "category": "usa",
+    "productType": "conditioner",
+    "addedAt": 68,
+    "name": {
+      "zh": "",
+      "en": "Briogeo Curl Charisma Rice Amino + Avocado Leave-In Defining Crème"
+    },
+    "brand": {
+      "zh": "",
+      "en": "Briogeo"
+    },
+    "company": {
+      "zh": "",
+      "en": "Briogeo Hair Care, founded by Nancy Twine"
+    },
+    "origin": {
+      "zh": "",
+      "en": "United States"
+    },
+    "launch": {
+      "zh": "",
+      "en": "Briogeo's #1 bestselling curl styler of all time, per the brand, ongoing"
+    },
+    "market": {
+      "zh": "",
+      "en": "Sephora, Ulta Beauty, Kohl's, Amazon, brand DTC (briogeohair.com)"
+    },
+    "capacity": {
+      "zh": "",
+      "en": "5 fl oz (also available in a 2 fl oz travel size)"
+    },
+    "price": {
+      "zh": "",
+      "en": "US$24.00 (Sephora)"
+    },
+    "positioning": {
+      "zh": "",
+      "en": "A 95% naturally derived styling cream built around rice amino acids, avocado oil, quinoa extract, and tomato fruit ferment extract, positioned to hydrate, define, and weather-proof curls, coils, and waves with a light, flexible hold that dries down smooth rather than crunchy. Marketed as Briogeo's single best-selling curl product, designed to be layered under the brand's companion Curl Charisma gel for added hold."
+    },
+    "target": {
+      "zh": "",
+      "en": "Curl types 2A to 4C seeking a lightweight, naturally derived defining cream without a crunchy cast; consumers who prioritize a sulfate- and silicone-free clean-beauty formula."
+    },
+    "distribution": {
+      "zh": "",
+      "en": "US$24 for 5 fl oz (about $4.80/oz), positioned in the mid-tier of this comparison set — above mass-market options but below salon-professional and lifestyle-premium peers — consistent with Briogeo's \"accessible clean beauty\" positioning."
+    },
+    "ingredients": {
+      "zh": "",
+      "en": "Water/Aqua/Eau, Polyquaternium-37, Oryza Sativa (Rice) Amino Acids, Hydrolyzed Quinoa, Persea Gratissima (Avocado) Oil, Glycine Soja (Soybean) Oil, Lactobacillus/Solanum Lycopersicum (Tomato) Ferment Extract, Aloe Barbadensis Leaf Juice, Tocopheryl Acetate, Panthenol, Citric Acid, Hydrolyzed Keratin, Sorbitol, Keratin Amino Acids, Citrus Aurantium Dulcis (Orange) Peel Oil, Citrus Grandis (Grapefruit) Peel Oil, Santalum Album (Sandalwood) Oil, Vanilla Planifolia Fruit Extract, Citrus Tangerina (Tangerine) Peel Oil, Cananga Odorata Flower Oil, Fragrance/Parfum, PPG-1 Trideceth-6, Polyquaternium-10, Polyquaternium-72, Dehydroacetic Acid, Benzyl Alcohol."
+    },
+    "evidence": {
+      "zh": "",
+      "en": "No independent clinical data or brand-disclosed consumer study percentage was found for this specific product; claims (hydration, frizz reduction, no crunch) are presented as descriptive product benefits rather than quantified test results."
+    },
+    "packaging": {
+      "zh": "",
+      "en": "A clear tube with the brand's signature botanical illustration and clean typography, visually consistent with Briogeo's broader \"clean beauty\" product line design language."
+    },
+    "insight": {
+      "zh": "",
+      "en": "This product's edge is a clean-beauty formulation story layered onto a named-actives ingredient list.\n\n* Named actives replace vague botanical claims: rice amino acids, quinoa extract, and tomato fruit ferment are each given a specific function (sealing the cuticle, nourishing texture, supporting curl formation), a more structured story than a generic \"natural oils\" claim.\n* \"95% naturally derived\" is a specific, quotable number: like other brands in this set using precise figures, this percentage gives clean-beauty-conscious shoppers a concrete data point rather than an unquantified \"natural\" label.\n* Designed as the base layer of a system, not a standalone product: the brand explicitly recommends layering the companion Curl Charisma gel on top for added hold, following the same multi-step system logic used by Kérastase's Curl Manifesto line.\n\nStrategic takeaway: giving each named ingredient a specific function, plus a quantified \"percent natural\" claim, makes a clean-beauty formula feel more substantiated than simply listing recognizable plant names."
+    },
+    "notes": {
+      "zh": "",
+      "en": "Data collected 2026-08-14. Information taken from Sephora, Ulta, Kohl's, and Briogeo's official product pages, including the full ingredient list."
+    },
+    "images": [],
+    "sources": [
+      [
+        "Official product page (Briogeo)",
+        "https://www.briogeohair.com/products/curl-charisma-leave-in"
+      ],
+      [
+        "Retail listing (Sephora)",
+        "https://www.sephora.com/product/curl-charisma-rice-amino-avocado-leave-in-defining-creme-P388626"
+      ]
+    ],
+    "targetUsers": {
+      "zh": "",
+      "en": [
+        "Curl types 2A-4C seeking a lightweight defining cream without crunch",
+        "Clean-beauty-conscious consumers",
+        "Users who want to layer with a companion styling gel for added hold"
+      ]
+    },
+    "keyClaims": {
+      "zh": "",
+      "en": [
+        "95% naturally derived",
+        "Rice amino acids seal the cuticle against frizz-inducing humidity",
+        "Sulfate- and silicone-free",
+        "Dries down smooth, never crunchy"
+      ]
+    },
+    "heroIngredients": {
+      "zh": [],
+      "en": [
+        {
+          "name": "Oryza Sativa (Rice) Amino Acids",
+          "tag": "Cuticle sealing",
+          "desc": "Smooths and seals the hair cuticle to lock out frizz-inducing environmental humidity, per the brand"
+        },
+        {
+          "name": "Lactobacillus/Tomato Fruit Ferment Extract",
+          "tag": "Curl formation support",
+          "desc": "Enhances moisture retention to support consistent curl formation and definition"
+        }
+      ]
+    },
+    "ingredientsNote": {
+      "zh": "",
+      "en": "Formulated without sulfates and silicones per brand claims; contains fragrance and citrus peel oils, worth noting for sensitive or photosensitive skin."
+    },
+    "pricePositioning": {
+      "zh": {
+        "tier": "",
+        "label": ""
+      },
+      "en": {
+        "tier": "masstige",
+        "label": "Accessible Clean-Beauty Curl Care"
+      }
+    },
+    "marketChannel": {
+      "zh": {
+        "global": [],
+        "japan": [],
+        "channelLabel": "",
+        "channelDesc": ""
+      },
+      "en": {
+        "global": [
+          "Sephora",
+          "Amazon"
+        ],
+        "japan": [
+          "Ulta Beauty",
+          "Kohl's"
+        ],
+        "channelLabel": "Mainstream Prestige Beauty Retail",
+        "channelDesc": "Distributed across Sephora, Ulta, Kohl's, and Amazon, positioning Briogeo as an accessible clean-beauty option within mainstream prestige retail."
+      }
+    },
+    "brandConceptRich": {
+      "zh": {
+        "tagline": "",
+        "concept": ""
+      },
+      "en": {
+        "tagline": "Soft, shiny, and defined curls, coils, and waves.",
+        "concept": "Founded by Nancy Twine, Briogeo built its identity around clean, naturally derived formulations with named, function-specific active ingredients, positioning itself as a scientifically credible alternative to both purely natural and purely synthetic curl-care brands."
+      }
+    },
+    "competitiveAdvantage": {
+      "zh": [],
+      "en": [
+        {
+          "name": "PATTERN Leave-In Conditioner (already in this library)",
+          "points": [
+            "Briogeo is priced lower ($24 vs $29) and leans on named functional actives; PATTERN leans on a recognizable 8-oil list and founder story",
+            "Both are sold through the same Sephora/Ulta prestige channel and target overlapping curl types",
+            "Briogeo emphasizes a specific \"95% naturally derived\" figure; PATTERN does not disclose a comparable percentage"
+          ]
+        },
+        {
+          "name": "OUAI Leave-In Conditioner (already in this library)",
+          "points": [
+            "Briogeo is curl-specific and silicone-free; OUAI is a general-purpose multitasker that contains a silicone (cyclopentasiloxane)",
+            "Briogeo is priced lower per ounce than OUAI",
+            "Briogeo leans on ingredient function claims; OUAI leans on lifestyle-brand aesthetics and a single breakage-reduction statistic"
+          ]
+        }
+      ]
+    },
+    "evidenceStats": {
+      "zh": "",
+      "en": []
+    },
+    "experienceItems": {
+      "zh": "",
+      "en": [
+        "Usage: apply 1-2 quarter-size amounts to damp hair from root to tip",
+        "Layer under Curl Charisma Frizz Control Gel for added hold",
+        "Air dry or diffuse-dry after application",
+        "Formula is vegan and color-safe"
+      ]
+    },
+    "keyTechnology": {
+      "zh": [],
+      "en": [
+        {
+          "title": "Named Botanical Actives System",
+          "desc": "Assigns each botanical ingredient (rice amino acids, quinoa, tomato ferment) a specific structural function rather than treating them as a generic natural-ingredient list, paired with a disclosed 95% naturally derived formula figure."
+        }
+      ]
+    }
   }
 ]
