@@ -18371,7 +18371,7 @@
       "en": "Data collected 2026-08-14. Information taken from Sephora, Ulta, Target, and PATTERN's official product pages, including the full ingredient list and the brand's own consumer perception study figures."
     },
     "images": [
-      "https://www.patternbeauty.com/cdn/shop/files/PATTERN_LeaveIn_9.8oz_Front.png"
+      "https://patternbeauty.com/cdn/shop/files/RT_LeaveInConditioner9.8oz_Cement_Yellow_copy.jpg?v=1761949321"
     ],
     "sources": [
       [
@@ -18578,7 +18578,9 @@
       "zh": "",
       "en": "Data collected 2026-08-14. Information taken from Walmart, CVS, and Camille Rose's official product listings, including the full ingredient list."
     },
-    "images": [],
+    "images": [
+      "https://www.camillerose.com/cdn/shop/files/ProductCard_Signature_LeaveinConditioner.webp?v=1772795367"
+    ],
     "sources": [
       [
         "Official product page (Camille Rose)",
@@ -18779,7 +18781,9 @@
       "zh": "",
       "en": "Data collected 2026-08-14. Information taken from Sephora, Kohl's, and OUAI's official product pages, including the full ingredient list and the brand's disclosed breakage-reduction claim."
     },
-    "images": [],
+    "images": [
+      "https://theouai.com/cdn/shop/files/Update_3_LIC-NORTHBONDI_Full_Size_260611-18-26_Site_Asset_PDP_Product_Thumbnail_1440x1780_6.jpg?v=1783622693"
+    ],
     "sources": [
       [
         "Official product page (OUAI)",
@@ -18981,7 +18985,9 @@
       "zh": "",
       "en": "Data collected 2026-08-14. Information taken from Kohl's, Liberty Center, and Kérastase's official product pages, including the full ingredient list and the brand's disclosed clinical claim figures."
     },
-    "images": [],
+    "images": [
+      "https://www.kerastase-usa.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-kerastase-master-catalog/default/dw48b11b9d/2021/curl-manifesto/kerastase-creme-de-jour-fondamentale.jpg"
+    ],
     "sources": [
       [
         "Official collection page (Kérastase USA)",
@@ -19184,7 +19190,9 @@
       "zh": "",
       "en": "Data collected 2026-08-14. Information taken from Bluemercury and Moroccanoil's official product page for the current ingredient list; an older ingredient list circulating on some third-party sites differs and is noted above."
     },
-    "images": [],
+    "images": [
+      "https://www.moroccanoil.com/cdn/shop/files/103_STYLE-FINISHER_INTENSE-CURL-CREAM_300mL_v3.jpg?v=1683622662"
+    ],
     "sources": [
       [
         "Official product page (Moroccanoil via Bluemercury)",
@@ -19384,7 +19392,9 @@
       "zh": "",
       "en": "Data collected 2026-08-14. Information taken from Sephora, Ulta, Kohl's, and Briogeo's official product pages, including the full ingredient list."
     },
-    "images": [],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0905/3204/files/01_Curl_Charisma_Creme_On_White.jpg?v=1778174517"
+    ],
     "sources": [
       [
         "Official product page (Briogeo)",
