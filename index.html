@@ -164,7 +164,7 @@ try{
   document.body.innerHTML='<p style=\'padding:40px;font-family:sans-serif;line-height:1.6\'>数据加载失败，请确认 products.zh-en.json 与 index.html 放在同一目录下，然后刷新页面重试。<br><br>Failed to load product data. Make sure products.zh-en.json is in the same folder as index.html, then refresh the page.</p>';
   return;
 }
- const KEY='competitor-library-v104';
+ const KEY='competitor-library-v105';
 const SB_URL='https://aevvtswznvogtkoomvge.supabase.co';
 const SB_KEY='sb_publishable_euGSL8LNh-xZ9e3iPiK7Yg_b560gbSM';
 const SB_TABLE='user_comments';
@@ -362,6 +362,11 @@ function priceTierInfo(p){
   const labels=['Mass','Masstige','Premium','Luxury'];
   const idx=Math.max(0,order.indexOf(tierRaw));
   return {idx,order,label:labels[idx]};
+}
+function priceCapsuleHtml(p){
+  const info=priceTierInfo(p);
+  const caps=info.order.map((o,i)=>`<span style="display:inline-block;width:20px;height:9px;border-radius:999px;background:${i===info.idx?'var(--n-accent)':'#e5e2dc'}"></span>`).join('');
+  return `<span style="display:inline-flex;align-items:center;gap:4px">${caps}</span><span style="font-family:var(--n-sans);font-size:13px;font-weight:800;color:var(--n-accent);margin-left:8px">${info.label}</span>`;
 }
 function priceDotsHtml(p,barH){
   const info=priceTierInfo(p);
@@ -570,7 +575,7 @@ function modalHtml(p,idx){
       <div class="n-modal-tags">
         <span class="n-tag">${catLabel(p.category)}</span>
         <span class="n-tag">${typeLabel(p.productType,p.vertical)}</span>
-        <span class="n-price-mono">${priceDotsHtml(p,'8px')}</span>
+        <span class="n-price-mono">${priceCapsuleHtml(p)}</span>
       </div>
       <div class="n-fact-grid">
         <div><div class="n-fact-label">${t.company}</div><div class="n-fact-val" contenteditable="true" data-key="company">${esc(bi(p.company))}</div></div>
