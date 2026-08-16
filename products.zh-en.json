@@ -18410,12 +18410,22 @@
         {
           "name": "8-Oil Blend",
           "tag": "Core moisture system",
-          "desc": "Jojoba, avocado, olive, coconut, sweet almond, shea, tea tree, and argan oils combined for multi-layer moisture"
+          "desc": "Jojoba, avocado, olive, coconut, sweet almond, shea, tea tree, and argan oils combined into one named blend"
         },
         {
-          "name": "Biotin + Honey",
-          "tag": "Detangle & seal",
-          "desc": "Biotin supports strand resilience while honey acts as a humectant to seal in moisture"
+          "name": "Honey",
+          "tag": "Softening",
+          "desc": "Softens strands and reduces dryness and unwanted frizz"
+        },
+        {
+          "name": "Aloe Vera",
+          "tag": "Lightweight hydration",
+          "desc": "Delivers lightweight hydration while helping lock in moisture"
+        },
+        {
+          "name": "Biotin",
+          "tag": "Strand support",
+          "desc": "A B-vitamin included to support the look of stronger, healthier-appearing strands over time"
         }
       ]
     },
@@ -18467,19 +18477,27 @@
       "zh": [],
       "en": [
         {
-          "name": "Camille Rose Curl Love Moisture Milk (already in this library)",
+          "name": "Camille Rose Curl Love Moisture Milk",
           "points": [
-            "Camille Rose leans on a botanical/herbal narrative (rice milk, slippery elm); PATTERN leans on a founder-story and multi-oil narrative",
-            "PATTERN is priced notably higher per ounce, positioned as mainstream prestige rather than value",
-            "Both target similar curl types but through different retail channels — PATTERN at Sephora/Ulta/Target, Camille Rose more at Walmart/CVS/Target value aisles"
+            "Camille Rose leads with a rice-milk-and-botanical narrative at a lower price point (~$14 for 8oz vs $29 for PATTERN's 9.8oz)",
+            "PATTERN leans more on founder-driven brand storytelling; Camille Rose leans on ingredient-forward, apothecary-style positioning",
+            "Both target the same 3A-4C customer base through similar mass specialty retail channels"
           ]
         },
         {
-          "name": "Briogeo Curl Charisma Leave-In (already in this library)",
+          "name": "Briogeo Curl Charisma Leave-In Defining Creme",
           "points": [
-            "Briogeo leads with named actives (rice amino acids, tomato ferment); PATTERN leads with a recognizable 8-oil list",
-            "Briogeo is priced slightly lower ($24 vs $29)",
-            "Both compete for the same Sephora/Ulta shelf space and curl-type customer base"
+            "Briogeo positions itself as a \"clean\" formula (95% naturally derived, Leaping Bunny certified) with a stronger scientific-sounding ingredient story (tomato fruit ferment, rice amino acids)",
+            "PATTERN's oil-blend story is simpler and more countable (\"8 oils\"); Briogeo's story leans on named actives with specific functions",
+            "Priced similarly (~$28 for Briogeo's 6oz vs $29 for PATTERN's 9.8oz), competing directly in the same masstige tier"
+          ]
+        },
+        {
+          "name": "DevaCurl Leave-In Decadence",
+          "points": [
+            "DevaCurl pioneered the \"low-poo/no-poo\" curly-girl-method philosophy in 1994 and carries decades of category-founder credibility that a newer brand like PATTERN can't claim",
+            "DevaCurl's formula story centers on a single moisture-preserving blend rather than a countable multi-oil claim; PATTERN's \"8 oils\" is easier to repeat and compare",
+            "Both are now owned by larger conglomerates (DevaCurl by Henkel), showing legacy indie curl brands increasingly sit inside corporate portfolios alongside newer founder-led entrants like PATTERN"
           ]
         }
       ]
@@ -18504,7 +18522,11 @@
       "en": [
         {
           "title": "8-Oil Blend System",
-          "desc": "Combines eight named plant oils into one formula, giving the product a legible, easy-to-explain ingredient story without requiring consumers to understand complex actives."
+          "desc": "Combines eight named oils into a single countable claim, simplifying a complex formula into a memorable, repeatable number that's easy to compare against competitors listing individual ingredients."
+        },
+        {
+          "title": "Silicone-Light Slip Agent (Amodimethicone)",
+          "desc": "Uses a single lightweight, water-dispersible silicone for detangling slip rather than heavier occlusive silicone blends, aiming to ease combing without the heavier build-up associated with older silicone technology."
         }
       ]
     }
@@ -18613,13 +18635,18 @@
       "en": [
         {
           "name": "Rice Milk",
-          "tag": "Softening & nourishing",
-          "desc": "Provides vitamins A, D, and B12 to support the look of healthy hair, per the brand"
+          "tag": "Vitamin delivery",
+          "desc": "Offers vitamins A, D, and B12 to support healthy hair growth"
         },
         {
-          "name": "Macadamia Ternifolia Seed Oil",
-          "tag": "Breakage prevention",
-          "desc": "Seals hair strands to help prevent breakage and thinning, per the brand"
+          "name": "Macadamia Seed Oil",
+          "tag": "Strand sealing",
+          "desc": "Seals hair strands to help prevent breakage and thinning"
+        },
+        {
+          "name": "Slippery Elm Bark Extract",
+          "tag": "Detangling",
+          "desc": "Softens and smooths the hair shaft to support detangling"
         }
       ]
     },
@@ -18672,19 +18699,27 @@
       "zh": [],
       "en": [
         {
-          "name": "PATTERN Leave-In Conditioner (already in this library)",
+          "name": "PATTERN Beauty Leave-In Conditioner (already in this library)",
           "points": [
-            "PATTERN is priced roughly 2x higher per ounce and sold through Sephora/Ulta/Target rather than mass grocery/drugstore",
-            "Camille Rose leans on botanical simplicity; PATTERN leans on a founder-story and 8-oil formula complexity",
-            "Both target similar curl types but occupy different price tiers within the same category"
+            "PATTERN is priced roughly double per ounce and leans on celebrity-founder credibility; Camille Rose competes purely on ingredient story and price",
+            "PATTERN discloses a consumer study (91% agreed); Camille Rose discloses no comparable data",
+            "Both target the same 3A-4C customer base but at very different price tiers"
           ]
         },
         {
-          "name": "SheaMoisture (a representative mass-market curl-care peer)",
+          "name": "SheaMoisture leave-in lines",
           "points": [
-            "SheaMoisture is the more internationally recognized mass-market curl brand, with broader shelf presence",
-            "Both lean on natural/botanical ingredient storytelling at accessible price points",
-            "Camille Rose differentiates through its specific rice-milk-and-macadamia formula rather than a shea-butter-led narrative"
+            "Both brands compete in the same mass natural-ingredient tier with similar pricing and Black-owned or Black-founded brand narratives",
+            "SheaMoisture has broader shelf presence across more retail chains; Camille Rose leans more on its DTC site and smaller specialty distribution",
+            "Both rely on named natural ingredients (shea, rice milk, etc.) rather than disclosed clinical data as their primary evidence"
+          ]
+        },
+        {
+          "name": "Mielle Organics Pomegranate & Honey Leave-In",
+          "points": [
+            "Mielle is another Black-owned, natural-ingredient mass brand at a similar price point (~$12-14), making it Camille Rose's closest direct price-tier competitor",
+            "Mielle leans on a pomegranate-and-honey antioxidant narrative; Camille Rose leans on rice milk and macadamia oil, both using food-derived ingredient stories to differentiate at a similar price",
+            "Mielle has grown a larger mainstream retail footprint (Target, Walmart) in recent years, giving it more shelf visibility than Camille Rose in some markets"
           ]
         }
       ]
@@ -18706,8 +18741,8 @@
       "zh": [],
       "en": [
         {
-          "title": "Rice Milk + Macadamia Oil Base",
-          "desc": "Combines rice milk (vitamins A, D, B12) with macadamia seed oil (strand-sealing) as the formula's two named core ingredients, kept simple and easy to explain to value-conscious shoppers."
+          "title": "Hand-Whipped Emulsion Process",
+          "desc": "The brand markets its production method itself as a differentiator, positioning small-batch, hand-whipped mixing as a craft alternative to large-scale industrial emulsification, though no independent verification of the production process was found."
         }
       ]
     }
@@ -18817,12 +18852,17 @@
         {
           "name": "Tamarind Seed Extract",
           "tag": "Weightless hydration",
-          "desc": "Provides hydration without weighing hair down, per the brand"
+          "desc": "Provides weightless hydration to hair"
         },
         {
           "name": "Panthenol + Vitamin E",
-          "tag": "Conditioning & detangling",
-          "desc": "Condition strands and support detangling"
+          "tag": "Conditioning",
+          "desc": "Condition and detangle hair while protecting against breakage"
+        },
+        {
+          "name": "Baobab Seed Oil",
+          "tag": "Antioxidant support",
+          "desc": "A nutrient-dense oil included for its antioxidant profile, supporting the formula's lightweight conditioning claim"
         }
       ]
     },
@@ -18874,19 +18914,27 @@
       "zh": [],
       "en": [
         {
-          "name": "Kérastase Curl Manifesto Leave-In Cream (already in this library)",
+          "name": "PATTERN Beauty Leave-In Conditioner (already in this library)",
           "points": [
-            "Kérastase is priced higher and specializes specifically in curly/coily hair; OUAI is formulated for all hair textures",
-            "Kérastase discloses detailed clinical curl-definition data; OUAI discloses a single breakage-reduction figure",
-            "OUAI's spray-mist format differs from Kérastase's cream format, appealing to different application preferences"
+            "OUAI is a spray with heat protection; PATTERN is a cream focused purely on moisture and definition, not heat protection",
+            "OUAI is priced higher per ounce (~$32/6oz vs $29/9.8oz for PATTERN)",
+            "Both are celebrity-founded, but OUAI's founder credibility comes from professional styling expertise, PATTERN's from lived hair-texture experience"
           ]
         },
         {
-          "name": "Briogeo Curl Charisma Leave-In (already in this library)",
+          "name": "Kérastase Curl Manifesto Hydrating Leave-In Cream (already in this library)",
           "points": [
-            "Briogeo is curl-specific and lower-priced; OUAI is a general-purpose multitasker priced higher",
-            "OUAI leans on lifestyle-brand aesthetics; Briogeo leans on named natural actives (rice amino acids, tomato ferment)",
-            "Both are silicone considerations differ — OUAI contains cyclopentasiloxane, Briogeo markets as silicone-free"
+            "Kérastase is a salon-professional cream with disclosed clinical percentages (72% more definition); OUAI is a masstige spray with one conditional breakage claim",
+            "OUAI's heat-protection format serves straight-to-coily hair broadly; Kérastase's cream is curl-specific",
+            "Kérastase is priced notably higher (~$45/5.1oz) reflecting its salon-professional positioning"
+          ]
+        },
+        {
+          "name": "Living Proof No Frizz Leave-In Conditioner",
+          "points": [
+            "Living Proof built its brand around patented OFPMA polymer technology (developed with MIT scientists), giving it a technical-IP story that OUAI's ingredient-led formula doesn't have",
+            "Both are spray-adjacent, lightweight, multitasking formats aimed at frizz control across many hair types, making them close functional competitors",
+            "Living Proof is priced similarly in the masstige-to-prestige range, and both brands compete heavily on \"clean, editorial\" visual branding rather than curl-community-specific storytelling"
           ]
         }
       ]
@@ -18910,8 +18958,12 @@
       "zh": [],
       "en": [
         {
-          "title": "Multi-Benefit Mist Formula",
-          "desc": "Combines detangling, frizz control, and thermal protection into a single lightweight spray format, positioning the product as a styling-routine primer rather than a dedicated curl-cream alternative."
+          "title": "Spray-Format Multitasking",
+          "desc": "Combines detangling, hydration, and heat protection into a single lightweight mist, folding what other brands split into two products (leave-in plus heat protectant) into one step."
+        },
+        {
+          "title": "450°F Heat-Protection Threshold",
+          "desc": "A named, specific temperature ceiling (rather than a vague \"protects against heat\" claim) gives stylists and consumers a concrete benchmark to compare against other heat-protectant sprays."
         }
       ]
     }
@@ -19021,12 +19073,17 @@
         {
           "name": "Manuka Honey",
           "tag": "Intense hydration",
-          "desc": "A rare, mineral-rich honey used for intense hydration and smoothing"
+          "desc": "A rare, mineral-rich honey positioned to intensely hydrate curls"
         },
         {
           "name": "Patented Ceramide",
-          "tag": "Strand strengthening",
-          "desc": "Developed over 4 years of research, described as filling gaps in and reinforcing weakened hair"
+          "tag": "Structural repair",
+          "desc": "Developed over 4 years of research to fill gaps in and reinforce weakened hair from the inside"
+        },
+        {
+          "name": "Guar Hydroxypropyltrimonium Chloride",
+          "tag": "Conditioning polymer",
+          "desc": "A plant-derived conditioning agent used in place of heavier silicones, supporting detangling and softness without a silicone-buildup profile"
         }
       ]
     },
@@ -19079,17 +19136,25 @@
         {
           "name": "Moroccanoil Intense Curl Cream (already in this library)",
           "points": [
-            "Kérastase discloses specific clinical percentages (72% definition, 86% less breakage); Moroccanoil's marketing leans on ingredient story (argan oil) without disclosed clinical figures",
-            "Kérastase is priced higher and sold through a salon network; Moroccanoil is more broadly available at mass beauty retailers",
-            "Both are positioned as premium curl leave-ins but differ in evidence-based versus ingredient-story positioning"
+            "Kérastase discloses specific clinical percentages; Moroccanoil's claims are largely descriptive (shiny, defined, no sticky residue) without disclosed figures",
+            "Kérastase is priced higher (~$45/5.1oz vs $36/10.2oz for Moroccanoil)",
+            "Both are positioned above mass textured-hair brands, but Kérastase leans harder on salon-professional credibility"
           ]
         },
         {
           "name": "OUAI Leave-In Conditioner (already in this library)",
           "points": [
-            "Kérastase is curl-specific with a full companion system; OUAI is a general-purpose multitasker for all hair types",
-            "Kérastase's price is roughly 56% higher per ounce",
-            "Kérastase leans on salon-professional credibility; OUAI leans on lifestyle-brand aesthetics"
+            "Kérastase is a curl-specific cream with a patented ceramide; OUAI is a general-purpose spray for all hair types with one conditional breakage claim",
+            "Kérastase's price reflects salon distribution; OUAI is masstige and DTC/specialty-retail focused",
+            "Kérastase recommends a full 5-product system; OUAI is designed as a standalone multitasker"
+          ]
+        },
+        {
+          "name": "Bumble and bumble Curl Conditioning Leave-In",
+          "points": [
+            "Both are salon-professional lines with premium pricing (~$34-38 range) sold through comparable prestige channels",
+            "Bumble and bumble leans on its NYC-salon-origin brand story; Kérastase leans on its French pharmacy/dermatological heritage and disclosed clinical percentages",
+            "Kérastase's patented, named ceramide is a harder-to-replicate technical claim than Bumble and bumble's broader botanical-conditioning positioning"
           ]
         }
       ]
@@ -19115,8 +19180,12 @@
       "zh": [],
       "en": [
         {
-          "title": "Patented Ceramide + Manuka Honey Complex",
-          "desc": "Combines a patented ceramide (4 years of R&D) with Manuka honey to simultaneously strengthen the hair shaft and deliver intense hydration, forming the technical basis for the brand's disclosed clinical claims."
+          "title": "Patented Ceramide (4-Year R&D)",
+          "desc": "A patented ceramide ingredient developed over 4 years of research, positioned to fill gaps in and reinforce weakened hair structure, an ingredient claim competitors cannot directly replicate."
+        },
+        {
+          "title": "Full-System Clinical Substantiation",
+          "desc": "Discloses separate clinical percentages for the standalone leave-in versus the full 5-product Curl Manifesto system, letting the brand make a larger combined claim (+98% detangling) while being transparent about which figure applies to which purchase."
         }
       ]
     }
@@ -19224,14 +19293,19 @@
       "zh": [],
       "en": [
         {
-          "name": "Argania Spinosa (Argan) Kernel Oil",
-          "tag": "Signature brand ingredient",
-          "desc": "Moroccanoil's founding ingredient, extended here into the curl-specific category"
+          "name": "Argan Oil",
+          "tag": "Signature ingredient",
+          "desc": "Rich in tocopherols (Vitamin E), essential fatty acids, and antioxidants; Moroccanoil's core brand ingredient across its entire range"
         },
         {
-          "name": "Hippophae Rhamnoides (Sea Buckthorn) Fruit Oil",
-          "tag": "Antioxidant support",
-          "desc": "A supporting oil for nourishment alongside argan oil"
+          "name": "Polyquaternium-7",
+          "tag": "Anti-static",
+          "desc": "An anti-static conditioning agent that helps reduce flyaways"
+        },
+        {
+          "name": "Panthenol",
+          "tag": "Moisture retention",
+          "desc": "A humectant vitamin B derivative that helps hair retain moisture and improves elasticity"
         }
       ]
     },
@@ -19283,19 +19357,27 @@
       "zh": [],
       "en": [
         {
-          "name": "Kérastase Curl Manifesto Leave-In Cream (already in this library)",
+          "name": "Kérastase Curl Manifesto Hydrating Leave-In Cream (already in this library)",
           "points": [
-            "Kérastase discloses specific clinical claim percentages; Moroccanoil relies on descriptive, non-quantified language",
-            "Moroccanoil is priced lower per ounce than Kérastase",
-            "Both are salon-adjacent premium brands but differ in evidence-based versus ingredient-story positioning"
+            "Kérastase discloses specific clinical percentages; Moroccanoil's claims are descriptive without disclosed figures",
+            "Moroccanoil is priced lower (~$36/10.2oz vs $45/5.1oz for Kérastase, a larger gap per ounce)",
+            "Moroccanoil explicitly disclaims hold; Kérastase claims definition and strength improvements"
           ]
         },
         {
-          "name": "PATTERN Leave-In Conditioner (already in this library)",
+          "name": "PATTERN Beauty Leave-In Conditioner (already in this library)",
           "points": [
-            "PATTERN uses a named 8-oil blend as its story; Moroccanoil uses a single signature ingredient (argan oil) reinforced by brand history",
-            "Similar price points per ounce",
-            "PATTERN leans on founder story; Moroccanoil leans on decades of established brand recognition"
+            "Moroccanoil uses a mineral-oil/silicone base; PATTERN uses an 8-plant-oil blend positioned as a cleaner formula",
+            "Moroccanoil relies on one iconic ingredient (argan oil); PATTERN counts multiple oils as its core claim",
+            "Both are positioned above pure mass-market pricing but below true salon-exclusive lines"
+          ]
+        },
+        {
+          "name": "DevaCurl Leave-In Decadence",
+          "points": [
+            "DevaCurl was built specifically for curly-girl-method adherents avoiding silicones and sulfates since 1994; Moroccanoil's formula includes silicones and mineral oil, appealing to a less ingredient-restrictive curl customer",
+            "Moroccanoil's single-ingredient argan story is broader and more globally recognized than DevaCurl's curl-community-specific positioning",
+            "Both are now owned by larger corporate parents, reflecting how legacy curl and prestige-oil brands have consolidated under bigger beauty groups"
           ]
         }
       ]
@@ -19317,8 +19399,8 @@
       "zh": [],
       "en": [
         {
-          "title": "Argan Oil Brand Extension",
-          "desc": "Extends Moroccanoil's core argan-oil ingredient story into the curl-specific leave-in category, leaning on established brand trust rather than introducing a new named technology."
+          "title": "Single-Ingredient Brand Recognition",
+          "desc": "Relies on argan oil alone as its differentiating ingredient rather than a multi-ingredient blend, leveraging the brand's decade-plus global association with the ingredient so the product doesn't need a complex formula story to be understood instantly."
         }
       ]
     }
@@ -19426,14 +19508,19 @@
       "zh": [],
       "en": [
         {
-          "name": "Oryza Sativa (Rice) Amino Acids",
+          "name": "Rice Amino Acids",
           "tag": "Cuticle sealing",
-          "desc": "Smooths and seals the hair cuticle to lock out frizz-inducing environmental humidity, per the brand"
+          "desc": "Smooth and seal the hair cuticle to lock out frizz-inducing environmental moisture"
         },
         {
-          "name": "Lactobacillus/Tomato Fruit Ferment Extract",
-          "tag": "Curl formation support",
-          "desc": "Enhances moisture retention to support consistent curl formation and definition"
+          "name": "Avocado Oil",
+          "tag": "Moisture + shine",
+          "desc": "Delivers lightweight moisture, softens hair, and enhances shine"
+        },
+        {
+          "name": "Tomato Fruit Ferment",
+          "tag": "Curl formation",
+          "desc": "Enhances moisture retention to support curl formation and definition"
         }
       ]
     },
@@ -19485,19 +19572,27 @@
       "zh": [],
       "en": [
         {
-          "name": "PATTERN Leave-In Conditioner (already in this library)",
+          "name": "PATTERN Beauty Leave-In Conditioner (already in this library)",
           "points": [
-            "Briogeo is priced lower ($24 vs $29) and leans on named functional actives; PATTERN leans on a recognizable 8-oil list and founder story",
-            "Both are sold through the same Sephora/Ulta prestige channel and target overlapping curl types",
-            "Briogeo emphasizes a specific \"95% naturally derived\" figure; PATTERN does not disclose a comparable percentage"
+            "Briogeo leans on Sephora's Clean certification and fermented/hydrolyzed actives; PATTERN leans on a countable 8-oil blend and founder credibility",
+            "Similarly priced (~$28/6oz for Briogeo vs $29/9.8oz for PATTERN, though PATTERN offers more volume per dollar)",
+            "Both claim vegan/cruelty-free status but market it differently — Briogeo via retailer certification, PATTERN via PETA certification"
           ]
         },
         {
-          "name": "OUAI Leave-In Conditioner (already in this library)",
+          "name": "Camille Rose Curl Love Moisture Milk (already in this library)",
           "points": [
-            "Briogeo is curl-specific and silicone-free; OUAI is a general-purpose multitasker that contains a silicone (cyclopentasiloxane)",
-            "Briogeo is priced lower per ounce than OUAI",
-            "Briogeo leans on ingredient function claims; OUAI leans on lifestyle-brand aesthetics and a single breakage-reduction statistic"
+            "Briogeo is roughly double the price per ounce and leans on a retailer-certified clean-beauty narrative; Camille Rose competes purely on natural-ingredient storytelling and low price",
+            "Briogeo is distributed mainly through Sephora's clean-beauty program; Camille Rose is distributed through mass retailers like Walmart and CVS",
+            "Both use fermented or botanical actives, but Briogeo names its fermentation source (tomato) as a specific technical differentiator"
+          ]
+        },
+        {
+          "name": "Aveda Be Curly Curl Enhancer",
+          "points": [
+            "Aveda leans on plant-based, botanically-sourced ingredient purity and its own salon-professional heritage; Briogeo leans on Sephora's retailer-controlled Clean certification",
+            "Both target a similar wavy-to-curly customer base with light, flexible-hold formulas rather than firm-hold gels",
+            "Aveda is priced somewhat higher and distributed through Aveda's own salon network alongside retail, giving it a more professional-channel presence than Briogeo's primarily Sephora-and-DTC distribution"
           ]
         }
       ]
@@ -19519,8 +19614,12 @@
       "zh": [],
       "en": [
         {
-          "title": "Named Botanical Actives System",
-          "desc": "Assigns each botanical ingredient (rice amino acids, quinoa, tomato ferment) a specific structural function rather than treating them as a generic natural-ingredient list, paired with a disclosed 95% naturally derived formula figure."
+          "title": "Fermented + Hydrolyzed Active Complex",
+          "desc": "Combines rice amino acids, hydrolyzed quinoa, and Lactobacillus/tomato fruit ferment extract into a named active complex, positioning the formula as more technically refined than a plain botanical-oil blend."
+        },
+        {
+          "title": "Sephora Clean Certification Alignment",
+          "desc": "Formulated specifically to meet Sephora's own \"Clean at Sephora\" ingredient-exclusion standard, borrowing a retailer-controlled trust label rather than building an independent clean-ingredient claim from scratch."
         }
       ]
     }
