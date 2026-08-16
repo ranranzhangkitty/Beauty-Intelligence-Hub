@@ -19315,11 +19315,11 @@
     },
     "pricePositioning": {
       "zh": {
-        "tier": "",
+        "tier": "premium",
         "label": ""
       },
       "en": {
-        "tier": "masstige",
+        "tier": "premium",
         "label": "Salon-Adjacent Curl Care"
       }
     },
