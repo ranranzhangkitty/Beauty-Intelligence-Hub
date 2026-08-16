@@ -164,7 +164,7 @@ try{
   document.body.innerHTML='<p style=\'padding:40px;font-family:sans-serif;line-height:1.6\'>数据加载失败，请确认 products.zh-en.json 与 index.html 放在同一目录下，然后刷新页面重试。<br><br>Failed to load product data. Make sure products.zh-en.json is in the same folder as index.html, then refresh the page.</p>';
   return;
 }
- const KEY='competitor-library-v103';
+ const KEY='competitor-library-v104';
 const SB_URL='https://aevvtswznvogtkoomvge.supabase.co';
 const SB_KEY='sb_publishable_euGSL8LNh-xZ9e3iPiK7Yg_b560gbSM';
 const SB_TABLE='user_comments';
@@ -432,7 +432,15 @@ function renderExportBar(){
 }
 function section(title,key,p){return `<div class="section"><div class="section-head${p.vertical==='skincare'?' skin':''}">${title}</div><div class="section-body" contenteditable="true" data-key="${key}">${esc(bi(p[key]))}</div></div>`}
 function biList(v){if(!v)return[];const pick=x=>Array.isArray(x)&&x.length?x:null;const val=pick(v[lang])||pick(v.zh)||pick(v.en)||[];return val}
-function biObj(v){if(!v)return null;return v[lang]||v.zh||v.en||null}
+function objHasContent(o){
+  if(!o||typeof o!=='object')return false;
+  return Object.values(o).some(val=>Array.isArray(val)?val.length>0:(val!=null&&String(val).trim().length>0));
+}
+function biObj(v){
+  if(!v)return null;
+  const pick=x=>objHasContent(x)?x:null;
+  return pick(v[lang])||pick(v.zh)||pick(v.en)||null;
+}
 function iconBox(icon,label,bodyHtml){return `<div class="section"><div class="section-head ic-head${RENDER_VERT}"><span class="ic">${icon}</span>${label}</div><div class="section-body">${bodyHtml}</div></div>`}
 function priceCardHtml(p){
   const pp=biObj(p.pricePositioning);
