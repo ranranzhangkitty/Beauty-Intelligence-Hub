@@ -19623,5 +19623,403 @@
         }
       ]
     }
+  },
+  {
+    "id": "dior-jadore-les-adorables-gelee-dor",
+    "vertical": "body",
+    "category": "europe",
+    "productType": "bodycream",
+    "addedAt": 69,
+    "name": {
+      "zh": "",
+      "en": "Dior J'adore Les Adorables Gelée d'Or (Golden Shimmer Body Gel)"
+    },
+    "brand": {
+      "zh": "",
+      "en": "Dior"
+    },
+    "company": {
+      "zh": "",
+      "en": "Parfums Christian Dior, part of LVMH"
+    },
+    "origin": {
+      "zh": "",
+      "en": "France"
+    },
+    "launch": {
+      "zh": "",
+      "en": "Part of the J'adore Les Adorables bath & body sub-collection, sold alongside a matching Shimmering Body Oil and Body Milk, ongoing"
+    },
+    "market": {
+      "zh": "",
+      "en": "Dior official site (regional storefronts), Dillard's, Macy's, Nordstrom"
+    },
+    "capacity": {
+      "zh": "",
+      "en": "3.4 oz / 100 g (US retail size; the EU/international Dior.com listing shows 150 mL for the same product line)"
+    },
+    "price": {
+      "zh": "",
+      "en": "US$90.00 (3.4 oz, Dillard's, an authorized US Dior retailer)"
+    },
+    "positioning": {
+      "zh": "",
+      "en": "A shimmering body gel built around pearlescent pigments and 24k gold particles, positioned as the finishing step of the J'adore bath ritual — applied with fingertips to the décolletage and shoulders for a subtly iridescent glow. Scented with the same floral notes as the iconic J'adore Eau de Parfum, the product is marketed less as a functional skincare item and more as a sensorial, ritualistic extension of the fragrance itself. The US retail listing states the formula is made with 95% natural-origin ingredients (per ISO 16128 standard) and includes jasmine and cotton extracts."
+    },
+    "target": {
+      "zh": "",
+      "en": "Existing J'adore fragrance customers seeking a matching body-shimmer ritual product; consumers buying into prestige fragrance-house body care as a gifting or self-ritual purchase rather than a functional skincare need."
+    },
+    "distribution": {
+      "zh": "",
+      "en": "US$90.00 for 3.4 oz (about US$26.50/oz) sits at the luxury end of the body-shimmer category, priced closer to a fragrance accessory than a mass or masstige body product; the brand explicitly recommends layering it as the final step of a multi-product J'adore bath ritual rather than using it standalone."
+    },
+    "ingredients": {
+      "zh": "",
+      "en": "Full INCI not published on the retail listings reviewed (Dior.com and Dillard's); named ingredients disclosed by the brand include pearlescent pigments, 24k gold particles (mica-based shimmer, not literal gold in a chemical sense per standard cosmetic labeling conventions), jasmine extract, and cotton extract, within a 95% natural-origin-ingredient formula per ISO 16128."
+    },
+    "evidence": {
+      "zh": "",
+      "en": "No independent clinical data or consumer perception study percentage was found for this specific product; efficacy communication is limited to sensory and ingredient-function descriptions (95% natural-origin claim, named shimmer and extract ingredients) rather than measured outcomes."
+    },
+    "keyClaims": {
+      "zh": [],
+      "en": [
+        "Pearlescent pigments and 24k gold particles for a golden shimmer finish",
+        "95% natural-origin ingredients (ISO 16128 standard)",
+        "Scented with the floral notes of J'adore Eau de Parfum",
+        "Designed as the finishing step of the J'adore bath ritual"
+      ]
+    },
+    "heroIngredients": {
+      "zh": [],
+      "en": [
+        {
+          "name": "24k Gold Particles (Shimmer Pigment)",
+          "tag": "Signature finish",
+          "desc": "Mica-based golden shimmer particles that give the product its named visual signature"
+        },
+        {
+          "name": "Jasmine Extract",
+          "tag": "Fragrance layering",
+          "desc": "Ties the product's scent back to the floral heart of the J'adore fragrance"
+        },
+        {
+          "name": "Cotton Extract",
+          "tag": "Skin feel",
+          "desc": "Included to support a soft, silky skin feel as the gel melts into skin"
+        }
+      ]
+    },
+    "experienceItems": {
+      "zh": [],
+      "en": [
+        "Usage: apply with fingertips in light touches to the décolletage and shoulders",
+        "Positioned as the final step of a multi-product J'adore bath ritual (shower gel/body milk, then Gelée d'Or)",
+        "Texture: gel that melts into a satiny, non-sticky finish",
+        "Packaging: rounded glass jar with a golden dome cap, designed to echo the curves of the J'adore perfume bottle"
+      ]
+    },
+    "packaging": {
+      "zh": "",
+      "en": "A rounded glass jar topped with a golden dome cap reads as a collectible fragrance accessory at first glance rather than a functional skincare jar, deliberately echoing the silhouette of the J'adore perfume bottle to reinforce the fragrance-first positioning."
+    },
+    "insight": {
+      "zh": "",
+      "en": "This product's real function is extending the J'adore fragrance into a visual ritual, not solving a body-care problem.\n\n* The packaging is the fragrance bottle in disguise: the jar's rounded glass and golden dome are explicitly designed to echo the J'adore perfume bottle, so the product reads as a fragrance-collection accessory before it reads as body care.\n* Sold as the last step of a ritual, not a standalone need: the brand frames it as the finishing touch after a shower gel or body milk, positioning it as an optional flourish rather than solving any specific skin concern.\n* No efficacy claim carries the price: unlike the curl-care products in this library that lean on clinical percentages or named technologies, this product's entire value proposition is sensorial (shimmer plus scent), with price justified purely by brand and ritual, not measurable benefit.\n\nStrategic takeaway: a fragrance house can extend a perfume's brand equity into body care by selling the finishing gesture of a ritual, rather than competing on skincare efficacy at all."
+    },
+    "notes": {
+      "zh": "",
+      "en": "Data collected 2026-08-19. Information taken from Dior's official international product page (dior.com/en_int) and the US authorized retailer Dillard's, which lists the confirmed US retail price. Note that the international/EU Dior.com listing states 150 mL while the US Dillard's listing states 3.4 oz (~100g) for what is presented as the same product line — this entry flags that regional size discrepancy rather than assuming they're identical."
+    },
+    "images": [
+      "https://www.dior.com/dw/image/v2/BGXS_PRD/on/demandware.static/-/Sites-master_dior/default/dw737961fb/Y0996399/Y0996399_C099600854_E01_GHC.jpg?sw=800"
+    ],
+    "sources": [
+      [
+        "Official product page (Dior International)",
+        "https://www.dior.com/en_int/beauty/products/jadore-gel%C3%A9e-dor-Y0996399.html"
+      ],
+      [
+        "Authorized US retailer (Dillard's)",
+        "https://www.dillards.com/p/dior-jadore-les-adorables-scented-shimmering-golden-body-gel/516327425"
+      ]
+    ],
+    "targetUsers": {
+      "zh": [],
+      "en": [
+        "Existing J'adore fragrance customers seeking a matching ritual product",
+        "Prestige gifting purchasers",
+        "Consumers buying body shimmer as a sensorial/occasion item rather than daily skincare"
+      ]
+    },
+    "ingredientsNote": {
+      "zh": "",
+      "en": "Full INCI not published on the retail listings reviewed; the brand discloses a 95% natural-origin-ingredient claim per ISO 16128 but does not itemize the remaining formulation components in consumer-facing copy."
+    },
+    "pricePositioning": {
+      "zh": {
+        "tier": "luxury"
+      },
+      "en": {
+        "tier": "luxury",
+        "label": "Prestige Fragrance-House Body Ritual"
+      }
+    },
+    "marketChannel": {
+      "zh": {
+        "global": [],
+        "japan": [],
+        "channelLabel": "",
+        "channelDesc": ""
+      },
+      "en": {
+        "global": [
+          "Dior official regional storefronts (dior.com)"
+        ],
+        "japan": [
+          "Dillard's",
+          "Macy's",
+          "Nordstrom"
+        ],
+        "channelLabel": "Prestige Department Store + Brand DTC",
+        "channelDesc": "Distributed through Dior's own regional e-commerce sites and authorized US prestige department stores, consistent with a luxury fragrance-house product rather than mass or masstige retail"
+      }
+    },
+    "brandConceptRich": {
+      "zh": {
+        "tagline": "",
+        "concept": ""
+      },
+      "en": {
+        "tagline": "",
+        "concept": "J'adore Les Adorables is Dior's body-care sub-collection built to extend the J'adore fragrance line into bath and body rituals, using shared scent notes and bottle-inspired packaging to keep every item visually and olfactively tied back to the core perfume."
+      }
+    },
+    "competitiveAdvantage": {
+      "zh": [],
+      "en": [
+        {
+          "name": "Dior J'adore Les Adorables Shimmering Body Oil (already in this library)",
+          "points": [
+            "Both are part of the same J'adore Les Adorables sub-collection and share the same shimmer-plus-scent logic, but this gel is priced lower ($90/3.4oz vs $99/6.8oz for the oil) with a thicker, more concentrated gel texture versus the oil's pump-dispensed hydrating format",
+            "The gel is framed as a finishing touch for a small area (décolletage, shoulders); the oil is framed for broader body application",
+            "Together they show the brand extending one fragrance into multiple body-care textures rather than one single format"
+          ]
+        },
+        {
+          "name": "Sol de Janeiro Brazilian Bum Bum Cream (already in this library)",
+          "points": [
+            "Sol de Janeiro uses mica shimmer to support a functional firming claim; Dior's shimmer is purely decorative with no functional claim attached",
+            "Sol de Janeiro is priced at a masstige level (~$48 for 240mL); Dior's gel is priced at true luxury level (~$90 for 100g), reflecting the gap between an influencer-era masstige brand and a heritage French fragrance house",
+            "Both use body shimmer as a differentiator, but Sol de Janeiro pairs it with disclosed clinical claims while Dior leans entirely on brand and ritual"
+          ]
+        }
+      ]
+    },
+    "evidenceStats": {
+      "zh": [],
+      "en": []
+    },
+    "keyTechnology": {
+      "zh": [],
+      "en": []
+    }
+  },
+  {
+    "id": "dior-jadore-les-adorables-shimmering-body-oil",
+    "vertical": "body",
+    "category": "europe",
+    "productType": "oil",
+    "addedAt": 70,
+    "name": {
+      "zh": "",
+      "en": "Dior J'adore Les Adorables Shimmering Body Oil"
+    },
+    "brand": {
+      "zh": "",
+      "en": "Dior"
+    },
+    "company": {
+      "zh": "",
+      "en": "Parfums Christian Dior, part of LVMH"
+    },
+    "origin": {
+      "zh": "",
+      "en": "France"
+    },
+    "launch": {
+      "zh": "",
+      "en": "Part of the J'adore Les Adorables bath & body sub-collection, sold alongside the Gelée d'Or shimmer gel and a Body Milk, ongoing (also sold seasonally in Japan as a limited-edition item)"
+    },
+    "market": {
+      "zh": "",
+      "en": "Dior official site (regional storefronts), Dillard's, Nordstrom"
+    },
+    "capacity": {
+      "zh": "",
+      "en": "6.8 oz / 200 mL (matches the 200 mL size confirmed on Dior's Japan limited-edition listing)"
+    },
+    "price": {
+      "zh": "",
+      "en": "US$99.00 (6.8 oz, Dillard's, an authorized US Dior retailer)"
+    },
+    "positioning": {
+      "zh": "",
+      "en": "A pump-dispensed, hydrating body oil infused with pearlescent pigments and gold particles, positioned to leave skin satin-soft and glowing while carrying the sensual floral notes of J'adore. Unlike the Gelée d'Or gel (framed as a small-area finishing touch), this oil is positioned for broader, generous body application as a hydrating step in its own right, with jasmine extract named as the key botanical tying it back to the J'adore fragrance bouquet."
+    },
+    "target": {
+      "zh": "",
+      "en": "Prestige fragrance customers wanting a full-body hydrating oil with shimmer and scent, used as a standalone body-care step rather than a small decorative touch."
+    },
+    "distribution": {
+      "zh": "",
+      "en": "US$99.00 for 6.8 oz (about US$14.56/oz) is priced lower per ounce than the Gelée d'Or gel (about US$26.50/oz), reflecting the oil's larger pump-bottle format positioned for everyday, generous use rather than a small ritual accent."
+    },
+    "ingredients": {
+      "zh": "",
+      "en": "Full INCI not published on the retail listings reviewed (Dior.com and Dillard's); named ingredients disclosed by the brand include pearlescent pigments, gold particles, and jasmine extract, within a hydrating oil base."
+    },
+    "evidence": {
+      "zh": "",
+      "en": "No independent clinical data or consumer perception study percentage was found for this specific product; efficacy communication is limited to sensory and ingredient-function descriptions (satin-soft, glowing finish) rather than measured outcomes."
+    },
+    "keyClaims": {
+      "zh": [],
+      "en": [
+        "Pearlescent pigments and gold particles for a shimmering sheen",
+        "Hydrating oil formula leaves skin satin-soft",
+        "Scented with the sensual floral notes of J'adore",
+        "Pump dispenser for controlled, even application"
+      ]
+    },
+    "heroIngredients": {
+      "zh": [],
+      "en": [
+        {
+          "name": "Gold Particles (Shimmer Pigment)",
+          "tag": "Signature finish",
+          "desc": "Mica-based shimmer particles giving skin a glowing sheen"
+        },
+        {
+          "name": "Jasmine Extract",
+          "tag": "Fragrance layering",
+          "desc": "The named botanical tying the oil's scent back to the sensual floral heart of J'adore"
+        }
+      ]
+    },
+    "experienceItems": {
+      "zh": [],
+      "en": [
+        "Usage: press the pump to dispense, apply generously to hydrate skin",
+        "Positioned for broader body application than the Gelée d'Or gel",
+        "Texture: lightweight oil, non-greasy, absorbs to a satin finish",
+        "Also sold in Japan as a limited 200 mL holiday edition alongside a matching Body & Hair Oil"
+      ]
+    },
+    "packaging": {
+      "zh": "",
+      "en": "A rounded glass bottle with a pump dispenser and gold-toned cap reads as a prestige bath-and-body accessory at first glance, consistent with the rest of the J'adore Les Adorables line's bottle-inspired design language."
+    },
+    "insight": {
+      "zh": "",
+      "en": "This oil shows how the same brand splits one shimmer concept across two different use-intensity formats.\n\n* Format signals use frequency: the pump-bottle oil format (versus the gel's finger-dip jar) signals \"use this generously, all over\" rather than \"use this sparingly, on two spots\" — the packaging itself communicates the intended usage intensity without needing instructional copy.\n* Priced lower per ounce to support broader use: at roughly US$14.56/oz versus the gel's US$26.50/oz, the oil's lower per-ounce cost makes generous, frequent application financially reasonable, matching its broader-application positioning.\n* Doubles as a seasonal/limited-edition vehicle: the same oil concept is also sold in Japan as a limited holiday edition, showing the brand reuses this shimmer-oil format as a recurring seasonal marketing moment, not just a permanent catalog item.\n\nStrategic takeaway: packaging format itself (jar vs. pump bottle) can signal intended usage intensity to consumers, letting a brand sell the same core concept (shimmer plus scent) as both a small ritual accent and a generous daily product without confusing positioning."
+    },
+    "notes": {
+      "zh": "",
+      "en": "Data collected 2026-08-19. Information taken from Dior's official regional product pages and the US authorized retailer Dillard's, which lists the confirmed US retail price and 6.8 oz size. The 200 mL capacity is cross-confirmed via Dior's Japan limited-edition listing for what is presented as the same core product concept."
+    },
+    "images": [
+      "https://dimg.dillards.com/is/image/DillardsZoom/mainProduct/dior-jadore-les-adorables-shimmering-body-oil/00000000_zi_20641394.jpg"
+    ],
+    "sources": [
+      [
+        "Authorized US retailer (Dillard's)",
+        "https://www.dillards.com/p/dior-jadore-les-adorables-shimmering-body-oil/520888728"
+      ],
+      [
+        "Retailer listing (Nordstrom)",
+        "https://www.nordstrom.com/s/jadore-les-adorables-shimmering-body-oil/8578051"
+      ]
+    ],
+    "targetUsers": {
+      "zh": [],
+      "en": [
+        "Prestige fragrance customers wanting a full-body hydrating shimmer oil",
+        "Consumers who prefer generous daily application over a small ritual accent",
+        "Holiday/gifting purchasers in markets where the oil is sold as a limited edition"
+      ]
+    },
+    "ingredientsNote": {
+      "zh": "",
+      "en": "Full INCI not published on the retail listings reviewed; the brand discloses only named functional ingredients (pearlescent pigments, gold particles, jasmine extract) rather than a complete ingredient list in consumer-facing copy."
+    },
+    "pricePositioning": {
+      "zh": {
+        "tier": "luxury"
+      },
+      "en": {
+        "tier": "luxury",
+        "label": "Prestige Fragrance-House Body Ritual"
+      }
+    },
+    "marketChannel": {
+      "zh": {
+        "global": [],
+        "japan": [],
+        "channelLabel": "",
+        "channelDesc": ""
+      },
+      "en": {
+        "global": [
+          "Dior official regional storefronts (dior.com)"
+        ],
+        "japan": [
+          "Dillard's",
+          "Nordstrom"
+        ],
+        "channelLabel": "Prestige Department Store + Brand DTC",
+        "channelDesc": "Distributed through Dior's own regional e-commerce sites and authorized US prestige department stores, with additional limited-edition seasonal distribution in markets like Japan"
+      }
+    },
+    "brandConceptRich": {
+      "zh": {
+        "tagline": "",
+        "concept": ""
+      },
+      "en": {
+        "tagline": "",
+        "concept": "J'adore Les Adorables is Dior's body-care sub-collection built to extend the J'adore fragrance line into bath and body rituals, using shared scent notes and bottle-inspired packaging to keep every item visually and olfactively tied back to the core perfume."
+      }
+    },
+    "competitiveAdvantage": {
+      "zh": [],
+      "en": [
+        {
+          "name": "Dior J'adore Les Adorables Gelée d'Or (already in this library)",
+          "points": [
+            "Both share the same J'adore Les Adorables shimmer-plus-scent logic, but this oil is priced higher in total ($99 vs $90) while costing less per ounce, reflecting its larger, broader-application pump format versus the gel's small-area finger-dip jar",
+            "The oil is framed for generous, everyday hydration; the gel is framed as a small ritual finishing touch",
+            "Together they show the brand extending one fragrance into multiple body-care textures and use-intensities rather than one single format"
+          ]
+        },
+        {
+          "name": "Sol de Janeiro GlowMotions Body Glow Oil (already in this library)",
+          "points": [
+            "Sol de Janeiro's glow oil is priced at masstige level (~$36) and leans on social-media virality and dupe culture; Dior's oil is priced at true luxury level (~$99), reflecting the gap between an influencer-era masstige brand and a heritage French fragrance house",
+            "Sol de Janeiro discloses specific shimmer-longevity comparisons against dupes; Dior discloses no comparable performance data, relying entirely on brand and fragrance-ritual positioning",
+            "Both use pump-dispensed oil formats with gold-toned shimmer, but target very different price-sensitivity segments"
+          ]
+        }
+      ]
+    },
+    "evidenceStats": {
+      "zh": [],
+      "en": []
+    },
+    "keyTechnology": {
+      "zh": [],
+      "en": []
+    }
   }
 ]
